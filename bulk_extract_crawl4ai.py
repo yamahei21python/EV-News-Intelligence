@@ -53,8 +53,7 @@ async def precision_recovery_fallback(url, api_key, model_name, instruction, sch
                             {"role": "system", "content": f"{instruction}\n\n以下のスキーマに従ってJSONを出力してください:\n{schema_str}"},
                             {"role": "user", "content": f"以下のテキストから記事を抽出してください:\n\n{raw_text[:15000]}"} 
                         ],
-                        api_key=api_key,
-                        response_format={"type": "json_object"}
+                        api_key=api_key
                     )
                     data = json.loads(response.choices[0].message.content)
                     return data.get('body_markdown', raw_text)
@@ -93,7 +92,7 @@ async def bulk_extract_hybrid():
     
     # API設定
     api_key = os.getenv("GEMINI_API_KEY")
-    model_name = os.getenv("GEMINI_MODEL_FLASH", "gemini-2.5-flash")
+    model_name = os.getenv("GEMINI_MODEL_FLASH", "gemini-3.1-flash-lite-preview")
 
     with open(input_file, "r", encoding="utf-8") as f:
         articles = json.load(f)
@@ -162,7 +161,7 @@ async def bulk_extract_hybrid():
             except Exception as e:
                 print(f"  ❌ 失敗: {e}")
             
-            await asyncio.sleep(10) # レートリミット回避のため長めに待機
+            await asyncio.sleep(5) # レートリミット (RPM 15) を考慮しつつ時短
 
 if __name__ == "__main__":
     asyncio.run(bulk_extract_hybrid())
