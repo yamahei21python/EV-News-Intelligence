@@ -31,14 +31,20 @@ jobs:
         run: python process_news.py
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL_FLASH: ${{ secrets.GEMINI_MODEL_FLASH }}
 
       - name: Step 2 - Extract Content (Crawl4AI)
         run: python bulk_extract_crawl4ai.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL_FLASH: ${{ secrets.GEMINI_MODEL_FLASH }}
+          GEMINI_MODEL_PRO: ${{ secrets.GEMINI_MODEL_PRO }}
 
       - name: Step 3 - Group Topics (Gemini)
         run: python group_news.py
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL_FLASH: ${{ secrets.GEMINI_MODEL_FLASH }}
 
       - name: Step 4 - Integrated Analysis (GLM)
         run: python analyze_articles.py
