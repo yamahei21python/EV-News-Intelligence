@@ -29,9 +29,9 @@ class NewsArticle(BaseModel):
         description="広告、メニュー、SNSリンクを完全に排除した本文。見出し(#)や箇条書き(-)を維持したMarkdown形式。"
     )
 
-async def muddy_tactics_fallback(url, api_key, model_name, instruction, schema):
-    """【泥臭い戦法 + AI磨き】Playwright で抜き、職人 AI で整形する"""
-    print(f"  ⛓️ [MUDDY+AI] 泥臭い戦法で強奪 & 職人 AI で磨き中: {url[:50]}...")
+async def precision_recovery_fallback(url, api_key, model_name, instruction, schema):
+    """【高度コンテンツ復元プロトコル】Playwright で構造を解析し、AI アナリストが整形する"""
+    print(f"  ✨ [PRECISION RECOVERY] 構造解析 ＆ AI アーキテクトによる最適化中: {url[:50]}...")
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
         context = await browser.new_context(user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36")
@@ -63,7 +63,7 @@ async def muddy_tactics_fallback(url, api_key, model_name, instruction, schema):
                     print(f"  ⚠️ レートリミット到達。{wait_time}秒待機して再試行します...")
                     await asyncio.sleep(wait_time)
                 except Exception as e:
-                    print(f"  ❌ AI磨きエラー: {e}")
+                    print(f"  ❌ AI構造最適化エラー: {e}")
                     return raw_text
             
             return raw_text
@@ -99,7 +99,7 @@ async def bulk_extract_hybrid():
         articles = json.load(f)
 
     os.makedirs(output_dir, exist_ok=True)
-    print(f"🚀 【ハイブリッド抽出】Crawl4AI + 泥臭い戦法を開始します (全 {len(articles)} 件)...")
+    print(f"🚀 【ハイブリッド抽出】Crawl4AI + Precision Recovery Protocol を開始 (全 {len(articles)} 件)...")
 
     # AI設定
     llm_config = LLMConfig(provider=f"gemini/{model_name}", api_token=api_key)
@@ -148,10 +148,10 @@ async def bulk_extract_hybrid():
                             # 必要に応じて日付等もここから取得可能
                     except: pass
 
-                # 第二段階: 泥臭い戦法へのフォールバック判定 (50文字未満なら発動)
+                # 第二段階: Precision Recovery Protocol へのフォールバック判定 (50文字未満なら発動)
                 if not content or len(content) < 50:
-                    content = await muddy_tactics_fallback(final_url, api_key, model_name, instruction, NewsArticle.model_json_schema())
-                    status = "Muddy-refined"
+                    content = await precision_recovery_fallback(final_url, api_key, model_name, instruction, NewsArticle.model_json_schema())
+                    status = "PRP-Optimized"
                 
                 # 保存
                 md_text = f"# {title}\n\n**Source:** {article.get('site_name', 'Unknown')}\n**URL:** {final_url}\n**Mode:** {status}\n\n---\n\n{content}"
