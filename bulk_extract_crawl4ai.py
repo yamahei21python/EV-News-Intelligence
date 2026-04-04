@@ -55,16 +55,22 @@ async def precision_recovery_fallback(url, api_key, model_name, instruction, sch
                         ],
                         api_key=api_key
                     )
-                    data = json.loads(response.choices[0].message.content)
+                    # 職人技: ノイズ（おしゃべり）除去
+                    content = response.choices[0].message.content
+                    json_str = re.search(r'\{.*\}', content, re.DOTALL).group()
+                    data = json.loads(json_str)
                     return data.get('body_markdown', raw_text)
                 except litellm.RateLimitError:
                     wait_time = (attempt + 1) * 15
-                    print(f"  ⚠️ レートリミット到達。{wait_time}秒待機して再試行します...")
+                    print(f"  ⚠️ レートリミット。{wait_time}秒待機して再試行します...", flush=True)
                     await asyncio.sleep(wait_time)
                 except Exception as e:
-                    print(f"  ❌ AI構造最適化エラー: {e}")
-                    return raw_text
+                    print(f"  ❌ AI構造最適化エラー (Attempt {attempt+1}): {e}", flush=True)
+                    # ここで return せず、次のリトライ attempt へ進む
+                    await asyncio.sleep(2)
             
+            # 全リトライ失敗時のみ、最後の手段として生データを返す
+            print(f"  ⚠️ 3回のリトライに失敗しました。生データを保存します。")
             return raw_text
         except Exception as e:
             return f"Muddy Scrape Error: {e}"
