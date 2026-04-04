@@ -8,6 +8,8 @@ on:
 jobs:
   analyze:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     env:
       PYTHONUNBUFFERED: 1
     steps:
