@@ -105,7 +105,7 @@ def main():
     with open(grouped_json, "r", encoding="utf-8") as f:
         grouped_list = json.load(f)
 
-    print(f"🚀 【統合分析フェーズ】{len(grouped_list)} つの戦略トピックを分析します (使用モデル: {ZAI_MODEL})")
+    print(f"🚀 【統合分析フェーズ】{len(grouped_list)} つの戦略トピックを分析します (使用モデル: {ZAI_MODEL})", flush=True)
     
     final_reports = []
 
@@ -114,7 +114,7 @@ def main():
         aids = group["article_ids"]
         is_grouped = group.get("is_grouped", False)
 
-        print(f"\n[{i+1}/{len(grouped_list)}] 分析中: {topic_name} ({'統合' if is_grouped else '単独'})")
+        print(f"\n[{i+1}/{len(grouped_list)}] 分析中: {topic_name} ({'統合' if is_grouped else '単独'})", flush=True)
         
         # 本文の収集・結合
         combined_content = ""
@@ -142,10 +142,10 @@ def main():
         with open(output_file, "w", encoding="utf-8") as f:
             json.dump(final_reports, f, ensure_ascii=False, indent=4)
         
-        print(f"    ✅ 分析完了")
+        print(f"    ✅ 分析完了", flush=True)
         time.sleep(10) # Z.ai への負荷調整 (レート制限対策)
 
-    print(f"\n✨ インテリジェンス・ポートフォリオが完成しました！")
+    print(f"\n✨ インテリジェンス・ポートフォリオが完成しました！", flush=True)
     print(f"📄 最終成果物: {output_file}")
 
 if __name__ == "__main__":
