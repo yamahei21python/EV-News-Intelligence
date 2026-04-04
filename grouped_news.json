@@ -1,0 +1,110 @@
+[
+    {
+        "topic_name": "福岡・直方市が公園にEV用充電器",
+        "article_ids": [
+            2
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "ホンダの経営戦略転換とEV事業見直し",
+        "article_ids": [
+            6,
+            42,
+            43,
+            45
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "万博EVバスのトラブルと補助金返還問題",
+        "article_ids": [
+            8,
+            12,
+            13,
+            27
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "テスラの戦略と日本市場での展開",
+        "article_ids": [
+            9,
+            48
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "岡崎市のEVカーシェアリング事業",
+        "article_ids": [
+            10
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "ひろしまモビリティワールド",
+        "article_ids": [
+            11
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "中国EV市場の動向と知能化競争",
+        "article_ids": [
+            16
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "タイにおけるEV市場とホンダ・ヒョンデの動向",
+        "article_ids": [
+            18,
+            28
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "佐渡汽船のカーシェアリング事業",
+        "article_ids": [
+            19
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "EV補助金制度変更の影響（BYD等の反応）",
+        "article_ids": [
+            24
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "リチウムイオン電池の試験・評価技術",
+        "article_ids": [
+            25,
+            29
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "EV充電インフラの相互利用と普及拡大",
+        "article_ids": [
+            26,
+            36
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "ドイツのEV市場と補助金事情",
+        "article_ids": [
+            32
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "スバルの新型BEV「ゲッタウェイ」発表",
+        "article_ids": [
+            44
+        ],
+        "is_grouped": false
+    }
+]

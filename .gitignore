@@ -1,0 +1,30 @@
+# Virtual Environment
+venv_crawl4ai/
+venv/
+env/
+
+# Environment Variables
+.env
+.env.*
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary Article Contents
+# (GHA内で削除しますが、ローカル環境でもコミット対象外にします)
+articles_md/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test/Draft files
+archive/*.json.draft
+only_title.json
+check_rss_fields.py
+test_*.py
+test_*.json
+test_*.md
+resolve_links.py

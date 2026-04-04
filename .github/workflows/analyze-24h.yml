@@ -1,0 +1,69 @@
+name: Daily Intelligence Analysis (24h)
+
+on:
+  schedule:
+    - cron: '0 21 * * *' # 日本時間 06:00
+  workflow_dispatch:
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          playwright install chromium
+
+      - name: Step 0 - Fetch Latest News (Before Analysis)
+        run: python fetch_news.py
+
+      - name: Step 1 - Filter News (Gemini)
+        run: python process_news.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Step 2 - Extract Content (Crawl4AI)
+        run: python bulk_extract_crawl4ai.py
+
+      - name: Step 3 - Group Topics (Gemini)
+        run: python group_news.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Step 4 - Integrated Analysis (GLM)
+        run: python analyze_articles.py
+        env:
+          ZAI_API_KEY: ${{ secrets.ZAI_API_KEY }}
+          ZAI_BASE_URL: ${{ secrets.ZAI_BASE_URL }}
+          ZAI_MODEL_large: ${{ secrets.ZAI_MODEL_large }}
+
+      - name: Step 5 - Archive and Reset
+        run: |
+          # 日付を取得 (JST)
+          DATE=$(date -d "9 hours" +%Y-%m-%d)
+          mkdir -p archive
+          cp final_reports.json "archive/${DATE}.json"
+          
+          # データのリセット (翌日のために空にする)
+          rm -f news_data.json
+          
+          # 本文の掃除 (リポジトリを軽量に保つ)
+          rm -rf articles_md/
+          
+      - name: Commit and Push Results
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add final_reports.json archive/
+          git add news_data.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-report: Daily Intelligence Portfolio [skip ci]" && git push)
