@@ -127,7 +127,7 @@ export default function Hero() {
         </motion.p>
       </div>
 
-      <div className="relative w-full max-w-3xl h-[450px] flex items-center justify-center z-10">
+      <div className={`relative w-full ${showResult ? 'max-w-7xl' : 'max-w-3xl'} ${showResult ? 'h-auto mt-72 mb-32' : 'h-[450px]'} flex items-center justify-center z-10 transition-all duration-1000`}>
         
         {/* 凝縮されたノイズカード */}
         <AnimatePresence>
@@ -201,19 +201,19 @@ export default function Hero() {
         {/* 結果セクション */}
         <AnimatePresence>
           {showResult && (
-            <div className="absolute z-50 flex items-center justify-center w-full max-w-6xl px-6">
+            <div className="absolute z-50 flex items-center justify-center w-full max-w-7xl px-6 mt-60">
               {/* Backlight Glow Effect */}
               <motion.div 
                 initial={{ opacity: 0, scale: 0.8 }}
                 animate={{ opacity: 1, scale: 1 }}
-                className="absolute inset-x-0 top-1/2 -translate-y-1/2 h-[500px] bg-blue-500/10 blur-[130px] rounded-full scale-125 pointer-events-none"
+                className="absolute inset-x-0 top-1/2 -translate-y-1/2 h-[600px] bg-blue-500/15 blur-[140px] rounded-full scale-125 pointer-events-none"
               />
               
               <motion.div
-                initial={{ scale: 0.95, opacity: 0, y: 40 }}
+                initial={{ scale: 0.95, opacity: 0, y: 60 }}
                 animate={{ scale: 1, opacity: 1, y: 0 }}
-                className="relative z-10 w-full p-12 md:p-14 rounded-[3.5rem] bg-[#030712]/90 border border-white/10 shadow-[0_0_120px_rgba(59,130,246,0.1)] backdrop-blur-3xl overflow-hidden"
-                transition={{ type: "spring", damping: 18, stiffness: 60 }}
+                className="relative z-10 w-full p-12 md:p-16 rounded-[4rem] bg-[#030712]/95 border border-white/10 shadow-[0_0_150px_rgba(59,130,246,0.15)] backdrop-blur-3xl overflow-hidden"
+                transition={{ type: "spring", damping: 20, stiffness: 50 }}
               >
                 {/* Internal accent light */}
                 <div className="absolute top-0 right-0 w-80 h-80 bg-blue-500/5 blur-[100px] -mr-40 -mt-40 pointer-events-none" />
