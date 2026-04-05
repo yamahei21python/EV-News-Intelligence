@@ -27,10 +27,10 @@ export default function DashboardPreview() {
   return (
     <section className="py-32 px-4 max-w-7xl mx-auto">
       <div className="text-center mb-24">
-        <h2 className="font-noto-serif text-4xl md:text-5xl font-bold mb-8 text-white">
+        <h2 className="font-noto-serif text-3xl md:text-4xl font-bold mb-8 text-white">
           The Intelligence
         </h2>
-        <p className="text-xl text-zinc-400 font-light max-w-3xl mx-auto leading-relaxed">
+        <p className="text-lg md:text-xl text-zinc-400 font-light max-w-3xl mx-auto leading-relaxed">
           実際のダッシュボードが提供する、精密な分析体験のプレビュー
         </p>
       </div>

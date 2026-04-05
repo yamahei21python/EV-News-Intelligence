@@ -89,7 +89,7 @@ export default function Hero() {
       {/* メインタイトル */}
       <div className="relative z-20 text-center max-w-5xl mx-auto mb-16 mt-10">
         <motion.h1 
-          className="font-noto-serif text-[var(--text-hero)] font-bold leading-tight mb-8 tracking-tight bg-clip-text text-transparent bg-gradient-to-b from-white via-white to-gray-500"
+          className="font-noto-serif text-3xl md:text-5xl font-bold leading-tight mb-8 tracking-tight bg-clip-text text-transparent bg-gradient-to-b from-white via-white to-zinc-500"
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
@@ -98,12 +98,12 @@ export default function Hero() {
         </motion.h1>
         
         <motion.p 
-          className="text-gray-400 max-w-3xl mx-auto text-lg leading-relaxed font-medium"
+          className="text-zinc-400 max-w-3xl mx-auto text-lg md:text-xl leading-relaxed font-light"
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ delay: 0.2, duration: 0.8 }}
         >
-          AIが膨大なデータから「真のシグナル」だけを抽出する、<br />
+          AIが膨大なデータから「真のシグナル」だけを抽出する、<br className="hidden md:block" />
           経営層・アナリストのためのインテリジェンス・ダッシュボード。
         </motion.p>
       </div>

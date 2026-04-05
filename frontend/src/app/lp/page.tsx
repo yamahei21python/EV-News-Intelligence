@@ -26,11 +26,11 @@ export default function LPPage() {
           viewport={{ once: true }}
           className="max-w-4xl mx-auto"
         >
-          <h2 className="font-noto-serif text-4xl md:text-5xl font-bold mb-8 leading-tight text-white">
+          <h2 className="font-noto-serif text-3xl md:text-4xl font-bold mb-8 leading-tight text-white">
             情報過多は、最大の「時間の損失」である。
           </h2>
           <div className="w-16 h-[1px] bg-blue-500/50 mx-auto mb-10" />
-          <p className="text-xl md:text-2xl text-zinc-400 font-light leading-relaxed max-w-3xl mx-auto">
+          <p className="text-lg md:text-xl text-zinc-400 font-light leading-relaxed max-w-3xl mx-auto">
             毎日配信される数千のEVニュース。その95%は、重複・広告・表面的な事実の羅列に過ぎません。<br className="hidden md:block" />
             人間がそれを処理する時代は終わりました。
           </p>

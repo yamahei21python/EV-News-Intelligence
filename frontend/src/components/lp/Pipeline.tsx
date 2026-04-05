@@ -36,10 +36,10 @@ export default function Pipeline() {
     <section className="py-32 px-4 bg-white/[0.02] border-y border-white/5">
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-24">
-          <h2 className="font-noto-serif text-4xl md:text-5xl font-bold mb-8 text-white">
+          <h2 className="font-noto-serif text-3xl md:text-4xl font-bold mb-8 text-white">
             The AI Engine
           </h2>
-          <p className="text-xl text-zinc-400 font-light max-w-3xl mx-auto leading-relaxed">
+          <p className="text-lg md:text-xl text-zinc-400 font-light max-w-3xl mx-auto leading-relaxed">
             4つのフェーズを経て、生の情報は「戦略的インテリジェンス」へと昇華されます。
           </p>
         </div>
