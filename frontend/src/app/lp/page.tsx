@@ -18,7 +18,25 @@ export default function LPPage() {
 
       <Hero />
 
-      {/* 2. The Pain Section */}
+      {/* 2. Transition CTA (Between Hero and Pain) */}
+      <div className="relative z-30 flex justify-center -mt-20 md:-mt-32 mb-12">
+        <motion.div
+          initial={{ opacity: 0, y: 10 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          transition={{ delay: 0.5 }}
+        >
+          <Link 
+            href="/"
+            className="inline-flex items-center gap-4 px-10 py-5 rounded-full border border-white/10 hover:border-blue-500/50 hover:bg-zinc-900/50 backdrop-blur-xl transition-all text-white font-medium group shadow-2xl"
+          >
+            ダッシュボードへアクセス
+            <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
+          </Link>
+        </motion.div>
+      </div>
+
+      {/* 3. The Pain Section */}
       <section className="py-32 px-4 flex flex-col items-center justify-center text-center bg-white/[0.01]">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
@@ -34,22 +52,6 @@ export default function LPPage() {
             毎日配信される数千のEVニュース。その95%は、重複・広告・表面的な事実の羅列に過ぎません。<br className="hidden md:block" />
             人間がそれを処理する時代は終わりました。
           </p>
-
-          <motion.div 
-            initial={{ opacity: 0, y: 10 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
-            transition={{ delay: 0.3 }}
-            className="mt-16"
-          >
-            <Link 
-              href="/"
-              className="inline-flex items-center gap-4 px-10 py-5 rounded-full border border-white/10 hover:border-blue-500/50 hover:bg-blue-500/5 transition-all text-white font-medium group"
-            >
-              ダッシュボードへアクセス
-              <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
-            </Link>
-          </motion.div>
         </motion.div>
       </section>
 
