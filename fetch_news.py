@@ -2,6 +2,12 @@ import feedparser
 import json
 from datetime import datetime
 
+import hashlib
+
+def generate_id(url):
+    """URLから1〜10000程度の数値IDを生成（安定したID用）"""
+    return int(hashlib.md5(url.encode()).hexdigest(), 16) % 1000000
+
 def fetch_ev_news_from_google_rss():
     # GoogleニュースのRSS URL
     # 検索クエリ: "EV", 期間: "when:1d" (より安定), 言語/地域: 日本語/日本
@@ -27,6 +33,7 @@ def fetch_ev_news_from_google_rss():
 
         # 辞書形式でリストに追加
         news_list.append({
+            "id": generate_id(link), # 安定したIDを付与
             "title": title,
             "link": link,
             "published": published,
@@ -89,7 +96,7 @@ if __name__ == "__main__":
     # 取得したデータをレビューするため、最初の3件をテスト表示
     if articles:
         for i, article in enumerate(articles[:3]):
-            print(f"--- 記事 {i+1} ---")
+            print(f"--- 記事 {article['id']} ---")
             print(f"タイトル: {article['title']}")
             print(f"配信元  : {article['site_name']}")
             print(f"公開日時: {article['published']}")

@@ -28,49 +28,30 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-          playwright install chromium
+          python -m playwright install chromium --with-deps
 
-      - name: Step 0 - Fetch Latest News (Before Analysis)
-        run: python fetch_news.py
-
-      - name: Step 1 - Filter News (Gemini)
-        run: python process_news.py
+      - name: Execute Pipeline
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL_FLASH: ${{ secrets.GEMINI_MODEL_FLASH }}
-
-      - name: Step 2 - Extract Content (Crawl4AI)
-        run: python bulk_extract_crawl4ai.py
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL_FLASH: ${{ secrets.GEMINI_MODEL_FLASH }}
-          GEMINI_MODEL_PRO: ${{ secrets.GEMINI_MODEL_PRO }}
-
-      - name: Step 3 - Group Topics (Gemini)
-        run: python group_news.py
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL_FLASH: ${{ secrets.GEMINI_MODEL_FLASH }}
-
-      - name: Step 4 - Integrated Analysis (GLM)
-        run: python analyze_articles.py
-        env:
           ZAI_API_KEY: ${{ secrets.ZAI_API_KEY }}
           ZAI_BASE_URL: ${{ secrets.ZAI_BASE_URL }}
           ZAI_MODEL_large: ${{ secrets.ZAI_MODEL_large }}
-
-      - name: Step 5 - Archive and Reset
         run: |
-          # 日付を取得 (JST)
-          DATE=$(date -d "9 hours" +%Y-%m-%d)
-          mkdir -p archive
-          cp final_reports.json "archive/${DATE}.json"
-          
-          # データのリセット (翌日のために空にする)
-          rm -f news_data.json
-          
-          # 本文の掃除 (リポジトリを軽量に保つ)
-          rm -rf articles_md/
+          # 1. 前日の中間ファイルをクリーンアップ
+          python cleanup_pipeline.py --mode morning
+          # 2. 最新ニュースをRSSから収集
+          python fetch_news.py
+          # 3. AIによる絞り込みと重要度判定
+          python process_news.py
+          # 4. 【最新】デコード方式による本文抽出
+          python bulk_extract_gnews.py
+          # 5. トピック名寄せ
+          python group_news.py
+          # 6. アナリストによる深掘り分析
+          python analyze_articles.py
+          # 7. 【最新】AIエディターによる一括校閲
+          python verify_reports.py
           
       - name: Commit and Push Results
         run: |
@@ -78,4 +59,4 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add final_reports.json archive/
           git add news_data.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-report: Daily Intelligence Portfolio [skip ci]" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-report: Hardened Intelligence Portfolio [skip ci]" && git push)

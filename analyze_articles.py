@@ -3,6 +3,7 @@ import json
 import time
 import glob
 import litellm
+from datetime import datetime
 from dotenv import load_dotenv
 
 # .envの読み込み
@@ -74,19 +75,13 @@ def analyze_topic_integrated(topic_name, combined_content, is_grouped=False):
         "insight": "リトライ上限に達したため分析結果の生成に失敗しました。"
     }
 
-def get_md_content_by_id(article_id, articles_list, input_dir):
+def get_md_content_by_id(article_id, input_dir):
     """
-    IDに紐づく Markdown ファイルを特定して内容を返します。
+    IDを指定して Markdown ファイルを直接読み込みます。
     """
-    # articles_list 内でのインデックス（01_, 02_ ... 用）を探す
-    idx = next((i for i, a in enumerate(articles_list) if a.get("id") == article_id), None)
-    if idx is None:
-        return ""
-    
-    target_prefix = f"{idx+1:02d}_"
-    md_files = glob.glob(os.path.join(input_dir, f"{target_prefix}*.md"))
-    if md_files:
-        with open(md_files[0], "r", encoding="utf-8") as f:
+    filename = os.path.join(input_dir, f"{article_id}.md")
+    if os.path.exists(filename):
+        with open(filename, "r", encoding="utf-8") as f:
             return f.read()
     return ""
 
@@ -119,7 +114,7 @@ def main():
         # 本文の収集・結合
         combined_content = ""
         for aid in aids:
-            content = get_md_content_by_id(aid, original_articles, input_dir)
+            content = get_md_content_by_id(aid, input_dir)
             if is_grouped:
                 combined_content += f"--- ソース記事(ID:{aid}) ---\n{content}\n\n"
             else:
@@ -128,10 +123,11 @@ def main():
         # 統合分析の実行
         analysis = analyze_topic_integrated(topic_name, combined_content, is_grouped)
         
-        # データの統合
+        # データの統合（記事詳細を埋め込み、自己完結型に）
         report_item = {
             "topic_name": topic_name,
             "article_ids": aids,
+            "articles": [a for a in original_articles if a.get("id") in aids],
             "is_grouped": is_grouped,
             "analysis": analysis
         }
@@ -143,10 +139,28 @@ def main():
             json.dump(final_reports, f, ensure_ascii=False, indent=4)
         
         print(f"    ✅ 分析完了", flush=True)
-        time.sleep(10) # Z.ai への負荷調整 (レート制限対策)
+        time.sleep(3) # Z.ai への負荷調整 (レート制限対策)
 
     print(f"\n✨ インテリジェンス・ポートフォリオが完成しました！", flush=True)
     print(f"📄 最終成果物: {output_file}")
+
+    # アーカイブ保存 (YYYY-MM-DD.json)
+    today = datetime.now().strftime("%Y-%m-%d")
+    archive_dir = "archive"
+    os.makedirs(archive_dir, exist_ok=True)
+    archive_file = os.path.join(archive_dir, f"{today}.json")
+    
+    with open(archive_file, "w", encoding="utf-8") as f:
+        json.dump(final_reports, f, ensure_ascii=False, indent=4)
+    print(f"📦 アーカイブ保存完了: {archive_file}", flush=True)
+
+    # 追加：AIによる最終校閲（トピック名の整合性チェック）
+    print(f"\n🧐 最終校閲（AIエディター）を実行中...")
+    try:
+        from verify_reports import verify_reports
+        verify_reports()
+    except Exception as e:
+        print(f"⚠️ 校閲ステップでエラーが発生しました: {e}")
 
 if __name__ == "__main__":
     main()

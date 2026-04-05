@@ -12,6 +12,11 @@ load_dotenv()
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 MODEL_NAME = f"gemini/{os.getenv('GEMINI_MODEL_FLASH', 'gemini-3.1-flash-lite-preview')}"
 
+# Z.ai (GLM) 設定 (Fallback用)
+ZAI_API_KEY = os.getenv("ZAI_API_KEY")
+ZAI_BASE_URL = os.getenv("ZAI_BASE_URL")
+ZAI_MODEL = f"openai/{os.getenv('ZAI_MODEL_large', 'glm-5.1')}"
+
 # ロギング設定
 litellm.telemetry = False # 不要な通信を抑制
 
@@ -50,8 +55,8 @@ def is_major_media(site_name):
     # 1. 除外（テレビ局・動画・ポータル・非日本語の特定ワード）
     excluded_keywords = [
         "TBS", "日テレ", "テレビ朝日", "フジテレビ", "テレビ東京", "FNN", "NNN", "JNN", "ANN", "DIG",
-        "ABEMA", "ニコニコ", "TRILL", "GUNOSY", "AU WEB", "Dメニュー", "STRAIGHT PRESS",
-        "SPEEDME.RU", "매일경제", "KHB", "KTV"
+        "ABEMA", "ニコニコ", "TRILL", "GUNOSY", "AU WEB", "Dメニュー", "MSN", "STRAIGHT PRESS",
+        "SPEEDME.RU", "매일경제", "千葉テレビ放送", "KHB", "ｄメニューニュース", "KTV"
     ]
     if any(k in site_name.upper() for k in excluded_keywords):
         return False
@@ -114,9 +119,9 @@ def create_only_title_json():
 
     only_titles = []
     for idx, article in enumerate(compressed_articles):
-        # 圧縮後のリストにおけるIDを振り直す
+        # 圧縮後のリストにおけるIDを（元の値を保持して）引き継ぐ
         only_titles.append({
-            "id": idx,
+            "id": article.get("id"),
             "title": article["title"],
             "site_name": article["site_name"],
             "original_index": raw_articles.index(article) # 元データへの参照用
@@ -150,7 +155,7 @@ def process_news_with_ai(articles_to_process, original_articles):
 【Step 3】プロフェッショナルな一次情報の評価
 - 日経、読売、朝日、ロイター、ブルームバーグ、専門誌などの記事は、以下の「高評価基準」に照らし合わせて【5〜10点】で評価する。
 
-# 高評価基準（8〜10点の条件）
+# 高評価基準（7〜10点の条件）
 以下のテーマに該当するものは、業界のゲームチェンジャーとなるため高く評価してください。
 1. Geopolitics & Policy (政策・関税・地政学的な戦略)
 2. Supply Chain & Core Tech (全固体電池、半導体、サプライチェーンの再構築)
@@ -201,25 +206,59 @@ def process_news_with_ai(articles_to_process, original_articles):
                 content = content[3:-3].strip()
                 
             batch_results = json.loads(content)
+            print(f"  ✅ AIから {len(batch_results)} 件の結果を受信しました。")
             for res in batch_results:
                 results_map[res["id"]] = res
             
-            break # 成功したらループを抜ける
+            print(f"  📊 results_map のサイズ: {len(results_map)}")
+            break # 成功したらループを抜けてマッピングへ
 
-        except litellm.RateLimitError:
+        except (litellm.ServiceUnavailableError, litellm.RateLimitError) as e:
             wait_time = (attempt + 1) * 30
-            print(f"  ⚠️ レートリミット到達。{wait_time}秒待機して再試行します...")
+            print(f"  ⚠️ Gemini 一時的エラー ({type(e).__name__})。{wait_time}秒待機してリトライします({attempt+1}/3)...")
             time.sleep(wait_time)
         except Exception as e:
-            print(f"Error in AI processing: {e}")
-            time.sleep(2)
+            print(f"  ❌ Gemini 予期せぬエラー: {e}")
+            break # 深刻なエラーは即座に中断
+
+    # --- Fallback to Z.ai ---
+    if not results_map:
+        print(f"  🔄 Gemini が 3 回失敗したため、Z.ai (GLM) にフォールバックします...")
+        try:
+            response = litellm.completion(
+                model=ZAI_MODEL,
+                messages=[
+                    {"role": "system", "content": SYSTEM_PROMPT},
+                    {"role": "user", "content": user_prompt}
+                ],
+                api_key=ZAI_API_KEY,
+                api_base=ZAI_BASE_URL
+            )
+            content = response.choices[0].message.content.strip()
+            clean_json_str = content.replace("```json", "").replace("```", "").strip()
+            batch_results = json.loads(clean_json_str)
+            for res in batch_results:
+                results_map[res["id"]] = res
+            print(f"  ✨ Z.ai によるリカバリに成功しました。")
+        except Exception as e:
+            print(f"  ❌ Z.ai へのフォールバックも失敗しました: {e}")
 
     # 判定結果のマッピングと保存
-    for idx, article in enumerate(original_articles):
-        if idx in results_map:
-            article.update(results_map[idx])
+    print(f"  🔧 最終マッピング開始 (対象: {len(original_articles)} 件, 結果マップ: {len(results_map)} 件)")
+    for article in original_articles:
+        aid = article.get("id")
+        # 型の不一致(int vs str)を避けるため、念のため両方でチェックするか正規化する
+        aid_key = aid
+        if aid_key in results_map:
+            article.update(results_map[aid_key])
             if article.get("is_highly_important") or article.get("score", 0) >= 70:
                 featured_articles.append(article)
+        elif str(aid) in results_map:
+            article.update(results_map[str(aid)])
+            if article.get("is_highly_important") or article.get("score", 0) >= 70:
+                featured_articles.append(article)
+    
+    print(f"  🏁 抽出完了: {len(featured_articles)} 件の重要記事を選定しました。")
 
     with open("featured_news.json", "w", encoding="utf-8") as f:
         json.dump(featured_articles, f, ensure_ascii=False, indent=4)
@@ -231,3 +270,6 @@ if __name__ == "__main__":
     if result:
         only_titles, compressed_list = result
         process_news_with_ai(only_titles, compressed_list)
+        
+        # 最後に校閲スクリプトを呼び出す予定（分析完了後）
+        # os.system("python verify_reports.py")

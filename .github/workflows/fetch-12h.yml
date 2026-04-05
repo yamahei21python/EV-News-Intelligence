@@ -23,6 +23,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Evening Cleanup (Preparing for data stock)
+        run: python cleanup_pipeline.py --mode evening
+
       - name: Fetch EV News
         run: python fetch_news.py
 
