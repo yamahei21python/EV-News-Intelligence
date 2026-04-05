@@ -19,14 +19,23 @@ export default function LPPage() {
       <Hero />
 
       {/* 2. The Pain Section */}
-      <section className="pt-0 pb-16 px-4 flex flex-col items-center justify-center text-center bg-white/[0.01]">
+      <section className="pt-16 pb-16 px-4 flex flex-col items-center justify-center text-center bg-white/[0.01]">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
           className="max-w-4xl mx-auto"
         >
-          {/* CTA removed from here - moved to bottom of Pipeline */}
+          {/* CTA at the beginning of the section */}
+          <div className="mb-40">
+            <Link
+              href="/"
+              className="inline-flex items-center gap-4 px-10 py-5 rounded-full bg-white text-[#020617] hover:bg-zinc-200 transition-all font-bold group shadow-2xl shadow-white/5"
+            >
+              ダッシュボードへアクセス
+              <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
+            </Link>
+          </div>
 
           <h2 className="font-noto-serif text-3xl md:text-4xl font-bold mb-8 leading-tight text-white">
             情報過多は、最大の「時間の損失」である。
@@ -43,7 +52,7 @@ export default function LPPage() {
       <section className="pb-32 px-4">
         <div className="max-w-4xl mx-auto space-y-6">
           {/* Manual */}
-          <motion.div 
+          <motion.div
             initial={{ opacity: 0, x: -20 }}
             whileInView={{ opacity: 1, x: 0 }}
             viewport={{ once: true }}
@@ -60,7 +69,7 @@ export default function LPPage() {
           </motion.div>
 
           {/* AI Engine */}
-          <motion.div 
+          <motion.div
             initial={{ opacity: 0, x: 20 }}
             whileInView={{ opacity: 1, x: 0 }}
             viewport={{ once: true }}
@@ -80,37 +89,40 @@ export default function LPPage() {
 
       <Pipeline />
 
-      {/* Primary CTA after Pipeline */}
-      <section className="pb-32 px-4 flex justify-center">
-        <Link 
-          href="/"
-          className="inline-flex items-center gap-4 px-12 py-6 rounded-full bg-white text-[#020617] hover:bg-zinc-200 transition-all font-bold text-xl group shadow-2xl shadow-white/5"
-        >
-          ダッシュボードへアクセス
-          <ArrowRight className="w-6 h-6 group-hover:translate-x-1 transition-transform" />
-        </Link>
-      </section>
-
       <DashboardPreview />
 
-      {/* 5. Final CTA Section - Simplified */}
-      <section className="py-24 px-4 relative overflow-hidden">
-        {/* Subtle background glow */}
-        <div className="absolute inset-x-0 bottom-0 h-[500px] bg-gradient-to-t from-blue-900/10 to-transparent pointer-events-none" />
+      {/* 5. Final CTA Section - Polished */}
+      <section className="py-32 px-4 relative overflow-hidden">
+        {/* Spotlight Effect */}
+        <div className="absolute inset-0 z-0 pointer-events-none">
+          <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[400px] bg-blue-500/10 blur-[120px] rounded-full opacity-60" />
+          <div className="absolute bottom-0 inset-x-0 h-px bg-gradient-to-r from-transparent via-white/10 to-transparent" />
+        </div>
         
         <div className="max-w-4xl mx-auto text-center relative z-10">
           <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            whileInView={{ opacity: 1, y: 0 }}
+            initial={{ opacity: 0, scale: 0.95 }}
+            whileInView={{ opacity: 1, scale: 1 }}
             viewport={{ once: true }}
+            transition={{ duration: 0.8 }}
+            className="flex flex-col items-center"
           >
-            
-            <Link 
-              href="/"
-              className="inline-flex items-center gap-4 px-12 py-6 rounded-full bg-white text-[#020617] hover:bg-zinc-200 transition-all font-bold text-xl group shadow-2xl shadow-white/5"
-            >
-              ダッシュボードへアクセス
-              <ArrowRight className="w-6 h-6 group-hover:translate-x-1 transition-transform" />
+            <Link href="/" className="group relative inline-block">
+              <motion.div
+                whileHover={{ scale: 1.02, y: -2 }}
+                whileTap={{ scale: 0.98 }}
+                className="relative z-10 px-14 py-7 bg-white text-[#020617] rounded-full font-bold text-xl flex items-center gap-4 shadow-[0_0_40px_rgba(255,255,255,0.1)] group-hover:shadow-[0_0_60px_rgba(255,255,255,0.2)] transition-all overflow-hidden"
+              >
+                <span className="relative z-10 flex items-center gap-4">
+                  ダッシュボードへアクセス
+                  <ArrowRight className="w-6 h-6 group-hover:translate-x-1 transition-transform duration-300" />
+                </span>
+                {/* Subtle shine effect on hover */}
+                <div className="absolute inset-0 bg-gradient-to-r from-transparent via-zinc-100/50 to-transparent -translate-x-[100%] group-hover:translate-x-[100%] transition-transform duration-1000" />
+              </motion.div>
+              
+              {/* Outer Glow Effect */}
+              <div className="absolute inset-x-0 inset-y-0 bg-white/20 blur-2xl rounded-full opacity-0 group-hover:opacity-100 transition-opacity duration-500 -z-10" />
             </Link>
           </motion.div>
         </div>
