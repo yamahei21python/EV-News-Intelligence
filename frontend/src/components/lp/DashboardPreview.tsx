@@ -25,12 +25,12 @@ const DEMO_DATA = {
 
 export default function DashboardPreview() {
   return (
-    <section className="py-24 px-4 max-w-7xl mx-auto">
-      <div className="text-center mb-16">
-        <h2 className="font-noto-serif text-[var(--text-section)] font-bold mb-4">
+    <section className="py-32 px-4 max-w-7xl mx-auto">
+      <div className="text-center mb-24">
+        <h2 className="font-noto-serif text-4xl md:text-5xl font-bold mb-8 text-white">
           The Intelligence
         </h2>
-        <p className="text-gray-500 tracking-widest uppercase text-xs font-bold">
+        <p className="text-xl text-zinc-400 font-light max-w-3xl mx-auto leading-relaxed">
           実際のダッシュボードが提供する、精密な分析体験のプレビュー
         </p>
       </div>

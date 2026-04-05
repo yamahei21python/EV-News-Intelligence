@@ -33,13 +33,13 @@ const STEPS = [
 
 export default function Pipeline() {
   return (
-    <section className="py-24 px-4 bg-white/[0.02] border-y border-white/5">
+    <section className="py-32 px-4 bg-white/[0.02] border-y border-white/5">
       <div className="max-w-7xl mx-auto">
-        <div className="text-center mb-20">
-          <h2 className="font-noto-serif text-[var(--text-section)] font-bold mb-4">
+        <div className="text-center mb-24">
+          <h2 className="font-noto-serif text-4xl md:text-5xl font-bold mb-8 text-white">
             The AI Engine
           </h2>
-          <p className="text-gray-400 max-w-xl mx-auto">
+          <p className="text-xl text-zinc-400 font-light max-w-3xl mx-auto leading-relaxed">
             4つのフェーズを経て、生の情報は「戦略的インテリジェンス」へと昇華されます。
           </p>
         </div>

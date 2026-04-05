@@ -21,17 +21,17 @@ export default function LPPage() {
       {/* 2. The Pain Section */}
       <section className="py-32 px-4 flex flex-col items-center justify-center text-center bg-white/[0.01]">
         <motion.div
-          initial={{ opacity: 0 }}
-          whileInView={{ opacity: 1 }}
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
-          className="max-w-3xl"
+          className="max-w-4xl mx-auto"
         >
-          <h2 className="font-noto-serif text-[var(--text-section)] font-bold mb-8 leading-tight">
+          <h2 className="font-noto-serif text-4xl md:text-5xl font-bold mb-8 leading-tight text-white">
             情報過多は、最大の「時間の損失」である。
           </h2>
-          <div className="w-16 h-[1px] bg-blue-500/50 mx-auto mb-8" />
-          <p className="text-xl text-zinc-400 font-light leading-relaxed">
-            毎日配信される数千のEVニュース。その95%は、重複・広告・表面的な事実の羅列に過ぎません。<br />
+          <div className="w-16 h-[1px] bg-blue-500/50 mx-auto mb-10" />
+          <p className="text-xl md:text-2xl text-zinc-400 font-light leading-relaxed max-w-3xl mx-auto">
+            毎日配信される数千のEVニュース。その95%は、重複・広告・表面的な事実の羅列に過ぎません。<br className="hidden md:block" />
             人間がそれを処理する時代は終わりました。
           </p>
         </motion.div>
