@@ -2,7 +2,7 @@
 
 import { useState, useMemo, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Sparkles, Zap, ShieldAlert, FileText, Cpu } from "lucide-react";
+import { Sparkles, Zap, ShieldAlert, FileText } from "lucide-react";
 
 /**
  * 📝 ノイズ生成テンプレート
@@ -35,17 +35,15 @@ export default function Hero() {
   const CARD_WIDTH = 280;
   const CARD_HEIGHT = 90;
 
-  // 1秒後に自動実行するロジックを復活
+  // 1秒後に自動実行
   useEffect(() => {
     const timer = setTimeout(() => {
       setIsExecuting(true);
-      // 分析完了（結果表示）までのタイマー
       const resultTimer = setTimeout(() => {
         setShowResult(true);
       }, 1400);
       return () => clearTimeout(resultTimer);
     }, 1000);
-    
     return () => clearTimeout(timer);
   }, []);
 
@@ -112,30 +110,6 @@ export default function Hero() {
 
       <div className="relative w-full max-w-3xl h-[450px] flex items-center justify-center z-10">
         
-        {/* ステータス表示 */}
-        <AnimatePresence>
-          {!showResult && (
-            <motion.div 
-              className="absolute inset-0 flex flex-col items-center justify-center gap-6 z-50 pointer-events-none"
-              exit={{ opacity: 0, scale: 0.8 }}
-            >
-              <div className="relative px-12 py-6 bg-white text-black font-extrabold rounded-full shadow-[0_0_60px_rgba(255,255,255,0.2)]">
-                <span className="relative z-10 flex items-center gap-3 text-xl uppercase tracking-widest">
-                  {isExecuting ? <Cpu className="w-7 h-7 animate-pulse text-blue-600" /> : <Sparkles className="w-7 h-7 text-zinc-400" />}
-                  {isExecuting ? "AI Analyzing..." : "Ready to Analyze"}
-                </span>
-              </div>
-              <motion.span 
-                initial={{ opacity: 0 }}
-                animate={{ opacity: 1 }}
-                className="text-[10px] text-zinc-500 tracking-[0.5em] uppercase font-black"
-              >
-                {isExecuting ? "Processing 40 unstructured nodes..." : "System Standby"}
-              </motion.span>
-            </motion.div>
-          )}
-        </AnimatePresence>
-
         {/* 凝縮されたノイズカード */}
         <AnimatePresence>
           {!showResult && (
