@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Sparkles, Zap, ShieldAlert, FileText } from "lucide-react";
 
@@ -22,6 +22,13 @@ export default function Hero() {
       setShowResult(true);
     }, 1500);
   };
+
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      handleExecute();
+    }, 1000); // 1秒後に自動実行
+    return () => clearTimeout(timer);
+  }, []);
 
   return (
     <section className="relative min-h-[90vh] flex flex-col items-center justify-center px-4 overflow-hidden">
