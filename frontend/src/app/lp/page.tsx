@@ -102,7 +102,7 @@ export default function LPPage() {
       <DashboardPreview />
 
       {/* 5. Final CTA Section - Polished */}
-      <section className="py-5 px-4 relative overflow-hidden">
+      <section className="py-1 px-4 relative overflow-hidden">
         {/* Spotlight Effect */}
         <div className="absolute inset-0 z-0 pointer-events-none">
           <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[400px] bg-blue-500/10 blur-[120px] rounded-full opacity-60" />
