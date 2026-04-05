@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 import Hero from "@/components/lp/Hero";
 import Pipeline from "@/components/lp/Pipeline";
-import BentoGrid from "@/components/lp/BentoGrid";
+import DashboardPreview from "@/components/lp/DashboardPreview";
 import { ArrowRight, Sparkles } from "lucide-react";
 import Link from "next/link";
 
@@ -39,7 +39,7 @@ export default function LPPage() {
 
       <Pipeline />
 
-      <BentoGrid />
+      <DashboardPreview />
 
       {/* 5. Final CTA Section */}
       <section className="py-48 px-4 relative overflow-hidden">
