@@ -48,6 +48,45 @@ export default function LPPage() {
         </motion.div>
       </section>
 
+      {/* 3. Comparison Section (Glassmorphism) */}
+      <section className="pb-32 px-4">
+        <div className="max-w-4xl mx-auto space-y-6">
+          {/* Manual */}
+          <motion.div 
+            initial={{ opacity: 0, x: -20 }}
+            whileInView={{ opacity: 1, x: 0 }}
+            viewport={{ once: true }}
+            className="p-8 rounded-2xl bg-white/[0.02] border border-white/5 backdrop-blur-sm flex flex-col md:flex-row md:items-center justify-between gap-4 group hover:bg-white/[0.04] transition-colors"
+          >
+            <div className="flex items-center gap-4">
+              <div className="p-3 rounded-xl bg-white/5 text-zinc-500">
+                <span className="font-bold tracking-widest text-xs uppercase">[ Manual ]</span>
+              </div>
+            </div>
+            <p className="text-zinc-400 text-base md:text-lg font-light">
+              50記事のスクロール ＋ 重複の確認 ＋ 要点の抽出 ＝ <span className="text-zinc-200 font-medium whitespace-nowrap text-lg md:text-xl">約20分 / 日</span>
+            </p>
+          </motion.div>
+
+          {/* AI Engine */}
+          <motion.div 
+            initial={{ opacity: 0, x: 20 }}
+            whileInView={{ opacity: 1, x: 0 }}
+            viewport={{ once: true }}
+            className="p-8 rounded-2xl bg-blue-500/[0.03] border border-blue-500/20 backdrop-blur-xl flex flex-col md:flex-row md:items-center justify-between gap-4 group hover:bg-blue-500/[0.06] transition-all shadow-[0_0_50px_rgba(59,130,246,0.05)]"
+          >
+            <div className="flex items-center gap-4">
+              <div className="p-3 rounded-xl bg-blue-500/10 text-blue-400 shadow-[0_0_15px_rgba(59,130,246,0.3)]">
+                <span className="font-bold tracking-widest text-xs uppercase">[ AI Engine ]</span>
+              </div>
+            </div>
+            <p className="text-blue-100/90 text-base md:text-lg font-medium">
+              純度100%のインサイトを10件確認 ＝ <span className="text-white font-bold text-xl md:text-2xl whitespace-nowrap drop-shadow-[0_0_10px_rgba(59,130,246,0.5)]">約5分 / 日</span>
+            </p>
+          </motion.div>
+        </div>
+      </section>
+
       <Pipeline />
 
       <DashboardPreview />
