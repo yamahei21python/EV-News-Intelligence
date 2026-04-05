@@ -27,7 +27,7 @@ export default function LPPage() {
           className="max-w-4xl mx-auto"
         >
           {/* CTA at the beginning of the section */}
-          <div className="mb-16">
+          <div className="mb-40">
             <Link 
               href="/"
               className="inline-flex items-center gap-4 px-10 py-5 rounded-full bg-white text-[#020617] hover:bg-zinc-200 transition-all font-bold group shadow-2xl shadow-white/5"
