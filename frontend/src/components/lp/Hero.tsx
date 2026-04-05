@@ -10,6 +10,23 @@ const NOISE_CARDS = [
   { id: 3, title: "コラム: 私が電気自動車を買わない理由", type: "noise" },
   { id: 4, title: "PR: 某メーカーの新車種発表会レポート", type: "ad" },
   { id: 5, title: "再掲: 昨日の欧州市場ニュースまとめ", type: "duplicate" },
+  { id: 6, title: "スポンサー: EV保険の革命的なプラン", type: "ad" },
+  { id: 7, title: "重複: トヨタの新型バッテリー技術（既報）", type: "duplicate" },
+  { id: 8, title: "噂: Apple Carの計画が再び変更か？", type: "noise" },
+  { id: 9, title: "PR: local充電ステーションのご案内", type: "ad" },
+  { id: 10, title: "分析(?): EV vs ガソリン車の維持費対決", type: "noise" },
+  { id: 11, title: "速報: BYDのアジア戦略（内容は昨日と同じ）", type: "duplicate" },
+  { id: 12, title: "広告: 電気自動車用タイヤセール中", type: "ad" },
+  { id: 13, title: "ブログ: 私のEVライフ（日記）", type: "noise" },
+  { id: 14, title: "PR: 次世代急速充電ネットワーク", type: "ad" },
+  { id: 15, title: "再掲: 中国の補助金政策の変更について", type: "duplicate" },
+  { id: 16, title: "広告: 中古EVの買取はこちら", type: "ad" },
+  { id: 17, title: "噂: 新型モデル3の隠れた機能", type: "noise" },
+  { id: 18, title: "PR: EV専用車載アクセサリー", type: "ad" },
+  { id: 19, title: "重複: 日産の全固体電池開発ロードマップ", type: "duplicate" },
+  { id: 20, title: "速報: テスラの四半期決算（5分前と同じ）", type: "duplicate" },
+  { id: 21, title: "コラム: EVの航続距離は本当に十分か？", type: "noise" },
+  { id: 22, title: "PR: 充電待機時間を快適にするアプリ", type: "ad" },
 ];
 
 export default function Hero() {
@@ -79,29 +96,45 @@ export default function Hero() {
         <AnimatePresence>
           {!showResult && (
             <div className="relative w-full h-full">
-              {NOISE_CARDS.map((card, i) => (
-                <motion.div
-                  key={card.id}
-                  className="absolute left-1/2 top-1/2 glass-card p-4 w-72 rounded-xl border-white/10"
-                  style={{ 
-                    x: "-50%", 
-                    y: "-50%",
-                    zIndex: 10 + i,
-                    rotate: (i - 2) * 5,
-                    transformOrigin: "center center"
-                  }}
-                  animate={isExecuting ? {
-                    x: (i - 2) * 200 + (Math.random() - 0.5) * 100,
-                    y: (i - 2) * 50 - 400,
-                    rotate: (Math.random() - 0.5) * 90,
-                    opacity: 0,
-                    scale: 0.5,
-                  } : {
-                    y: "-50%",
-                    opacity: 1
-                  }}
-                  transition={{ duration: 0.8, ease: "easeIn" }}
-                >
+              {NOISE_CARDS.map((card, i) => {
+                const randomX = (i % 2 === 0 ? 1 : -1) * (Math.random() * 400 + 100);
+                const randomY = (Math.random() - 0.5) * 600;
+                const randomRotate = (Math.random() - 0.5) * 60;
+                
+                return (
+                  <motion.div
+                    key={card.id}
+                    className="absolute glass-card p-4 w-64 rounded-xl border-white/10 shadow-2xl"
+                    style={{ zIndex: 10 + i }}
+                    initial={{ 
+                      x: randomX, 
+                      y: randomY, 
+                      rotate: randomRotate,
+                      opacity: 0,
+                      scale: 0.8
+                    }}
+                    animate={isExecuting ? {
+                      x: 0,
+                      y: 0,
+                      rotate: 0,
+                      opacity: 0,
+                      scale: 0,
+                    } : {
+                      opacity: 1,
+                      scale: 1,
+                      x: randomX + Math.sin(Date.now() / 2000 + i) * 10, // 微かな揺らぎ
+                      y: randomY + Math.cos(Date.now() / 2000 + i) * 10,
+                    }}
+                    transition={isExecuting ? { 
+                      duration: 0.8, 
+                      delay: i * 0.02, // わずかな時差で吸い込まれる
+                      ease: [0.4, 0, 0.2, 1] 
+                    } : { 
+                      duration: 2, 
+                      repeat: Infinity, 
+                      repeatType: "reverse" 
+                    }}
+                  >
                   <div className="flex items-start gap-3">
                     <div className="mt-1">
                       {card.type === "ad" && <Zap className="w-4 h-4 text-yellow-500" />}
@@ -118,7 +151,8 @@ export default function Hero() {
                     </div>
                   </div>
                 </motion.div>
-              ))}
+                );
+              })}
             </div>
           )}
         </AnimatePresence>
