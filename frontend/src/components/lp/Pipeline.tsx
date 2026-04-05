@@ -45,7 +45,7 @@ export default function Pipeline() {
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-24">
           <h2 className="font-noto-serif text-3xl md:text-4xl font-bold mb-8 text-white">
-            The Intelligence Pipeline
+            The AI Engine
           </h2>
           <p className="text-lg md:text-xl text-zinc-400 font-light max-w-3xl mx-auto leading-relaxed">
             膨大なノイズを解体し、純度100%のシグナルを精製する。<br className="hidden md:block" />人間の認知限界を超える4つのプロセス。
@@ -63,14 +63,13 @@ export default function Pipeline() {
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ delay: i * 0.2 }}
-              className={`relative glass-card p-8 rounded-3xl group ${
-                step.highlight ? "ring-2 ring-purple-500/50 scale-105 bg-purple-500/5" : ""
-              }`}
+              className={`relative glass-card p-8 rounded-3xl group ${step.highlight ? "ring-2 ring-purple-500/50 scale-105 bg-purple-500/5" : ""
+                }`}
             >
               <div className={`mb-6 p-4 rounded-2xl bg-white/5 w-fit ${step.color} group-hover:scale-110 transition-transform shadow-lg shadow-black/20`}>
                 <step.icon className="w-8 h-8" />
               </div>
-              
+
               <h3 className="font-bold text-lg mb-2 flex items-center gap-2 text-white">
                 {step.title}
                 {step.highlight && (
@@ -88,7 +87,7 @@ export default function Pipeline() {
               <p className="text-sm text-gray-400 leading-relaxed font-light">
                 {step.desc}
               </p>
-              
+
               {i < STEPS.length - 1 && (
                 <div className="md:hidden flex justify-center py-4">
                   <ArrowRight className="w-6 h-6 text-gray-700 rotate-90" />

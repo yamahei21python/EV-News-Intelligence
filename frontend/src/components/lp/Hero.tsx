@@ -2,7 +2,21 @@
 
 import { useState, useMemo, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Sparkles, Zap, ShieldAlert, FileText } from "lucide-react";
+import { Sparkles, Zap, ShieldAlert, FileText, Target, TrendingUp } from "lucide-react";
+
+/**
+ * 📝 デモデータ設定（DashboardPreviewと同期）
+ */
+const DEMO_DATA = {
+  topic_id: "3",
+  title: "ホンダEV開発中止で赤字転落",
+  summary_points: [
+    "米国でのEV需要減退を理由に予定していた3車種のEV開発を中止してHV強化へと戦略転換した。",
+    "エンジンの成功体験に固執する「日本病」への批判と、多角的な「マルチパスウェイ」回帰という対立軸がある。",
+    "北米でのキャッシュ創出とソニーとの協業で得た知見を量産車へ還元できるかが再建の鍵を握る。"
+  ],
+  insight: "ホンダのEV戦略縮小は、EV減速期における戦略的後退を象徴する。独自戦略による「時間稼ぎ」を選択したが、SDV開発の遅れは事実だ。単なるHV回帰に満足すれば、次世代の覇権争いから脱落する致命傷になり得る。"
+};
 
 /**
  * 📝 ノイズ生成テンプレート
@@ -182,34 +196,78 @@ export default function Hero() {
         {/* 結果セクション */}
         <AnimatePresence>
           {showResult && (
-            <motion.div
-              initial={{ scale: 0.5, opacity: 0, y: 30 }}
-              animate={{ scale: 1, opacity: 1, y: 0 }}
-              className="absolute z-50 p-12 w-full max-w-xl rounded-3xl bg-[#0a0a0a] border border-blue-500/30 shadow-[0_0_100px_rgba(59,130,246,0.3)] backdrop-blur-3xl"
-              transition={{ type: "spring", damping: 15, stiffness: 100 }}
-            >
-              <div className="flex items-center gap-3 mb-8">
-                <div className="p-2.5 rounded-xl bg-blue-500/10">
-                  <Sparkles className="w-6 h-6 text-blue-400" />
-                </div>
-                <span className="text-xs font-black tracking-[0.5em] text-blue-400 uppercase">Insights Extracted</span>
-              </div>
+            <div className="absolute z-50 flex items-center justify-center w-full max-w-4xl px-4">
+              {/* Backlight Glow Effect */}
+              <motion.div 
+                initial={{ opacity: 0, scale: 0.8 }}
+                animate={{ opacity: 1, scale: 1 }}
+                className="absolute inset-0 bg-blue-500/20 blur-[120px] rounded-full scale-150 pointer-events-none"
+              />
               
-              <h3 className="font-noto-serif text-4xl font-bold mb-8 leading-tight text-white">
-                テスラ、次世代AI基盤企業の覇権
-              </h3>
-              
-              <div className="relative pl-8 border-l-2 border-blue-500/20 mb-10">
-                <p className="text-zinc-400 text-lg leading-relaxed text-justify">
-                  市場の膨大なノイズを完全に除去。FSD v12の進展と独自のAIチップ開発により、単なる製造業から「自律型社会の基盤」へと変貌するテスラの真の姿を検出しました。
-                </p>
-              </div>
+              <motion.div
+                initial={{ scale: 0.9, opacity: 0, y: 40 }}
+                animate={{ scale: 1, opacity: 1, y: 0 }}
+                className="relative z-10 w-full p-8 md:p-10 rounded-[2.5rem] bg-[#030712]/80 border border-white/10 shadow-[0_0_80px_rgba(59,130,246,0.15)] backdrop-blur-3xl overflow-hidden"
+                transition={{ type: "spring", damping: 20, stiffness: 80 }}
+              >
+                {/* Internal accent light */}
+                <div className="absolute top-0 right-0 w-64 h-64 bg-blue-500/10 blur-3xl -mr-32 -mt-32 pointer-events-none" />
 
-              <div className="flex flex-wrap gap-3">
-                <span className="px-5 py-2 bg-blue-500/10 text-blue-300 text-[11px] font-black rounded-xl border border-blue-500/20 uppercase tracking-widest">Structural Pivot</span>
-                <span className="px-5 py-2 bg-purple-500/10 text-purple-300 text-[11px] font-black rounded-xl border border-purple-500/20 uppercase tracking-widest">AI Supremacy</span>
-              </div>
-            </motion.div>
+                <div className="flex flex-col lg:flex-row gap-10 text-left">
+                  {/* Left: Metadata & Summary */}
+                  <div className="flex-1">
+                    <div className="flex items-center gap-3 mb-6">
+                      <div className="inline-flex items-center gap-2 px-3 py-1 rounded-lg bg-blue-500/10 text-blue-400 text-[10px] font-black border border-blue-500/20 uppercase tracking-widest">
+                        <Target size={12} />
+                        <span>TOPIC #{DEMO_DATA.topic_id}</span>
+                      </div>
+                      <div className="inline-flex items-center gap-2 px-3 py-1 rounded-lg bg-white/5 text-zinc-500 text-[10px] font-black border border-white/5 uppercase tracking-widest">
+                        <Sparkles size={12} className="text-blue-400/50" />
+                        <span>INSIGHTS EXTRACTED</span>
+                      </div>
+                    </div>
+                    
+                    <h3 className="text-2xl md:text-3xl font-bold text-white mb-8 leading-tight tracking-tight">
+                      {DEMO_DATA.title}
+                    </h3>
+
+                    <div className="space-y-4">
+                      {DEMO_DATA.summary_points.map((point, idx) => (
+                        <div key={idx} className="flex gap-4 group">
+                          <div className="mt-2 w-1 h-1 rounded-full bg-blue-500 shrink-0 shadow-[0_0_8px_rgba(59,130,246,0.8)]" />
+                          <p className="text-zinc-400 text-sm md:text-base leading-relaxed font-light group-hover:text-zinc-200 transition-colors">
+                            {point}
+                          </p>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+
+                  {/* Right: Analytical Insight Box */}
+                  <div className="lg:w-[40%]">
+                    <div className="h-full bg-white/[0.03] border border-white/5 rounded-[2rem] p-6 lg:p-8 relative ring-1 ring-white/5 shadow-inner">
+                      <div className="flex items-center gap-2 mb-5 text-blue-400 font-bold text-[10px] uppercase tracking-[0.2em]">
+                        <TrendingUp size={14} />
+                        <span>Analysis Insight</span>
+                      </div>
+                      
+                      <div className="text-zinc-400 leading-relaxed italic text-sm md:text-base font-light border-l-2 border-blue-500/20 pl-4 py-1">
+                        "{DEMO_DATA.insight}"
+                      </div>
+
+                      <div className="mt-8 flex flex-wrap gap-2">
+                        <span className="px-3 py-1 bg-white/5 text-zinc-500 text-[9px] font-black rounded-lg border border-white/5 uppercase tracking-widest">
+                          Structural Pivot
+                        </span>
+                        <span className="px-3 py-1 bg-white/5 text-zinc-500 text-[9px] font-black rounded-lg border border-white/5 uppercase tracking-widest">
+                          Market Shift
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </motion.div>
+            </div>
           )}
         </AnimatePresence>
       </div>
