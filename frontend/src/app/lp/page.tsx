@@ -18,8 +18,6 @@ export default function LPPage() {
 
       <Hero />
 
-      <Hero />
-
       {/* 2. The Pain Section */}
       <section className="py-32 px-4 flex flex-col items-center justify-center text-center bg-white/[0.01]">
         <motion.div
