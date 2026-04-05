@@ -19,7 +19,7 @@ export default function LPPage() {
       <Hero />
 
       {/* 2. The Pain Section */}
-      <section className="pt-16 pb-16 px-4 flex flex-col items-center justify-center text-center bg-white/[0.01]">
+      <section className="pt-0 pb-16 px-4 flex flex-col items-center justify-center text-center bg-white/[0.01]">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
@@ -27,7 +27,7 @@ export default function LPPage() {
           className="max-w-4xl mx-auto"
         >
           {/* CTA at the beginning of the section */}
-          <div className="mb-40">
+          <div className="mb-24">
             <Link 
               href="/"
               className="inline-flex items-center gap-4 px-10 py-5 rounded-full bg-white text-[#020617] hover:bg-zinc-200 transition-all font-bold group shadow-2xl shadow-white/5"
