@@ -31,7 +31,7 @@ export default function Hero() {
   const [isExecuting, setIsExecuting] = useState(false);
   const [showResult, setShowResult] = useState(false);
 
-  // カードサイズを大きく設定（1サイズアップ）
+  // カードサイズを大きく設定
   const CARD_WIDTH = 280;
   const CARD_HEIGHT = 90;
 
@@ -40,22 +40,25 @@ export default function Hero() {
       let x = 0, y = 0, angle = 0, radiusX = 0, radiusY = 0;
       let isOutsideSafeZone = false;
 
-      // 【禁止区域(Forbidden Zone)の再定義】
-      // 最上部のメインテキストエリアのみを避ける（ボタン付近はOK）
+      // 【高密度化のための制限エリア定義】
       let attempts = 0;
-      while (!isOutsideSafeZone && attempts < 50) {
+      while (!isOutsideSafeZone && attempts < 100) {
         attempts++;
         angle = Math.random() * Math.PI * 2;
-        radiusX = Math.random() * 500 + 150; 
-        radiusY = Math.random() * 300 + 120; 
+        // 以前より半径を小さくして凝縮させる
+        radiusX = Math.random() * 350 + 100; 
+        radiusY = Math.random() * 250 + 100; 
         
         x = Math.cos(angle) * radiusX;
         y = Math.sin(angle) * radiusY;
 
-        // 文字エリア判定: かなり上方のテキストエリア（y < -180）のみを封鎖
-        const isForbidden = Math.abs(x) < 450 && y < -180; 
+        // 判定1: 最上部のテキストエリア（y < -180 & 中央付近）を避ける
+        const isTopForbidden = Math.abs(x) < 450 && y < -180;
         
-        if (!isForbidden) {
+        // 判定2: 左右の端（|x| > 450）を封鎖して中央に押し込める
+        const isSideForbidden = Math.abs(x) > 450;
+
+        if (!isTopForbidden && !isSideForbidden) {
           isOutsideSafeZone = true;
         }
       }
@@ -63,7 +66,7 @@ export default function Hero() {
       return {
         x,
         y,
-        rotate: (Math.random() - 0.5) * 40,
+        rotate: (Math.random() - 0.5) * 45,
       };
     });
   }, []);
@@ -76,7 +79,7 @@ export default function Hero() {
   };
 
   return (
-    <section className="relative min-h-screen flex flex-col items-center justify-center px-4 overflow-hidden bg-[#020617] text-white">
+    <section className="relative min-h-screen flex flex-col items-center justify-center px-4 overflow-hidden bg-[#020617] text-white selection:bg-blue-500/30">
       {/* Background Aurora */}
       <div className="absolute inset-0 z-0 opacity-40 pointer-events-none">
         <div className="absolute top-1/4 left-1/4 w-[40vw] h-[40vw] bg-blue-900/40 rounded-full blur-[120px] mix-blend-screen transition-all duration-1000" />
@@ -105,9 +108,9 @@ export default function Hero() {
         </motion.p>
       </div>
 
-      <div className="relative w-full max-w-6xl h-[450px] flex items-center justify-center z-10">
+      <div className="relative w-full max-w-3xl h-[450px] flex items-center justify-center z-10">
         
-        {/* Executeボタン（中央固定） */}
+        {/* Executeボタン */}
         <AnimatePresence>
           {!showResult && (
             <motion.div 
@@ -131,14 +134,14 @@ export default function Hero() {
                   animate={{ opacity: 1 }}
                   className="text-xs text-gray-400 tracking-[0.5em] uppercase font-black"
                 >
-                  40 NEWS CHIPS DETECTED · READY TO ANALYZE
+                  40 UNSTRUCTURED DATA CHIPS FOUND
                 </motion.span>
               )}
             </motion.div>
           )}
         </AnimatePresence>
 
-        {/* 散らばる40個のノイズカード */}
+        {/* 凝縮されたノイズカード */}
         <AnimatePresence>
           {!showResult && (
             <div className="absolute inset-0 pointer-events-none overflow-visible flex items-center justify-center">
@@ -171,7 +174,7 @@ export default function Hero() {
                       opacity: 0,
                       scale: 0,
                     } : {
-                      opacity: 0.6,
+                      opacity: 0.7, // 密度を高く見せるため少し濃くする
                       scale: 1,
                       x: originX + pos.x,
                       y: originY + pos.y,
@@ -207,7 +210,7 @@ export default function Hero() {
           )}
         </AnimatePresence>
 
-        {/* 抽出されたインサイトカード */}
+        {/* 結果セクション */}
         <AnimatePresence>
           {showResult && (
             <motion.div
@@ -228,8 +231,8 @@ export default function Hero() {
               </h3>
               
               <div className="relative pl-8 border-l-2 border-blue-500/20 mb-10">
-                <p className="text-zinc-400 text-lg leading-relaxed">
-                  市場のノイズを完全に除去。FSD v12の進展と独自のAIチップ開発により、単なる製造業から「自律型社会の基盤」へと変貌するテスラの真の姿を検出しました。
+                <p className="text-zinc-400 text-lg leading-relaxed text-justify">
+                  市場の膨大なノイズを完全に除去。FSD v12の進展と独自のAIチップ開発により、単なる製造業から「自律型社会の基盤」へと変貌するテスラの真の姿を検出しました。
                 </p>
               </div>
 
