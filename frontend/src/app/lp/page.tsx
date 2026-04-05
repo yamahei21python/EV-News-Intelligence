@@ -26,16 +26,7 @@ export default function LPPage() {
           viewport={{ once: true }}
           className="max-w-4xl mx-auto"
         >
-          {/* CTA at the beginning of the section */}
-          <div className="mb-24">
-            <Link 
-              href="/"
-              className="inline-flex items-center gap-4 px-10 py-5 rounded-full bg-white text-[#020617] hover:bg-zinc-200 transition-all font-bold group shadow-2xl shadow-white/5"
-            >
-              ダッシュボードへアクセス
-              <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
-            </Link>
-          </div>
+          {/* CTA removed from here - moved to bottom of Pipeline */}
 
           <h2 className="font-noto-serif text-3xl md:text-4xl font-bold mb-8 leading-tight text-white">
             情報過多は、最大の「時間の損失」である。
@@ -89,40 +80,37 @@ export default function LPPage() {
 
       <Pipeline />
 
+      {/* Primary CTA after Pipeline */}
+      <section className="pb-32 px-4 flex justify-center">
+        <Link 
+          href="/"
+          className="inline-flex items-center gap-4 px-12 py-6 rounded-full bg-white text-[#020617] hover:bg-zinc-200 transition-all font-bold text-xl group shadow-2xl shadow-white/5"
+        >
+          ダッシュボードへアクセス
+          <ArrowRight className="w-6 h-6 group-hover:translate-x-1 transition-transform" />
+        </Link>
+      </section>
+
       <DashboardPreview />
 
-      {/* 5. Final CTA Section */}
-      <section className="py-48 px-4 relative overflow-hidden">
+      {/* 5. Final CTA Section - Simplified */}
+      <section className="py-24 px-4 relative overflow-hidden">
         {/* Subtle background glow */}
-        <div className="absolute inset-x-0 bottom-0 h-[500px] bg-gradient-to-t from-blue-900/20 to-transparent pointer-events-none" />
+        <div className="absolute inset-x-0 bottom-0 h-[500px] bg-gradient-to-t from-blue-900/10 to-transparent pointer-events-none" />
         
         <div className="max-w-4xl mx-auto text-center relative z-10">
           <motion.div
-            initial={{ opacity: 0, scale: 0.9 }}
-            whileInView={{ opacity: 1, scale: 1 }}
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
           >
-            <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/5 border border-white/10 mb-8">
-              <Sparkles className="w-4 h-4 text-blue-400" />
-              <span className="text-[10px] font-bold tracking-[0.3em] uppercase">Start your intelligence journey</span>
-            </div>
             
-            <h2 className="font-noto-serif text-[var(--text-section)] font-bold mb-12">
-              インテリジェンスを、あなたの日常に。
-            </h2>
-            
-            <Link href="/" className="inline-block">
-              <motion.div
-                whileHover={{ scale: 1.05 }}
-                whileTap={{ scale: 0.95 }}
-                className="group relative px-12 py-6 border border-white/20 rounded-full font-bold text-xl overflow-hidden hover:border-blue-500/50 transition-colors bg-white/5"
-              >
-                <span className="relative z-10 flex items-center gap-3">
-                  ダッシュボードへアクセス
-                  <ArrowRight className="w-6 h-6 group-hover:translate-x-1 transition-transform" />
-                </span>
-                <div className="absolute inset-0 bg-blue-500/5 opacity-0 group-hover:opacity-100 blur-xl transition-all" />
-              </motion.div>
+            <Link 
+              href="/"
+              className="inline-flex items-center gap-4 px-12 py-6 rounded-full bg-white text-[#020617] hover:bg-zinc-200 transition-all font-bold text-xl group shadow-2xl shadow-white/5"
+            >
+              ダッシュボードへアクセス
+              <ArrowRight className="w-6 h-6 group-hover:translate-x-1 transition-transform" />
             </Link>
           </motion.div>
         </div>

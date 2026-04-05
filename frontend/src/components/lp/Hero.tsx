@@ -75,9 +75,9 @@ export default function Hero() {
       while (!isOutsideSafeZone && attempts < 100) {
         attempts++;
         angle = Math.random() * Math.PI * 2;
-        radiusX = Math.random() * 500 + 100; 
-        radiusY = Math.random() * 400 + 50; 
-        
+        radiusX = Math.random() * 500 + 100;
+        radiusY = Math.random() * 400 + 50;
+
         x = Math.cos(angle) * radiusX;
         y = Math.sin(angle) * radiusY;
 
@@ -107,7 +107,7 @@ export default function Hero() {
 
       {/* メインタイトル */}
       <div className="relative z-20 text-center max-w-5xl mx-auto mb-16 mt-10">
-        <motion.h1 
+        <motion.h1
           className="font-noto-serif text-3xl md:text-5xl font-bold leading-tight mb-8 tracking-tight bg-clip-text text-transparent bg-gradient-to-b from-white via-white to-zinc-500"
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
@@ -115,8 +115,8 @@ export default function Hero() {
         >
           EV市場のノイズを、<br />戦略のアルファに変える。
         </motion.h1>
-        
-        <motion.p 
+
+        <motion.p
           className="text-zinc-400 max-w-3xl mx-auto text-lg md:text-xl leading-relaxed font-light"
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
@@ -127,8 +127,8 @@ export default function Hero() {
         </motion.p>
       </div>
 
-      <div className="relative w-full max-w-7xl min-h-[750px] flex items-start justify-center z-10 transition-all duration-1000 mb-12">
-        
+      <div className="relative w-full max-w-7xl min-h-[650px] flex items-start justify-center z-10 transition-all duration-1000 mb-12">
+
         {/* 凝縮されたノイズカード */}
         <AnimatePresence>
           {!showResult && (
@@ -142,15 +142,15 @@ export default function Hero() {
                   <motion.div
                     key={card.id}
                     className="absolute p-4 rounded-xl bg-white/5 backdrop-blur-xl border border-white/10 shadow-2xl"
-                    style={{ 
+                    style={{
                       width: CARD_WIDTH,
                       zIndex: 10 + i,
                       left: "50%",
                       top: "40%",
                     }}
-                    initial={{ 
-                      x: originX + pos.x, 
-                      y: originY + pos.y, 
+                    initial={{
+                      x: originX + pos.x,
+                      y: originY + pos.y,
                       rotate: pos.rotate,
                       opacity: 0,
                       scale: 0.7
@@ -167,11 +167,11 @@ export default function Hero() {
                       x: originX + pos.x,
                       y: originY + pos.y,
                     }}
-                    transition={isExecuting ? { 
+                    transition={isExecuting ? {
                       duration: 1.08, // 1.2x (0.9 * 1.2)
                       delay: i * 0.018, // 1.2x (0.015 * 1.2)
                       ease: "backIn"
-                    } : { 
+                    } : {
                       duration: 1.20, // さらにゆったり (1.2s)
                       delay: i * 0.012 // 1.2x (0.01 * 1.2)
                     }}
@@ -203,7 +203,7 @@ export default function Hero() {
           {showResult && (
             <div className="relative w-full flex items-center justify-center">
               {/* Subtle Backlight Glow (Blue & Purple) */}
-              <motion.div 
+              <motion.div
                 initial={{ opacity: 0, scale: 0.9 }}
                 animate={{ opacity: 1, scale: 1 }}
                 className="absolute inset-0 -z-10 flex items-center justify-center pointer-events-none"
@@ -213,69 +213,69 @@ export default function Hero() {
               </motion.div>
 
               <motion.div
-              initial={{ opacity: 0, y: 40 }}
-              animate={{ opacity: 1, y: 0 }}
-              className="w-full glass-card rounded-3xl p-8 md:p-10 relative overflow-hidden group border border-white/10 shadow-2xl shadow-blue-500/10"
-              transition={{ duration: 0.8 }}
-            >
-              {/* Internal accent light */}
-              <div className="absolute top-0 right-0 w-64 h-64 bg-blue-500/5 blur-3xl -mr-32 -mt-32 group-hover:bg-blue-500/10 transition-colors" />
+                initial={{ opacity: 0, y: 40 }}
+                animate={{ opacity: 1, y: 0 }}
+                className="w-full glass-card rounded-3xl p-8 md:p-10 relative overflow-hidden group border border-white/10 shadow-2xl shadow-blue-500/10"
+                transition={{ duration: 0.8 }}
+              >
+                {/* Internal accent light */}
+                <div className="absolute top-0 right-0 w-64 h-64 bg-blue-500/5 blur-3xl -mr-32 -mt-32 group-hover:bg-blue-500/10 transition-colors" />
 
-              <div className="flex flex-col lg:flex-row gap-12 relative z-10 text-left">
-                {/* Left Column: Facts */}
-                <div className="flex-1">
-                  <div className="inline-flex items-center gap-2 px-3 py-1 rounded-lg bg-blue-500/10 text-blue-400 text-xs font-bold mb-8 border border-blue-500/20 shadow-inner">
-                    <Target size={12} />
-                    <span>TOPIC #{DEMO_DATA.topic_id}</span>
+                <div className="flex flex-col lg:flex-row gap-12 relative z-10 text-left">
+                  {/* Left Column: Facts */}
+                  <div className="flex-1">
+                    <div className="inline-flex items-center gap-2 px-3 py-1 rounded-lg bg-blue-500/10 text-blue-400 text-xs font-bold mb-8 border border-blue-500/20 shadow-inner">
+                      <Target size={12} />
+                      <span>TOPIC #{DEMO_DATA.topic_id}</span>
+                    </div>
+
+                    <h3 className="text-3xl md:text-4xl font-bold text-white mb-10 leading-tight">
+                      {DEMO_DATA.title}
+                    </h3>
+
+                    <div className="space-y-6">
+                      {DEMO_DATA.summary_points.map((point, idx) => (
+                        <div key={idx} className="flex gap-5">
+                          <div className="mt-2.5 w-1.5 h-1.5 rounded-full bg-blue-500 shrink-0 shadow-[0_0_8px_rgba(59,130,246,0.8)]" />
+                          <p className="text-zinc-300 leading-relaxed font-medium">
+                            {point}
+                          </p>
+                        </div>
+                      ))}
+                    </div>
                   </div>
-                  
-                  <h3 className="text-3xl md:text-4xl font-bold text-white mb-10 leading-tight">
-                    {DEMO_DATA.title}
-                  </h3>
 
-                  <div className="space-y-6">
-                    {DEMO_DATA.summary_points.map((point, idx) => (
-                      <div key={idx} className="flex gap-5">
-                        <div className="mt-2.5 w-1.5 h-1.5 rounded-full bg-blue-500 shrink-0 shadow-[0_0_8px_rgba(59,130,246,0.8)]" />
-                        <p className="text-zinc-300 leading-relaxed font-medium">
-                          {point}
-                        </p>
+                  {/* Right Column: Insight Box */}
+                  <div className="lg:w-[38%] flex flex-col">
+                    <div className="h-full bg-white/[0.03] border border-white/5 rounded-3xl p-8 relative ring-1 ring-white/5">
+                      <div className="flex items-center gap-2 mb-6 text-amber-500 font-bold text-sm uppercase tracking-[0.2em]">
+                        <TrendingUp size={18} />
+                        <span>Industry Insight</span>
                       </div>
-                    ))}
-                  </div>
-                  </div>
 
-                {/* Right Column: Insight Box */}
-                <div className="lg:w-[38%] flex flex-col">
-                  <div className="h-full bg-white/[0.03] border border-white/5 rounded-3xl p-8 relative ring-1 ring-white/5">
-                    <div className="flex items-center gap-2 mb-6 text-amber-500 font-bold text-sm uppercase tracking-[0.2em]">
-                      <TrendingUp size={18} />
-                      <span>Industry Insight</span>
-                    </div>
-                    
-                    <div className="text-zinc-400 leading-relaxed italic text-base font-medium mb-10">
-                      "{DEMO_DATA.insight}"
-                    </div>
+                      <div className="text-zinc-400 leading-relaxed italic text-base font-medium mb-10">
+                        "{DEMO_DATA.insight}"
+                      </div>
 
-                    <div className="mt-auto pt-8 border-t border-white/10">
-                      <div className="flex flex-col gap-3">
-                        {DEMO_DATA.sources.map((source, idx) => (
-                          <div
-                            key={idx}
-                            className="group/link flex items-center justify-between gap-4 text-xs text-zinc-500 hover:text-blue-400 transition-all bg-white/[0.01] hover:bg-white/[0.04] p-3 rounded-xl border border-white/5"
-                          >
-                            <span className="truncate flex-1 font-medium italic">
-                              {source.title}
-                            </span>
-                            <Zap size={10} className="shrink-0 text-blue-500/40 group-hover/link:text-blue-400" />
-                          </div>
-                        ))}
+                      <div className="mt-auto pt-8 border-t border-white/10">
+                        <div className="flex flex-col gap-3">
+                          {DEMO_DATA.sources.map((source, idx) => (
+                            <div
+                              key={idx}
+                              className="group/link flex items-center justify-between gap-4 text-xs text-zinc-500 hover:text-blue-400 transition-all bg-white/[0.01] hover:bg-white/[0.04] p-3 rounded-xl border border-white/5"
+                            >
+                              <span className="truncate flex-1 font-medium italic">
+                                {source.title}
+                              </span>
+                              <Zap size={10} className="shrink-0 text-blue-500/40 group-hover/link:text-blue-400" />
+                            </div>
+                          ))}
+                        </div>
                       </div>
                     </div>
                   </div>
                 </div>
-              </div>
-            </motion.div>
+              </motion.div>
             </div>
           )}
         </AnimatePresence>
