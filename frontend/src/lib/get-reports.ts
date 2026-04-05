@@ -1,6 +1,3 @@
-import fs from 'fs';
-import path from 'path';
-
 export interface ArticleDetail {
   id: number;
   title: string;
@@ -19,47 +16,33 @@ export interface AnalysisReport {
   articles: ArticleDetail[]; // Joined article data
 }
 
-export async function getAvailableDates(): Promise<string[]> {
-  const archivePath = path.join(process.cwd(), '../archive');
-  if (!fs.existsSync(archivePath)) return [];
+// GitHub の RAW データを取得するためのベース URL
+const GITHUB_RAW_BASE_URL = process.env.NEXT_PUBLIC_DATA_URL || 'https://raw.githubusercontent.com/yamahei21python/EV-News-Intelligence/main';
 
-  const files = fs.readdirSync(archivePath);
-  return files
-    .filter((f) => f.endsWith('.json') && /^\d{4}-\d{2}-\d{2}\.json$/.test(f))
-    .map((f) => f.replace('.json', ''))
-    .sort((a, b) => b.localeCompare(a)); // Newest first
+export async function getAvailableDates(): Promise<string[]> {
+  try {
+    // dates.json をフェッチ
+    const res = await fetch(`${GITHUB_RAW_BASE_URL}/dates.json`, { cache: 'no-store' });
+    if (!res.ok) return [];
+    return await res.json();
+  } catch (error) {
+    console.error('Error fetching dates:', error);
+    return [];
+  }
 }
 
 export async function getReports(date?: string): Promise<AnalysisReport[]> {
-  const reportsPath = date 
-    ? path.join(process.cwd(), `../archive/${date}.json`)
-    : path.join(process.cwd(), '../final_reports.json');
-  
-  const newsPath = path.join(process.cwd(), '../featured_news.json');
+  const url = date 
+    ? `${GITHUB_RAW_BASE_URL}/archive/${date}.json`
+    : `${GITHUB_RAW_BASE_URL}/final_reports.json`;
 
   try {
-    if (!fs.existsSync(reportsPath)) return [];
+    const res = await fetch(url, { cache: 'no-store' });
+    if (!res.ok) return [];
     
-    const reportsData = JSON.parse(fs.readFileSync(reportsPath, 'utf8'));
-
-    // Archived reports (new version) already have embedded 'articles'
-    // But we still handle the old case or the latest one that might not be enriched yet
-    if (reportsData.length > 0 && reportsData[0].articles) {
-      return reportsData;
-    }
-
-    // Fallback: Join with latest featured_news.json (for final_reports.json)
-    if (!fs.existsSync(newsPath)) return reportsData;
-    const newsData: ArticleDetail[] = JSON.parse(fs.readFileSync(newsPath, 'utf8'));
-
-    return reportsData.map((report: any) => ({
-      ...report,
-      articles: report.article_ids
-        .map((id: number) => newsData.find((news) => news.id === id))
-        .filter(Boolean) as ArticleDetail[],
-    }));
+    return await res.json();
   } catch (error) {
-    console.error('Error loading reports or news:', error);
+    console.error('Error loading reports:', error);
     return [];
   }
 }

@@ -154,6 +154,14 @@ def main():
         json.dump(final_reports, f, ensure_ascii=False, indent=4)
     print(f"📦 アーカイブ保存完了: {archive_file}", flush=True)
 
+    # 追加：日付インデックスの生成 (Vercel/Remote Fetch用)
+    print("生成済みのアーカイブ一覧を更新中...", flush=True)
+    archive_files = sorted(glob.glob(os.path.join(archive_dir, "*.json")), reverse=True)
+    available_dates = [os.path.basename(f).replace(".json", "") for f in archive_files if os.path.basename(f) != "dates.json"]
+    with open("dates.json", "w", encoding="utf-8") as f:
+        json.dump(available_dates, f, ensure_ascii=False, indent=2)
+    print(f"📄 日付インデックス更新完了: {len(available_dates)}件", flush=True)
+
     # 追加：AIによる最終校閲（トピック名の整合性チェック）
     print(f"\n🧐 最終校閲（AIエディター）を実行中...")
     try:
