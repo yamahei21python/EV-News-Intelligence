@@ -98,7 +98,7 @@ export default function Hero() {
   }, []);
 
   return (
-    <section className="relative min-h-screen flex flex-col items-center justify-center px-4 overflow-hidden bg-[#020617] text-white selection:bg-blue-500/30">
+    <section className="relative min-h-screen py-32 flex flex-col items-center justify-center px-4 bg-[#020617] text-white selection:bg-blue-500/30">
       {/* Background Aurora */}
       <div className="absolute inset-0 z-0 opacity-40 pointer-events-none">
         <div className="absolute top-1/4 left-1/4 w-[40vw] h-[40vw] bg-blue-900/40 rounded-full blur-[120px] mix-blend-screen transition-all duration-1000" />
@@ -127,7 +127,7 @@ export default function Hero() {
         </motion.p>
       </div>
 
-      <div className={`relative w-full ${showResult ? 'max-w-7xl' : 'max-w-3xl'} ${showResult ? 'h-auto mt-72 mb-32' : 'h-[450px]'} flex items-center justify-center z-10 transition-all duration-1000`}>
+      <div className={`relative w-full ${showResult ? 'max-w-7xl' : 'max-w-3xl'} ${showResult ? 'h-auto mt-48 mb-32' : 'h-[450px]'} flex items-center justify-center z-10 transition-all duration-1000`}>
         
         {/* 凝縮されたノイズカード */}
         <AnimatePresence>
@@ -210,10 +210,10 @@ export default function Hero() {
               />
               
               <motion.div
-                initial={{ scale: 0.95, opacity: 0, y: 60 }}
+                initial={{ scale: 0.95, opacity: 0, y: 50 }}
                 animate={{ scale: 1, opacity: 1, y: 0 }}
-                className="relative z-10 w-full p-12 md:p-16 rounded-[4rem] bg-[#030712]/95 border border-white/10 shadow-[0_0_150px_rgba(59,130,246,0.15)] backdrop-blur-3xl overflow-hidden"
-                transition={{ type: "spring", damping: 20, stiffness: 50 }}
+                className="relative z-10 w-full p-10 md:p-14 rounded-[3rem] bg-[#030712]/95 border border-white/10 shadow-[0_0_120px_rgba(59,130,246,0.15)] backdrop-blur-3xl overflow-hidden"
+                transition={{ type: "spring", damping: 20, stiffness: 60 }}
               >
                 {/* Internal accent light */}
                 <div className="absolute top-0 right-0 w-80 h-80 bg-blue-500/5 blur-[100px] -mr-40 -mt-40 pointer-events-none" />
@@ -226,7 +226,7 @@ export default function Hero() {
                       <span>TOPIC #{DEMO_DATA.topic_id}</span>
                     </div>
                     
-                    <h3 className="text-4xl md:text-5xl font-bold text-white mb-14 leading-[1.1] tracking-tight">
+                    <h3 className="text-3xl md:text-4xl font-bold text-white mb-10 leading-[1.2] tracking-tight">
                       {DEMO_DATA.title}
                     </h3>
 
@@ -234,7 +234,7 @@ export default function Hero() {
                       {DEMO_DATA.summary_points.map((point, idx) => (
                         <div key={idx} className="flex gap-6 group">
                           <div className="mt-3.5 w-2 h-2 rounded-full bg-blue-500 shrink-0 shadow-[0_0_12px_rgba(59,130,246,1)]" />
-                          <p className="text-zinc-300 text-lg md:text-xl leading-relaxed font-normal group-hover:text-white transition-colors">
+                          <p className="text-zinc-300 text-base md:text-lg leading-relaxed font-normal group-hover:text-white transition-colors">
                             {point}
                           </p>
                         </div>
@@ -250,7 +250,7 @@ export default function Hero() {
                         <span>Industry Insight</span>
                       </div>
                       
-                      <div className="text-zinc-400 leading-relaxed italic text-base md:text-lg font-light mb-12">
+                      <div className="text-zinc-400 leading-relaxed italic text-sm md:text-base font-light mb-10">
                         "{DEMO_DATA.insight}"
                       </div>
 
