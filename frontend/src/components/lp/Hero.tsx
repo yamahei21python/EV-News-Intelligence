@@ -75,8 +75,8 @@ export default function Hero() {
       while (!isOutsideSafeZone && attempts < 100) {
         attempts++;
         angle = Math.random() * Math.PI * 2;
-        radiusX = Math.random() * 350 + 100; 
-        radiusY = Math.random() * 250 + 100; 
+        radiusX = Math.random() * 500 + 100; 
+        radiusY = Math.random() * 400 + 50; 
         
         x = Math.cos(angle) * radiusX;
         y = Math.sin(angle) * radiusY;
@@ -98,9 +98,9 @@ export default function Hero() {
   }, []);
 
   return (
-    <section className="relative min-h-screen py-32 flex flex-col items-center justify-center px-4 bg-[#020617] text-white selection:bg-blue-500/30">
+    <section className="relative min-h-screen py-32 flex flex-col items-center justify-start px-4 bg-[#020617] text-white selection:bg-blue-500/30 overflow-visible">
       {/* Background Aurora */}
-      <div className="absolute inset-0 z-0 opacity-40 pointer-events-none">
+      <div className="absolute inset-0 z-0 opacity-40 pointer-events-none overflow-hidden">
         <div className="absolute top-1/4 left-1/4 w-[40vw] h-[40vw] bg-blue-900/40 rounded-full blur-[120px] mix-blend-screen transition-all duration-1000" />
         <div className="absolute bottom-1/4 right-1/4 w-[40vw] h-[40vw] bg-purple-900/40 rounded-full blur-[120px] mix-blend-screen transition-all duration-1000" />
       </div>
@@ -127,7 +127,7 @@ export default function Hero() {
         </motion.p>
       </div>
 
-      <div className={`relative w-full ${showResult ? 'max-w-7xl' : 'max-w-3xl'} ${showResult ? 'h-auto mt-48 mb-32' : 'h-[450px]'} flex items-center justify-center z-10 transition-all duration-1000`}>
+      <div className="relative w-full max-w-7xl min-h-[850px] flex items-start justify-center z-10 transition-all duration-1000">
         
         {/* 凝縮されたノイズカード */}
         <AnimatePresence>
@@ -146,7 +146,7 @@ export default function Hero() {
                       width: CARD_WIDTH,
                       zIndex: 10 + i,
                       left: "50%",
-                      top: "50%",
+                      top: "40%",
                     }}
                     initial={{ 
                       x: originX + pos.x, 
@@ -201,78 +201,70 @@ export default function Hero() {
         {/* 結果セクション */}
         <AnimatePresence>
           {showResult && (
-            <div className="absolute z-50 flex items-center justify-center w-full max-w-7xl px-6 mt-60">
-              {/* Backlight Glow Effect */}
-              <motion.div 
-                initial={{ opacity: 0, scale: 0.8 }}
-                animate={{ opacity: 1, scale: 1 }}
-                className="absolute inset-x-0 top-1/2 -translate-y-1/2 h-[600px] bg-blue-500/15 blur-[140px] rounded-full scale-125 pointer-events-none"
-              />
-              
-              <motion.div
-                initial={{ scale: 0.95, opacity: 0, y: 50 }}
-                animate={{ scale: 1, opacity: 1, y: 0 }}
-                className="relative z-10 w-full p-10 md:p-14 rounded-[3rem] bg-[#030712]/95 border border-white/10 shadow-[0_0_120px_rgba(59,130,246,0.15)] backdrop-blur-3xl overflow-hidden"
-                transition={{ type: "spring", damping: 20, stiffness: 60 }}
-              >
-                {/* Internal accent light */}
-                <div className="absolute top-0 right-0 w-80 h-80 bg-blue-500/5 blur-[100px] -mr-40 -mt-40 pointer-events-none" />
+            <motion.div
+              initial={{ opacity: 0, y: 40 }}
+              animate={{ opacity: 1, y: 0 }}
+              className="w-full glass-card rounded-3xl p-8 md:p-10 relative overflow-hidden group border border-white/10 shadow-2xl shadow-blue-500/10"
+              transition={{ duration: 0.8 }}
+            >
+              {/* Internal accent light */}
+              <div className="absolute top-0 right-0 w-64 h-64 bg-blue-500/5 blur-3xl -mr-32 -mt-32 group-hover:bg-blue-500/10 transition-colors" />
 
-                <div className="flex flex-col lg:flex-row gap-16 text-left items-start">
-                  {/* Left Column: Facts */}
-                  <div className="flex-1">
-                    <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-lg bg-blue-500/15 text-blue-400 text-[11px] font-black border border-blue-500/20 uppercase tracking-[0.2em] mb-10">
-                      <Target size={14} />
-                      <span>TOPIC #{DEMO_DATA.topic_id}</span>
-                    </div>
-                    
-                    <h3 className="text-3xl md:text-4xl font-bold text-white mb-10 leading-[1.2] tracking-tight">
-                      {DEMO_DATA.title}
-                    </h3>
+              <div className="flex flex-col lg:flex-row gap-12 relative z-10 text-left">
+                {/* Left Column: Facts */}
+                <div className="flex-1">
+                  <div className="inline-flex items-center gap-2 px-3 py-1 rounded-lg bg-blue-500/10 text-blue-400 text-xs font-bold mb-8 border border-blue-500/20 shadow-inner">
+                    <Target size={12} />
+                    <span>TOPIC #{DEMO_DATA.topic_id}</span>
+                  </div>
+                  
+                  <h3 className="text-3xl md:text-4xl font-bold text-white mb-10 leading-tight">
+                    {DEMO_DATA.title}
+                  </h3>
 
-                    <div className="space-y-10">
-                      {DEMO_DATA.summary_points.map((point, idx) => (
-                        <div key={idx} className="flex gap-6 group">
-                          <div className="mt-3.5 w-2 h-2 rounded-full bg-blue-500 shrink-0 shadow-[0_0_12px_rgba(59,130,246,1)]" />
-                          <p className="text-zinc-300 text-base md:text-lg leading-relaxed font-normal group-hover:text-white transition-colors">
-                            {point}
-                          </p>
-                        </div>
-                      ))}
-                    </div>
+                  <div className="space-y-6">
+                    {DEMO_DATA.summary_points.map((point, idx) => (
+                      <div key={idx} className="flex gap-5">
+                        <div className="mt-2.5 w-1.5 h-1.5 rounded-full bg-blue-500 shrink-0 shadow-[0_0_8px_rgba(59,130,246,0.8)]" />
+                        <p className="text-zinc-300 leading-relaxed font-medium">
+                          {point}
+                        </p>
+                      </div>
+                    ))}
+                  </div>
                   </div>
 
-                  {/* Right Column: Insight Box (Exactly like image) */}
-                  <div className="lg:w-[42%] sticky top-0">
-                    <div className="bg-[#05091a] border border-white/5 rounded-[2.5rem] p-10 relative ring-1 ring-white/5 shadow-2xl">
-                      <div className="flex items-center gap-3 mb-8 text-amber-500 font-bold text-[12px] uppercase tracking-[0.3em]">
-                        <TrendingUp size={20} />
-                        <span>Industry Insight</span>
-                      </div>
-                      
-                      <div className="text-zinc-400 leading-relaxed italic text-sm md:text-base font-light mb-10">
-                        "{DEMO_DATA.insight}"
-                      </div>
+                {/* Right Column: Insight Box */}
+                <div className="lg:w-[38%] flex flex-col">
+                  <div className="h-full bg-white/[0.03] border border-white/5 rounded-3xl p-8 relative ring-1 ring-white/5">
+                    <div className="flex items-center gap-2 mb-6 text-amber-500 font-bold text-sm uppercase tracking-[0.2em]">
+                      <TrendingUp size={18} />
+                      <span>Industry Insight</span>
+                    </div>
+                    
+                    <div className="text-zinc-400 leading-relaxed italic text-base font-medium mb-10">
+                      "{DEMO_DATA.insight}"
+                    </div>
 
-                      {/* Source articles block */}
-                      <div className="pt-8 border-t border-white/5 space-y-3">
+                    <div className="mt-auto pt-8 border-t border-white/10">
+                      <div className="flex flex-col gap-3">
                         {DEMO_DATA.sources.map((source, idx) => (
                           <div
                             key={idx}
-                            className="flex items-center justify-between gap-4 text-[11px] text-zinc-500 bg-white/[0.02] p-4 rounded-2xl border border-white/5 hover:bg-white/[0.05] transition-all group/link cursor-pointer"
+                            className="group/link flex items-center justify-between gap-4 text-xs text-zinc-500 hover:text-blue-400 transition-all bg-white/[0.01] hover:bg-white/[0.04] p-3 rounded-xl border border-white/5"
                           >
-                            <span className="truncate font-medium italic opacity-80 group-hover/link:opacity-100 group-hover/link:text-blue-400 transition-colors">
+                            <span className="truncate flex-1 font-medium italic">
                               {source.title}
                             </span>
-                            <Zap size={14} className="shrink-0 text-blue-500/30 group-hover/link:text-blue-400 group-hover/link:animate-pulse transition-colors" />
+                            <Zap size={10} className="shrink-0 text-blue-500/40 group-hover/link:text-blue-400" />
                           </div>
                         ))}
                       </div>
                     </div>
                   </div>
                 </div>
-              </motion.div>
-            </div>
+              </div>
+            </motion.div>
           )}
         </AnimatePresence>
       </div>
