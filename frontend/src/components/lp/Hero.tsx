@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useState, useMemo, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Sparkles, Zap, ShieldAlert, FileText, Cpu } from "lucide-react";
 
@@ -31,32 +31,41 @@ export default function Hero() {
   const [isExecuting, setIsExecuting] = useState(false);
   const [showResult, setShowResult] = useState(false);
 
-  // カードサイズを大きく設定
+  // カードサイズ
   const CARD_WIDTH = 280;
   const CARD_HEIGHT = 90;
+
+  // 1秒後に自動実行するロジックを復活
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setIsExecuting(true);
+      // 分析完了（結果表示）までのタイマー
+      const resultTimer = setTimeout(() => {
+        setShowResult(true);
+      }, 1400);
+      return () => clearTimeout(resultTimer);
+    }, 1000);
+    
+    return () => clearTimeout(timer);
+  }, []);
 
   const cardPositions = useMemo(() => {
     return GENERATED_NOISE_CARDS.map(() => {
       let x = 0, y = 0, angle = 0, radiusX = 0, radiusY = 0;
       let isOutsideSafeZone = false;
 
-      // 【高密度化のための制限エリア定義】
       let attempts = 0;
       while (!isOutsideSafeZone && attempts < 100) {
         attempts++;
         angle = Math.random() * Math.PI * 2;
-        // 以前より半径を小さくして凝縮させる
         radiusX = Math.random() * 350 + 100; 
         radiusY = Math.random() * 250 + 100; 
         
         x = Math.cos(angle) * radiusX;
         y = Math.sin(angle) * radiusY;
 
-        // 判定1: 最上部のテキストエリア（y < -180 & 中央付近）を避ける
         const isTopForbidden = Math.abs(x) < 450 && y < -180;
-        
-        // 判定2: 左右の端（|x| > 450）を封鎖して中央に押し込める
-        const isSideForbidden = Math.abs(x) > 450;
+        const isSideForbidden = Math.abs(x) > 420;
 
         if (!isTopForbidden && !isSideForbidden) {
           isOutsideSafeZone = true;
@@ -70,13 +79,6 @@ export default function Hero() {
       };
     });
   }, []);
-
-  const handleExecute = () => {
-    setIsExecuting(true);
-    setTimeout(() => {
-      setShowResult(true);
-    }, 1200); 
-  };
 
   return (
     <section className="relative min-h-screen flex flex-col items-center justify-center px-4 overflow-hidden bg-[#020617] text-white selection:bg-blue-500/30">
@@ -110,33 +112,26 @@ export default function Hero() {
 
       <div className="relative w-full max-w-3xl h-[450px] flex items-center justify-center z-10">
         
-        {/* Executeボタン */}
+        {/* ステータス表示 */}
         <AnimatePresence>
           {!showResult && (
             <motion.div 
               className="absolute inset-0 flex flex-col items-center justify-center gap-6 z-50 pointer-events-none"
               exit={{ opacity: 0, scale: 0.8 }}
             >
-              <button
-                onClick={handleExecute}
-                disabled={isExecuting}
-                className="group pointer-events-auto relative px-12 py-6 bg-white text-black font-extrabold rounded-full overflow-hidden transition-all hover:scale-105 active:scale-95 disabled:opacity-50 shadow-[0_0_60px_rgba(255,255,255,0.2)]"
-              >
+              <div className="relative px-12 py-6 bg-white text-black font-extrabold rounded-full shadow-[0_0_60px_rgba(255,255,255,0.2)]">
                 <span className="relative z-10 flex items-center gap-3 text-xl uppercase tracking-widest">
-                  {isExecuting ? <Cpu className="w-7 h-7 animate-pulse" /> : <Sparkles className="w-7 h-7" />}
-                  {isExecuting ? "Analyzing..." : "Execute AI Intelligence"}
+                  {isExecuting ? <Cpu className="w-7 h-7 animate-pulse text-blue-600" /> : <Sparkles className="w-7 h-7 text-zinc-400" />}
+                  {isExecuting ? "AI Analyzing..." : "Ready to Analyze"}
                 </span>
-                <div className="absolute inset-0 bg-gradient-to-r from-blue-100 to-purple-100 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
-              </button>
-              {!isExecuting && (
-                <motion.span 
-                  initial={{ opacity: 0 }}
-                  animate={{ opacity: 1 }}
-                  className="text-xs text-gray-400 tracking-[0.5em] uppercase font-black"
-                >
-                  40 UNSTRUCTURED DATA CHIPS FOUND
-                </motion.span>
-              )}
+              </div>
+              <motion.span 
+                initial={{ opacity: 0 }}
+                animate={{ opacity: 1 }}
+                className="text-[10px] text-zinc-500 tracking-[0.5em] uppercase font-black"
+              >
+                {isExecuting ? "Processing 40 unstructured nodes..." : "System Standby"}
+              </motion.span>
             </motion.div>
           )}
         </AnimatePresence>
@@ -174,13 +169,13 @@ export default function Hero() {
                       opacity: 0,
                       scale: 0,
                     } : {
-                      opacity: 0.7, // 密度を高く見せるため少し濃くする
+                      opacity: 0.7,
                       scale: 1,
                       x: originX + pos.x,
                       y: originY + pos.y,
                     }}
                     transition={isExecuting ? { 
-                      duration: 0.8, 
+                      duration: 0.9, 
                       delay: i * 0.015,
                       ease: "backIn"
                     } : { 
