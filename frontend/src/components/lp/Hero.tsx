@@ -37,25 +37,32 @@ export default function Hero() {
 
   const cardPositions = useMemo(() => {
     return GENERATED_NOISE_CARDS.map(() => {
-      // 角度と半径の計算
-      let angle = Math.random() * Math.PI * 2;
-      let radiusX = Math.random() * 450 + 200; // 横に広く
-      let radiusY = Math.random() * 250 + 150; // 縦は少し抑える
+      let x = 0, y = 0, angle = 0, radiusX = 0, radiusY = 0;
+      let isOutsideSafeZone = false;
 
-      // 【文字避けロジック】
-      // 真上（文字がある方向）付近の角度を避けさせる、または半径を大きくして文字を飛び越えさせる
-      const angleDeg = (angle * 180) / Math.PI;
-      const isTopZone = angleDeg > 220 && angleDeg < 320;
-      
-      if (isTopZone) {
-        // 文字がある上方向の場合は、半径を強制的に大きくして文字の上に被らないようにする
-        radiusY += 200;
-        radiusX += 50;
+      // 【禁止区域(Forbidden Zone)回避ロジック】
+      // 左右500px以内 かつ 上方向(y < -50) にカードを配置させない（文字があるエリア）
+      let attempts = 0;
+      while (!isOutsideSafeZone && attempts < 100) {
+        attempts++;
+        angle = Math.random() * Math.PI * 2;
+        radiusX = Math.random() * 550 + 250; // 外側に大きく散らす
+        radiusY = Math.random() * 350 + 150; 
+        
+        x = Math.cos(angle) * radiusX;
+        y = Math.sin(angle) * radiusY;
+
+        // 文字エリア判定: 文字は中央上部に位置するため、そこを避ける
+        const isForbidden = Math.abs(x) < 550 && y < -20; // y < -20 以上のエリア（上側）を封鎖
+        
+        if (!isForbidden) {
+          isOutsideSafeZone = true;
+        }
       }
 
       return {
-        x: Math.cos(angle) * radiusX,
-        y: Math.sin(angle) * (isTopZone ? radiusY : radiusY),
+        x,
+        y,
         rotate: (Math.random() - 0.5) * 60,
       };
     });
@@ -65,7 +72,7 @@ export default function Hero() {
     setIsExecuting(true);
     setTimeout(() => {
       setShowResult(true);
-    }, 1400); // 80個なので少しだけ時間をかける
+    }, 1400); 
   };
 
   return (
@@ -76,8 +83,8 @@ export default function Hero() {
         <div className="absolute bottom-1/4 right-1/4 w-[40vw] h-[40vw] bg-purple-900/40 rounded-full blur-[120px] mix-blend-screen transition-all duration-1000" />
       </div>
 
-      {/* 文字セクション - カードが被らないようにmb-24に設定 */}
-      <div className="relative z-20 text-center max-w-5xl mx-auto mb-24 mt-10">
+      {/* 文字セクション - マージンを増やしてノイズ群との境界を明確化 */}
+      <div className="relative z-20 text-center max-w-5xl mx-auto mb-32 mt-10">
         <motion.h1 
           className="font-noto-serif text-[var(--text-hero)] font-bold leading-tight mb-8 tracking-tight bg-clip-text text-transparent bg-gradient-to-b from-white via-white to-gray-500"
           initial={{ opacity: 0, y: 20 }}
@@ -88,7 +95,7 @@ export default function Hero() {
         </motion.h1>
         
         <motion.p 
-          className="text-gray-400 max-w-3xl mx-auto text-lg leading-relaxed"
+          className="text-gray-400 max-w-3xl mx-auto text-lg leading-relaxed font-medium"
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ delay: 0.2, duration: 0.8 }}
@@ -110,11 +117,11 @@ export default function Hero() {
               <button
                 onClick={handleExecute}
                 disabled={isExecuting}
-                className="group pointer-events-auto relative px-10 py-5 bg-white text-black font-bold rounded-full overflow-hidden transition-all hover:scale-105 active:scale-95 disabled:opacity-50 shadow-[0_0_50px_rgba(255,255,255,0.2)]"
+                className="group pointer-events-auto relative px-12 py-6 bg-white text-black font-extrabold rounded-full overflow-hidden transition-all hover:scale-105 active:scale-95 disabled:opacity-50 shadow-[0_0_60px_rgba(255,255,255,0.2)]"
               >
-                <span className="relative z-10 flex items-center gap-2 text-lg uppercase tracking-wider">
+                <span className="relative z-10 flex items-center gap-3 text-xl uppercase tracking-widest">
                   {isExecuting ? <Cpu className="w-6 h-6 animate-pulse" /> : <Sparkles className="w-6 h-6" />}
-                  {isExecuting ? "Compressing Noise Swarm..." : "Execute AI Intelligence"}
+                  {isExecuting ? "Compressing..." : "Execute AI Intelligence"}
                 </span>
                 <div className="absolute inset-0 bg-gradient-to-r from-blue-100 to-purple-100 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
               </button>
@@ -122,16 +129,16 @@ export default function Hero() {
                 <motion.span 
                   initial={{ opacity: 0 }}
                   animate={{ opacity: 1 }}
-                  className="text-xs text-gray-500 tracking-[0.4em] uppercase font-bold"
+                  className="text-[10px] text-gray-500 tracking-[0.5em] uppercase font-black"
                 >
-                  80 NEWS CHIPS FOUND · CLICK TO ANALYZE
+                  80 NEWS CHIPS DETECTED · READY TO ANALYZE
                 </motion.span>
               )}
             </motion.div>
           )}
         </AnimatePresence>
 
-        {/* 散らばる80個のノイズカード */}
+        {/* 散らばる80個のノイズカード (文字避け済み) */}
         <AnimatePresence>
           {!showResult && (
             <div className="absolute inset-0 pointer-events-none overflow-visible flex items-center justify-center">
@@ -143,7 +150,7 @@ export default function Hero() {
                 return (
                   <motion.div
                     key={card.id}
-                    className="absolute p-3 rounded-lg bg-white/5 backdrop-blur-md border border-white/10 shadow-xl"
+                    className="absolute p-3 rounded-lg bg-white/5 backdrop-blur-md border border-white/5 shadow-xl"
                     style={{ 
                       width: CARD_WIDTH,
                       zIndex: 10 + i,
@@ -160,35 +167,35 @@ export default function Hero() {
                     animate={isExecuting ? {
                       x: originX,
                       y: originY,
-                      rotate: pos.rotate + 720, // 激しく回転
+                      rotate: pos.rotate + 720,
                       opacity: 0,
                       scale: 0,
                     } : {
-                      opacity: 0.4, // 数が多いので透過度を上げる
+                      opacity: 0.4,
                       scale: 1,
                       x: originX + pos.x,
                       y: originY + pos.y,
                     }}
                     transition={isExecuting ? { 
-                      duration: 1.0, 
-                      delay: i * 0.01, // 0.01秒ずつずらすことで「渦」に見える
+                      duration: 1.1, 
+                      delay: i * 0.012,
                       ease: "backIn"
                     } : { 
-                      duration: 0.7,
+                      duration: 0.8,
                       delay: i * 0.005
                     }}
                   >
                     <div className="flex items-start gap-2">
-                      <div className="mt-0.5 opacity-50">
-                        {card.type === "ad" && <Zap size={12} className="text-yellow-500" />}
-                        {card.type === "duplicate" && <FileText size={12} className="text-blue-400" />}
-                        {card.type === "noise" && <ShieldAlert size={12} className="text-red-500" />}
+                      <div className="mt-0.5 opacity-40">
+                        {card.type === "ad" && <Zap size={10} className="text-yellow-500" />}
+                        {card.type === "duplicate" && <FileText size={10} className="text-blue-400" />}
+                        {card.type === "noise" && <ShieldAlert size={10} className="text-red-500" />}
                       </div>
                       <div>
-                        <p className="text-[8px] text-gray-500 leading-none mb-1 uppercase tracking-tighter">
+                        <p className="text-[7px] text-gray-500 leading-none mb-1 uppercase font-bold tracking-tighter">
                           {card.type}
                         </p>
-                        <p className="text-[10px] font-medium text-gray-300 leading-[1.2] line-clamp-2">
+                        <p className="text-[10px] font-medium text-gray-300 leading-tight line-clamp-2">
                           {card.title}
                         </p>
                       </div>
@@ -204,31 +211,31 @@ export default function Hero() {
         <AnimatePresence>
           {showResult && (
             <motion.div
-              initial={{ scale: 0.6, opacity: 0, y: 30 }}
+              initial={{ scale: 0.5, opacity: 0, y: 30 }}
               animate={{ scale: 1, opacity: 1, y: 0 }}
-              className="absolute z-50 p-10 w-full max-w-lg rounded-3xl bg-[#0a0a0a] border border-blue-500/40 shadow-[0_0_80px_rgba(59,130,246,0.2)] backdrop-blur-3xl"
+              className="absolute z-50 p-12 w-full max-w-xl rounded-3xl bg-[#0a0a0a] border border-blue-500/30 shadow-[0_0_100px_rgba(59,130,246,0.3)] backdrop-blur-3xl"
               transition={{ type: "spring", damping: 15, stiffness: 100 }}
             >
-              <div className="flex items-center gap-3 mb-6">
-                <div className="p-2 rounded-lg bg-blue-500/10">
-                  <Sparkles className="w-5 h-5 text-blue-400" />
+              <div className="flex items-center gap-3 mb-8">
+                <div className="p-2.5 rounded-xl bg-blue-500/10">
+                  <Sparkles className="w-6 h-6 text-blue-400" />
                 </div>
-                <span className="text-xs font-black tracking-[0.4em] text-blue-400 uppercase">Intelligence Extracted</span>
+                <span className="text-[10px] font-black tracking-[0.5em] text-blue-400 uppercase">Strategic Insight Extracted</span>
               </div>
               
-              <h3 className="font-noto-serif text-3xl font-bold mb-6 leading-tight text-white">
-                テスラ、EVメーカーから<br/>「AI基盤企業」への転換
+              <h3 className="font-noto-serif text-4xl font-bold mb-8 leading-tight text-white">
+                テスラ、EVメーカーから<br/>「AI基盤プラットフォーム」へ
               </h3>
               
-              <div className="relative pl-6 border-l-2 border-blue-500/30 mb-8">
-                <p className="text-zinc-400 text-base leading-relaxed">
-                  80以上のノイズを排除した結果、重要なシグナルを検出：FSD v12の進展と特許群は、単なる自動車販売を超えた「AIエージェントプラットフォーム」への進化を物語っています。
+              <div className="relative pl-8 border-l-2 border-blue-500/20 mb-10">
+                <p className="text-zinc-400 text-lg leading-relaxed">
+                  80個のノイズを完全に除去。FSD v12の進展と特許群の分析により、単なるハードウェア製造を超えた「自律型AIエージェントの基盤企業」への構造的転換を検知しました。
                 </p>
               </div>
 
               <div className="flex flex-wrap gap-3">
-                <span className="px-4 py-1.5 bg-blue-500/10 text-blue-300 text-[10px] font-black rounded-full border border-blue-500/20 uppercase">Strategic Pivot</span>
-                <span className="px-4 py-1.5 bg-purple-500/10 text-purple-300 text-[10px] font-black rounded-full border border-purple-500/20 uppercase">AI Hegemony</span>
+                <span className="px-5 py-2 bg-blue-500/10 text-blue-300 text-[11px] font-black rounded-xl border border-blue-500/20 uppercase tracking-widest">Structural Pivot</span>
+                <span className="px-5 py-2 bg-purple-500/10 text-purple-300 text-[11px] font-black rounded-xl border border-purple-500/20 uppercase tracking-widest">AI Hegemony</span>
               </div>
             </motion.div>
           )}
