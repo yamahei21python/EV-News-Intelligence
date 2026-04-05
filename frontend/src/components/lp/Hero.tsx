@@ -41,7 +41,7 @@ export default function Hero() {
       setIsExecuting(true);
       const resultTimer = setTimeout(() => {
         setShowResult(true);
-      }, 1680); // 1.2x (1400 * 1.2)
+      }, 1800); // 完璧な同期 (1.8秒)
       return () => clearTimeout(resultTimer);
     }, 1000);
     return () => clearTimeout(timer);
@@ -153,7 +153,7 @@ export default function Hero() {
                       delay: i * 0.018, // 1.2x (0.015 * 1.2)
                       ease: "backIn"
                     } : { 
-                      duration: 0.72, // 1.2x (0.6 * 1.2)
+                      duration: 1.00, // さらにゆったり (1.0s)
                       delay: i * 0.012 // 1.2x (0.01 * 1.2)
                     }}
                   >
