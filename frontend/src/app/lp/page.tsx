@@ -19,7 +19,7 @@ export default function LPPage() {
       <Hero />
 
       {/* 2. The Pain Section */}
-      <section className="pt-16 pb-32 px-4 flex flex-col items-center justify-center text-center bg-white/[0.01]">
+      <section className="pt-16 pb-16 px-4 flex flex-col items-center justify-center text-center bg-white/[0.01]">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
