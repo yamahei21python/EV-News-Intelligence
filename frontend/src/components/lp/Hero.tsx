@@ -201,7 +201,18 @@ export default function Hero() {
         {/* 結果セクション */}
         <AnimatePresence>
           {showResult && (
-            <motion.div
+            <div className="relative w-full flex items-center justify-center">
+              {/* Subtle Backlight Glow (Blue & Purple) */}
+              <motion.div 
+                initial={{ opacity: 0, scale: 0.9 }}
+                animate={{ opacity: 1, scale: 1 }}
+                className="absolute inset-0 -z-10 flex items-center justify-center pointer-events-none"
+              >
+                <div className="w-[120%] h-[120%] bg-blue-500/10 blur-[150px] rounded-full" />
+                <div className="absolute w-[80%] h-[80%] bg-purple-500/5 blur-[120px] rounded-full translate-x-20 -translate-y-20" />
+              </motion.div>
+
+              <motion.div
               initial={{ opacity: 0, y: 40 }}
               animate={{ opacity: 1, y: 0 }}
               className="w-full glass-card rounded-3xl p-8 md:p-10 relative overflow-hidden group border border-white/10 shadow-2xl shadow-blue-500/10"
@@ -265,6 +276,7 @@ export default function Hero() {
                 </div>
               </div>
             </motion.div>
+            </div>
           )}
         </AnimatePresence>
       </div>
