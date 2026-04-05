@@ -127,7 +127,7 @@ export default function Hero() {
         </motion.p>
       </div>
 
-      <div className="relative w-full max-w-7xl min-h-[650px] flex items-start justify-center z-10 transition-all duration-1000 mb-12">
+      <div className="relative w-full max-w-7xl min-h-[600px] flex items-start justify-center z-10 transition-all duration-1000 mb-12">
 
         {/* 凝縮されたノイズカード */}
         <AnimatePresence>

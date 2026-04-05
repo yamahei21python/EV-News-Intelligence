@@ -41,7 +41,7 @@ export default function LPPage() {
                 {/* Subtle shine effect on hover */}
                 <div className="absolute inset-0 bg-gradient-to-r from-transparent via-zinc-100/50 to-transparent -translate-x-[100%] group-hover:translate-x-[100%] transition-transform duration-1000" />
               </motion.div>
-              
+
               {/* Outer Glow Effect */}
               <div className="absolute inset-x-0 inset-y-0 bg-white/20 blur-2xl rounded-full opacity-0 group-hover:opacity-100 transition-opacity duration-500 -z-10" />
             </Link>
@@ -102,13 +102,13 @@ export default function LPPage() {
       <DashboardPreview />
 
       {/* 5. Final CTA Section - Polished */}
-      <section className="py-10 px-4 relative overflow-hidden">
+      <section className="py-5 px-4 relative overflow-hidden">
         {/* Spotlight Effect */}
         <div className="absolute inset-0 z-0 pointer-events-none">
           <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[400px] bg-blue-500/10 blur-[120px] rounded-full opacity-60" />
           <div className="absolute bottom-0 inset-x-0 h-px bg-gradient-to-r from-transparent via-white/10 to-transparent" />
         </div>
-        
+
         <div className="max-w-4xl mx-auto text-center relative z-10">
           <motion.div
             initial={{ opacity: 0, scale: 0.95 }}
@@ -130,7 +130,7 @@ export default function LPPage() {
                 {/* Subtle shine effect on hover */}
                 <div className="absolute inset-0 bg-gradient-to-r from-transparent via-zinc-100/50 to-transparent -translate-x-[100%] group-hover:translate-x-[100%] transition-transform duration-1000" />
               </motion.div>
-              
+
               {/* Outer Glow Effect */}
               <div className="absolute inset-x-0 inset-y-0 bg-white/20 blur-2xl rounded-full opacity-0 group-hover:opacity-100 transition-opacity duration-500 -z-10" />
             </Link>
