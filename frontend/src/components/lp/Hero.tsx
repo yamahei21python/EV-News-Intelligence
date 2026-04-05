@@ -41,7 +41,7 @@ export default function Hero() {
       setIsExecuting(true);
       const resultTimer = setTimeout(() => {
         setShowResult(true);
-      }, 1400);
+      }, 1680); // 1.2x (1400 * 1.2)
       return () => clearTimeout(resultTimer);
     }, 1000);
     return () => clearTimeout(timer);
@@ -149,12 +149,12 @@ export default function Hero() {
                       y: originY + pos.y,
                     }}
                     transition={isExecuting ? { 
-                      duration: 0.9, 
-                      delay: i * 0.015,
+                      duration: 1.08, // 1.2x (0.9 * 1.2)
+                      delay: i * 0.018, // 1.2x (0.015 * 1.2)
                       ease: "backIn"
                     } : { 
-                      duration: 0.6,
-                      delay: i * 0.01
+                      duration: 0.72, // 1.2x (0.6 * 1.2)
+                      delay: i * 0.012 // 1.2x (0.01 * 1.2)
                     }}
                   >
                     <div className="flex items-start gap-4">
