@@ -153,7 +153,7 @@ export default function Hero() {
                       delay: i * 0.018, // 1.2x (0.015 * 1.2)
                       ease: "backIn"
                     } : { 
-                      duration: 1.00, // さらにゆったり (1.0s)
+                      duration: 1.20, // さらにゆったり (1.2s)
                       delay: i * 0.012 // 1.2x (0.01 * 1.2)
                     }}
                   >
