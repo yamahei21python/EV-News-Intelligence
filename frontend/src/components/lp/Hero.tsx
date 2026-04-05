@@ -6,7 +6,6 @@ import { Sparkles, Zap, ShieldAlert, FileText, Cpu } from "lucide-react";
 
 /**
  * 📝 ノイズ記事データ
- * 画面上に散らばる「無価値な情報」のリストです。
  */
 const NOISE_CARDS = [
   { id: 1, title: "広告: 最新EV充電器がお買い得！", type: "ad" },
@@ -30,23 +29,24 @@ export default function Hero() {
   const [isExecuting, setIsExecuting] = useState(false);
   const [showResult, setShowResult] = useState(false);
 
-  // 散らばる初期位置を計算（コンポーネントの再描画で位置が飛ばないようuseMemo化）
+  // カードサイズを固定（中心計算用）
+  const CARD_WIDTH = 240;
+  const CARD_HEIGHT = 80;
+
   const cardPositions = useMemo(() => {
     return NOISE_CARDS.map(() => {
-      // 画面中央からの距離（半径）と角度をランダムに設定し、円状に綺麗に散らす
-      const radius = Math.random() * 250 + 150; // 150px ~ 400pxの距離
-      const angle = Math.random() * Math.PI * 2; // 360度ランダム
+      const radius = Math.random() * 250 + 180;
+      const angle = Math.random() * Math.PI * 2;
       return {
         x: Math.cos(angle) * radius,
         y: Math.sin(angle) * radius,
-        rotate: (Math.random() - 0.5) * 40, // 傾き
+        rotate: (Math.random() - 0.5) * 40,
       };
     });
   }, []);
 
   const handleExecute = () => {
     setIsExecuting(true);
-    // 吸い込みアニメーションが終わった頃にInsightを表示
     setTimeout(() => {
       setShowResult(true);
     }, 1200);
@@ -81,29 +81,34 @@ export default function Hero() {
         </motion.p>
       </div>
 
-      {/* Simulator Area */}
-      <div className="relative w-full max-w-4xl h-[450px] flex items-center justify-center z-10">
+      <div className="relative w-full max-w-4xl h-[500px] flex items-center justify-center z-10">
         
-        {/* 真ん中の「Execute」ボタン */}
+        {/* Executeボタンの完全なセンタリング */}
         <AnimatePresence>
           {!showResult && (
             <motion.div 
-              className="absolute z-50 flex flex-col items-center gap-4"
+              className="absolute inset-0 flex flex-col items-center justify-center gap-4 z-50"
               exit={{ opacity: 0, scale: 0.8 }}
             >
               <button
                 onClick={handleExecute}
                 disabled={isExecuting}
-                className="group relative px-8 py-4 bg-white text-black font-bold rounded-full overflow-hidden transition-all hover:scale-105 active:scale-95 disabled:opacity-50 disabled:hover:scale-100 shadow-[0_0_40px_rgba(255,255,255,0.2)]"
+                className="group relative px-10 py-5 bg-white text-black font-bold rounded-full overflow-hidden transition-all hover:scale-105 active:scale-95 disabled:opacity-50 shadow-[0_0_50px_rgba(255,255,255,0.15)]"
               >
-                <span className="relative z-10 flex items-center gap-2">
-                  {isExecuting ? <Cpu className="w-5 h-5 animate-pulse" /> : <Sparkles className="w-5 h-5" />}
+                <span className="relative z-10 flex items-center gap-2 text-lg">
+                  {isExecuting ? <Cpu className="w-6 h-6 animate-pulse" /> : <Sparkles className="w-6 h-6" />}
                   {isExecuting ? "Extracting Signals..." : "Execute AI Intelligence"}
                 </span>
-                <div className="absolute inset-0 bg-gradient-to-r from-blue-200 to-purple-200 opacity-0 group-hover:opacity-100 transition-opacity duration-300 -z-0" />
+                <div className="absolute inset-0 bg-gradient-to-r from-blue-200 to-purple-200 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
               </button>
               {!isExecuting && (
-                <span className="text-xs text-gray-500 tracking-widest uppercase">Click to compress 5,000+ news</span>
+                <motion.span 
+                  initial={{ opacity: 0 }}
+                  animate={{ opacity: 1 }}
+                  className="text-xs text-gray-500 tracking-[0.3em] uppercase"
+                >
+                  Click to compress 5,000+ news
+                </motion.span>
               )}
             </motion.div>
           )}
@@ -112,53 +117,62 @@ export default function Hero() {
         {/* 散らばるノイズカード */}
         <AnimatePresence>
           {!showResult && (
-            <div className="absolute inset-0 pointer-events-none">
+            <div className="absolute inset-0 pointer-events-none overflow-visible">
               {NOISE_CARDS.map((card, i) => {
                 const pos = cardPositions[i];
+                // 完璧な数学的センタリング: コンテナ中央(left:50%, top:50%)を原点とし、
+                // カード自身のサイズ(width/2, height/2)分を差し引いて真の「中心」を合わせる
+                const originX = -(CARD_WIDTH / 2);
+                const originY = -(CARD_HEIGHT / 2);
+
                 return (
                   <motion.div
                     key={card.id}
-                    className="absolute left-1/2 top-1/2 p-3 w-60 rounded-xl bg-white/5 backdrop-blur-md border border-white/10 shadow-2xl"
-                    style={{ zIndex: 10 + i }}
+                    className="absolute p-4 w-[240px] rounded-xl bg-white/5 backdrop-blur-lg border border-white/10 shadow-2xl"
+                    style={{ 
+                      zIndex: 10 + i,
+                      left: "50%",
+                      top: "50%",
+                    }}
                     initial={{ 
-                      x: `calc(-50% + ${pos.x}px)`, 
-                      y: `calc(-50% + ${pos.y}px)`, 
+                      x: originX + pos.x, 
+                      y: originY + pos.y, 
                       rotate: pos.rotate,
                       opacity: 0,
-                      scale: 0.9
+                      scale: 0.8
                     }}
                     animate={isExecuting ? {
-                      x: "-50%",
-                      y: "-50%",
-                      rotate: pos.rotate + 180,
+                      x: originX, // 中心点へ吸い込まれる
+                      y: originY,
+                      rotate: pos.rotate + 360, // 激しく回転しながら吸い込まれる
                       opacity: 0,
                       scale: 0,
                     } : {
                       opacity: 0.6,
                       scale: 1,
-                      x: `calc(-50% + ${pos.x}px)`,
-                      y: `calc(-50% + ${pos.y}px)`,
+                      x: originX + pos.x,
+                      y: originY + pos.y,
                     }}
                     transition={isExecuting ? { 
-                      duration: 0.8, 
-                      delay: i * 0.03,
+                      duration: 0.9, 
+                      delay: i * 0.02,
                       ease: "backIn"
                     } : { 
-                      duration: 0.5,
-                      delay: i * 0.05
+                      duration: 0.6,
+                      delay: i * 0.04
                     }}
                   >
-                    <div className="flex items-start gap-3 opacity-70">
+                    <div className="flex items-start gap-3 opacity-60">
                       <div className="mt-1">
                         {card.type === "ad" && <Zap className="w-4 h-4 text-yellow-500" />}
                         {card.type === "duplicate" && <FileText className="w-4 h-4 text-blue-400" />}
-                        {card.type === "noise" && <ShieldAlert className="w-4 h-4 text-red-400" />}
+                        {card.type === "noise" && <ShieldAlert className="w-4 h-4 text-red-500" />}
                       </div>
                       <div>
-                        <p className="text-[10px] text-gray-400 mb-1 tracking-wider">
+                        <p className="text-[9px] text-gray-500 mb-1 tracking-widest">
                           {card.type.toUpperCase()}
                         </p>
-                        <p className="text-xs font-medium text-gray-300 line-clamp-2">
+                        <p className="text-xs font-semibold text-gray-300 line-clamp-2">
                           {card.title}
                         </p>
                       </div>
@@ -170,40 +184,36 @@ export default function Hero() {
           )}
         </AnimatePresence>
 
-        {/* 抽出されたインサイトカード（結果） */}
+        {/* インサイトカードの出現 */}
         <AnimatePresence>
           {showResult && (
             <motion.div
-              initial={{ scale: 0.5, opacity: 0, y: 50, rotateX: -20 }}
+              initial={{ scale: 0.4, opacity: 0, y: 40, rotateX: -30 }}
               animate={{ scale: 1, opacity: 1, y: 0, rotateX: 0 }}
-              className="absolute z-50 p-8 w-full max-w-lg rounded-2xl bg-[#111] border border-blue-500/30 shadow-[0_0_60px_rgba(59,130,246,0.15)] backdrop-blur-xl"
-              transition={{ type: "spring", damping: 20, stiffness: 100 }}
+              className="absolute z-50 p-10 w-full max-w-lg rounded-3xl bg-[#0a0a0a] border border-blue-500/40 shadow-[0_0_80px_rgba(59,130,246,0.15)] backdrop-blur-2xl"
+              transition={{ type: "spring", damping: 18, stiffness: 120 }}
             >
-              <div className="flex items-center gap-2 mb-5">
-                <Sparkles className="w-5 h-5 text-blue-400" />
-                <span className="text-xs font-bold tracking-widest text-blue-400 uppercase">AI Industry Insight</span>
-                <span className="ml-auto text-xs text-gray-500">Just now</span>
+              <div className="flex items-center gap-3 mb-6">
+                <div className="p-2 rounded-lg bg-blue-500/10">
+                  <Sparkles className="w-5 h-5 text-blue-400" />
+                </div>
+                <span className="text-xs font-black tracking-[0.3em] text-blue-400 uppercase">AI Strategic Insight</span>
               </div>
-              <h3 className="font-noto-serif text-2xl font-bold mb-4 leading-snug">
+              
+              <h3 className="font-noto-serif text-3xl font-bold mb-6 leading-snug text-white">
                 テスラ、EVメーカーから<br/>「AIプロバイダー」への構造的転換
               </h3>
               
-              <div className="relative pl-4 border-l-2 border-purple-500/50 mb-6">
-                <p className="text-gray-300 text-sm leading-relaxed">
-                  最新の特許申請とFSD v12の展開速度から、単なるハードウェア企業ではない優位性が浮き彫りに。AIエージェントの基盤プラットフォーム化を狙う動きは、既存の自動車メーカーにとって最大の脅威となる。
+              <div className="relative pl-6 border-l-2 border-blue-500/30 mb-8">
+                <p className="text-zinc-400 text-base leading-relaxed">
+                  最新の特許申請とFSD v12の展開速度から、単なるハードウェア企業ではない優位性が浮き彫りに。AIエージェントの基盤プラットフォーム化を狙う動きは、既存の自動車メーカーにとって最大の脅威。
                 </p>
               </div>
 
-              <div className="flex flex-wrap gap-2">
-                <span className="px-3 py-1 bg-blue-500/10 text-blue-300 text-[11px] font-bold rounded-full border border-blue-500/20">Structural Change</span>
-                <span className="px-3 py-1 bg-purple-500/10 text-purple-300 text-[11px] font-bold rounded-full border border-purple-500/20">Market Dominance</span>
+              <div className="flex flex-wrap gap-3">
+                <span className="px-4 py-1.5 bg-blue-500/10 text-blue-300 text-[10px] font-black rounded-full border border-blue-500/20 uppercase tracking-wider">Structural Change</span>
+                <span className="px-4 py-1.5 bg-purple-500/10 text-purple-300 text-[10px] font-black rounded-full border border-purple-500/20 uppercase tracking-wider">Market Dominance</span>
               </div>
-
-              <motion.div 
-                className="absolute -inset-[1px] rounded-2xl border border-white/10 pointer-events-none"
-                animate={{ opacity: [0.1, 0.5, 0.1] }}
-                transition={{ duration: 2, repeat: Infinity }}
-              />
             </motion.div>
           )}
         </AnimatePresence>
