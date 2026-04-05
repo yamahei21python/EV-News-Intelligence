@@ -27,13 +27,23 @@ export default function LPPage() {
           className="max-w-4xl mx-auto"
         >
           {/* CTA at the beginning of the section */}
-          <div className="mb-40">
-            <Link
-              href="/"
-              className="inline-flex items-center gap-4 px-10 py-5 rounded-full bg-white text-[#020617] hover:bg-zinc-200 transition-all font-bold group shadow-2xl shadow-white/5"
-            >
-              ダッシュボードへアクセス
-              <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
+          <div className="mb-40 flex justify-center">
+            <Link href="/" className="group relative inline-block">
+              <motion.div
+                whileHover={{ scale: 1.02, y: -2 }}
+                whileTap={{ scale: 0.98 }}
+                className="relative z-10 px-14 py-7 bg-white text-[#020617] rounded-full font-bold text-xl flex items-center gap-4 shadow-[0_0_40px_rgba(255,255,255,0.1)] group-hover:shadow-[0_0_60px_rgba(255,255,255,0.2)] transition-all overflow-hidden"
+              >
+                <span className="relative z-10 flex items-center gap-4">
+                  ダッシュボードへアクセス
+                  <ArrowRight className="w-6 h-6 group-hover:translate-x-1 transition-transform duration-300" />
+                </span>
+                {/* Subtle shine effect on hover */}
+                <div className="absolute inset-0 bg-gradient-to-r from-transparent via-zinc-100/50 to-transparent -translate-x-[100%] group-hover:translate-x-[100%] transition-transform duration-1000" />
+              </motion.div>
+              
+              {/* Outer Glow Effect */}
+              <div className="absolute inset-x-0 inset-y-0 bg-white/20 blur-2xl rounded-full opacity-0 group-hover:opacity-100 transition-opacity duration-500 -z-10" />
             </Link>
           </div>
 
@@ -92,7 +102,7 @@ export default function LPPage() {
       <DashboardPreview />
 
       {/* 5. Final CTA Section - Polished */}
-      <section className="py-32 px-4 relative overflow-hidden">
+      <section className="py-10 px-4 relative overflow-hidden">
         {/* Spotlight Effect */}
         <div className="absolute inset-0 z-0 pointer-events-none">
           <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[400px] bg-blue-500/10 blur-[120px] rounded-full opacity-60" />
