@@ -1,10 +1,25 @@
 [
     {
-        "topic_name": "万博EVバスの使用断念",
+        "topic_name": "大阪メトロ、EVバス190台の運行停止",
         "article_ids": [
-            183926
+            273875,
+            183926,
+            428670,
+            76212
         ],
         "articles": [
+            {
+                "id": 273875,
+                "title": "大阪メトロがEVバスの使用継続断念、安全性確保困難 - ニュースイッチ by 日刊工業新聞社",
+                "link": "https://newswitch.jp/p/48821",
+                "published": "Sat, 04 Apr 2026 21:02:13 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE05R24xTXRzWjJ6VnJ5cl9PMkhQcFRBZFpXM0U2ZEZzTVdCYUNhVUxrd0lFbE1BUTNCbWFfTFNaQk9XZw?oc=5\" target=\"_blank\">大阪メトロがEVバスの使用継続断念、安全性確保困難</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースイッチ by 日刊工業新聞社</font>",
+                "site_name": "ニュースイッチ by 日刊工業新聞社",
+                "primary_category": "Supply Chain & Core Tech",
+                "reason": "公共交通のEV導入における技術的・運用的な安全性課題の露呈は、今後の普及に向けた重大な教訓。",
+                "score": 85,
+                "is_highly_important": true
+            },
             {
                 "id": 183926,
                 "title": "万博ＥＶバス、「路線」転用断念で国交省が補助金返還請求へ…環境省も続く方針（読売新聞オンライン） - Yahoo!ニュース",
@@ -13,23 +28,187 @@
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5adnpiaHBKWnZqX0JGTXVKanJiX2lEVnNKWllaR1ZMZG5rLUJubC1uTTZQeE1JVDN0a2tJYmsteVpnUDdGTHlhaElsaFdOanVuNVFFd3AxbGM4M0hpYlNmeFdNRWlJWUIyU0xkWDhNMjNuSE1RZTU2RmNzMUV3R1E?oc=5\" target=\"_blank\">万博ＥＶバス、「路線」転用断念で国交省が補助金返還請求へ…環境省も続く方針（読売新聞オンライン）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
                 "site_name": "Yahoo!ニュース",
                 "primary_category": "Supply Chain & Core Tech",
-                "reason": "公的補助金の返還請求に関わる重要ニュース。EV運用のリスク管理コストを浮き彫りにした。",
+                "reason": "公的補助金の返還という負の事象。EVバス普及における政策と実務の乖離を示す重要情報。",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 428670,
+                "title": "万博ＥＶバスの転用断念 大阪メトロ「安全確保困難」 - 山陽新聞デジタル｜さんデジ",
+                "link": "https://www.sanyonews.jp/article/1898237",
+                "published": "Sat, 04 Apr 2026 01:00:06 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fc3Blb3lUMGxMZGJJRi1PTU1tTW43WGd6Q3paZ1JLYjF0ekljTl9mWG12WjNaMXdtZjZheTZIdzdxc0RvcEdwTEQ0ZTY1a1JSdWc?oc=5\" target=\"_blank\">万博ＥＶバスの転用断念 大阪メトロ「安全確保困難」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞デジタル｜さんデジ</font>",
+                "site_name": "山陽新聞デジタル｜さんデジ",
+                "primary_category": "Supply Chain & Core Tech",
+                "reason": "EV導入の撤回は、技術選定とインフラ要件の厳しさを物語る重要事例。",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 76212,
+                "title": "安全確保困難…大阪メトロ、EVバスの使用継続断念（ニュースイッチ） - Yahoo!ニュース",
+                "link": "https://news.yahoo.co.jp/articles/5ac448f3b9b12d852b2fba662247a7928c518a58",
+                "published": "Sun, 05 Apr 2026 01:10:02 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFAwZmZBelVkelFzT0FoaFE5WjhDYXZGWVdQazRXU0FUdTU4S0xiaFJ1Y3F3V2ZMRFJmZl96OXFQLVFxYTlOaHA5ZEs0YkU4a0xBdGZBNGRTbjZPLWpHQjBlOWJjbXVrbkR3SVI0dlBaUzVOX0xFdmNKLWVfcG5iQlk?oc=5\" target=\"_blank\">安全確保困難…大阪メトロ、EVバスの使用継続断念（ニュースイッチ）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Supply Chain & Core Tech",
+                "reason": "公共交通のEV化における運用の失敗例。産業上の重要な教訓。",
+                "score": 85,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "約75億円（うち公的補助金40億円超）を投じた国家プロジェクトが、ベンチャー企業の基礎的品質不足（ブレーキ不具合等）により完全に頓挫した。",
+                "国交省・環境省が補助金の返還請求を行うが、巨額の公金が実質蒸発した背景には、行政側の技術的デューデリジェンス（適正評価）の欠如がある。",
+                "商用EVバスの社会実装における信頼性が大きく失墜し、将来にわたる品質保証能力を持つ既存の完成車メーカー、または中国メーカーへの需要シフトが加速する。"
+            ],
+            "insight": "今回の約75億円に上る損失は、国家イベント至上主義が招いた「品質軽視」の象徴だ。量産実績の乏しい新興EVメーカーへの巨額投資は、事前の技術審査の甘さを露呈した。この大失態により日本の商用EV普及は一時足踏みするが、同時に「走る安全」を担保する既存完成車メーカーの品質マネジメントの絶対的優位性が再認識される結果となった。結果として、確実な量産体制と信頼性を既に確立している中国メーカー、あるいは国内既存大手（日野・いすゞ等）への覇権シフトが加速し、脆弱な組立ベンチャーは淘汰の憂き目に遭うだろう。"
+        }
+    },
+    {
+        "topic_name": "ホンダ・ソニーEV開発中止",
+        "article_ids": [
+            505898,
+            31524,
+            938268
+        ],
+        "articles": [
+            {
+                "id": 505898,
+                "title": "原油価格高騰、BYDのEVが豪州で奪い合うようにして買われる―中国メディア - ｄメニューニュース",
+                "link": "https://topics.smt.docomo.ne.jp/amp/article/recordchina/world/recordchina-RC_973949",
+                "published": "Sat, 04 Apr 2026 04:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTmFuMmZOWFNsNFdISlNnM0dCWVZad1FUdkdsMFpta2ZDcmZ4Zkc1eGZUb2xPTFNyZGFWMGVEYWVjd0xsaDJkTldIUFBGNXZGU1BueUxBQmM1SGx5YVV3QW1tempLdWs5SVdOdUp4LUZxeC01MzhKLTgzdkdOOFhOcHIwQ0g0WF80d1Zv0gGLAUFVX3lxTE9OYW4yZk5YU2w0V0hKU2czR0JZVlp3UVR2R2wwWm1rZkNyZnhmRzV4ZlRvbE9MU3JkYVYwZURhZWN3TGxoMmROV0hQUEY1dkZTUG55TEFCYzVIbHlhVXdBbW16akt1azlJV051SngtRnF4LTUzOEotODN2R044WE5wcjBDSDRYXzR3Vm8?oc=5\" target=\"_blank\">原油価格高騰、BYDのEVが豪州で奪い合うようにして買われる―中国メディア</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
+                "site_name": "ｄメニューニュース",
+                "primary_category": "Geopolitics & Policy",
+                "reason": "豪州における中国車需要と経済情勢の連動を示しており、市場拡大のヒントになる。",
                 "score": 70,
+                "is_highly_important": true
+            },
+            {
+                "id": 31524,
+                "title": "戦う前から中国勢に敗北「ホンダ・ソニー製EV」開発中止の裏側 - 現代ビジネス",
+                "link": "https://gendai.media/articles/-/165884",
+                "published": "Sun, 05 Apr 2026 20:03:50 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wQldlZndQZW1tZ05oRVVBUzhBLTczRjlPOW5UQ0VvYWFOdXAyNWNtQjJzTjgxTkxiTFQ1NXNvSkJwbjRBUExPRFRmRHNySkk?oc=5\" target=\"_blank\">戦う前から中国勢に敗北「ホンダ・ソニー製EV」開発中止の裏側</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">現代ビジネス</font>",
+                "site_name": "現代ビジネス",
+                "primary_category": "Strategic Shifts",
+                "reason": "開発中止の深層分析。業界の構造的な課題を浮き彫りにしている。",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 938268,
+                "title": "【写真】ホンダ・ソニーの新EV「開発中止」でお粗末な結果に…中国EV勢の安さと早さには敵わなかった（真壁 昭夫） - 現代ビジネス",
+                "link": "https://gendai.media/articles/images/165884",
+                "published": "Sun, 05 Apr 2026 20:35:28 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GaDJMZGtSRUY1dElpSjY4aU1ibWZFVXNDbGk5SlVLM09nUmFlT2NsblY1ZF9QQjR3UVVmNU1FSFo4MG5WVlVrRTlaNXRsMEw1bFk2YU1B?oc=5\" target=\"_blank\">【写真】ホンダ・ソニーの新EV「開発中止」でお粗末な結果に…中国EV勢の安さと早さには敵わなかった（真壁 昭夫）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">現代ビジネス</font>",
+                "site_name": "現代ビジネス",
+                "primary_category": "Strategic Shifts",
+                "reason": "ホンダのEV戦略の是非に関する批判的考察。",
+                "score": 75,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "ソニー・ホンダのEV「アフィーラ」開発中止は、約1400万円という高価格設定に加え、中国勢の俊敏なソフトウェア開発スピードに太刀打ちできなかった致命的な競争力欠如が要因。",
+                "対照的にBYDは、中東情勢による原油高を追い風に豪州で前年比156%増（5万2000台）の爆発的販売を記録。中国EVの圧倒的なコスト優位性と供給力が先進国市場でも通用した証左。",
+                "ホンダが2026年3月期に上場来初の最終赤字転落へ転じる等、欧米でのEV需要鈍化と公的支援減によるHV回帰が顕在化。EVシフトへの過度な傾斜と投資タイミングの誤りが経営を直撃した。"
+            ],
+            "insight": "ホンダとソニーのEV開発中止は、ハードウェア至上主義に固執した日本の自動車産業が、ソフトウェアとコスト競争で中国IT・EV連合に「完敗」した象徴的出来事である。BYDが豪州など非中国圏でシェアを爆発的に拡大する構造的要因は、強固なサプライチェーンと圧倒的な開発スピードにある。日本がここでHV回帰に安住すれば、次世代モビリティの覇権と莫大なデータ支配権を中国に完全に明け渡す懸念がある。日系メーカーは旧態依然とした開発体制を捨て、対中包摂網の構築か抜本的なエコシステム再編を迫られている。"
+        }
+    },
+    {
+        "topic_name": "ホンダ、北米EV撤退・業績悪化",
+        "article_ids": [
+            895269,
+            177291,
+            808982
+        ],
+        "articles": [
+            {
+                "id": 895269,
+                "title": "ホンダがアメリカ市場からEV完全撤退：ホンダの敗北は日本病の象徴です - アゴラ 言論プラットフォーム",
+                "link": "https://agora-web.jp/archives/260404052924.html",
+                "published": "Sat, 04 Apr 2026 21:35:34 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Td1ZCQzRreTNQdmltZ1NPeFFicmVuRzlDYlE5eXl3enBJeDFBdTd5dWdraTlpcmxPXzVuaFR3NVJBVDdzeEY0YnNxUlN1OTRKSC1xUlZybElBY3M?oc=5\" target=\"_blank\">ホンダがアメリカ市場からEV完全撤退：ホンダの敗北は日本病の象徴です</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">アゴラ 言論プラットフォーム</font>",
+                "site_name": "アゴラ 言論プラットフォーム",
+                "primary_category": "Strategic Shifts",
+                "reason": "ホンダの米国戦略に関する議論。業界の方向性に対する批判的視点として重要。",
+                "score": 75,
+                "is_highly_important": true
+            },
+            {
+                "id": 177291,
+                "title": "ホンダ、ＥＶ減で巨額赤字転落へ 最大６９００億円、２６年３月期 - 山陽新聞デジタル｜さんデジ",
+                "link": "https://www.sanyonews.jp/article/1887555?kw=%EF%BC%91",
+                "published": "Sat, 04 Apr 2026 03:01:28 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kU0p1WlpHRU02bmd5RkhET3QyYVEwNnFmZGtiTEVOVTB0MTB5RGZQLU9iSUtja2txQ0xUaEZ1Rlh4b1J3NVdNdmtyQnFPRVNBSGNjZjNkdFJKczhxdnZBZ1E5MA?oc=5\" target=\"_blank\">ホンダ、ＥＶ減で巨額赤字転落へ 最大６９００億円、２６年３月期</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞デジタル｜さんデジ</font>",
+                "site_name": "山陽新聞デジタル｜さんデジ",
+                "primary_category": "Strategic Shifts",
+                "reason": "大手メーカーのEV戦略不振による業績悪化は、業界全体の方針見直しを促す重大ニュース。",
+                "score": 90,
+                "is_highly_important": true
+            },
+            {
+                "id": 808982,
+                "title": "「技術の魂を取り戻せ」 ホンダ、最大2.5兆円損失からの復活劇？ 過剰なEV戦略を乗り越え「三現主義」の再生なるか（Merkmal） - Yahoo!ニュース",
+                "link": "https://news.yahoo.co.jp/articles/d99bdc76b3eea953955799de26461c5af5ba99e5?page=5",
+                "published": "Sat, 04 Apr 2026 22:21:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbjNVc25nNTJtX3lSN1RzQXBVMUpBaTVsdjByZzZndkIzaXYxUzBESncwUEtralhPNU1qQzMzcmhmeDBSY2Q2RVpLTVdZOFI1ZXFtZFlNcmxtU3h3MEU4cjlQUkptSGc0MUhSdTFTWlBoWEU5NUZzLVltWE15bDhCNmdzVTRzazJK?oc=5\" target=\"_blank\">「技術の魂を取り戻せ」 ホンダ、最大2.5兆円損失からの復活劇？ 過剰なEV戦略を乗り越え「三現主義」の再生なるか（Merkmal）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Strategic Shifts",
+                "reason": "経営判断の妥当性とEV戦略の再考。非常に深い分析記事。",
+                "score": 85,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "ホンダは米国でのEV需要減少を受けEV戦略車種の開発を中止し、2026年3月期の純損益予想を最大6,900億円の赤字に下方修正した。過剰なEV投資のツケが一気に表面化した形だ。",
+                "スバルやニッサンが北米で新モデルのEVを投入する中、ホンダはエンジンの成功体験に囚われた「イノベーションのジレンマ」が指摘され、競争において出遅れる結果となった。",
+                "今後は北米でのHV（ハイブリッド車）強化と、インド市場での小型車展開によるキャッシュフロー改善を目指す。ソニーとの協業知見をどう量産車へ還元できるかが復活の鍵を握る。"
+            ],
+            "insight": "「EV撤退はイノベーションの敗北」とする厳しい視点と、「 HVなど多動力戦略への賢明な軌道修正」とする視点が交錯する。北米EV撤退は中国勢のシェア拡大を許す懸念があるものの、インフラや政策の不透明な市場でHVによってキャッシュを確保するのは冷徹な合理判断だ。今後の覇権争いは、HVや新興国で稼いだ資金を、テスラや中国勢が先行する「ソフトウェア定義車（SDV）」の開発にどう投資できるかにかかっており、日本メーカーの生存戦略の分岐点となる。"
+        }
+    },
+    {
+        "topic_name": "テスラModel Y Lを日本投入",
+        "article_ids": [
+            589641
+        ],
+        "articles": [
+            {
+                "id": 589641,
+                "title": "テスラ、6人乗り新型EV「Model Y L」国内発表。航続788km、サービス拠点倍増と3年間の無料充電施策も - corriente.jp",
+                "link": "https://corriente.jp/tesla-model-y-l-launch-japan/",
+                "published": "Sun, 05 Apr 2026 09:52:54 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DeVVDaU5BOWhyeWhJa1VXR3lzWWZ3LTlBdjBrZWNKc0tuN1FkSWJQRDNZakFmZ2VVT2tPMVp1SmlPb0JEWXpkTkVFcVV4a1otU3RuZXZmSFNJek9UdGY40gFkQVVfeXFMT1JmUTBpcU5ueWxqT0lMZ1VHaWw1dFNIczlvZFRxaWJsOHc0eDViWkh1RHZ6UjZvc0NFVENsTm1ZNEFhMFR4QnlmaFk1TWQwSjJTVEJxM0RjQmd4eF9aSjducUJTQQ?oc=5\" target=\"_blank\">テスラ、6人乗り新型EV「Model Y L」国内発表。航続788km、サービス拠点倍増と3年間の無料充電施策も</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">corriente.jp</font>",
+                "site_name": "corriente.jp",
+                "primary_category": "Data & Ecosystem",
+                "reason": "充電無料施策や拠点倍増は、インフラ拡充による普及促進戦略として重要。",
+                "score": 80,
                 "is_highly_important": true
             }
         ],
         "is_grouped": false,
         "analysis": {
             "summary_points": [
-                "中国系資本の新興EVメーカーが手掛けた190台のEVバスが基礎的品質（ブレーキ等）の欠陥で路線転用を全廃し、国策主導のEV普及モデルが挫折。",
-                "5年間の継続使用を条件とした補助金（国交省約6億円・環境省分など）の返還請求により、補助金依存型の新興メーカーのビジネスモデルが崩壊。",
-                "ガバメント・セールスを背景にした急激な公共インフラのEV化において、「調達速度・低コスト」と「走行の安全性・信頼性」の乖離が決定的な溝として表面化。"
+                "テスラが日本市場向け特化モデル「Model Y L」を投入。ホイールベース3,010mm・6人乗り・航続788kmを実現し、価格は749万円（CEV補助金適用で実質約622万円）という、国内ミニバン・ラージSUV市場への直接的な価格破壊。",
+                "インフラ投資の大幅強化：2026年までにサービス拠点を現在の2倍以上に拡大し、購入者には3年間のスーパーチャージャー無料（約29万円相当）を付与。日本特有の「安心感への固執」を解消する全面攻势。",
+                "購入プロセスの簡素化（選択肢の最小化）により、日本市場の「決断疲れ」を排除。otaによる修理解決率8割というデータを提示し、従来型ディーラー網の非効率性を突く。",
+                "空力性能cd値0.216と788kmの航続距離は、evの「航続不安」という最大の弱点を技術的に解消する答えであり、日本の地形・交通事情に最適化された戦略的スペック。"
             ],
-            "insight": "中国系資本の新興EVメーカーが供給したバスが基礎的品質で躓き、巨額の補助金返還に追い込まれたことは、EV化の速度と安全のトレードオフを如実に示した。低価格を武器にシェアを急襲する中国系サプライチェーンの信頼性に深刻な傷がついた一方、商用EV化で開発に遅れをとっていた日系メーカーの「徹底した品質管理」が見直される契機となる。巨額の公金が投入される公共インフラだけに、今後の補助金審査の厳格化と、国内完成車メーカーへの発注回帰は避けられない。"
+            "insight": "テスラの日本市場への本格攻勢は、トヨタの聖域である「ミニバン・ファミリー層」への直接的な挑戦だ。補助金適用後622万円は、国産ハイエンドミニバンと同等価格帯であり、788kmの航続距離と3年間無料充電は「ランニングコストゼロ」という強烈な差別化を生む。日本メーカーは「evは高価で不便」という従来の防衛ラインを完全に無効化された。bydなどの中国勢は低価格戦略で日本参入するが、テスラはブランド力とインフラ整備で先んじており、日本市場は「米中対決」の様相を呈する。サービス拠点の倍増は、日本の「お客様は神様」文化への適応を示し、従来の輸入車の弱点を克服する動きだ。懸念すべきは、テスラがインフラとソフトウェアで支配的地位を確立すれば、日本の充電規格の主導権が完全に米国に握られる可能性がある。"
         }
     },
     {
-        "topic_name": "三菱自が岡崎市EVシェア参画",
+        "topic_name": "三菱自動車、岡崎市EVカーシェア参画",
         "article_ids": [
             714610
         ],
@@ -42,7 +221,7 @@
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uU1F1X2ZEbVpNQUxwUnpoRlNSbS1NRVV1bE1zZ1Jwc3picTI2QU1JNlhkcm8xZmRZd3lDY2tuSUJmNlBsbkJSazZ2TUxQYTJPeGlaT1A5cDZaMk1COXYycGVoTQ?oc=5\" target=\"_blank\">岡崎市のEVカーシェアリングサービスに三菱自動車が参画 APIを駆使したデータシェアを実施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Auto Prove</font>",
                 "site_name": "Auto Prove",
                 "primary_category": "Data & Ecosystem",
-                "reason": "岡崎市という特定地域での実証実験。API活用によるデータシェアの取り組みは評価に値する。",
+                "reason": "APIを用いた地元の実証実験であり、地域限定のデータ連携事例として一定の価値がある。",
                 "score": 75,
                 "is_highly_important": true
             }
@@ -50,283 +229,28 @@
         "is_grouped": false,
         "analysis": {
             "summary_points": [
-                "岡崎市の公用車68台を三菱自のEV（eKクロスEV等）に更新し、その一部を市民向けカーシェアに転用する、官民連携による「平日公用・休日民間」のMaaSモデルを構築。",
-                "三菱自のAPIを通じて車両データをリアルタイム連携し、後付けセンサー不要で充電トラブルを防ぐ。これにより運用保守コストを劇的に低減する仕組みを確立。",
-                "三菱自が自社工場の立地都市を実証実験の場とし、単なる車両販売から「コネクテッド技術を活用したデータ・プラットフォーム提供」へのビジネスモデル移行を加速。"
+                "「公用車68台のEV化と遊休時間のカーシェア転用」：単なる車両販売から脱却し、自治体の遊休資産を有効活用した新たなB2G（企業と自治体連携）マネタイズ循環モデルを構築した点。",
+                "「API連携による後付け機器の不要化」：自社のプラットフォームから車両データを直接提供することで、カーシェア運営のDX化と保守運用コストの大幅削減を実現し、インフラ側の参入障壁を下げた。",
+                "「地域密着型ゼロカーボンの実証」：工場立地都市（岡崎市）との強固なパイプを活用し、中国EVとの真っ向からの価格競争を回避すべく、小型EVとエネルギーマネジメントの運用ノウハウを蓄積する棲み分け戦略。"
             ],
-            "insight": "三菱自の本動きは、自動車メーカーが「ハードウェアの売り手」から「モビリティ・データのプラットフォーマー」へと変貌を遂げる象徴的な事例です。API経由でのデータ提供による後付け機器の不要化は、運用コストの観点から他自治体への横展開を容易にします。今後、この基盤がV2G（車両から電網への給電）や地域のエネルギーマネジメントと統合されれば、日本の地方都市における脱炭素MaaSの標準モデルとなる可能性を秘めています。"
+            "insight": "中国EVの激烈な低価格攻勢に対抗すべく、三菱自が「車両提供＋APIによるデータ連携」というB2G向けMaaSパッケージを確立した点は高く評価できる。後付け機器なしで運用を最適化するプラットフォーマーとしての性質は、価格競争を避けるための切り札だ。但し、現状はわずか2台の小規模実証に過ぎない。このデータ連携モデルを他自治体へ横展開し、自社規格のデファクトスタンダード化を急げるかが、日本メーカーとして生き残りを懸けた勝負の鍵を握る。"
         }
     },
     {
-        "topic_name": "ホンダEV開発中止で赤字転落",
+        "topic_name": "GM、トラック増産とEV戦略の調整",
         "article_ids": [
-            177291,
-            895269,
-            808982
+            606769
         ],
         "articles": [
             {
-                "id": 895269,
-                "title": "ホンダがアメリカ市場からEV完全撤退：ホンダの敗北は日本病の象徴です - アゴラ 言論プラットフォーム",
-                "link": "https://agora-web.jp/archives/260404052924.html",
-                "published": "Sat, 04 Apr 2026 21:35:34 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Td1ZCQzRreTNQdmltZ1NPeFFicmVuRzlDYlE5eXl3enBJeDFBdTd5dWdraTlpcmxPXzVuaFR3NVJBVDdzeEY0YnNxUlN1OTRKSC1xUlZybElBY3M?oc=5\" target=\"_blank\">ホンダがアメリカ市場からEV完全撤退：ホンダの敗北は日本病の象徴です</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">アゴラ 言論プラットフォーム</font>",
-                "site_name": "アゴラ 言論プラットフォーム",
-                "primary_category": "Strategic Shifts",
-                "reason": "ホンダの北米戦略転換という極めて重要な論点を含むため評価。",
-                "score": 70,
-                "is_highly_important": true
-            },
-            {
-                "id": 177291,
-                "title": "ホンダ、ＥＶ減で巨額赤字転落へ 最大６９００億円、２６年３月期 - 山陽新聞デジタル｜さんデジ",
-                "link": "https://www.sanyonews.jp/article/1887555?kw=%EF%BC%91",
-                "published": "Sat, 04 Apr 2026 03:01:28 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kU0p1WlpHRU02bmd5RkhET3QyYVEwNnFmZGtiTEVOVTB0MTB5RGZQLU9iSUtja2txQ0xUaEZ1Rlh4b1J3NVdNdmtyQnFPRVNBSGNjZjNkdFJKczhxdnZBZ1E5MA?oc=5\" target=\"_blank\">ホンダ、ＥＶ減で巨額赤字転落へ 最大６９００億円、２６年３月期</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞デジタル｜さんデジ</font>",
-                "site_name": "山陽新聞デジタル｜さんデジ",
-                "primary_category": "Strategic Shifts",
-                "reason": "大手メーカーの業績赤字と戦略見直しは業界全体を揺るがす重大事象。",
-                "score": 90,
-                "is_highly_important": true
-            },
-            {
-                "id": 808982,
-                "title": "「技術の魂を取り戻せ」 ホンダ、最大2.5兆円損失からの復活劇？ 過剰なEV戦略を乗り越え「三現主義」の再生なるか（Merkmal） - Yahoo!ニュース",
-                "link": "https://news.yahoo.co.jp/articles/d99bdc76b3eea953955799de26461c5af5ba99e5?page=5",
-                "published": "Sat, 04 Apr 2026 22:21:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbjNVc25nNTJtX3lSN1RzQXBVMUpBaTVsdjByZzZndkIzaXYxUzBESncwUEtralhPNU1qQzMzcmhmeDBSY2Q2RVpLTVdZOFI1ZXFtZFlNcmxtU3h3MEU4cjlQUkptSGc0MUhSdTFTWlBoWEU5NUZzLVltWE15bDhCNmdzVTRzazJK?oc=5\" target=\"_blank\">「技術の魂を取り戻せ」 ホンダ、最大2.5兆円損失からの復活劇？ 過剰なEV戦略を乗り越え「三現主義」の再生なるか（Merkmal）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-                "site_name": "Yahoo!ニュース",
-                "primary_category": "Strategic Shifts",
-                "reason": "経営判断の転換点としての分析。業界へのインパクト大。",
-                "score": 85,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "ホンダは2026年3月期に最大6900億円の最終赤字転落を見込み、米国でのEV需要減退を理由に予定していた3車種のEV開発を中止してHV強化へと戦略転換した。",
-                "同社の撤退はエンジンの成功体験に固執する「日本病」やイノベーションのジレンマと批判される一方、無理なEV一極化から脱却し現場の実情に合わせた柔軟な戦略（マルチパスウェイ）への回帰とする再建シナリオの対立軸がある。",
-                "中長期的な復活の鍵は、北米でのHV販売によるキャッシュ創出とインド市場での地盤固め、そしてソニー・ホンダモビリティとの協業で得た知見を量産車へ還元できるかにかかっている。"
-            ],
-            "insight": "ホンダの巨額赤字とEV戦略縮小は、EV減速期における日系メーカーの戦略的後退を象徴する。中国EV勢の猛追に対し、ホンダは得意なHVで利鞘を稼ぐ「時間稼ぎ」を選択した。しかし、一部で指摘される「エンジンへの固執」がソフトウェア定義車両（SDV）開発の遅れを招いたのは事実だ。インド市場での立て直しやソニーとの協業が成功の鍵を握るが、単なるHV回帰で満足すれば、米中の次世代モビリティ覇権争いから完全に脱落する致命傷になり得る。"
-        }
-    },
-    {
-        "topic_name": "ポルシェに蓄電池充電器を納入",
-        "article_ids": [
-            322181
-        ],
-        "articles": [
-            {
-                "id": 322181,
-                "title": "ポルシェ正規販売店への蓄電池型超急速EV充電システムの納入を開始 - 山陽新聞デジタル｜さんデジ",
-                "link": "https://www.sanyonews.jp/article/1895196?kw=%E7%A6%8F%E7%A5%88",
-                "published": "Sat, 04 Apr 2026 01:28:19 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBnUFlGSXEwRE5reU00a1d0aHJQazNPYVBtTzM5eGktYWdlZnhpWTBTQ1RUV2pWcmsySWpsUVMyLTN2SDUzR0tsTVBuZlhqOHV6WFNVRkFrVjIxanRCQk1MSnpFajVFZ3o5dktBSkhzYw?oc=5\" target=\"_blank\">ポルシェ正規販売店への蓄電池型超急速EV充電システムの納入を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞デジタル｜さんデジ</font>",
-                "site_name": "山陽新聞デジタル｜さんデジ",
-                "primary_category": "Data & Ecosystem",
-                "reason": "蓄電池活用型充電システムはグリッド負荷軽減に寄与する重要技術。",
-                "score": 75,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "系統引き込み工事が不要な「蓄電池型」を採用することで、インフラの薄弱な既存施設でも最大150kWの超急速充電を可能にし、設置ハードルを構造的に下げた点。",
-                "VAGグループ（ポルシェ・アウディ・VW）向けの会員制充電ネットワーク「PCA」および専用ラウンジを構築し、公共インフラに依存しないプレミアムブランド独自の排他的な顧客体験（CX）を確立した点。",
-                "国産ベンチャー（パワーエックス）がポルシェジャパンの推奨充電器に認定されたことで、既存の電機大手や海外メーカーが支配する充電インフラサプライチェーンに新たな覇権争いの火種が生まれた点。"
-            ],
-            "insight": "高級車市場では、充電の速さだけでなく「いかに上質な時間を過ごさせるか」がインフラの覇権を握る。系統制約を受けない蓄電池型は立地の自由度を極限まで高め、ディーラー網を活用した会員制クローズドネットワークの構築を加速させる。脆弱な日本の電力網において大出力急速充電の普及には蓄電池の介入が不可欠であり、機動力のある国産ベンチャーが欧州プレミアムのインフラ標準を握る兆しである。"
-        }
-    },
-    {
-        "topic_name": "西日本鉄道がEV管理EMS導入",
-        "article_ids": [
-            359199
-        ],
-        "articles": [
-            {
-                "id": 359199,
-                "title": "eMotion Fleet、西日本鉄道へ独自開発のエネルギーマネジメントシステム（EMS）を導入 - 時事ドットコム",
-                "link": "https://www.jiji.com/jc/article?k=000000034.000143174&g=prt",
-                "published": "Sat, 04 Apr 2026 19:40:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1QWDlObGxkQUQ1dG9YaTVjeUdPS3psRTcxdDlBZFU0NU1FX2MzczE2N2dieTVfWHdTOEtiUjltQWJDMzBxUDZPakp2NE14aFY2dnZnN2FxTWYtWWdQangxbjBKb1NOaERzbzUw?oc=5\" target=\"_blank\">eMotion Fleet、西日本鉄道へ独自開発のエネルギーマネジメントシステム（EMS）を導入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事ドットコム</font>",
-                "site_name": "時事ドットコム",
-                "primary_category": "Data & Ecosystem",
-                "reason": "EMS導入による運行最適化。交通業界のカーボンニュートラルにおける重要事例。",
-                "score": 80,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "商用EVの多様化が進む中、異なるメーカーの車両や充電器をクラウドで統合・一元管理するシステムの必要性が顕在化した。",
-                "大規模導入時における最大のペインは電力コストの増大であり、運行ダイヤと連動したEMSによるピークカットの自動化が解決の鍵となる。",
-                "国内最大級のバス事業者である西鉄が9台規模で標準運用モデルを構築することで、全国の交通事業者への横展開の礎を作る。"
-            ],
-            "insight": "商用EV普及のボトルネックは「異メーカー混在による運用の複雑化」と「大規模充電に伴う電力コストの増大」にある。本件はメーカー横断EMSがこれらを解決する象徴的事例だ。自動車メーカーのハードウェア囲い込みは限界を迎えつつあり、運行ダイヤと連動したエネルギー管理プラットフォームの制御権をIT・エネルギーベンチャーが握る構図が鮮明になった。商用モビリティの主戦場は車両開発から「運用・エネルギー最適化競争」へと完全に移行している。"
-        }
-    },
-    {
-        "topic_name": "日産、新型リーフ残価率3割へ",
-        "article_ids": [
-            373728
-        ],
-        "articles": [
-            {
-                "id": 373728,
-                "title": "日産、新型リーフは5年で残価率30％ 従来比2倍へ リセール高めてEV普及を後押し - netdenjd.com",
-                "link": "https://www.netdenjd.com/archives/615777",
-                "published": "Sat, 04 Apr 2026 08:10:54 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vY3Uyc2JNQmIyOUNEa2ZMdlVVdV9tZUZpT3BxMDZJWEFzZ1Jmc1hScjEtNjE2N1Q5eDdFT3BFTE5UTXVHc0J2NWVXLXotZ2h5elE?oc=5\" target=\"_blank\">日産、新型リーフは5年で残価率30％ 従来比2倍へ リセール高めてEV普及を後押し</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">netdenjd.com</font>",
-                "site_name": "netdenjd.com",
-                "primary_category": "Data & Ecosystem",
-                "reason": "リセールバリューの向上策は、EV普及の経済的ボトルネックを解消する重要なアプローチ。",
-                "score": 80,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "日産は新型リーフの5年後保証残価率を約30%（現行比約2倍）に設定し、ガソリン車やHV（約40%）との維持費ギャップを縮めて購買意欲を刺激する。",
-                "残価率向上の技術的根拠として、温度管理の最適化などにより8年経過後も電池の残存性能（SOH）を約90%に維持できる電池の劣化抑制技術が存在する。",
-                "中古EV市場が未成熟な中、メーカーが意図的に高い残価を保証することで、中古車価格の下落リスクを肩代わりし、強制的に中古EV市場の形成を促す戦略である。"
-            ],
-            "insight": "日産の残価率3割保証は、EV普及の最大の障壁である「リセールバリューの暴落」にメスを入れた大胆な一手だ。8年後もSOH90%を維持する電池技術を根拠に、メーカー自らリスクを取り中長期的な中古車市場を強制形成する画期的な戦略である。ただし、5年後に戻ってくる大量の車両を再販売や2ndライフ（電池再利用）で適正価格でさばけなければ、巨額の未償却残高が経営を圧迫する諸刃の剣となる。中国メーカーの激烈な価格破壊に対抗する、資産価値を重視した日本独自の覚悟ある対抗策と評価できる。"
-        }
-    },
-    {
-        "topic_name": "BYD、日本補助金が15万円に減額",
-        "article_ids": [
-            980000
-        ],
-        "articles": [
-            {
-                "id": 980000,
-                "title": "BYDは日本の新しい政策を踏まえて、EV補助金が急激に減少 - VOI.id",
-                "link": "https://voi.id/ja/otoinfo/567409",
-                "published": "Sun, 05 Apr 2026 04:55:52 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE5YLUtyNDJ6RVZaS3JDeUYxVTVINVRVZ3ZBVDlZTWl5d1R4NXVVU0c1Q1J3R3ZhREM5V2VoZENMeXRyc0EzR2JF0gFCQVVfeXFMT1pBVEdMYmZxNjhqbFpUSzNWYnl4U290cE1ZTlZ4Y1lWeWFxSFhoQkFicGNvSmZQUDdxN29rY3V2cWNB?oc=5\" target=\"_blank\">BYDは日本の新しい政策を踏まえて、EV補助金が急激に減少</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VOI.id</font>",
-                "site_name": "VOI.id",
-                "primary_category": "Geopolitics & Policy",
-                "reason": "政策変更による補助金の影響分析。市場戦略に直結。",
-                "score": 75,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "日本のEV補助金制度が「国内生産バッテリー搭載車」を優遇する方針に転換し、中国製バッテリーに依存するBYDの補助金が35〜40万円から15万円へと約半分以下に激減した。",
-                "トヨタbZ4X（最大130万円）やパナソニック製バッテリーを用いるテスラ（127万円）が高額の補助金を維持する一方、BYDだけが決定的な価格競争力を失う結果となった。",
-                "BYD日本法人トップが「価格差が100万円に拡大し競争できない」と語っており、補助金制度が事実上の非関税障壁として機能し、対中防衛策となっている。"
-            ],
-            "insight": "日本の補助金改定は、国内蓄電池調達を条件とする明確な「サプライチェーン防衛」の表れだ。中国製EVの価格破壊を巧みに牽制しているが、これは短期的な日本勢の防衛に過ぎない。長期的には、BYDが条件クリアのために日本国内での生産や部品調達に動く「真の現地化」を促す火種になり得る。保護政策への依存が、日本メーカーの競争力低下を招かないか警戒が必要だ。"
-        }
-    },
-    {
-        "topic_name": "テスラ、EVからAI企業へ転換",
-        "article_ids": [
-            595756,
-            915174
-        ],
-        "articles": [
-            {
-                "id": 915174,
-                "title": "インテル復活の狼煙とテスラの苦境：2026年半導体・EV市場の勢力図はどう変わるか - Bloomo",
-                "link": "https://bloomo.co.jp/learn/library/article/youtube_260404/",
-                "published": "Sat, 04 Apr 2026 08:24:32 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1wbmgycWwzeWZ0U2psUkJxNmlseFlDeUNWa2J6X19Sek9ZMXFGRVh0WE9JWENyTkZMZ3ZMY182SGpmalZtX0QybjFpZW1XXy15Q0NpcDNkZkhzQkJlMnNQYUJNX1pUZG14NWc?oc=5\" target=\"_blank\">インテル復活の狼煙とテスラの苦境：2026年半導体・EV市場の勢力図はどう変わるか</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomo</font>",
-                "site_name": "Bloomo",
-                "primary_category": "Supply Chain & Core Tech",
-                "reason": "半導体とEVの勢力図予測。2026年に向けたサプライチェーン再編の重要視点。",
-                "score": 80,
-                "is_highly_important": true
-            },
-            {
-                "id": 595756,
-                "title": "【NY市場リポート】テスラ EVからAI企業へ? - テレ東BIZ",
-                "link": "https://txbiz.tv-tokyo.co.jp/nms/market/post_338203",
-                "published": "Sat, 04 Apr 2026 05:59:10 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GeVYxSGpBT3dORWlHQ0F0MlFMVllvWHdZWjJBM1hfenZLOWJ2M1V3azFqVldCaFM1VkZ5LUFoZ0hNcVdBejdQWF85b0FndzVLdjVUWDlQOVo1ZTlnN01hWA?oc=5\" target=\"_blank\">【NY市場リポート】テスラ EVからAI企業へ?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">テレ東BIZ</font>",
-                "site_name": "テレ東BIZ",
-                "primary_category": "Strategic Shifts",
-                "reason": "テスラのAI企業化戦略は現在の市場評価の分岐点。",
-                "score": 70,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "テスラのQ1納車台数減と在庫積み上がりは、中国勢の激烈な価格競争によりEVハードウェアがコモディティ（一般化）化し、収益性が構造的に逼迫していることを示している。",
-                "テスラはAIやロボティクスへのシフトを急ぐが、足元の「第2エンジン」であるエネルギーストレージ（蓄電）事業も伸び悩んでおり、新事業の収益化までにタイムラグという致命的なリスクを抱える。",
-                "インテルによる半導体工場の買い戻しとファウンドリー（受託製造）への転換は、地政学リスクを見据えた先端半導体の「自国生産回帰」を加速させており、サプライチェーンの地殻変動が起きている。"
-            ],
-            "insight": "テスラの「EVからAIへの転換」は、中国EVの猛烈な価格競争に屈したハードウェア敗北宣言に等しい。日本メーカーも«ハードウェア至上主義のジレンマ»に直面するだろう。テスラが「移動体データとAI」のプラットフォーマーへ移行できれば次元の違なる覇権を握るが、AI・ロボの収益化が遅れEV失速が続けば、時価総額を支える成長期待が崩壊する最大のリスクを抱えている。"
-        }
-    },
-    {
-        "topic_name": "ウェイモの自動運転AI開発",
-        "article_ids": [
-            93369,
-            272927
-        ],
-        "articles": [
-            {
-                "id": 93369,
-                "title": "自動運転の黒船・ウェイモが日本上陸？ 2026年「フィジカルAI元年」ロボタクシーの衝撃 - JBpress",
-                "link": "https://jbpress.ismedia.jp/articles/gallery/94154?photo=2",
-                "published": "Sat, 04 Apr 2026 21:11:15 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE56VF82MlBjRXd5U0RVaUR0RmV2VHhncFZIYnpxeEctVnJSb0lBS3BMWTVBcXNDTFVHNVh0N0ZGSENEOGhjWlFRNExtMzREbUpWZzV1blkwS3NOX3lNR3dFa3R0QzF3THBO?oc=5\" target=\"_blank\">自動運転の黒船・ウェイモが日本上陸？ 2026年「フィジカルAI元年」ロボタクシーの衝撃</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JBpress</font>",
-                "site_name": "JBpress",
-                "primary_category": "Data & Ecosystem",
-                "reason": "自動運転の普及に向けたフィジカルAIとロボタクシーの動向は次世代モビリティの本丸。",
-                "score": 85,
-                "is_highly_important": true
-            },
-            {
-                "id": 272927,
-                "title": "自動運転AIで世界展開をけん引する、スタートアップの強み - ニュースイッチ by 日刊工業新聞社",
-                "link": "https://newswitch.jp/p/48782",
-                "published": "Sat, 04 Apr 2026 21:12:26 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE1nY2Z1ZlZ2MzgyaVhDcU9UU1ppOFVnWGE5TVhYUmFyZ2hzQk5XaVQ3WnZ4TFJxcDdzOFF4cm9ya3R0dw?oc=5\" target=\"_blank\">自動運転AIで世界展開をけん引する、スタートアップの強み</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースイッチ by 日刊工業新聞社</font>",
-                "site_name": "ニュースイッチ by 日刊工業新聞社",
-                "primary_category": "Data & Ecosystem",
-                "reason": "自動運転AIのスタートアップ戦略。モビリティ業界の核心技術として評価。",
-                "score": 75,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "2026年を「フィジカルAI元年」とし、ウェイモと国内タクシーアプリ『GO』の提携、ウェイブと日産・ウーバーの提携など、米英IT・スタートアップ主導のロボタクシーが日本上陸へ向けて同時に加速している。",
-                "ウェイブのエンド・ツー・エンド（E2E）AIに象徴されるように、従来の「高精度地図やルール依存型」から脱却し、AIが複雑な現実空間を自律的に学習・理解するシステムがスケーラビリティの絶対条件となった。",
-                "自動車メーカー（日産など）は自動運転の全自前主義から撤退し、ウェイブやウーバーといったプラットフォーマーと組む水平分業のエコシステム構築へ明確な方針転換を行っている。"
-            ],
-            "insight": "自動運転の覇権が『車両ハード』から『AIとデータ』へ完全に移行する構造的転換期にある。ウェイモの黒船来襲に対抗すべく日産はウェイブと組むが、これは完成車メーカーが『鉄の箱』の提供者に零細化するリスクを孕んでいる。2026年以降、日本のモビリティ市場は米ITプラットフォームに支配される危惧がある。日本企業が自前のデータ基盤と顧客接点を確保できなければ、サプライチェーン全体がIT巨頭の下請けに転落する。"
-        }
-    },
-    {
-        "topic_name": "Uber、ドバイ等でロボタクシー展開",
-        "article_ids": [
-            930906
-        ],
-        "articles": [
-            {
-                "id": 930906,
-                "title": "UberのドバイでのロボタクシーとEVの取引は、Uber Technologies (UBER)の投資シナリオを転換させたか？ - simplywall.st",
-                "link": "https://simplywall.st/ja/stocks/us/transportation/nyse-uber/uber-technologies/news/a8864447bdf82cbe",
-                "published": "Sat, 04 Apr 2026 23:43:10 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNYmQycmRpNUpjQUZFTFVldi1wNGVjaWFZTy1FNlNMT2RiakV5enczcnU3R2FTeUVHSElMbjNXcWk5dlRaT0JCc3E1cVdDUzlmWUE0MXA0UTMwaGhCUlBvMnl4b0d4eTFhSXFWY1p4OEp4RzlHaElFdkNrdkVxS1VnYVpaSzU1d3JxTVVjSndlSDJFd3VjemNGeTFwZEY0TXcx0gGmAUFVX3lxTFBoOXpjX1JQbnFBSTlSb3VUcU5JWGlvMHlHQWs0alBfSTc0M0JEdG9jbUZIaS1XdXYtSlJUNXcwTkc4SnRGMWxJMVExMjBraHJhZ1Ruc05xMmVLMGtMZlh2aC1xMUpUNEwzVm1ORklRZWhWcktPV2FweklQRUdJZ0liaVo2dzlpUloxLWdwV3liX0NsRjRjN20zRDg3U2VENDhKbFM5VUE?oc=5\" target=\"_blank\">UberのドバイでのロボタクシーとEVの取引は、Uber Technologies (UBER)の投資シナリオを転換させたか？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+                "id": 606769,
+                "title": "GM（ジーエム）のトラックとサブスクリプションへのシフトは、EV主導の成長シナリオを変えるか？ - simplywall.st",
+                "link": "https://simplywall.st/ja/stocks/us/automobiles/nyse-gm/general-motors/news/aae49bfd1b3e19da",
+                "published": "Sat, 04 Apr 2026 12:28:41 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQYkhzUFV4R1dJdHhadVZqTTJTQ3V5V0VJcE90eW1pc0YtYnU2Nkhfa09hRjlVVktZNWp0MnA0cVh1Mm54cl91ajUwdExuNlRPYUJZaXlOazcxUFVZWDhudG42VHBVMl8xWXF0VXBIRFpPZzFDRkw1MW0tOGRzamJEUkNHdWZNVFNhWUpuZTc0RTRxTFdLRFHSAZsBQVVfeXFMUFhvbklaeTZFUDZlX2pGZnIySHlCVkNqU0RZMWN4SVJMR3VFVVBCRHNjWGhuY1pTMEZhNnBoRkFvRi05OUl4OF80ZzZWYzJKeHdiVFpqX2dpWklhQTREdVI3OWlaRGpxenZkOU9IdXBFVnY3ZjZuVUdBNUhUbUtfbG5yWnRPS05TZ3JnQUtYek9GeHZPY3pEaXBJNWs?oc=5\" target=\"_blank\">GM（ジーエム）のトラックとサブスクリプションへのシフトは、EV主導の成長シナリオを変えるか？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
                 "site_name": "simplywall.st",
                 "primary_category": "Strategic Shifts",
-                "reason": "ライドシェアプラットフォームとEVの統合、投資判断に影響を与える重要指標。",
+                "reason": "GMのビジネスモデル転換がEV成長シナリオに与える影響を論じており、分析価値が高い。",
                 "score": 80,
                 "is_highly_important": true
             }
@@ -334,11 +258,40 @@
         "is_grouped": false,
         "analysis": {
             "summary_points": [
-                "Uberは中国の自動運転ベンチャーWeRideに5.82%出資し、ドバイで完全無人ロボタクシーを商用化。Pony.ai等とも提携し、プラットフォームを通じたAV（自動運転）オープンエコシステムを構築している。",
-                "Uberの長期投資シナリオでは、2029年までに752億ドルの収益と107億ドルの利益（年率13.1%成長）を見込むが、同時に強固なフリーキャッシュフローを維持できるかが最大の焦点となっている。",
-                "投資家の見解は真っ二つに分かれている。AVによるマージン改善を評価する声がある一方で、2029年の利益が82億ドルに減少すると予測するアナリストもおり、自動運転の財務インパクトの不確実性が指摘されている。"
+                "EV需要の減速を受け、GMはEV工場（Factory ZERO）での生産一時停止と約1300人のレイオフを決断。一方で、利益率の高いガソリン大型ピックアップトラック（シルバラード等）の生産を6日間スケジュールに増強し、経営資源を「マージン重視」へ急速に再配分した。",
+                "ハードウェアの販売利益だけに依存しない収益基盤の構築を目指し、ソフトウェア・サブスクリプション収入の拡大を成長の柱に位置付けると同時に、GMファイナンシャルの流動性枠を20億ドルに増額してバランスシートを強化している。",
+                "アナリスト予想では2028年までに約80億ドルの利益を見込んでおり、EV投資の回収遅延リスクを、既存の強力なトラック・マージンとサブスク収益で補う、より現実的かつ保守的な成長シナリオに移行している。"
             ],
-            "insight": "UberがWeRideなどの中国ベンチャーを活用し、中東や欧州でロボタクシーを急速展開する戦略は、自社で巨額の開発費を焼却するリスクを避け、「配車プラットフォーム」として覇権を握る巧妙な動きだ。投資家の利益予想が大きく割れているのは、人件費削減効果とAVフリートの運用・メンテナンスコストのバランスが未知数だからである。自前主義に固執する日本メーカーは、モビリティの主導権が車両製造からソフトウェアへ奪われる構造的危機に直面している。"
+            "insight": "GMの戦略転換は、米国EVシフトが直面する「現実の壁」を象徴している。EV需要の伸び悩みと高金利を受け、GMは「EV至上主義」から高収益ガソリントラックとサブスクによるマージン回帰へ舵を切った。これはトヨタなど日本勢が当初から主張してきた「多様な動力源（HEV等）」戦略の正しさを証明するものだ。しかし、中国EV勢が圧倒的なコスト競争力で這い上がる中、米ビッグスリーが内燃機関の近視眼的な利益に安住することは、長期的なEV学習曲線の遅れと、次世代ソフトウェア競争からの脱落リスクを懸念させる。"
+        }
+    },
+    {
+        "topic_name": "欧州の中国車、EV以外で存在感",
+        "article_ids": [
+            56116
+        ],
+        "articles": [
+            {
+                "id": 56116,
+                "title": "中国車はもはや「EV」より「内燃機関」で存在感。欧州でじわじわ拡大の理由（BUSINESS INSIDER JAPAN） - Yahoo!ニュース",
+                "link": "https://news.yahoo.co.jp/articles/3536e6d608d64ea4d37f763691b466a8bc751bad",
+                "published": "Sat, 04 Apr 2026 00:51:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE16SUlmZmUxRVpYNlh1NV9IRlIwdmhoR3J2WTM4ZnBjT1M1R0VlUWc0THhtOFBBWjlURUNBNUQzSV93MkRWcFYweVE1M0ZRN2lwOUhiRlJ0UkdGUmlkWEItc1diaDZ2UkEzeTdSaFROdkEtZkRkckxYclQwa1hya0k?oc=5\" target=\"_blank\">中国車はもはや「EV」より「内燃機関」で存在感。欧州でじわじわ拡大の理由（BUSINESS INSIDER JAPAN）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Geopolitics & Policy",
+                "reason": "中国メーカーの欧州戦略の変化に関する分析で、市場構造の変化を示唆しており重要。",
+                "score": 75,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "欧州における中国車のシェア拡大（2025年に6%）はEV中心ではなく、ポーランドでの販売の約3分の2が内燃機関車（ICE）である等、市場ニーズに合わせたHEVやガソリン車の供給が牽引している。",
+                "中国メーカーは「自社の売りたい技術（EV）」に固執せず、ローカルの「売れる商品」を投入する柔軟な戦略により、電動化の速度が国ごとに異なる欧州の複雑な市場環境に適合している。",
+                "MG（上海汽車傘下）に代表られる「中国車として売らない」歴史的欧州ブランドの活用戦略が、消費者の心理的バイアスを回避し、シェア獲得の強力な楔（くさび）となっている。"
+            ],
+            "insight": "日系メーカーが『欧州はHEVが主流であり、我々の強みが活きる』と安心しているなら、それは致命的な戦略的死角だ。中国勢はEV覇権争いの裏で、HEVやエンジン車にも圧倒的なコスト競争力で土足で踏み込んでいる。MGに見られる『中国車と悟らせない』プラグマティズムは、日系の防塁であるHEV市場の優位性を構造から崩し、気づけば欧州の裾野を完全に奪い去る恐れがある。"
         }
     },
     {
@@ -355,7 +308,7 @@
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5mNjBmR05pUEdEVWdhUjZ3NFpoRlhZQkpnSUhjWk16NHFDYWpaNkFicXM5bTBYQ1NUdkw0bnhOeTgwdGkyVUM2NThIZjVQUXF1N292OTBrVWRrUk5yeG5zaGVKV2hUOXQyeGVNZEtHM1llRUtYYVZIb0NhaUUtR3c?oc=5\" target=\"_blank\">ロゴとホームページ開設を発表 EV体験や多彩なイベント開催予定 ひろしまモビリティワールド4月着工・来年春開業</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
                 "site_name": "Yahoo!ニュース",
                 "primary_category": "Data & Ecosystem",
-                "reason": "地域のモビリティハブ形成に向けた取り組み。データ連携等の潜在的価値を含み評価。",
+                "reason": "地方拠点におけるEV体験施設建設は、地域レベルの普及啓発として一定の評価ができる。",
                 "score": 70,
                 "is_highly_important": true
             }
@@ -363,15 +316,15 @@
         "is_grouped": false,
         "analysis": {
             "summary_points": [
-                "自動車用品・チューニング大手のTOM'Sが「体験とコミュニティ」の11ha・1万人規模施設を計画。自動車ビジネスの主戦場が「所有・物販」から「体験価値・ソフト」へ構造転換していることを示唆している。",
-                "メインコンテンツとして「EVカート体験」を導入。電動化時代における次世代ユーザーの獲得と、クルマの楽しみ方の再定義（ファン化）を狙う。",
-                "広島県との31年の定期借地権契約および防災拠点化。年間200万人の集客を見据え、単なるレジャー施設ではなく「公共インフラ」的役割を担うことで持続的な事業リスクを低減させている。"
+                "自動車の収益モデルが「モノ売り」から「体験・コミュニティ」へと完全移行する中、11ヘクタール・年間200万人規模という大規模投資で新たなファン化の基盤を構築した点。",
+                "トムスなどの自動車関連企業が主導し、EV体験を通じたモータースポーツ文化の継承と、災害拠点としての機能を組み合わせた官民連携（31年間の定期借地権）の新モデルを確立した点。",
+                "マツダの拠点である広島において、遊休地を活用して自動車産業の地域密着型エコシステムを維持・再構築する構造的意義。"
             ],
-            "insight": "チューニングの雄であるTOM'Sが「EV体験」と「コミュニティ」の巨大施設を立ち上げることは、日本の自動車文化が「ハード改造」から「電動化と体験価値」へ完全に舵を切った象徴的出来事です。広島で年間200万人の体験インフラを整備するのは、中国EVの価格攻勢に対抗する「日本発のクルマファン育成・囲い込み戦略」として極めて重要です。防災機能を付加した官民連携の新モデルも秀逸です。"
+            "insight": "EV化による自動車のコモディティ化が進む中、その価値を「体験・コミュニティ」へと昇華させる象徴的なプロジェクトだ。ディーラー網の縮小が懸念される日本メーカーにとって、この大規模なオフライン拠点は、中国EV勢のテクノロジー・価格攻勢に対抗する「走る歓びの体験価値」の防波堤となる。単なるレジャー施設に終わらせず、次世代モビリティの社会実装やデータ収集の実証場として機能できるかが成功の鍵を握る。"
         }
     },
     {
-        "topic_name": "福岡県直方市が公園に充電器設置",
+        "topic_name": "直方市、公園にEV充電器を設置",
         "article_ids": [
             921504
         ],
@@ -384,7 +337,194 @@
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nclVJQUhqeUxtanVENXlVeUFhOFo0clJoX2lrcC1LX1NxRE84TWcySjBoc3I1TldKY2xGVzlyTUNIcmF6WllZRU5DWQ?oc=5\" target=\"_blank\">福岡・直方市が公園にEV用充電器 災害時には無料開放も</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
                 "site_name": "47NEWS",
                 "primary_category": "Data & Ecosystem",
-                "reason": "自治体による充電インフラ整備と防災連携。実用的な地域エコシステム構築例。",
+                "reason": "自治体による災害連携インフラの整備は、EVの付加価値創出として重要。",
+                "score": 75,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "地方自治体とEV充電事業者（テラチャージ）の連携による、未開拓の公共空間（公園）へのインフラ展開",
+                "平時はビジネス利用、災害時は無料開放という「防災インフラ」としてのEV充電環境の二面性の確立",
+                "日常の滞在場所への設置による、ユーザーの充電に伴う「待ち時間」に対する心理的ハードルの解消"
+            ],
+            "insight": "地方のインフラ空白地帯を埋める「自治体×民間」連携は、EV普及の壁を破る最適解だ。公園への設置は「待ち時間」を「レジャー時間」へと転換し、災害時の給電機能は「防災インフラ」としての社会的価値を高める。中国EVの猛烈な攻勢が続く中、日本独自の「防災と日常を融合したインフラ網」を構築することは、ユーザーの安心感を醸成し、結果的に国内市場を守る強力な防波堤となる。"
+        }
+    },
+    {
+        "topic_name": "インテルとテスラの動向分析",
+        "article_ids": [
+            915174
+        ],
+        "articles": [
+            {
+                "id": 915174,
+                "title": "インテル復活の狼煙とテスラの苦境：2026年半導体・EV市場の勢力図はどう変わるか - Bloomo",
+                "link": "https://bloomo.co.jp/learn/library/article/youtube_260404/",
+                "published": "Sat, 04 Apr 2026 08:24:32 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1wbmgycWwzeWZ0U2psUkJxNmlseFlDeUNWa2J6X19Sek9ZMXFGRVh0WE9JWENyTkZMZ3ZMY182SGpmalZtX0QybjFpZW1XXy15Q0NpcDNkZkhzQkJlMnNQYUJNX1pUZG14NWc?oc=5\" target=\"_blank\">インテル復活の狼煙とテスラの苦境：2026年半導体・EV市場の勢力図はどう変わるか</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomo</font>",
+                "site_name": "Bloomo",
+                "primary_category": "Geopolitics & Policy",
+                "reason": "半導体とEV市場のクロスセクター分析であり、今後の勢力図を占う上で価値が高い。",
+                "score": 85,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "インテルによるアイルランド工場（FAB 34）の買い戻しは、地政学的リスクに備えた先進国への半導体製造回帰（ファウンドリー戦略）を加速させるものであり、市場から高く評価されて株価が14%急騰した。",
+                "テスラは第1四半期の納車台数で市場予想を大きく下回り、中国メーカーとの激しい価格競争による在庫の積み上がりが顕在化。エネルギーストレージ事業も失速し、EV量産一本足の成長モデルに行き詰まりが見える。",
+                "テスラのマスクCEOは自動運転やロボティックス、AIへのシフトを「第2の成長エンジン」として急進させているが、新事業が収益源となるまでの過渡期において、既存事業の失速が財務基盤を圧迫する構造的リスクが高まっている。"
+            ],
+            "insight": "インテルのファウンドリー強化は、地政学リスクを抱える自動車業界の半導体調達網を支える安全弁となる。一方、中国勢の価格競争に苦しむテスラのEV不振は、ハードウェア量産主義の限界を明確に示している。テスラはAIやロボティクスへの転換を急ぐが、EV事業の失速は中国メーカーの覇権拡大を加速させる懸念がある。日本メーカーは、過渡期のモビリティ市場において、血みどろの価格競争から脱却し、ソフトウェアや独自ドメインでの付加価値競争へ戦略をシフトする必要がある。"
+        }
+    },
+    {
+        "topic_name": "BYD、豪州市場で販売増",
+        "article_ids": [
+            505898,
+            838045
+        ],
+        "articles": [
+            {
+                "id": 505898,
+                "title": "原油価格高騰、BYDのEVが豪州で奪い合うようにして買われる―中国メディア - ｄメニューニュース",
+                "link": "https://topics.smt.docomo.ne.jp/amp/article/recordchina/world/recordchina-RC_973949",
+                "published": "Sat, 04 Apr 2026 04:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTmFuMmZOWFNsNFdISlNnM0dCWVZad1FUdkdsMFpta2ZDcmZ4Zkc1eGZUb2xPTFNyZGFWMGVEYWVjd0xsaDJkTldIUFBGNXZGU1BueUxBQmM1SGx5YVV3QW1tempLdWs5SVdOdUp4LUZxeC01MzhKLTgzdkdOOFhOcHIwQ0g0WF80d1Zv0gGLAUFVX3lxTE9OYW4yZk5YU2w0V0hKU2czR0JZVlp3UVR2R2wwWm1rZkNyZnhmRzV4ZlRvbE9MU3JkYVYwZURhZWN3TGxoMmROV0hQUEY1dkZTUG55TEFCYzVIbHlhVXdBbW16akt1azlJV051SngtRnF4LTUzOEotODN2R044WE5wcjBDSDRYXzR3Vm8?oc=5\" target=\"_blank\">原油価格高騰、BYDのEVが豪州で奪い合うようにして買われる―中国メディア</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
+                "site_name": "ｄメニューニュース",
+                "primary_category": "Geopolitics & Policy",
+                "reason": "豪州における中国車需要と経済情勢の連動を示しており、市場拡大のヒントになる。",
+                "score": 70,
+                "is_highly_important": true
+            },
+            {
+                "id": 838045,
+                "title": "日本の優位性は崩壊し、中国の自動車がオーストラリア市場を支配する - VOI.id",
+                "link": "https://voi.id/ja/amp/568091",
+                "published": "Sat, 04 Apr 2026 10:45:02 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTFBjUGRYWHh6VmpudUN0eGJLMU1kUVVRSEduemxQamdoLUxvYzExbFF1YjJ0OGd2cUs1VnNRdnZKS1g2d9IBQkFVX3lxTFBjUGRYWHh6VmpudUN0eGJLMU1kUVVRSEduemxQamdoLUxvYzExbFF1YjJ0OGd2cUs1VnNRdnZKS1g2dw?oc=5\" target=\"_blank\">日本の優位性は崩壊し、中国の自動車がオーストラリア市場を支配する</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VOI.id</font>",
+                "site_name": "VOI.id",
+                "primary_category": "Geopolitics & Policy",
+                "reason": "海外市場での中国EVの優位性を指摘しており、市場構造の変化を確認できる。",
+                "score": 75,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "国内生産撤退と無関税体制が続く豪州は、価格競争力とEV技術に優れる中国メーカーにとって「攻略可能な空白地帯」と化し、2020年以降12社以上が参入した。",
+                "中東情勢の悪化による原油高騰がEVシフトの触媒となり、BYDは上半期に前年比160%増の10,200台を記録。中国全体の輸入は22,300台（シェア約25%）に達し、1998年以来の日本の優位性を終わらせた。",
+                "BYDは自前のRORO船による強固な物流網を背景に在庫切れを起こすほどの爆発的販売を見せており、業界アナリストは2030年までに中国勢が豪州新車市場の40%以上を支配すると予測している。"
+            ],
+            "insight": "関税ゼロ・国内生産なしの豪州市場は、地理的条件を除けば「最もフラットで公正な戦場」である。その戦場で、日本が輸入トップの座を中国に明け渡したのは、ガソリン車やHEVへの過信が招いた自業自得の結果だ。BYDは原油高を追い風に、自前の専用船を使った圧倒的な供給力と価格破壊で日本の聖域を完全に崩壊させた。この事態は、日本のEV戦略の遅れが新興国だけでなく、先進国でのシェア喪失に直結している決定的な証拠である。2030年に中国が豪州市場の40%を支配するという予測は決して誇張ではなく、日本メーカーは価格設定と電動ラインナップの抜本的な構造改革を直ちに迫られている。"
+        }
+    },
+    {
+        "topic_name": "ウェイモの日本上陸とAIタクシー",
+        "article_ids": [
+            93369
+        ],
+        "articles": [
+            {
+                "id": 93369,
+                "title": "自動運転の黒船・ウェイモが日本上陸？ 2026年「フィジカルAI元年」ロボタクシーの衝撃 - JBpress",
+                "link": "https://jbpress.ismedia.jp/articles/gallery/94154?photo=2",
+                "published": "Sat, 04 Apr 2026 21:11:15 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE56VF82MlBjRXd5U0RVaUR0RmV2VHhncFZIYnpxeEctVnJSb0lBS3BMWTVBcXNDTFVHNVh0N0ZGSENEOGhjWlFRNExtMzREbUpWZzV1blkwS3NOX3lNR3dFa3R0QzF3THBO?oc=5\" target=\"_blank\">自動運転の黒船・ウェイモが日本上陸？ 2026年「フィジカルAI元年」ロボタクシーの衝撃</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JBpress</font>",
+                "site_name": "JBpress",
+                "primary_category": "Strategic Shifts",
+                "reason": "自動運転ロボタクシーの国内市場参入は、モビリティエコシステムを激変させる予兆。",
+                "score": 90,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "ウェイモと国内タクシーアプリ最大手「GO」の提携は、深刻な運転手不足に喘ぐ日本の交通インフラに、アルファベットの「フィジカルAI」を直接注入するための構造的転換点である。",
+                "2026年を「フィジカルAI元年」と定義したことは、自動運転の競争軸が「アルゴリズムの開発競争」から、複雑な現実空間での「収益化とデータ支配」へと完全に移行したことを示している。",
+                "東京とサンフランシスコの道路の共通点を強調した背景には、日本の複雑かつ高密度な道路環境を、グローバル展開に向けたAI学習の強力な検証フィールドとして活用する意図がある。"
+            ],
+            "insight": "ウェイモと国内タクシー最大手GOの提携は、運転手不足に喘ぐ業界の生存戦略だが、同時に日本の貴重な交通データが米テック巨頭に吸い上げられる「データの黒船来航」も意味する。2026年のフィジカルAI元年に向け、モビリティの覇権は車両製造からAIクラウド基盤を握るIT巨人へ急速に移行する。トヨタのWoven by Toyotaなど国内勢が主導権を奪還するには、日系メーカーの縦割りを超えた強力なエコシステム構築が急務である。"
+        }
+    },
+    {
+        "topic_name": "テスラのAI企業化への転換",
+        "article_ids": [
+            595756
+        ],
+        "articles": [
+            {
+                "id": 595756,
+                "title": "【NY市場リポート】テスラ EVからAI企業へ? - テレ東BIZ",
+                "link": "https://txbiz.tv-tokyo.co.jp/nms/market/post_338203",
+                "published": "Sat, 04 Apr 2026 05:59:10 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GeVYxSGpBT3dORWlHQ0F0MlFMVllvWHdZWjJBM1hfenZLOWJ2M1V3azFqVldCaFM1VkZ5LUFoZ0hNcVdBejdQWF85b0FndzVLdjVUWDlQOVo1ZTlnN01hWA?oc=5\" target=\"_blank\">【NY市場リポート】テスラ EVからAI企業へ?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">テレ東BIZ</font>",
+                "site_name": "テレ東BIZ",
+                "primary_category": "Strategic Shifts",
+                "reason": "テスラのAI企業化という経営モデルの転換に関するレポート。業界の先行指標。",
+                "score": 85,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "テスラの価値源泉が「EVのハードウェア量産力」から、FSD（完全自動運転）やロボタクシーを支える「AI・ソフトウェア資産」へと構造的に移行しつつある。",
+                "自動車単体の利益率圧迫を補うため、マイルごとの課金やAIライセンス供与といった、SaaS型の高利益率ビジネスモデルへの転換を市場に印象付けた。",
+                "ウォール街の評価基準が従来の「自動車セクター（売上台数ベース）」から「AI・テックセクター（ユーザー数・データ価値ベース）」へと変わり、時価総額のボリュームアップを牽引している。"
+            ],
+            "insight": "テスラのAI企業化は、自動車産業の主戦場が「電動化」から「知能化」へ完全移行した決定打だ。海量の走行データで鍛えたAIモデルにより、クルマは高利益率を生むSaaS端末へと変貌する。日本メーカーはEV価格競争の遅れを気にするが、真の致命傷はAI・ソフトウェアの覇権争いでの敗退にある。テスラやファーウェイなどの中国勢が自動運転のOSを支配すれば、日本の完成車メーカーは自前のAIを持たない単なるハードウェアの組み立て屋へと構造的に零落するリスクを抱えている。"
+        }
+    },
+    {
+        "topic_name": "eMotion Fleet、西鉄にEMS導入",
+        "article_ids": [
+            359199
+        ],
+        "articles": [
+            {
+                "id": 359199,
+                "title": "eMotion Fleet、西日本鉄道へ独自開発のエネルギーマネジメントシステム（EMS）を導入 - 時事ドットコム",
+                "link": "https://www.jiji.com/jc/article?k=000000034.000143174&g=prt",
+                "published": "Sat, 04 Apr 2026 19:40:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1QWDlObGxkQUQ1dG9YaTVjeUdPS3psRTcxdDlBZFU0NU1FX2MzczE2N2dieTVfWHdTOEtiUjltQWJDMzBxUDZPakp2NE14aFY2dnZnN2FxTWYtWWdQangxbjBKb1NOaERzbzUw?oc=5\" target=\"_blank\">eMotion Fleet、西日本鉄道へ独自開発のエネルギーマネジメントシステム（EMS）を導入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事ドットコム</font>",
+                "site_name": "時事ドットコム",
+                "primary_category": "Data & Ecosystem",
+                "reason": "エネルギー管理システム(EMS)の導入は、運行効率化と最適化を促す重要な技術実装。",
+                "score": 80,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "国内最大級のバス事業者である西鉄が、既存車両のEV改修（レトロフィット）といすゞ製新造EVを混在させ、マルチブランド環境を一元管理する標準モデルの構築に着手。",
+                "EMS導入の核心は単なる充電制御ではなく「ダイヤ（運行計画）と充電の自動連動」。大規模導入時の最大のボトルネックである「電力ピーク抑制」と「コスト最適化」をシステム自動化する点にある。",
+                "商用EVの競争軸が「車両単体の性能」から、「異種混在環境（車両・充電器）を統括するソフトウェアプラットフォームの利便性」へと明確に移行したことを示す事例。"
+            ],
+            "insight": "本事例は「完成車メーカーの囲い込み」が崩壊し、交通事業者主導の水平分業が始まった象徴的な出来事である。ユーザーは最適な車両（廉価なレトロフィットや海外製EVなど）を個別に調達し、それを束ねるEMSにOS（基本ソフト）の役割を担わせる構えだ。これが加速すれば車両は完全コモディティ化し、ハードウェアで利益を稼ぐ日系完成車メーカーのビジネスモデルは危機に瀕する。中国EV勢の低価格攻勢が本格化する中、日系メーカーは自社の枠を超えたオープンなシステム連携を受け入れるか、自らが統合プラットフォーマーになるかの岐路に立たされている。"
+        }
+    },
+    {
+        "topic_name": "いすゞ、ジャパンモビリティショー展示",
+        "article_ids": [
+            908144
+        ],
+        "articles": [
+            {
+                "id": 908144,
+                "title": "画像14 / 14＞コンセプトトラック「VCCC」や「エルガEV 自動運転バス」を初公開！「ジャパンモビリティショー2025」いすゞグループの注目展示 - ウォーカープラス",
+                "link": "https://www.walkerplus.com/article/1303916/image15570691.html",
+                "published": "Sat, 04 Apr 2026 12:25:16 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1OTlpiakh3TmJtUFNTVHBwS0hyd1EtT2lSTk4zdVh4TUpVcGtILUdwUjJyeWJScW1xUlJoYmhPa1E4X2dpNUxQQ1VPdlBkeXVIZ3pLTzhSMFhDUG9SbG5VSUUyTkw3MjlCcl8xUXZB?oc=5\" target=\"_blank\">画像14 / 14＞コンセプトトラック「VCCC」や「エルガEV 自動運転バス」を初公開！「ジャパンモビリティショー2025」いすゞグループの注目展示</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ウォーカープラス</font>",
+                "site_name": "ウォーカープラス",
+                "primary_category": "Strategic Shifts",
+                "reason": "商用車EVおよび自動運転バスの展示は、モビリティの大規模転換を示す。",
                 "score": 70,
                 "is_highly_important": true
             }
@@ -392,15 +532,102 @@
         "is_grouped": false,
         "analysis": {
             "summary_points": [
-                "直方市とテラチャージの連携による「公園」という遊休公共空間を活用した、平時・災害時兼用の充電インフラ整備モデルの確立。",
-                "日常の充電サービスに加え、災害時の無料開放（防災拠点化）を見据えた、地方自治体によるレジリエンス投資の先駆け。",
-                "単発の設置に留まらず「他の公共施設への横展開」を視野に入れており、地方におけるEVインフラの面的拡張の兆し。"
+                "「VCCC」に見る商用車のモジュール化による製造・運用の最適化は、多様化する物流ニーズへの柔軟な資産投入と開発費の抑制を可能にする構造的要因である。",
+                "「エルガEV 自動運転バス」の公開は、商用ドメイン（固定ルート）におけるEV化と自動運転の早期収益化により、深刻な人手不足という社会課題の解決を狙うもの。",
+                "中国EV勢の猛烈な価格競争力に対抗するため、単なる車両の電動化ではなく「自動化・モジュール化」による高付加価値化で、日本の商用車産業が独自の生存戦略を提示した。"
             ],
-            "insight": "この動きは、EV普及における「官民連携の最適解」を提示している。日常時は民間（テラチャージ）が収益を上げ、非常時は自治体が防災拠点として活用する役割分担だ。地方の「インフラ空白地帯」解消に向け、遊休公共スペースを活用する本モデルは全国へ波及する。地域密着型の充電網拡充は国内EV販売のボトルネック解消に繋がり日系メーカーにとって追い風となるが、災害時の無料開放に伴う電力・維持コストの長期的な負担割合が、この官民モデルの持続可能性の鍵を握る。"
+            "insight": "今回の展示は、人手不足と中国EVの価格攻势に対する日本の商用車メーカーの生存戦略だ。「VCCC」のモジュール化は多様な物流ニーズへ柔軟に応えつつ製造コストを抑える構造的要因となる。またEVバスの自動運転は、固定ルートという商用車特有の強みを活かした早期実装を狙う。中国勢の安価なEVに対抗するため、日本は車両単体の競争を避け、運用システムを含めた高付加価値ソリューションで商用ドメインの覇権を死守する構図が鮮明になった。"
         }
     },
     {
-        "topic_name": "佐渡汽船がカーシェア事業開始",
+        "topic_name": "ポルシェ販売店に蓄電池充電器導入",
+        "article_ids": [
+            322181
+        ],
+        "articles": [
+            {
+                "id": 322181,
+                "title": "ポルシェ正規販売店への蓄電池型超急速EV充電システムの納入を開始 - 山陽新聞デジタル｜さんデジ",
+                "link": "https://www.sanyonews.jp/article/1895196?kw=%E7%A6%8F%E7%A5%88",
+                "published": "Sat, 04 Apr 2026 01:28:19 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBnUFlGSXEwRE5reU00a1d0aHJQazNPYVBtTzM5eGktYWdlZnhpWTBTQ1RUV2pWcmsySWpsUVMyLTN2SDUzR0tsTVBuZlhqOHV6WFNVRkFrVjIxanRCQk1MSnpFajVFZ3o5dktBSkhzYw?oc=5\" target=\"_blank\">ポルシェ正規販売店への蓄電池型超急速EV充電システムの納入を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞デジタル｜さんデジ</font>",
+                "site_name": "山陽新聞デジタル｜さんデジ",
+                "primary_category": "Data & Ecosystem",
+                "reason": "充電インフラへの蓄電池活用は、電力需給バランスを調整する高度なシステム導入事例。",
+                "score": 80,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "送電網の強化を待たずに150kWの大出力を実現できる「蓄電池併設型」システムが、日本のインフラ制約（変電所容量の限界や高額な引き込みコスト）を回避する現実解として、プレミアムEV向けに採用され始めた点。",
+                "VWグループ（ポルシェ・アウディ・VW）が独自の充電ネットワーク（PCA）を構築し、24時間利用可能な専用ラウンジを併設することで、一般の公共充電インフラとは隔絶された「プレミアムな充電体験」による顧客囲い込みを強化している点。",
+                "パワーエックス製充電器がポルシェジャパンの推奨を獲得したことは、日本発の蓄電・充電技術が外資ハイエンドブランドの厳格な基準を満たしたことを意味し、国内スタートアップが充電インフラの覇権争いに食い込む足がかりとなった点。"
+            ],
+            "insight": "日本の送電網制約において大電力消費を賄う「蓄電池併設型」は、系統増強の莫大なコストと時間を回避する切り札だ。更に注目すべきは、VWグループが「PCA」という閉鎖型インフラと専用ラウンジで富裕層を囲い込んだことだ。これは中国EVの猛烈な価格競争力に対し、「時間と空間のプレミアム体験」という付加価値で応戦するブランド防衛戦略である。ディーラー網を持つ日本の自動車メーカーも、公共インフラへの丸投げから脱却し、顧客を繋ぎ止める独自の空間提供型充電モデルへのシフトを急ぐべきだ。"
+        }
+    },
+    {
+        "topic_name": "立川バス、EV路線バスを導入",
+        "article_ids": [
+            707020
+        ],
+        "articles": [
+            {
+                "id": 707020,
+                "title": "【立川市】入社式で雨が止んだ！立川バス新キャラクター「にゃちかわさん」＆日本初EVバスが初お披露目 - 号外NET 立川市・昭島市",
+                "link": "https://tachikawa-akishima.goguynet.jp/2026/04/05/tachikawa-nyachikawa-bus-ev-20260401/",
+                "published": "Sat, 04 Apr 2026 22:01:07 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNeFpVNFFkZzRobE1VSFhLWm9sc0FIaTRrT1JuYjVQSzJCS3hXZ0RWNkZzZFYxU2gydkYxdllta20xSWJHMWZQZWdubHBYTEYwSF85OXBycXE5OWw4bzVaWllKTnJqSHg0enQtZUF0LVRUcXpNSmNwYWxTeWk2RGtRWHJYQjJhSU5hNWJfdXl1MTA?oc=5\" target=\"_blank\">【立川市】入社式で雨が止んだ！立川バス新キャラクター「にゃちかわさん」＆日本初EVバスが初お披露目</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">号外NET 立川市・昭島市</font>",
+                "site_name": "号外NET 立川市・昭島市",
+                "primary_category": "Data & Ecosystem",
+                "reason": "地方の導入事例。地域公共交通のEV化実証として重要。",
+                "score": 75,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "いすゞ自動車の国産大型EV路線バス「エルガEV」が本格導入され、BYDなど中国勢が席巻する国内市場において、国産プラットフォームの巻き返しが本格化した。",
+                "路線バス業界の深刻な人手不足を背景に、サンエックスと協働した自社オリジナルキャラクター（IP）の展開により、採用ブランディングと非運賃収入（グッズ等）の獲得を狙う。",
+                "高齢化社会に適合する「フルフラット」設計の標準化が進む中、2024年からの段階的EV導入を経て、充電インフラと車両の最適化が地方公共交通の持続可能性を左右する。"
+            ],
+            "insight": "いすゞ「エルガEV」の導入は、中国勢が価格帯で優位性を持つ路線バスEV市場における国産メーカーの反撃の狼煙です。保守インフラと車両設計の差別化を図る構えですが、同時に注目すべきはバス事業者の生存戦略です。立川バスはオリジナルIPを自社化しガチャガチャ等で非運賃収入を創出するなど、深刻な人手不足と車両コスト増に対抗しています。ハードの電動化とソフトのIP熱量の両立は、人口減少下における地域交通維持の生命線として全国の事業者に波及するでしょう。"
+        }
+    },
+    {
+        "topic_name": "フィアット新型EVの欧州販売",
+        "article_ids": [
+            564866
+        ],
+        "articles": [
+            {
+                "id": 564866,
+                "title": "新型グランデ・パンダは約580万円!? ドイツEV補助金のリアル【みどり独乙通信】 - Auto Messe Web",
+                "link": "https://www.automesseweb.jp/2026/04/03/1951580",
+                "published": "Sat, 04 Apr 2026 02:44:05 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzcFZpQ1VIWHVCcTdmc3ZsV0VVZmFaNDJCck1NTTF5NzNQUDZzdXlWMUowM1h2SU9YZHQzMFdqREVOZEt5NC1pOU14UGhUbl9ueWplZXg3aEYwd9IBX0FVX3lxTE9Yc1N3TjVlYnRJLWJ1Wm9OaHZycFI1dmVTdVFoN29pTWl3RnBNTEhvRTd5X3JGb3JhenFKazJXcXZDOU1xM01IdFZocVBTUTkyTHlTZFJwaklCZ3VaMUhN?oc=5\" target=\"_blank\">新型グランデ・パンダは約580万円!? ドイツEV補助金のリアル【みどり独乙通信】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Auto Messe Web</font>",
+                "site_name": "Auto Messe Web",
+                "primary_category": "Geopolitics & Policy",
+                "reason": "欧州の補助金政策が市場価格に直結する現状の分析で、政策インパクトを確認できる。",
+                "score": 75,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "ステランティスの新型EV「グランデ・パンダ」は、シトロエンC3とプラットフォームを共有するコンポーネント共通化の象徴的モデルである。",
+                "ドイツ市場での同車の価格は円換算で約580万円に達しており、大衆車ブランドであっても円安とインフレが直撃する厳しい価格環境を露呈している。",
+                "欧州におけるEV補助金の縮小・終了の波が、欧州メーカーの「大衆向けEV」の価格妥当性と販売計画に深刻なリスクを招いている。"
+            ],
+            "insight": "ステランティスが放つ「グランデ・パンダ」は、欧州の大衆EV市場を制するための切り札だが、約580万円という円換算価格は欧州メーカーの悲鳴を代弁している。欧州での補助金退潮と中国メーカーの超低価格EV攻勢が交差する中、ブランド力だけで高価格を押し通すモデルは淘汰の対象だ。2026年の日本上陸時も、500万円超の価格帯では国内ハイブリッド車や中国製EVに埋もれるのは必至であり、日本のメーカーも「EVの高価化」を他人事と捉えられない構造的危機にある。"
+        }
+    },
+    {
+        "topic_name": "佐渡汽船、EVカーシェア開始",
         "article_ids": [
             351261
         ],
@@ -413,7 +640,7 @@
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1LOEJheTlWb3Y0OFZNSXI2dUNYOGVFRDJKbnp2bC1ReDI3LUZZc3dxSTJmdGdPMzVCVHVOak85c1N1QmtSeWRTTGhZY0RSSmc5eWRJT0ZZbm1fZnF6VGF2WWZEU0oxS0hSX0E0ZA?oc=5\" target=\"_blank\">佐渡汽船、カーシェアリング事業を開始 24時間利用可能で観光客の移動課題を解決 1枚目の写真・画像</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
                 "site_name": "レスポンス（Response.jp）",
                 "primary_category": "Data & Ecosystem",
-                "reason": "観光地でのカーシェアリングによる地域課題解決の実装。",
+                "reason": "観光地でのカーシェア導入は、ラストワンマイルのEV活用として評価できる。",
                 "score": 70,
                 "is_highly_important": true
             }
@@ -421,44 +648,15 @@
         "is_grouped": false,
         "analysis": {
             "summary_points": [
-                "公共交通事業者（佐渡汽船）がカーシェアに参入したことは、事業者主体による「MaaS（モビリティ・アズ・ア・サービス）」の垂直統合が地方・離島エリアで加速している構造的要因を示している。",
-                "24時間利用可能な体制は、離島特有の交通の空白地帯を補完するものであり、従来のレンタカーやタクシー事業者との直接的な競合と、地域モビリティ再編の引き金となる。",
-                "フェリーという「幹線交通」とカーシェアという「ラストワンマイル」を一気通貫で抑えることで、旅行者の「車離れ」や「免許返納」に対応した強固な収益基盤を構築している。"
+                "船舶事業者がMaaS（モビリティ・アズ・ア・サービス）領域へ進出する構造的要因は、離島特有の「公共交通の衰退（タクシーやバスの不足）」と「観光客のマイカー依存に伴う渋滞・インフラひっ迫」の解決にある。",
+                "走行距離が短く車両管理がしやすい離島環境は、航続距離や充電インフラに課題を持つEV導入における「究極の適地」として機能している。",
+                "24時間体制のカーシェアは多様化するインバウンド需要に応えるだけでなく、人流データ（ODデータ）を独自に蓄積し、交通網の高度な再編と新たな収益化を狙う布石である。"
             ],
-            "insight": "交通事業者がカーシェアへ参入する潮流は、自動車の「所有」から「利用」へのシフトを地方から浸透させる。離島は今後、EVシフトと観光MaaSの実証実験の最前線となる。日本メーカーは単なる車両供給から脱却し、充電インフラ構築を含めたサブスク型専用EVのパッケージ提案が必須だ。さもなければ、コスト競争力に優れる中国系EVを活用したプラットフォーマーに、地域交通の覇権を奪われる懸念がある。"
+            "insight": "離島でのEVカーシェアは、次世代モビリティ覇権争いの「ミニチュアガーデン」である。短距離移動が主流の離島はEVの弱点を補いやすいが、充電インフラの脆弱性が導入の最大の障壁だ。今後は車両単体ではなく、「充電設備と運行システムを束ねたMaaSパッケージ」を提供できる陣営が地方交通の覇権を握る。コスト競争力に優れる中国EVに対し、日本メーカーが地元事業者との強固な連携と保守網を武器にシェアを死守できるかが試されている。"
         }
     },
     {
-        "topic_name": "ホンダ、F1継続で再起図る",
-        "article_ids": [
-            235040
-        ],
-        "articles": [
-            {
-                "id": 235040,
-                "title": "苦境のホンダ、それでもF1を走り続けるのはなぜ？ 鈴鹿で考えた経営危機と再起への意志 - JBpress",
-                "link": "https://jbpress.ismedia.jp/articles/gallery/94096?photo=4",
-                "published": "Sat, 04 Apr 2026 07:00:06 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pUnJDZzQ2bERYU0h5Ni1sdXRnVkdWRmRYT2MzcjRRVmI3MlFHQlNkWU5QWVNxZFUxZkdXUG9FaFFlcDlVTl9lSDNPbWRKcFljeHBIZlVxRXZjVWN6NEFBenN4eGdmeXdV?oc=5\" target=\"_blank\">苦境のホンダ、それでもF1を走り続けるのはなぜ？ 鈴鹿で考えた経営危機と再起への意志</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JBpress</font>",
-                "site_name": "JBpress",
-                "primary_category": "Strategic Shifts",
-                "reason": "ホンダの経営戦略の背景を掘り下げた分析。業界の構造変革を考える上で示唆が深い。",
-                "score": 70,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "ホンダは経営危機に瀕しながらも、2026年からアストン・マーチンへのPU供給という形でF1参戦を継続、ハイブリッド技術のR&D拠点として戦略的価値を見出している",
-                "HRC（ホンダ・レーシング）の渡辺社長自らがメディア対応する異例の体制は、モータースポーツ部門が単なる広告枠ではなく、次世代電動化技術の中核的役割を担う組織へと位置づけられたことを示唆",
-                "2026年F1レギュレーションで導入される電動化比率50%のPUは、市販車のハイブリッド・EV技術に直結する開発プラットフォームとして機能し、日産統合破談後の独立路線を支える技術的根拠となる"
-            ],
-            "insight": "ホンダが経営再建の渦中にありながらF1撤退を選択しなかったのは、単なるブランド維持以上の計算がある。2026年レギュレーションは電動化比率50%への引き上げと燃料の完全サステナブル化を義務付け、ここで培われる高効率モーターや電池管理技術は、中国EV勢に対抗する日本メーカーの生命線となる。アストン・マーチンへの供給形態はワークス参戦よりリスクが低く、技術証明の舞台として巧妙だ。ただし、年間数百億規模の開発費が本業の収益圧迫を招く懸念は根強く、F1成果が市販車の販売回復に直結する「時間的猶予」が限られている点が最大のリスク要因である。"
-        }
-    },
-    {
-        "topic_name": "ボルボが欧州でLynk&Co販売",
+        "topic_name": "ボルボ、Lynk&Co欧州販売へ",
         "article_ids": [
             225170
         ],
@@ -471,7 +669,7 @@
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcDNlT1BZVG1GbUpmQkJjN2pDSG04N0RocGpNQ2l4eHdQNW9XQ19lSWJHZkotOFQ3blpCWEt2RnpaQXNIalpxR2d2QjVmWklwa05sbENlT0YxdEdYX2JJMExlUlFUS1dHMTdsWXMxUEIwNXQ4b1AtSjd5T1daZF9uWWE0Q0doMFNw?oc=5\" target=\"_blank\">ボルボが吉利汽車のLynk&amp;Coブランドを独占販売開始（Auto Prove） | 自動車情報・ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carview!</font>",
                 "site_name": "carview!",
                 "primary_category": "Strategic Shifts",
-                "reason": "ボルボと吉利のブランド戦略再編。グローバル自動車グループの再編動向として評価。",
+                "reason": "ブランド間の販売提携というビジネスモデルの変更を示唆しており重要。",
                 "score": 75,
                 "is_highly_important": true
             }
@@ -479,28 +677,28 @@
         "is_grouped": false,
         "analysis": {
             "summary_points": [
-                "ボルボが親会社である中国・吉利汽車（ジーリー）傘下のLynk&Coの欧州独占インポーターとなり、既存ディーラー網を活用して販売とアフターサービスを一元化する。",
-                "ボルボ（プレミアム層）とLynk&Co（サブスク・デジタルネイティブ層）で顧客層を補完し、ボルボは新規の開発投資なしでフルラインナップ化による規模の利益を享受する。",
-                "吉利側は欧州での販売インフラ構築のリスクをボルボに委ねる一方で車両開発・認証を掌握しており、中国資本による欧州流通網の早期掌握戦略が鮮明になった。"
+                "中国の吉利汽車が欧州進出の最大の障壁である「ブランド力不足」と「関税・規制の壁」を、傘下のボルボの販売網を利用することで巧みに突破する構造を構築した。",
+                "ボルボは新規のプラットフォーム開発投資なしにLynk&Coを取り込むことで、スケールメリットを最大化し、販売店の稼働率と利益率を引き上げる資本効率重視の戦略を採っている。",
+                "プレミアム層（ボルVo）とサブスク・デジタルネイティブ層（Lynk&Co）という客層を完全に切り分け、同一の販売チャネルで互いにカニバリゼーションを起こさないマルチブランド戦略を確立した。"
             ],
-            "insight": "本質は中国資本が欧州の関税や規制の壁を回避し、傘下の欧州ブランドの販売網を利用する覇権戦略だ。ボルボは大衆向けEV開発コストを削減し、吉利はインフラ構築なしに欧州基盤を掌握する。日本メーカーは、この『資本の傘下を利用した流通の垂直統合』により、孤立無援の巨額EV投資戦略が完全に骨抜きにされる危機にある。"
+            "insight": "中国勢が欧州進出の障壁を、傘下の欧州ブランドの既存ディーラー網をインポーターに仕立てることで突破した鮮やかな手口だ。これは日本メーカーの「強固なディーラー網」という強みが、中国資本の「侵略ルート」に転用される構造的脅威を示している。欧州の有力販売チャネルを中国勢に抱き込まれることは、日系EVの欧州市場からのドロップアウトリスクを急速に高める重大な転換点となる。"
         }
     },
     {
-        "topic_name": "ルノーコリアがEV生産を検討",
+        "topic_name": "日産、新型リーフの残価率向上",
         "article_ids": [
-            11874
+            373728
         ],
         "articles": [
             {
-                "id": 11874,
-                "title": "ルノーコリアEV生産検討 韓国で拡大方針 - CHOSUNBIZ - Chosunbiz",
-                "link": "https://biz.chosun.com/jp/jp-industry/2026/04/05/ZXD22P47IRAF7AKSV7KNCCUGXQ/",
-                "published": "Sun, 05 Apr 2026 06:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPTV85a3NDOHJ6a3M1RHFERjRfU1lCNzI3Nk5MRFFzQ3JWeEd0dThjNXlRMDg2b21iN2hmbEtwaHNKdEdVQXJjeEJGdmhVTDlfT1UxMzRqMGM4b2RxRFVDWDdjeWZUVEUyTlNkeDA3b2R2NXFqMUY1bjlDN3YwMW0xUnhR0gGWAUFVX3lxTE5hN2t1R1p6Ti1GZHo0WDFLWXl4RjcybmJ5UFUwMmZSOWg5WDFkTXhsR0xkSEMwcFl3U0NwbFJKdEtWUi1VcUNiLUpBcVlxOGF0MHZMa2c0TkhwMll0el9Id05ERTdiZk1qM2dWcWpOQVltRDR3d1ZReTVqNTd4TDRIcURDSmg4VGtrdVdsSDhDRThkcUtNUQ?oc=5\" target=\"_blank\">ルノーコリアEV生産検討 韓国で拡大方針 - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
-                "site_name": "Chosunbiz",
-                "primary_category": "Strategic Shifts",
-                "reason": "ルノーの生産拠点戦略変更はサプライチェーンの再配置を示す重要な動き。",
+                "id": 373728,
+                "title": "日産、新型リーフは5年で残価率30％ 従来比2倍へ リセール高めてEV普及を後押し - netdenjd.com",
+                "link": "https://www.netdenjd.com/archives/615777",
+                "published": "Sat, 04 Apr 2026 08:10:54 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vY3Uyc2JNQmIyOUNEa2ZMdlVVdV9tZUZpT3BxMDZJWEFzZ1Jmc1hScjEtNjE2N1Q5eDdFT3BFTE5UTXVHc0J2NWVXLXotZ2h5elE?oc=5\" target=\"_blank\">日産、新型リーフは5年で残価率30％ 従来比2倍へ リセール高めてEV普及を後押し</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">netdenjd.com</font>",
+                "site_name": "netdenjd.com",
+                "primary_category": "Data & Ecosystem",
+                "reason": "リセールバリュー向上施策は、EV普及を促進するための市場設計として評価できる。",
                 "score": 70,
                 "is_highly_important": true
             }
@@ -508,11 +706,11 @@
         "is_grouped": false,
         "analysis": {
             "summary_points": [
-                "ルノーグループ内で唯一の「中・大型（D・Eセグメント）」特化拠点である釜山工場を、2025年のEVフレキシブル生産導入を経て、2027年の自社ブランドEV投入へと昇華させる明確なロードマップ。",
-                "LGエナジーソリューションを中核としたバッテリーの「現地化」推進。韓国の強力な電池エコシステムを取り込み、次世代EVのコスト競争力と供給網の安定性を確保する構え。",
-                "欧州依存からの脱却を図る新中長期戦略『フューチャーレシー』の要衝として釜山を位置づけ、中国ジーリー製ポールスター4の受託生産で培ったEVノウハウを自社のグローバル輸出競争力強化に転用する方針。"
+                "日産は新型リーフの5年後保証残価率を現行比ほぼ2倍の「30%」に設定し、ガソリン車/HV（約40%）との月々のローン負担格差を大幅に縮小する。",
+                "中古EV市場の未成熟（電池劣化の不透明性や陳腐化リスク）という構造的課題に対し、8年経過後も電池残存性能（SOH）90%を維持する技術的進化を根拠に、メーカー側がリスクを負担して中古市場のベースラインを強制形成する戦略である。",
+                "新車のみに補助金が出る制度の歪みを補うための金融アプローチであり、EV普及において従来の「プロダクトアウト」から「金融・リセール戦略」へのパラダイムシフトを示している。"
             ],
-            "insight": "ルノーが釜山を中大型EVの輸出拠点に位置づけたことは、日系メーカーに重大な脅威だ。吉利（ジーリー）系ポールスターの受託で培った中国のプラットフォームと、LGの電池を組み合わせる「中欧韓」のトライアングル体制は、利益率で苦しむ日系の大型EVを凌駕し得る。欧州保護主義に頼らず、アジアの強力なサプライチェーンを武器に中国EVの攻勢に対抗する構図が鮮明になった。"
+            "insight": "日産の残価率30%設定は、中古EV市場の未形成という最大の普及阻害要因に対するメーカーの強烈なテコ入れだ。これは中国EVの価格破壊に対抗するための金融面での防衛策でもある。メーカーが下取りリスクを抱え込むことで一時的な販売促進は可能になるが、電池の長寿命化が中長期的な市場データで証明されなければ、将来巨大な残価損失（デリバティブリスク）に直面する諸刃の剣である。"
         }
     },
     {
@@ -529,7 +727,36 @@
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1sUzVoczVNTllSUTBrblhIV0E0eUg5eTRLWjFyV0JXTkQ2ZTM3Vklkd3lFU2hmZXBtaHhiU3dGYlZjRW9ZWTlJYmM4c0Zndl9FTVdzcXRITHozcUYwQVEtaExGS1VmcWpBalFuZmQ4cEw?oc=5\" target=\"_blank\">【蓄電関連】ケミトックス：リチウムイオン電池の類焼試験受託を開始、EV・蓄電池向けに熱暴走時の延焼リスク評価を支援</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">みんなの広報宣伝部</font>",
                 "site_name": "みんなの広報宣伝部",
                 "primary_category": "Supply Chain & Core Tech",
-                "reason": "安全評価体制の強化はサプライチェーンの信頼性向上に直結するインフラ基盤。",
+                "reason": "熱暴走のリスク評価という技術的インフラ整備は、EVの安全性向上に不可欠な要素。",
+                "score": 80,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "EV・蓄電池の世界的普及により、致命的な「熱暴走（サーマルランナウェイ）」による延焼リスクの検証需要が急増している。",
+                "安全要件の対象が完成車メーカーだけでなく、難燃材・断熱材の部材サプライヤーやパック輸入業者にまで波及し、バリューチェーン全体での安全証明が不可避な構造に変化している。",
+                "過充電や釘刺しによる熱伝播テストの標準化は、コストと開発スピードを左右する構造的要因となり、市場参入の絶対条件となっている。"
+            ],
+            "insight": "EVの火災リスクは各国の法規制や保険料に直結しており、低価格でシェア拡大する中国EVや輸入電池に対して、厳格な熱暴走試験が「実質的な非関税障壁」として機能する可能性がある。また、この動きは熱伝播を防ぐ難燃材・断熱材などを手掛ける日本の部材メーカーにとって、安全性を武器にサプライチェーン上で存在感を高める絶好の機会だ。次世代の覇権争いは、電池セルの性能だけでなく「安全を担保する材料・評価技術」の優劣に大きくシフトしていく。"
+        }
+    },
+    {
+        "topic_name": "日本、BYDへのEV補助金削減",
+        "article_ids": [
+            980000
+        ],
+        "articles": [
+            {
+                "id": 980000,
+                "title": "BYDは日本の新しい政策を踏まえて、EV補助金が急激に減少 - VOI.id",
+                "link": "https://voi.id/ja/otoinfo/567409",
+                "published": "Sun, 05 Apr 2026 04:55:52 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE5YLUtyNDJ6RVZaS3JDeUYxVTVINVRVZ3ZBVDlZTWl5d1R4NXVVU0c1Q1J3R3ZhREM5V2VoZENMeXRyc0EzR2JF0gFCQVVfeXFMT1pBVEdMYmZxNjhqbFpUSzNWYnl4U290cE1ZTlZ4Y1lWeWFxSFhoQkFicGNvSmZQUDdxN29rY3V2cWNB?oc=5\" target=\"_blank\">BYDは日本の新しい政策を踏まえて、EV補助金が急激に減少</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VOI.id</font>",
+                "site_name": "VOI.id",
+                "primary_category": "Geopolitics & Policy",
+                "reason": "政策変更による補助金への影響分析であり、市場戦略に不可欠。",
                 "score": 75,
                 "is_highly_important": true
             }
@@ -537,15 +764,160 @@
         "is_grouped": false,
         "analysis": {
             "summary_points": [
-                "EVや蓄電池の本格普及を背景に、熱暴走時の「延焼リスク（熱伝播）」を検証する類焼試験の需要が急増し、安全性評価が新たな収益市場として確立されつつある。",
-                "試験対象が電池メーカーだけでなく、難燃材・断熱材などの「部材サプライヤー」にまで拡大しており、電池パック全体での安全設計・部材選定が競争優位の前提となっている。",
-                "「パック輸入販売企業」もターゲットに含んでおり、コスト優先の海外製（中国等）電池が流入する中、国内での安全証明を求めるリスク回避の購買動向が鮮明になっている。"
+                "バッテリー産地による補助金の格差：BYDは中国製バッテリーのため補助金が15万円に激減した一方、国産バッテリー採用のトヨタbZ4X（最大130万円）やパナソニック製のテスラ（127万円）が最大級の恩恵を受け、サプライチェーンの国内立地による明確な選別が行われた。",
+                "実質的な非関税障壁の構築：日本政府はEVシェア2%未満の市場において、圧倒的なコスト競争力を持つ中国EVの流入を防ぐため、「地元生産バッテリー」という条件を用いた保護主義的な政策を打ち出した。",
+                "BYDの価格競争力喪失：BYD日本法人トップが「トヨタとの価格差は100万円に広がり、35万円の価格競争はできない」と述べるほど、同社の低価格モデルを武器とした日本市場でのシェア獲得戦略が阻害された。"
             ],
-            "insight": "EV・蓄電池の普及拡大に伴い、熱暴走リスクの評価が新たな競争軸となっている。中国製安価電池の流入に対し、国内で厳格な類焼試験が求められるのは、安全性を盾にした防衛策の表れだ。日本は「熱管理と安全評価」で付加価値を主張するが、「中国セル＋日本の安全部材・試験」という構造に終始すれば、日本のバリューチェーンが単なる「安全の検証・下請け」に零落する懸念がある。今後の覇権争いは、電池セル自体の開発競争から、システム全体の安全設計とサプライチェーン構築へと移行する。"
+            "insight": "「バッテリーの国産調達」を梃子にした補助金格差は、中国EVへの明確な非関税障壁だ。内資メーカーは一時的な保護を得たが、EV普及率2%未満の状況で安価な選択肢を締め出すことは、日本の電動化遅れという本質的課題をさらに深刻化させる矛盾を孕んでいる。また、パナソニック電池を採用するテスラを優遇しつつBYDを排除する政策は、将来的な日中間の貿易摩擦の火種となる懸念が極めて大きい。"
         }
     },
     {
-        "topic_name": "SBI、アフリカEV基金へ出資",
+        "topic_name": "ルノーコリアがEV生産を検討",
+        "article_ids": [
+            11874
+        ],
+        "articles": [
+            {
+                "id": 11874,
+                "title": "ルノーコリアEV生産検討 韓国で拡大方針 - CHOSUNBIZ - Chosunbiz",
+                "link": "https://biz.chosun.com/jp/jp-industry/2026/04/05/ZXD22P47IRAF7AKSV7KNCCUGXQ/",
+                "published": "Sun, 05 Apr 2026 06:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPTV85a3NDOHJ6a3M1RHFERjRfU1lCNzI3Nk5MRFFzQ3JWeEd0dThjNXlRMDg2b21iN2hmbEtwaHNKdEdVQXJjeEJGdmhVTDlfT1UxMzRqMGM4b2RxRFVDWDdjeWZUVEUyTlNkeDA3b2R2NXFqMUY1bjlDN3YwMW0xUnhR0gGWAUFVX3lxTE5hN2t1R1p6Ti1GZHo0WDFLWXl4RjcybmJ5UFUwMmZSOWg5WDFkTXhsR0xkSEMwcFl3U0NwbFJKdEtWUi1VcUNiLUpBcVlxOGF0MHZMa2c0TkhwMll0el9Id05ERTdiZk1qM2dWcWpOQVltRDR3d1ZReTVqNTd4TDRIcURDSmg4VGtrdVdsSDhDRThkcUtNUQ?oc=5\" target=\"_blank\">ルノーコリアEV生産検討 韓国で拡大方針 - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+                "site_name": "Chosunbiz",
+                "primary_category": "Strategic Shifts",
+                "reason": "生産拠点の再配置を検討しており、グローバル戦略上の重要事象。",
+                "score": 70,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "ルノーの新中長期戦略「フューチャーレディ」の下、釜山工場をグループ唯一の「D・Eセグメント（中・大型）特化拠点」に位置づけ、2027年の自社ブランドEV生産に向けて ICE/HEV/EV の混流生産体制を確立した。",
+                "バッテリー調達においてLGエナジーソリューションを「中核パートナー」と明記し、韓国内の強力なバッテリーエコシステムを活用することで、次世代EVのコスト競争力と供給網の安定性を確保する構造である。",
+                "中国・吉利（ジーリー）グループのEV「ポールスター4」を受託生産することで、中国側の先進的なEVプラットフォーム技術とノウハウを吸収し、それを自社ブランドの展開とグローバル輸出競争力の強化へと転換する戦略的意図が見え隠れする。"
+            ],
+            "insight": "ルノーによる釜山工場の中大型EV拠点化は、日本メーカーに致命的な脅威を与える。吉利系EVの受託で中国の先進プラットフォームを吸収し、LG電池という最強のサプライチェーンを構築した点は見事である。日本の「全固体電池待ち」戦略が遅れれば、この高コスパな韓国産EVがアジアや欧州市場で日本勢を完全に締め出すだろう。"
+        }
+    },
+    {
+        "topic_name": "トヨタ、RAV4の生産転換",
+        "article_ids": [
+            962807
+        ],
+        "articles": [
+            {
+                "id": 962807,
+                "title": "「工場が止まり、店頭も空になった」トヨタの生産転換が招いた供給の空白、RAV4争奪戦の全貌 - スマートニュース",
+                "link": "https://www.smartnews.com/news/article/4931409472749840764-%E3%80%8C%E5%B7%A5%E5%A0%B4%E3%81%8C%E6%AD%A2%E3%81%BE%E3%82%8A%E3%80%81%E5%BA%97%E9%A0%AD%E3%82%82%E7%A9%BA%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%80%8D%E3%83%88%E3%83%A8%E3%82%BF%E3%81%AE%E7%94%9F%E7%94%A3%E8%BB%A2%E6%8F%9B%E3%81%8C%E6%8B%9B%E3%81%84%E3%81%9F%E4%BE%9B%E7%B5%A6%E3%81%AE%E7%A9%BA%E7%99%BD%E3%80%81RAV4%E4%BA%89%E5%A5%AA%E6%88%A6%E3%81%AE%E5%85%A8%E8%B2%8C",
+                "published": "Sat, 04 Apr 2026 10:20:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3ARBVV95cUxQeUpneHhDZlNEZ2FCeTFHaXViaXRVZ1VnWXR6MWljWERsVHJiZkpYLTZ5eWtpdUxRVmpsWWJVY29wcFZSWmVCSE9ERmhCUy12eHdYUEIwbzFqY25SaXlBaDBFMkhzTUF2bDd3RWFjbDdBVFNfQVFrTTM5TVhHRW4xbWZyT3NlajFGdVlKZTFhWF8tcEJoZlg1aFh2ZWIzQURodkw1TGUtbWhWR1pOTDZOcnZaTzQ2eFRXZzBLbE01RXZWVFZpZ0xKNFRobXFsVU5kUFpnSi0yd0ZhZ3lscU5QRmZTMlh5eHJEMHFGWHpLNmsxZnFOZ0xpRUNHbjR6RC1oNkg1VHdJMWYxUEZxdW1IMEU1c0g4LTF0RGt3cktDeGhJVDVDZFRLN2lUSDZEaXZnbXBTRXZPcnZUNzRNOFJ3UlJOYmxqeVN0SkdvSVhwcGdpTUdJNzdJOWVNVHlPVWV6SUZ0R3NSekF4MDkwNzB2bDdCak9LWjVkYzEzRnc4STRIbnJfMjI0aGxpbUdHbG9QVUxKMVpKejIzaXJCZ2lYMzhYZ09VVllxZVROdWIydHhPUjNSRHlaeGVPclltMklrdl83QzQ1X2pVMldEOTBwU0prZWxCbTZFckUyUEoyd2Y0eTExQVZJVnQtWjdRRWJJcFM2VUhjT2xnVkxTRUh5dE1YeXBjbTR6MC1FSzdLX2FpNEsxVE02YmNiSGVmQ2dJdXBXS0VwVl94eHpKTHJQLU9ucE5iZDIxUk10T3lIU1Z3TTNGM2NidFZ5VkRCT0F0SjJwaWhldV9SQk5R?oc=5\" target=\"_blank\">「工場が止まり、店頭も空になった」トヨタの生産転換が招いた供給の空白、RAV4争奪戦の全貌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">スマートニュース</font>",
+                "site_name": "スマートニュース",
+                "primary_category": "Supply Chain & Core Tech",
+                "reason": "生産転換による供給リスクの指摘。サプライチェーンマネジメントの重要課題。",
+                "score": 85,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "純ガソリン車の廃止と全車ハイブリッド（HEV）化というパワートレインの強制的な移行が、現行モデルへの異常な買いだめ（逆走現象）を引き起こしている。",
+                "新型への移行に伴う実質的な価格引き上げ（現行モデル2.9万ドル〜に対し、新型PHVは4万ドル超と予想）が、価格敏感層の現行モデル奪取合戦を加速させた。",
+                "新型モデルへの生産ライン転換によって生じた「供給の空白期」が需要の逼迫に拍車をかけ、米国の主力SUV市場で深刻な需給ギャップを生み出している。"
+            ],
+            "insight": "今回の事態は、電動化シフトが大衆車の「適正価格帯」を突破したことに対する消費者の激しい拒絶反応である。トヨタの強固なブランド力をもってすれば今回の価格上昇と選択肢の限定は吸収可能だが、この「電動化の押し付けによる高価化」は、手頃な車を求める層を将来において韓国や中華メーカーの懐へと押しやるリスクを孕んでいる。電動化への過渡期における精度の低い需給管理は、競合他社に市場シェアを明け渡す致命的な隙となり得る。"
+        }
+    },
+    {
+        "topic_name": "BYDドルフィン日本市場展開",
+        "article_ids": [
+            714911
+        ],
+        "articles": [
+            {
+                "id": 714911,
+                "title": "「世界100万台が証明した」BYDドルフィン、日本市場の\"価格の壁\"をどう壊したのか - スマートニュース",
+                "link": "https://www.smartnews.com/news/article/4931399411541481007-%E3%80%8C%E4%B8%96%E7%95%8C100%E4%B8%87%E5%8F%B0%E3%81%8C%E8%A8%BC%E6%98%8E%E3%81%97%E3%81%9F%E3%80%8DBYD%E3%83%89%E3%83%AB%E3%83%95%E3%82%A3%E3%83%B3%E3%80%81%E6%97%A5%E6%9C%AC%E5%B8%82%E5%A0%B4%E3%81%AE%22%E4%BE%A1%E6%A0%BC%E3%81%AE%E5%A3%81%22%E3%82%92%E3%81%A9%E3%81%86%E5%A3%8A%E3%81%97%E3%81%9F%E3%81%AE%E3%81%8B",
+                "published": "Sat, 04 Apr 2026 09:40:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwRBVV95cUxPQktTMUFOV2h6dlNhUktqa1loa1VwTzlJVEp4cEQ3WFhoYXFSd0VWMjJ6SmwyTFZtbVJmdDUzVkkwak9vOVkzNVU1MmZ0Tjh3THJ1MkphQ0FGX3ZDMXhsQWRxQ1pjOW9TVXpnUl91US1KTURKSS1CeDlpXzlaUF9wbmNIa09vbVJXc2ZoaDNPWkJLZWNYcy1SM2o3VVFSZ3BLOGtwbWN2b3Vybk4wV1JiYmQtYUEwUDJzbFFBQ2MxWlF5OTZoOGZvdFhBRWR2Nm5oNXRhckNvOGFqa3pvM2dHSTl6OHJVTS11MVpxRUQwY1Z1M1FtcEwzdXpkaXZjTUhNZ0xnSnRHZ19tei1OUHowTkFZRE5FWUNyVWFXWDk4VHZoSmhiRmNuMGpPMEpPSkpPbFRLSlVDUEpaZVF4STdKN2lRdmw3UFdCYkZseGwzcmJHU3lzRDU3a1E0QzlpUmNTV0pEUzJWOWJNY2lDN29sV0h5Y2JHY09JMmU0RXdRYXZTZG9xcE1CUDR5azF5ZFdCN0wwSUlLenlRWDItMFY2T3ZHM2U3emt3TVk0UEN6V2FIWm81R0hITnZCWVdZNkt5OWZNWXd0a2VydUZsekdud2U4U3VTVzJaeUxJMzU5Um1YVVJGU1kxU04xZnE2cDlXWS1oQ1A5QldPcktlMlFFU3ItYnRHZU1NMmhFdExaaVd1bXM?oc=5\" target=\"_blank\">「世界100万台が証明した」BYDドルフィン、日本市場の\"価格の壁\"をどう壊したのか</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">スマートニュース</font>",
+                "site_name": "スマートニュース",
+                "primary_category": "Strategic Shifts",
+                "reason": "価格設定の成功要因分析は、日本市場での普及戦略において極めて重要。",
+                "score": 85,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "バッテリーから車両生産までを自社完結するBYDの「垂直統合」が、200万円台という輸入EV異例の価格破壊を実現し、市場構造を変革している点。",
+                "中東情勢によるガソリン価格高騰（1L160円超）が外部要因として働き、200〜300万円台の大衆向けEVに対する日本の消費者ニーズを急激に顕在化させている点。",
+                "EV専用プラットフォームにより2,700mmの広い室内空間を確保しつつ、ADASやV2Lなどの高度機能を全グレード標準装備とする圧倒的なコストパフォーマンスが、日本の既存コンパクトカーの価値観を凌駕している点。"
+            ],
+            "insight": "BYDの垂直統合は、日本メーカーのサプライチェーン依存とは次元が異なる圧倒的なコスト支配力を証明した。国内コンパクトカーの価格高騰が進む中、200万円台でADAS等を標準装備するドルフィンの攻勢は既存の価値基準を破壊する。原油高という外部環境も追い風となり、EVの「価格の壁」を言い訳にする日本メーカーの退路は完全に断たれた。サプライチェーンの抜本的見直しを含めた構造改革が急務である。"
+        }
+    },
+    {
+        "topic_name": "スバル・ゲッタウェイ発表",
+        "article_ids": [
+            44067
+        ],
+        "articles": [
+            {
+                "id": 44067,
+                "title": "「420馬力・7人乗り」スバル・ゲッタウェイ登場、トヨタとの共同開発が解き放った性能 - スマートニュース",
+                "link": "https://www.smartnews.com/news/article/4931414617667676694-%E3%80%8C420%E9%A6%AC%E5%8A%9B%E3%83%BB7%E4%BA%BA%E4%B9%97%E3%82%8A%E3%80%8D%E3%82%B9%E3%83%90%E3%83%AB%E3%83%BB%E3%82%B2%E3%83%83%E3%82%BF%E3%82%A6%E3%82%A7%E3%82%A4%E7%99%BB%E5%A0%B4%E3%80%81%E3%83%88%E3%83%A8%E3%82%BF%E3%81%A8%E3%81%AE%E5%85%B1%E5%90%8C%E9%96%8B%E7%99%BA%E3%81%8C%E8%A7%A3%E3%81%8D%E6%94%BE%E3%81%A3%E3%81%9F%E6%80%A7%E8%83%BD",
+                "published": "Sat, 04 Apr 2026 10:40:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuARBVV95cUxQSXdZenVXdGpVMEZEWmtBTkxDLUNfcmcyWHozSllRSVZuNVlxemNPcW9WaFROQnFEdGYtOFZTVDk4VDRUd1pZX18xQl9aeElCdURZRkswV3oxc3VLNEU5MVViUllmdGNkenVMQjhLUERDYUZhcEpCR2x0NHVMY0dHSW1ibmN1UTRtUzNmMnNlUHV6eER0eDFPczFGWkhWeEFfZzFUTklCcW5lS1pYVnlNS2dZajZTaFlxOE1fVHJCSENhc0xNcDI5ekd1SE92aFRIeFpIX2F0Y0hjaTIweWt2dEVCM1RJN2hETVNFa1FqUmg5LW52SFN4M21DWm9Rc2pKUXQybGpSRnlMZElPV0xiMU1oMWhqRk1pbHFUSE5MaXNnRzBWb0I1enY0QVhuVGhibXRIU255M29nWENlU0RuT3BlWGNuMi1yRWw1RUo2R3dMNUozQWVqb1FEdWNyTGFnNERJbmZXdmQweWNBa1I1TzRwR043R1FvS3E0NmQxWndwSFctUUFKZmZHaDIyMUo3LWJFWTYwWkZ6U09LR2dOT1ZZSnNlRXJRR05jVXkyV3hrY2hySWJYTV9NV0J0YUdiQjlxMDJpY3I3WGk3QUkzS3hrS0hYdmJlcDVBamNwckxBbEdBS3h1S0hMUDlfdFJlYVZvLU1QeldpR3IwZmYtN1lVekQ4OXlrUDhfWEdWWEZNa2NuVlpqem5sOUNKRTctOWdMZzl5bmQ4OXZsYnVNUVY0MGxZWDBW?oc=5\" target=\"_blank\">「420馬力・7人乗り」スバル・ゲッタウェイ登場、トヨタとの共同開発が解き放った性能</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">スマートニュース</font>",
+                "site_name": "スマートニュース",
+                "primary_category": "Strategic Shifts",
+                "reason": "共同開発による性能向上の分析。アライアンス効果の検証事例。",
+                "score": 75,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "トヨタ「ハイランダー」EV基盤のスケールメリットを活かしつつ、スバルは420馬力のデュアルモーターAWDへ過激なチューニングを施し、共同開発におけるブランド独自性の確立に成功した。",
+                "高出力（420馬力）と引き換えに航続距離（480km）を妥協しており、BEV開発における「走りの性能」と「航続効率」のトレードオフという業界共通のジレンマを浮き彫りにしている。",
+                "米ケンタッキー工場生産によるIRA（インフレ抑制法）対応を前提に、想定価格4万〜6万ドル帯の大型3列EV市場という高利益ゾーンへの本格参入を果たした。"
+            ],
+            "insight": "トヨタ基盤から420馬力を絞り出した本作は、中国EVの「デジタル・コスパ」に対し、日本勢が「走り・悪路・牽引」という物理的バリューで勝負する明確な対抗軸を示した。ただ、出力優先で妥協した航続距離480kmは、バッテリー進化の恩恵を受けられない将来のリスクになり得る。北米生産でIRAもクリアするが、想定価格帯はテスラ等の激戦区。スバルの血統を価格競争の荒波から守り抜けるかが真の勝負となる。"
+        }
+    },
+    {
+        "topic_name": "Uber、ドバイでロボタクシー",
+        "article_ids": [
+            930906
+        ],
+        "articles": [
+            {
+                "id": 930906,
+                "title": "UberのドバイでのロボタクシーとEVの取引は、Uber Technologies (UBER)の投資シナリオを転換させたか？ - simplywall.st",
+                "link": "https://simplywall.st/ja/stocks/us/transportation/nyse-uber/uber-technologies/news/a8864447bdf82cbe",
+                "published": "Sat, 04 Apr 2026 23:43:10 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNYmQycmRpNUpjQUZFTFVldi1wNGVjaWFZTy1FNlNMT2RiakV5enczcnU3R2FTeUVHSElMbjNXcWk5dlRaT0JCc3E1cVdDUzlmWUE0MXA0UTMwaGhCUlBvMnl4b0d4eTFhSXFWY1p4OEp4RzlHaElFdkNrdkVxS1VnYVpaSzU1d3JxTVVjSndlSDJFd3VjemNGeTFwZEY0TXcx0gGmAUFVX3lxTFBoOXpjX1JQbnFBSTlSb3VUcU5JWGlvMHlHQWs0alBfSTc0M0JEdG9jbUZIaS1XdXYtSlJUNXcwTkc4SnRGMWxJMVExMjBraHJhZ1Ruc05xMmVLMGtMZlh2aC1xMUpUNEwzVm1ORklRZWhWcktPV2FweklQRUdJZ0liaVo2dzlpUloxLWdwV3liX0NsRjRjN20zRDg3U2VENDhKbFM5VUE?oc=5\" target=\"_blank\">UberのドバイでのロボタクシーとEVの取引は、Uber Technologies (UBER)の投資シナリオを転換させたか？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+                "site_name": "simplywall.st",
+                "primary_category": "Strategic Shifts",
+                "reason": "ロボタクシーを通じた配車プラットフォームのモデル転換。非常に重要。",
+                "score": 85,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "UberがWeRide（5.82%の出資）、Pony.aiといった中国系AV（自動運転）企業と提携し、ドバイや欧州で完全無人タクシーを展開。単なる業務提携ではなく資本結合によるエコシステム構築が鮮明。",
+                "Uberの将来像には楽観と慎重派で対立軸があり、2029年の利益予想も107億ドル（年率13.1%成長）から82億ドル（AV投資によるマージン圧迫）まで大きく割れている。",
+                "RivianとのEV供給拡大やAVパートナーシップの推進は、配車プラットフォームが自律走行・電動化の重圧に耐えつつ、強力なフリーキャッシュフローを維持できるかという収益性の極限のテストとなっている。"
+            ],
+            "insight": "UberがWeRideやPony.aiといった中国系AV企業をドバイや欧州で急速に活用する構図は、中国の自動運転技術のグローバル進出を加速させるものだ。日本の自動車メーカーはMaaS構築で遅れをとっており、米プラットフォーマーと中国テックの連合に、単なるハードウェアサプライヤーとして埋没するリスクが高まっている。AV投資の不確実性による利益圧迫の懸念はあるものの、次世代モビリティの覇権は「プラットフォームとAV技術の資本提携」に委ねられるだろう。"
+        }
+    },
+    {
+        "topic_name": "SBI、アフリカEV事業へ出資",
         "article_ids": [
             7216
         ],
@@ -558,23 +930,52 @@
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE53VHpKa3FKVHJNRzB6NTdVQkJzTW01Q2RCbHhrcmcwbnpVMnpTX3BvUHV4T2Y2MUVWSVRkQmZCSzlUejU5WWE5MkhGalQ?oc=5\" target=\"_blank\">SBIがアフリカ成長ファンドに約30億円出資 EVモビリティやECなど「People & Planet」分野へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DXマガジン</font>",
                 "site_name": "DXマガジン",
                 "primary_category": "Strategic Shifts",
-                "reason": "アフリカ市場でのモビリティ投資。新興国でのエコシステム構築という観点で評価。",
-                "score": 75,
+                "reason": "アフリカ市場でのモビリティ投資。フロンティア市場の開拓事例として重要。",
+                "score": 80,
                 "is_highly_important": true
             }
         ],
         "is_grouped": false,
         "analysis": {
             "summary_points": [
-                "SBIの約30億円出資を機に、三菱商事、商船三井、JICAなどの日本の巨大資本・政府系機関が結集し、アフリカのEV・モビリティ市場へ「やまと資本」として一挙参入した。",
-                "投資先がEVバス（BasiGo）や電動バイク（Greenwheels）に特化しており、個人所有が未成熟な同地域において、公共交通・MaaSを通じたインフラ主導権の獲得を狙う。",
-                "車両製造ではなくサービス網やインフラの支配を先行させることで、中国EVメーカーのアフリカ市場制圧に対抗する構えだが、ハードウェア面での対中依存リスクは内包している。"
+                "SBIが約30億円を出資し、SMBC、三菱商事、商船三井などの日本の巨大資本を巻き込み、アフリカ最老舗VCのファンド（総額1.47億ドル）を通じて新興国モビリティの主導権を握った。",
+                "投資先はEVバス（BasiGo）や電動バイク（Greenwheels）であり、ガソリンインフラが未成熟なアフリカにおいて、車両販売ではなく「MaaS（モビリティ・アズ・ア・サービス）」の形式で電動化を急ぐ構造である。",
+                "気候変動対応と人口増加（People & Planet）を掲げ、日本の資本とアフリカのスタートアップを橋渡しする独自のエコシステムを構築している点。"
             ],
-            "insight": "日本の完成車メーカーがアフリカでのEV転換で主導権を握れない中、SBIや商社・海運が連合して『MaaSと充電インフラ』の支配権を先行奪取する戦略に出た。車両の製造覇権を中国に譲っても、運行網を日系資本が抑え込む鞘取りモデルを構築しつつある。ただ、EVバイク等のサプライチェーンが結果的に中国依存になる懸念もあり、日本の自動車部品サプライヤーがこのアフリカ資本網にどう食い込めるかが、今後の対中覇権争いの焦眉の課題となる。"
+            "insight": "中国の「一帯一路」が影響力を持つアフリカで、日本の金融・商社資本が結集しEV覇権争いに参戦した。インフラが脆弱な同地域では、既存ガソリン車の置き換えではなく、EVバス等のMaaSが一気に普及する構造だ。これは中国の安価な車両輸出に対抗する「脱炭素＋商社インフラ」のパッケージ提案でもある。日系自動車メーカーがこの資本網を活用し、充電網やサプライチェーンをセットで展開できるかが、新興国市場での生き残りを握る鍵となる。"
         }
     },
     {
-        "topic_name": "LEXUSが急速充電網を拡大",
+        "topic_name": "両備エネシス、東広島に拠点開設",
+        "article_ids": [
+            455098
+        ],
+        "articles": [
+            {
+                "id": 455098,
+                "title": "EneJet黒瀬SS、東広島市にオープン セブンイレブン併設で地域拠点へ（レスポンス） | 自動車情報・ニュース - carview!",
+                "link": "https://carview.yahoo.co.jp/news/detail/eabfa5c6d7e998e7c4af42e6f28d4d4a63a442c6/?mode=short",
+                "published": "Sun, 05 Apr 2026 00:05:03 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPUW1OQUw4bDRiVlZUUVMtSUNlOG9vVnBPVkcxNjFsTWRZOHBiWTJtWmdWUGdvWmoxaFNUNkxSN1pMYmU5elBwaGhqQ2p1c0VuSUM4ckZ0WThnQjF6bExIbmxyVW5yZ0VKZWp0TU0wUTMzQXM4RDRyTDE3a0gtMnlyOG54VlhCR1NPcWlGNDg3Z0RIcl94dWNV?oc=5\" target=\"_blank\">EneJet黒瀬SS、東広島市にオープン セブンイレブン併設で地域拠点へ（レスポンス） | 自動車情報・ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carview!</font>",
+                "site_name": "carview!",
+                "primary_category": "Data & Ecosystem",
+                "reason": "エネルギー拠点としてのガソリンスタンド再定義の事例。",
+                "score": 70,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "両備エネシスが自社初のコンビニ（セブン-イレブン）併設型SSを東広島市に開設し、燃料補給所から「地域の居場所・拠点」への転換を図った。",
+                "太陽光発電や蓄電システムを導入し、災害時の「電気・水・避難場所」を提供する防災拠点（レジリエンスハブ）としての機能を付加。",
+                "将来的に行政と連携した情報ステーション機能を目指しており、脱・ガソリン単独収益への脱却と地域密着型エネルギー拠点の確立を示唆。"
+            ],
+            "insight": "SS（サービスステーション）の廃業が進みEV化が加速する中、単なる燃料補給所から「エネルギーとコミュニティのハブ」への進化は不可避だ。コンビニ併設による集客力とマイクログリッドの融合は、EVの充電待機時間を収益機会に変える強力なモデルを提示している。防災機能も兼ね備えた本拠点は、脱炭素化とレジリエンスの両立を迫られる日本のモビリティインフラにおける理想的な生存戦略の雛形となる。"
+        }
+    },
+    {
+        "topic_name": "レクサス、急速充電サービス開始",
         "article_ids": [
             60004
         ],
@@ -587,7 +988,7 @@
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE0wYjcwb3RncTY0aXJDZjRZWEtrQkpBV0hhcDFITHRQS2tPdG5tSVFJcnFaVFVSekhQeGhiSm55WGVZUUZmQkhlTWRlbG5EWVVFYVM3THhhX2h2UUZrdl84Zk9TT0s0NWVwV1pVT1F4dTI?oc=5\" target=\"_blank\">【次世代自動車・充電器】LEXUS：急速充電サービスを開始、PCA連携で全国約1000基に拡大</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">みんなの広報宣伝部</font>",
                 "site_name": "みんなの広報宣伝部",
                 "primary_category": "Data & Ecosystem",
-                "reason": "充電網の拡充と連携。EVの利便性を左右する最重要課題の一つ。",
+                "reason": "メーカー間の充電ネットワーク連携。インフラ標準化の一環として重要。",
                 "score": 80,
                 "is_highly_important": true
             }
@@ -595,28 +996,28 @@
         "is_grouped": false,
         "analysis": {
             "summary_points": [
-                "トヨタ/LEXUSがVWグループ主導の充電ネットワーク「Premium Charging Alliance（PCA）」とローミング提携し、インフラのブランド横断的連携に踏み切った。",
-                "これによりLEXUSユーザーが利用可能な急速充電器は国内約1000基に拡大し、プレミアムBEVユーザーの「充電不安」を実質的に解消する基盤が整った。",
-                "テスラのNACS規格覇権に対抗し、欧州勢（VWグループ）と日本のトップブランドが手を組む「インフラの囲い込み競争」が本格化した。"
+                "トヨタ（レクサス）がVAGグループ（ポルシェ、アウディ、VW）が展開する「Premium Charging Alliance（PCA）」とローミング提携し、一気に全国約1000基の急速充電インフラを確保した。",
+                "インフラの自前主義から脱却し、他社（欧州プレミアム勢）の既存ネットワークを活用する資本効率の高い戦略への転換を示唆している。",
+                "高級車ブランドにおける「顧客体験の均一化（充電不安の排除）」を目的としたブランド横断の連携が、BEV普及に向けた構造的転換点となっている。"
             ],
-            "insight": "テスラや台頭する中国EVに対抗するため、VWグループとトヨタが「プレミアム層」の囲い込みで結託した歴史的な布陣だ。トヨタが自前主義を捨てPCAに乗るのは、独自インフラ構築の巨額コストを避けつつEV遅れを一気に解消する実利の表れである。ただし懸念も多い。高品質な充電体験が特定ブランドの富裕層向けに独占されることで、大衆向けインフラとの「充電格差」が固定化される危険性だ。この動きは、日産やホンダなど他の日本メーカーに対し、どの陣営に与するかという早急な生存戦略を迫るものとなる。"
+            "insight": "日本のインフラ貧困がメーカーの枠を超えたローミング連携を促した。トヨタがVAG陣営のPCAに参加したことは、充電網構築における自前主義の限界と資本効率重視への転換を示唆する。高級車向けの体験価値担保が狙いだが、覇権争いの観点では、独自インフラを拡張するテスラや中国勢の攻勢に対抗できるスケール感を持てるかが今後の最大の課題となる。"
         }
     },
     {
-        "topic_name": "GM、トラック生産を増強",
+        "topic_name": "中国市場での日本勢EV戦略",
         "article_ids": [
-            606769
+            574319
         ],
         "articles": [
             {
-                "id": 606769,
-                "title": "GM（ジーエム）のトラックとサブスクリプションへのシフトは、EV主導の成長シナリオを変えるか？ - simplywall.st",
-                "link": "https://simplywall.st/ja/stocks/us/automobiles/nyse-gm/general-motors/news/aae49bfd1b3e19da",
-                "published": "Sat, 04 Apr 2026 12:28:41 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQYkhzUFV4R1dJdHhadVZqTTJTQ3V5V0VJcE90eW1pc0YtYnU2Nkhfa09hRjlVVktZNWp0MnA0cVh1Mm54cl91ajUwdExuNlRPYUJZaXlOazcxUFVZWDhudG42VHBVMl8xWXF0VXBIRFpPZzFDRkw1MW0tOGRzamJEUkNHdWZNVFNhWUpuZTc0RTRxTFdLRFHSAZsBQVVfeXFMUFhvbklaeTZFUDZlX2pGZnIySHlCVkNqU0RZMWN4SVJMR3VFVVBCRHNjWGhuY1pTMEZhNnBoRkFvRi05OUl4OF80ZzZWYzJKeHdiVFpqX2dpWklhQTREdVI3OWlaRGpxenZkOU9IdXBFVnY3ZjZuVUdBNUhUbUtfbG5yWnRPS05TZ3JnQUtYek9GeHZPY3pEaXBJNWs?oc=5\" target=\"_blank\">GM（ジーエム）のトラックとサブスクリプションへのシフトは、EV主導の成長シナリオを変えるか？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
-                "site_name": "simplywall.st",
-                "primary_category": "Strategic Shifts",
-                "reason": "GMのビジネスモデル転換とサブスクシフトは将来の収益構造に直結する重要テーマ。",
+                "id": 574319,
+                "title": "中国市場、環境規制に商機 日本勢、ＥＶ・小型車投入 広州モーターショー - 朝日新聞",
+                "link": "https://www.asahi.com/sp/articles/photo/AS20161119000203.html?iref=sp_photo_gallery_2",
+                "published": "Sat, 04 Apr 2026 23:17:36 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPelQtQlBwQWl4ZU1BblVTaW90c2QtVldndVE2YXIxYTdMOWl1VG90VE5MdUljUVV2dEgtUkgtUHZ3U2Nna2g0RVY2RFR1alRSVThQVHFLZXg5MDdRTzZXbE81VjVtYXBVc0JQekhiLXNlSnR5ZGYyWXhBLWYxUG0yN0xnNUJqQUZjXzdhbHN3?oc=5\" target=\"_blank\">中国市場、環境規制に商機 日本勢、ＥＶ・小型車投入 広州モーターショー</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
+                "site_name": "朝日新聞",
+                "primary_category": "Geopolitics & Policy",
+                "reason": "現地の規制に対応するための日本勢の戦略転換を確認できる。",
                 "score": 75,
                 "is_highly_important": true
             }
@@ -624,11 +1025,69 @@
         "is_grouped": false,
         "analysis": {
             "summary_points": [
-                "EV需要の軟化と旺盛なガソリンピックアップ需要に対応し、GMはFactory ZEROのEV生産を一時停止・約1300人を一時解雇する一方、フリント工場で大型トラック（シルバラード等）の生産を6日間稼働に増強した。",
-                "ビジネスモデルの多角化により、従来のトラックの利益に加え、キャデラックのEV販売拡大と「利益率の高いソフトウェア・サブスクリプション収入」の成長で収益構造のバランスを図っている。",
-                "マージン重視の資本配分とバランスシート強化が進んでおり、364日リボルビング・クレジットラインを20億ドルに増額し、2028年に微減収でも利益を約15億ドル増やす予測を描いている。"
+                "2016年当時の日本勢は、中国の厳格な環境規制（NEV政策など）を「既存車（ガソリン車・HV）を売るための商機」と捉え、本気度に欠ける受動的なEV投入と小型車戦略に留まった。",
+                "中国ローカルメーカー（BYDなど）がEV専用プラットフォームとバーティカル・インテグレーション（垂直統合）を急速に進める中、日本勢の「安全重視」は「イノベーションの遅れ」へと結実した。",
+                "日本勢の「HV（ハイブリッド）至上主義」がもたらした構造的欠陥により、後年のソフトウェア定義車両（SDV）やコネクテッド領域での技術的・費用的競争力を完全に失った。"
             ],
-            "insight": "GMの「トラック・サブスク回帰」は米EV需要の停滞を象徴する。高収益な既存車とソフトウェア依存は短期的なキャッシュを生むが、中国EV勢の低価格攻勢への脆弱性を残す。日本メーカーも同様に既存車で資金を稼ぎつつ次世代投資する苦境にあり、覇権争いはハードウェアからソフトウェア・サービスの収益力へと完全に移行している。"
+            "insight": "本記事の見出しにある「環境規制に商機」というフレーズは、現在から振り返ると日本メーカーにとって極めて皮肉な戦略的誤算の象徴です。当時、日本勢は強力なHV資産を擁するがゆえに、中国市場での完全なEVパラダイムシフトを拒絶し、規制への「受動的な対応」に甘んじました。一方で中国メーカーは国策を自社の成長エンジンと捉え、圧倒的なコスト競争力とスマート化を武器に覇権を握りました。今後、日本勢が中国市場でEV単体でシェアを奪還することは構造的に不可能であり、ローカル企業への技術供与やサプライチェーンの一部として埋没するか、あるいは新興国市場向けの「HV覇権」に活路を見出すか、痛みを伴う選択を迫られています。"
+        }
+    },
+    {
+        "topic_name": "自動車産業の構造変革とSDV",
+        "article_ids": [
+            230943
+        ],
+        "articles": [
+            {
+                "id": 230943,
+                "title": "EVシフトの先にある競争軸、SDVが加速させる自動車産業の構造変革…ボストン コンサルティング グループ 滝澤琢氏［インタビュー］ - レスポンス（Response.jp）",
+                "link": "https://response.jp/article/2026/04/06/409653.html",
+                "published": "Sun, 05 Apr 2026 21:30:04 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yZC14SjBPRlMwOTVITFRsRWdqODFCNk01REw2TDdOSVp4Q2VZajZRSW52MEFJN0VSQzJ4UzNzYWZKYnFNWFFUSGduZ0p5cFMxMGhtRElDb3NaRWJpN29V?oc=5\" target=\"_blank\">EVシフトの先にある競争軸、SDVが加速させる自動車産業の構造変革…ボストン コンサルティング グループ 滝澤琢氏［インタビュー］</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
+                "site_name": "レスポンス（Response.jp）",
+                "primary_category": "Strategic Shifts",
+                "reason": "SDVがもたらす構造改革の展望に関するプロフェッショナルなインタビュー。",
+                "score": 90,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "EV市場は明確な地域分断が生じており、中国は垂直統合によるコストダウンでBEVとICEの価格差をほぼ解消した一方、米国は4万5000ドル以下の量販価格帯におけるBEVモデル不足からHEV需要が根強い。",
+                "日系OEMはHEV需要の拡大による収益機会を享受しているが、旧来技術の延命と次世代BEV開発の並行という「二重投資」の構造的負担を強いられており、開発リソースの最適化が困難な状況にある。",
+                "自動車産業の真の競争軸は単なる電動化からSDV（Software Defined Vehicle）へと移行しており、E/Eアーキテクチャの抜本的な見直しを含む産業構造の変革が不可避となっている。"
+            ],
+            "insight": "HEV好調は日本メーカーに「イノベーションのジレンマ」の罠をもたらす。中国は圧倒的低コストと垂直統合でSDV覇権を握る一方、米国は量販価格帯EV不足に喘ぐ。日本はHEV収益に安堵するあまり、次世代E/Eアーキテクチャ移行の遅れと二重投資による収益圧迫という構造的リスクを抱え込んでいる。この過渡期の負担を吸収し、真の主戦場であるSDV開発へいかにリソースを集中させるかが、今後の生存の鍵を握る。"
+        }
+    },
+    {
+        "topic_name": "アウディ新型Q3のデジタル化",
+        "article_ids": [
+            882546
+        ],
+        "articles": [
+            {
+                "id": 882546,
+                "title": "クルマは「走るもの」から「体験するもの」へ。アウディ新型Q3が示す自動車のデバイス化 - エコノミックニュース",
+                "link": "http://economic.jp/?p=109889",
+                "published": "Sun, 05 Apr 2026 10:26:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE8zV29ncnNOMWNQWkpqbDFwcVdiVHhQZ1BXUEtnUmp0WmltQjRYdEtGVHg0OWVEejVvVURrSnRocFg4Zw?oc=5\" target=\"_blank\">クルマは「走るもの」から「体験するもの」へ。アウディ新型Q3が示す自動車のデバイス化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">エコノミックニュース</font>",
+                "site_name": "エコノミックニュース",
+                "primary_category": "Strategic Shifts",
+                "reason": "自動車のデバイス化という本質的な転換を捉えた論評。",
+                "score": 75,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "自動車の価値軸が「エンジンや馬力」といったハードウェアのスペックから、「AIの賢さやUI/UX」というソフトウェアの質（SDV化）へと完全に移行した。",
+                "AIアシスタントの搭載やサードパーティ製アプリの直接インストールにより、クルマがスマホのような「移動体験デバイス」として再定義されている。",
+                "機能のサブスクリプション化が本格化し、自動車が「一度買ったら終わりのプロダクト」から「継続的に収益を生み、成長するプラットフォーム」へと変貌を遂げている。"
+            ],
+            "insight": "欧州プレミアムのアウディがSDV化を鮮明にした背景には、テスラや中国EV勢による「高機能デバイス」の猛追がある。欧州は「AIとサブスク」で対抗するが、真の競争相手は既にIT巨人だ。自前のソフト基盤構築が遅れる日本メーカーは、単なるハードウェア屋から脱却し、IT企業との覇権争いに巻き込まれる覚悟が今こそ問われている。"
         }
     }
 ]
