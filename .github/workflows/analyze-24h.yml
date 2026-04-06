@@ -59,4 +59,4 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add final_reports.json archive/
           git add news_data.json dates.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-report: Hardened Intelligence Portfolio [skip ci]" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-report: Hardened Intelligence Portfolio [skip ci]" && git pull --rebase && git push)
