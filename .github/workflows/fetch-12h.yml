@@ -1,8 +1,8 @@
-name: Daily News Fetch (Mid-day)
+name: Daily News Fetch (12h)
 
 on:
   schedule:
-    - cron: '0 9 * * *' # 日本時間 18:00
+    - cron: '0 9,21 * * *' # 日本時間 06:00 & 18:00
   workflow_dispatch:
 
 jobs:

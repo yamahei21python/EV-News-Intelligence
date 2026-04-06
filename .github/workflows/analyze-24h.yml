@@ -50,6 +50,8 @@ jobs:
           python analyze_articles.py
           # 7. 【最新】AIエディターによる一括校閲
           python verify_reports.py
+          # 8. 最終成果物のアーカイブとインデックス更新（Vercel同期用）
+          python archive_results.py
           
       - name: Commit and Push Results
         run: |
