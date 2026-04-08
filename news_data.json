@@ -1,6 +1,6 @@
 {
-    "updated_at": "2026-04-08 13:23:25",
-    "total_count": 100,
+    "updated_at": "2026-04-08 13:55:13",
+    "total_count": 101,
     "articles": [
         {
             "id": 369210,
@@ -801,6 +801,14 @@
             "published": "Tue, 07 Apr 2026 22:26:37 GMT",
             "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNeENpd3dCay0xaVFxR2xLTnpqNF8tQjVxSnZwMXVWLWpQeEp0ZFd3eGZ5UnRWeU0wVTZkOVlPb0dmY25DbDdRejhSVzBKV2lGY3ppTVBIQjl0OE9uZ2tTTmpQZDdUNmhDMUpTOFpOaTQ4MTQ0LXk2ck16SmFSUmRubGtXaDJ0QWIwRzBtSTJ1R1dXQWoy?oc=5\" target=\"_blank\">英国で中古EVの販売が急増 燃料高騰と電気料金低下で関心高まる（AUTOCAR JAPAN） | 自動車情報・ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carview!</font>",
             "site_name": "carview!"
+        },
+        {
+            "id": 92196,
+            "title": "電気自動車の最新情報 - チャージング・フォワード：緑の雨で米国のインフラを拡大する - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ012VXZKRVlhWDI2czcyZUdUZkMyOXJRU3BtWDBKWkdiVXFzSDdMQkRKNnZTOW9kT1hYVmJSX2FDYzF4Rms1eU5XYWR4aEZaalVFUDJRcVZUSFF1REctMmk1U2pJY2VCa0xmTlZERlBJOUU0ZnJpWWdwaTQ5bEZZMWJpYmVlVTY0MnJ3NWowTdIBlAFBVV95cUxQcEFiQXA1eTN2dlV2Sm41TGNvem12TG1HRjNUVG9LSnRnOG4xeUpraGZXQ3NJVjZGOG1yVkhQLXVtbUlNUVdXX0V2c1Q5czRFN2E0cTVwOGltUndUSEtIWWIwUUFlbnNaYml1VWF5b0F6WndTeENxMHNUVW9uaTlwOEYtbEJmZUphNWFDNWpzMXk2dm01?oc=5",
+            "published": "Wed, 08 Apr 2026 12:26:14 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ012VXZKRVlhWDI2czcyZUdUZkMyOXJRU3BtWDBKWkdiVXFzSDdMQkRKNnZTOW9kT1hYVmJSX2FDYzF4Rms1eU5XYWR4aEZaalVFUDJRcVZUSFF1REctMmk1U2pJY2VCa0xmTlZERlBJOUU0ZnJpWWdwaTQ5bEZZMWJpYmVlVTY0MnJ3NWowTdIBlAFBVV95cUxQcEFiQXA1eTN2dlV2Sm41TGNvem12TG1HRjNUVG9LSnRnOG4xeUpraGZXQ3NJVjZGOG1yVkhQLXVtbUlNUVdXX0V2c1Q5czRFN2E0cTVwOGltUndUSEtIWWIwUUFlbnNaYml1VWF5b0F6WndTeENxMHNUVW9uaTlwOEYtbEJmZUphNWFDNWpzMXk2dm01?oc=5\" target=\"_blank\">電気自動車の最新情報 - チャージング・フォワード：緑の雨で米国のインフラを拡大する</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+            "site_name": "simplywall.st"
         }
     ]
 }
