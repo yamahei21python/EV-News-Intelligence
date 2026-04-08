@@ -1,16 +1,95 @@
 [
     {
-        "topic_name": "日産とユアスタンド、集合住宅のEV充電で提携",
+        "topic_name": "日産とユアスタンド、集合住宅充電で提携",
         "article_ids": [
             665360,
             458505,
             334619,
-            320009
+            777153,
+            208641
         ],
         "is_grouped": true
     },
     {
-        "topic_name": "バンコク国際モーターショーでBYDが販売首位",
+        "topic_name": "ホンダとソニー、EV共同開発を中止",
+        "article_ids": [
+            784530,
+            699594
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "BYD、2025年決算で4年ぶりの減益",
+        "article_ids": [
+            13142
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "BYDのブラジル販売が首位を獲得",
+        "article_ids": [
+            625473
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "テスラ、3列シート車モデルYLを発売",
+        "article_ids": [
+            834566
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "ホンダのEV戦略見直しと業績低迷",
+        "article_ids": [
+            240318
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "アークエル、N-VAN e:をシステム対応",
+        "article_ids": [
+            369265
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "レクサス、急速充電サービスを開始",
+        "article_ids": [
+            13079
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "グリーンコープ、ふくおか中遠支部でEV化",
+        "article_ids": [
+            283731
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "四国大学、県内初のEVスクールバス導入",
+        "article_ids": [
+            385343
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "国交省、物流施設のEV導入に補助金",
+        "article_ids": [
+            466892
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "デンソー・ローム等のEV業界動向",
+        "article_ids": [
+            779653
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "タイのモーターショーでEV需要が拡大",
         "article_ids": [
             796890,
             859689
@@ -18,88 +97,86 @@
         "is_grouped": true
     },
     {
-        "topic_name": "日本政府のEV補助金、BYDへの支給額が減少",
+        "topic_name": "EV補助金と国産車販売比率の相関分析",
         "article_ids": [
-            202289,
-            980000
-        ],
-        "is_grouped": true
-    },
-    {
-        "topic_name": "アークエル、N-VAN e:をeFleet対応へ",
-        "article_ids": [
-            369265
+            62824
         ],
         "is_grouped": false
     },
     {
-        "topic_name": "デンソーとアイシン、経営計画でEV以外も強化",
+        "topic_name": "イタリアの自動車生産がEV低迷で半減",
         "article_ids": [
-            779653,
-            401251
-        ],
-        "is_grouped": true
-    },
-    {
-        "topic_name": "ホンダ、ソニーとのEV共同開発を中止",
-        "article_ids": [
-            784530
+            706129
         ],
         "is_grouped": false
     },
     {
-        "topic_name": "EVolity、EV導入から運用まで一気通貫支援",
-        "article_ids": [
-            470168
-        ],
-        "is_grouped": false
-    },
-    {
-        "topic_name": "BYDのEV、ブラジル販売で首位を獲得",
-        "article_ids": [
-            625473
-        ],
-        "is_grouped": false
-    },
-    {
-        "topic_name": "レクサス、全国1000基対応の急速充電開始",
-        "article_ids": [
-            13079
-        ],
-        "is_grouped": false
-    },
-    {
-        "topic_name": "徳島の四国大学、県内初のEVスクールバス導入",
-        "article_ids": [
-            385343
-        ],
-        "is_grouped": false
-    },
-    {
-        "topic_name": "国交省、物流施設の太陽光・EV導入を補助",
-        "article_ids": [
-            466892
-        ],
-        "is_grouped": false
-    },
-    {
-        "topic_name": "EVモビリティe-NEO、湘南で試乗会",
-        "article_ids": [
-            581028
-        ],
-        "is_grouped": false
-    },
-    {
-        "topic_name": "フォード、EV戦略見直しと新プラットフォーム",
+        "topic_name": "フォード、EV戦略見直しとコスト削減",
         "article_ids": [
             658823
         ],
         "is_grouped": false
     },
     {
-        "topic_name": "テスラ、6人乗りEV「モデルYL」を日本投入",
+        "topic_name": "GM、カマロ後継EV開発を中止",
         "article_ids": [
-            834566
+            130154
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "BYD、日本での補助金が減額",
+        "article_ids": [
+            980000
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "日本補助金政策のEV競争格差",
+        "article_ids": [
+            202289
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "ヒョンデ、日本で水素EVネッソ発売",
+        "article_ids": [
+            916823
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "EVolity、EV運用支援モデルを構築",
+        "article_ids": [
+            470168
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "XDAOとAcalie、日本でモビリティ共同開発",
+        "article_ids": [
+            100868
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "湘南エリアでEVモビリティ試乗会",
+        "article_ids": [
+            581028
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "BYD、200万円台の軽EVを投入へ",
+        "article_ids": [
+            683483
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "EV冷却液市場が2035年に拡大",
+        "article_ids": [
+            958445
         ],
         "is_grouped": false
     }

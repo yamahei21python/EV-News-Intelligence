@@ -6,8 +6,8 @@
         "published": "Wed, 08 Apr 2026 11:39:28 GMT",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1GVExSdy1zeGh3bzQ2S3d0aG5kSWN3bjNsb0tNLU54SjN1TzFoLTRpSV9GMkd5VXhSamJQSzZmenp1cWJJSFk2a0paaUlQMTVWM1c4VVM2cTkzRl9RVlg4TnJaNTlFY0pMejhsWg?oc=5\" target=\"_blank\">上汽通用五菱汽車、タイで商用EV 航続距離「400キロ」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
         "site_name": "日本経済新聞",
-        "primary_category": "Supply Chain & Core Tech",
-        "reason": "中国メーカーの東南アジア市場での商用EV展開。地域サプライチェーンの拡大を示す重要動向。",
+        "primary_category": "Strategic Shifts",
+        "reason": "中国メーカーの東南アジア市場進出による供給網の変化を示す重要な動き。",
         "score": 75,
         "is_highly_important": true
     },
@@ -19,7 +19,7 @@
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwJBVV95cUxPckdtakNZcHBZT0Y0RzBiSHlhekZsSXZlNmd3Rkt6aWc2a2lwbmxGSUpiaXM2ZjBiajltQW1uSk9NeGROUmd4Rk9MbkhReFA1a3RkamlCNklnOUVIS2VzakI5VzJ1T0hZczRNR0V6TndMTlNPdmZwZ0hwRTluelAtaEdCVGNNd1M5bzFjd1ZMTXRNWUpEbFJ0eWRFaUVPVnFQODlUWFlIMFYxLWxZcDRuTWRSaGpzbTJ1ME1LXzZCXzVuTk9sTUJyWUFUS3ZleFZJaFBwelZUVjJHREJzNm04ZDVaSmNzeEJWMEtkQ2ZqMnJZR25tMks3czlSYm1fT2FIY1EyRTdnQ0FIMVN3UDNlazVkQXM1SjAtbkJ2cmJnWUNlbEkyZUhV?oc=5\" target=\"_blank\">日産とユアスタンド、集合住宅へのEV充電器設置に関するパートナーシップを締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日産自動車ニュースルーム</font>",
         "site_name": "日産自動車ニュースルーム",
         "primary_category": "Data & Ecosystem",
-        "reason": "集合住宅の充電インフラ整備はEV普及のボトルネック解消に不可欠なエコシステム構築。",
+        "reason": "EV充電インフラの課題である集合住宅へのアプローチは市場拡大の鍵。",
         "score": 80,
         "is_highly_important": true
     },
@@ -31,8 +31,8 @@
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oNjhRQ0NmbjRaYVlSZDBhR3prSUs2b1ZKSEZXVzZoNGl1eWlnbU93aVpSMDdRY1Awdjh6V2tkZ0xyaFEtWVM3aEtROURLa1NpdlpqVTJjV1E?oc=5\" target=\"_blank\">集合住宅向けEV充電器設置で協業</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">m2ri.jp</font>",
         "site_name": "m2ri.jp",
         "primary_category": "Data & Ecosystem",
-        "reason": "集合住宅向け充電器設置の協業。EVインフラ普及に向けた重要施策。",
-        "score": 75,
+        "reason": "充電インフラの社会実装に関する重要トピック。",
+        "score": 70,
         "is_highly_important": true
     },
     {
@@ -43,7 +43,7 @@
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE80dFUzNTVMV1ZHX3RlR1hfT0VBNkptTmYwRDNMeGZGMUVXV1c1UjBneXBpbENHLVp4bS1nS0pwSWoyODFwSFBoWlRIMWtKeF81anVDRQ?oc=5\" target=\"_blank\">アークエル／ホンダN-VAN e:がEVスマート充電・運行管理システム「eFleet」に対応</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">トラックニュース</font>",
         "site_name": "トラックニュース",
         "primary_category": "Data & Ecosystem",
-        "reason": "商用車の運行管理システムとスマート充電の統合。エネルギーマネジメントの好例。",
+        "reason": "運行管理と充電の最適化は商用EVの収益性を左右する重要な要素。",
         "score": 75,
         "is_highly_important": true
     },
@@ -55,8 +55,8 @@
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE4tLWJra2c5Q0UyY3doMzlpbFhBa2R4TVk1MUx5dWx3NUJjREF6U0JLOEp5VlR0VXN1d2p6YURVUTdTakNLbk5PeUxreVhRTk9fckVkSTBpSENwTzZZanlTb1pYR1hMOTNwVEMtekRaTQ?oc=5\" target=\"_blank\">EVに吹く逆風 デンソーの焦りとロームが求める勝機とは：大原雄介のエレ・組み込みプレイバック（1/3 ページ）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EE Times Japan</font>",
         "site_name": "EE Times Japan",
         "primary_category": "Supply Chain & Core Tech",
-        "reason": "サプライヤーのEV転換に関する分析。Tier1企業の経営判断は業界への示唆が大きい。",
-        "score": 70,
+        "reason": "EV部品サプライヤーの戦略的危機感と構造変化を鋭く分析。",
+        "score": 75,
         "is_highly_important": true
     },
     {
@@ -66,9 +66,9 @@
         "published": "Tue, 07 Apr 2026 21:30:00 GMT",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mMU9QSmttU2hFUjFETV9LVDJOUHNSNldwQTh2YVdxT3ZOY1pmUy1ucTE0bkZ2SFk2dkhXdkNGWF9tS05lY1MwRC13UzZISFVfdUpuQWNhQWZNVkVBR2VObkloWXpsclE?oc=5\" target=\"_blank\">デンソーとアイシン、EV普及鈍化に多角化で稼ぐ 新しい経営計画で [愛知県]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
         "site_name": "朝日新聞",
-        "primary_category": "Strategic Shifts",
-        "reason": "主要部品メーカーの経営計画変更。EV鈍化への対応戦略として重要。",
-        "score": 80,
+        "primary_category": "Supply Chain & Core Tech",
+        "reason": "大手部品メーカーの経営計画変更はサプライチェーン全体に影響する。",
+        "score": 70,
         "is_highly_important": true
     },
     {
@@ -79,8 +79,8 @@
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFA2ZGdwQThGR1Z3c2trRlNxSTFTYVRydElyYjA4bXVDZktnelF6STFhSElOcm5qYkY5UVUzNlpsYnVGYjY0LWRjdmdWUUphYi1QYnQ2TFU4Q0tjM1JkSlB5RHpfdXNJa2RBTVZKcDJwc240eTFPR0lDNnFNbFQ3dU0?oc=5\" target=\"_blank\">ホンダ、「AFFELA 1」ソニーとの共同開発中止の大誤算 トランプ政権のEV支援策見直しで“10年先を見据える大転換”に揺り戻し、来期までに2.5兆円の巨額損失計上（マネーポストWEB）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
         "site_name": "Yahoo!ニュース",
         "primary_category": "Strategic Shifts",
-        "reason": "ホンダのEV戦略見直しと巨額損失。大手企業の方向転換は業界の潮目を示す。",
-        "score": 90,
+        "reason": "大手メーカーの戦略修正と巨額損失は業界の先行きの重要な指標。",
+        "score": 85,
         "is_highly_important": true
     },
     {
@@ -91,8 +91,8 @@
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1DOFoyX3AxQWFXNFhjdXBpWC1ET2dWMFZ0VjNyX2swb01SbVo5ekFLNU4xSnRFUkRFTVdFck92N3hDc1ZuNS1ZTWJTbXllS2k0eXdKTnJ5S2haYmNSV18tbzNWWjdmSmQzbHdKTA?oc=5\" target=\"_blank\">日産、マンションのEV充電で新興と提携 アプリ利用料3年無料</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
         "site_name": "日本経済新聞",
         "primary_category": "Data & Ecosystem",
-        "reason": "集合住宅の充電インフラ課題への具体的解決策提示として評価。",
-        "score": 75,
+        "reason": "集合住宅のインフラ整備支援は国内EV普及のボトルネック解消に寄与。",
+        "score": 80,
         "is_highly_important": true
     },
     {
@@ -103,7 +103,7 @@
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5rQlQ4dVNUdllDbTBPR0NpdWlLN1Fxa0lDSmRmSy02aEhKeXNkQ3NFTDNTd2dDNUdYSUphclFWRVpWVmhGQU14LXlrRG1EM0hiU3ZDLUowVHRKaWF0bEsyUHRKOFU5cjhyaUFUOQ?oc=5\" target=\"_blank\">決算:ホンダ、EV戦略頓挫で出せぬ新車 かさむ奨励金と高まる減配リスク</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
         "site_name": "日本経済新聞",
         "primary_category": "Strategic Shifts",
-        "reason": "ホンダのEV戦略の苦境と財務リスクの分析。経営基盤への影響を示唆。",
+        "reason": "大手の戦略頓挫と財務リスクは業界エコシステムに深刻な影響を与える。",
         "score": 85,
         "is_highly_important": true
     },
@@ -114,9 +114,9 @@
         "published": "Wed, 08 Apr 2026 09:07:27 GMT",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE41OWI4aWlHSzBiS084dDM0STlNNUhIRGdsakVDWUVKeGZfTkNodHlTdS1BdjdrYWVMX3h5cVhIc1Vhd08zZXBncmJvR21WTzRGRXhTVUFPRVVmREtpeDNyZW1n?oc=5\" target=\"_blank\">災害時にEV貸与へ 長久手市、輸入車ディーラー「ロイヤル」と協定：ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中日BIZナビ</font>",
         "site_name": "中日BIZナビ",
-        "primary_category": "Data & Ecosystem",
-        "reason": "地方自治体と民間によるEV活用実証・防災連携。ローカルエコシステムの構築。",
-        "score": 70,
+        "primary_category": "Strategic Shifts",
+        "reason": "自治体との連携による防災活用は、EVの付加価値提案として重要。",
+        "score": 85,
         "is_highly_important": true
     },
     {
@@ -127,31 +127,19 @@
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBYcDkxRWhCemFSYnluNERxWVdqQzZzWWFJaDMzU2o3dWJrSXhUbldRRXRYZjhGUXNmUEt2S1lqY3BEbmtHSUVjYm8zT3F4ZWFGU1hrdXRwNXlTYXQ4aHZVSW5xbDJDa2RQMTRDTWVfSXIxNDJWbU9kRUFaMDJXckk?oc=5\" target=\"_blank\">ロームM&amp;Aに見るEV供給網 「三種の神器」覇権争う</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
         "site_name": "日本経済新聞",
         "primary_category": "Supply Chain & Core Tech",
-        "reason": "パワー半導体企業M&Aによるサプライチェーン覇権争い。核心技術戦略として高評価。",
+        "reason": "半導体供給網の覇権争いは業界の最重要課題。",
         "score": 85,
         "is_highly_important": true
     },
     {
-        "id": 320009,
-        "title": "日産、集合住宅の「EV充電問題」解決へ。ユアスタンドと充電器設置でタッグ - ｄメニューニュース",
-        "link": "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-280342",
-        "published": "Wed, 08 Apr 2026 08:48:00 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE96bnBxYWFnT3pHV1NsZVgyaHJSYzk0QmFrdU9HYlBMZXVVZUVyQy1KMnlzZVBNc3NVenU3V05EbUVKTGZSdldhdnZhbzUzaXhCemliSHJpUmJmSDgyUW93SGU0NUxpQkdhUTRjYVVWbUxOUy1U0gF6QVVfeXFMTXZFc3QzNzFyNWZCSzBYMUFxWWFQWUFMYm1MQnhpekV2T2ZudTZDTVUtTGdPY2kwVl94ekRiQV9pRFVFUEpVTjNURnBtUUtvcHc5VlNhVTVFd1ZaX1BCdk5Lb2NGVjhuaDVGaXM2VGpCc0VhcGQ1TUZMNlE?oc=5\" target=\"_blank\">日産、集合住宅の「EV充電問題」解決へ。ユアスタンドと充電器設置でタッグ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
-        "site_name": "ｄメニューニュース",
-        "primary_category": "Data & Ecosystem",
-        "reason": "集合住宅の充電インフラ連携。普及に向けた重要な提携。",
-        "score": 75,
-        "is_highly_important": true
-    },
-    {
-        "id": 200575,
-        "title": "トヨタの米EV販売2倍 1〜3月、コスパ重視で成長 - 日本経済新聞",
-        "link": "https://www.nikkei.com/prime/mobility/article/DGXZQOUC072MK0X00C26A4000000",
-        "published": "Tue, 07 Apr 2026 20:00:00 GMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE51UWwwZVVOSkI2b0xTZDFFOEdjY0o5TDJtTjJDN3dTb0p3NXoxTGhTNkc4V3RkbGdicHlLajZBUXZteDhVdW9yRm1FaDdEZjNCVTZxMFd4YTEzNlNTMU0xaGhzX0I0cWN6RDl5djJtdjFvWm94QV8wOXZMd2N6azg?oc=5\" target=\"_blank\">トヨタの米EV販売2倍 1〜3月、コスパ重視で成長</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-        "site_name": "日本経済新聞",
+        "id": 283731,
+        "title": "グリーンコープふくおか中遠支部で全車両電動化 - LOGISTICS TODAY",
+        "link": "https://www.logi-today.com/935242",
+        "published": "Wed, 08 Apr 2026 05:04:50 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zWDRUamtYRVVuZVJRQjdxWlFibnROcW9RZERnUVpqVmZsR09vNEdRR3BpODNGQW5lc3U0ZXlLQi1wM1lQZ2FCLQ?oc=5\" target=\"_blank\">グリーンコープふくおか中遠支部で全車両電動化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
+        "site_name": "LOGISTICS TODAY",
         "primary_category": "Strategic Shifts",
-        "reason": "トヨタの米国市場でのEV販売急伸。市場シェアと戦略の妥当性を示す重要データ。",
+        "reason": "フリート導入はEV普及期に欠かせないビジネスモデル。",
         "score": 70,
         "is_highly_important": true
     },
@@ -163,8 +151,8 @@
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3UEJqZVRsN0hPX2NEMDgwbjVETjZKTWtCMmhMWTQyOTBkT3lOLW92UkhtZHhjMW15ekpmdUM4dWEtWkVIdGVITmc4ZE1iSFplWElVWUNoellwZV9rWVJQUExmdw?oc=5\" target=\"_blank\">EV普及の“壁”を越える──EVolityが描く“運用まで支える”新しい電動化支援モデル</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ビジネスジャーナル</font>",
         "site_name": "ビジネスジャーナル",
         "primary_category": "Data & Ecosystem",
-        "reason": "車両運用まで含めた新しい電動化支援モデル。サービス型ビジネスの拡大。",
-        "score": 70,
+        "reason": "運用支援モデルはEV導入の障壁を下げる有望なエコシステム。",
+        "score": 75,
         "is_highly_important": true
     },
     {
@@ -175,8 +163,20 @@
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mZFVSLWZwNUJPMndhdHNTQklxU1c4UWwyVVIzcXlyWDhab3ZRSFRIenVRVUdTZV96ZGJwMDNadHdnc2RiUTNBZFBtalIwdHFqNmROcXNqNFFoeXBRM2c?oc=5\" target=\"_blank\">タイで国際モーターショー 燃料高騰で“EV需要”拡大 トップ10社に中国EV8社 (2026年4月8日掲載)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ライブドアニュース</font>",
         "site_name": "ライブドアニュース",
         "primary_category": "Strategic Shifts",
-        "reason": "タイ市場での中国勢の圧倒的優位。地政学とグローバル戦略の重要事例。",
+        "reason": "タイ市場での中国勢の圧倒的シェアは地政学的なパワーシフトを反映。",
         "score": 80,
+        "is_highly_important": true
+    },
+    {
+        "id": 62824,
+        "title": "KAMA、国産EV産業の発展が必要だ··· 「補助金が多いと輸入車の比率が下がる」 - 스타뉴스",
+        "link": "https://www.starnewskorea.com/ja/business-life/2026/04/08/2026040815490254495",
+        "published": "Wed, 08 Apr 2026 07:23:53 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNTlB4amlrNGZqc2RMZ3FCR0JldlktakJVUlRTb1V1VmtvN3FNUzNoMGhsY1p3TDg2bTFMaG41aEJWTjk1eWhSRlNWLVhsNjJ2RGdNRlByRzl5Z21iWUEwcG9QZGZwZ3BqYndlaUh0c1AxTzk4TVRYYm9XczhQMmJXakhxQQ?oc=5\" target=\"_blank\">KAMA、国産EV産業の発展が必要だ··· 「補助金が多いと輸入車の比率が下がる」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">스타뉴스</font>",
+        "site_name": "스타뉴스",
+        "primary_category": "Geopolitics & Policy",
+        "reason": "補助金政策に対する業界団体の主張は政策決定に直結する。",
+        "score": 70,
         "is_highly_important": true
     },
     {
@@ -186,9 +186,9 @@
         "published": "Wed, 08 Apr 2026 00:31:16 GMT",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQbFJ2WUZpWkZZOEVXUC1VdzFPVEdORmZRM01UbVkwTTBuSFM4ZnprUzVCbVo1ektKOXpzM3dLb1BiQ2RFTl9LSlkxMkt4eGN1aGxJZ0tRVUpRZGRmQVNnenh1Wi1EaURLcklURUdiWnRVTl82dEdSUTN3aFVSQVptTTRpY0ljN1JlRndYbEFCMWVIUEgtUTNVV1JxSDdMYTB5WlE?oc=5\" target=\"_blank\">〈ビジネスTODAY〉EV復調、トヨタけん引 BYDは減速、補助で明暗 1～3月国内</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
         "site_name": "日本経済新聞",
-        "primary_category": "Geopolitics & Policy",
-        "reason": "政策と需要の関係性分析。マクロ視点での国内市場動向として重要。",
-        "score": 70,
+        "primary_category": "Strategic Shifts",
+        "reason": "国内EV市場の力学変化を捉えた包括的分析。",
+        "score": 75,
         "is_highly_important": true
     },
     {
@@ -199,7 +199,7 @@
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMiO0FVX3lxTE9pY1RZQkl5akQ0VnROLVFEbEZHMkpENVc4TXdtRExUUGRRUEcxSlNNaFFnUnp3Q2Z1OHdV?oc=5\" target=\"_blank\">ブラジル車市場に激震。中国・BYD「ドルフィン・ミニ」がガソリン車を抜き初の販売首位</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36Kr Japan</font>",
         "site_name": "36Kr Japan",
         "primary_category": "Strategic Shifts",
-        "reason": "ブラジル市場で中国EVがガソリン車を逆転。グローバル市場のパラダイムシフトを示す。",
+        "reason": "中国メーカーのグローバル展開力が既存自動車産業を覆す兆候。",
         "score": 85,
         "is_highly_important": true
     },
@@ -211,7 +211,19 @@
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EdnlCQUp3TzBzZ3J0N001VnRnM0lpaGlSUHVkTGFTaURCck1uUThfMllJeTN4MzNZN2d2TzJqa2R2RHI2VEtZRmhLSUFJalpsVWVRdDZmSUN5WmdQWDlzQnhXTVBUUC1i0gFoQVVfeXFMT0R2eUJBSndPMHNncnQ3TTVWdGczSWloaVJQdWRMYVNpREJyTW5ROF8yWUl5M3gzM1k3Z3ZPMmprZHZEcjZUS1lGaEtJQUlqWmxVZVF0NmZJQ3laZ1BYOXNCeFdNUFRQLWI?oc=5\" target=\"_blank\">レクサス、急速充電「LEXUS Charging」開始　全国約1000基対応</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">財経新聞</font>",
         "site_name": "財経新聞",
         "primary_category": "Data & Ecosystem",
-        "reason": "プレミアムブランドの独自充電ネットワーク構築。ブランド戦略として重要。",
+        "reason": "充電網の拡充はブランド価値と顧客利便性に直結する重要施策。",
+        "score": 75,
+        "is_highly_important": true
+    },
+    {
+        "id": 958445,
+        "title": "電気自動車用バッテリー冷却液市場2035年に30億5100万米ドル規模へ拡大 次世代EV熱管理を支えるCAGR3.5％成長 - newscast.jp",
+        "link": "https://newscast.jp/news/7441401",
+        "published": "Wed, 08 Apr 2026 01:10:00 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE53OHAtME4xYXJVY25KcHBESk42Wnh5V0g2bXFjMjBfdTBUdjZEb3E0M3I1aGNaQlBiMW40V1pDMmhWcmZibkR3?oc=5\" target=\"_blank\">電気自動車用バッテリー冷却液市場2035年に30億5100万米ドル規模へ拡大 次世代EV熱管理を支えるCAGR3.5％成長</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newscast.jp</font>",
+        "site_name": "newscast.jp",
+        "primary_category": "Supply Chain & Core Tech",
+        "reason": "熱管理技術市場の拡大はEV製造の進化を支える重要分野。",
         "score": 70,
         "is_highly_important": true
     },
@@ -222,9 +234,9 @@
         "published": "Wed, 08 Apr 2026 10:40:23 GMT",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NVm5DYzJfYTd2VFoxTmVBMm9MWkNEdGEzV3RzUGdZUXQ5SjZ3Mm91T0F3VlRXQUhJNXAzWDZNSXJ6NGRuM1pwQ2VOZ0gydHlxZEQ0dXJ0akc3ck9lS3c?oc=5\" target=\"_blank\">県内初！ 四国大学に「EVスクールバス」【徳島】 (2026年4月8日掲載)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ライブドアニュース</font>",
         "site_name": "ライブドアニュース",
-        "primary_category": "Data & Ecosystem",
-        "reason": "県内初の実証事例。地域モビリティのモデルとして評価。",
-        "score": 75,
+        "primary_category": "Strategic Shifts",
+        "reason": "地域の特定大学でのEV導入実証は、地方創生×EVの価値ある実証情報。",
+        "score": 85,
         "is_highly_important": true
     },
     {
@@ -235,8 +247,20 @@
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5ja0FxYnV4MjhOcWtJZk1Wc3hCbmtqVGJIdVluM21fQTBHM3U0X0NTaDJ0WEwwZUxKU1pQSERXcGE4R0dMT19ydGhCTlZsdzdmMHlHZ1NUMEI4VkE2OE9JQk12QjYyS3FhVFFSN2NmSk9LNlhQX2l2clQzbU4?oc=5\" target=\"_blank\">物流施設の太陽光発電・蓄電池・EV設備導入に最大1億円の補助金 国交省</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kankyo-business.jp</font>",
         "site_name": "kankyo-business.jp",
         "primary_category": "Geopolitics & Policy",
-        "reason": "物流の電動化に対する補助金制度。インフラ整備の強力なドライバー。",
+        "reason": "政府の補助金は物流DXとEV導入を加速させる強力なトリガー。",
         "score": 80,
+        "is_highly_important": true
+    },
+    {
+        "id": 916823,
+        "title": "SUVタイプの新型水素電気自動車 新型『ヒョンデ・ネッソ』日本発売開始 充填5分で航続距離約1000km インフラ車両としても期待 - autocar.jp",
+        "link": "https://www.autocar.jp/photo/1233444",
+        "published": "Wed, 08 Apr 2026 08:25:00 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE1sc2ZwZFRmdUtvQ2QwNlI4UzRWS0VlYXFVdFZWeTRYeU9vc1VKZjdBLXJndHcxTlBsRkpQeFZsTHFaUXNHVGF4TnpGdWc?oc=5\" target=\"_blank\">SUVタイプの新型水素電気自動車 新型『ヒョンデ・ネッソ』日本発売開始 充填5分で航続距離約1000km インフラ車両としても期待</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">autocar.jp</font>",
+        "site_name": "autocar.jp",
+        "primary_category": "Strategic Shifts",
+        "reason": "水素電気自動車（FCEV）の展開は、EVの代替としてインフラ視点で重要。",
+        "score": 75,
         "is_highly_important": true
     },
     {
@@ -246,9 +270,9 @@
         "published": "Wed, 08 Apr 2026 02:00:01 GMT",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5XeDYzWnVRaG5LUGJoaThUc0dlMlR5WHU1a1JTQ3Nka0luUUowX3VLU01rWElKVDFYTGs3TC1CelZLZ1phbkRLa2hnMG5qbXYtRzVRVXVIOGN3MnBZWWkwcUhZR0lKLXJLX0E?oc=5\" target=\"_blank\">【神奈川県・湘南エリア初上陸！“海と暮らす街”で体験する新しい移動のかたち】都市型EVモビリティ「e-NEO」試乗販売会4月19日(日)開催。ゲリラキャンペーンも同時開催！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
         "site_name": "PR TIMES",
-        "primary_category": "Data & Ecosystem",
-        "reason": "地域密着型モビリティ体験会。地元の一次的な普及活動。",
-        "score": 70,
+        "primary_category": "Strategic Shifts",
+        "reason": "地域密着型のEV体験会は、地方市場開拓の実例として評価できる。",
+        "score": 80,
         "is_highly_important": true
     },
     {
@@ -259,8 +283,8 @@
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGcDhyYURHbGp1Uko0eG1qazRzQmZDcENiSXhaUTA4ekowUWlxWkVoc2RXZXk3TXZKMk5qX0lHQ250cmxOVkpwQ2FtS1gyeHNod0FTQl9fRXhLVU0?oc=5\" target=\"_blank\">EV補助金、なぜトヨタは100万円でBYDは35万円？制度が変えた競争の構図</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ビジネスジャーナル</font>",
         "site_name": "ビジネスジャーナル",
         "primary_category": "Geopolitics & Policy",
-        "reason": "補助金制度が市場競争に与える構造的影響の分析。深掘り記事として重要。",
-        "score": 75,
+        "reason": "政策格差が競争に与える影響の分析は重要。",
+        "score": 70,
         "is_highly_important": true
     },
     {
@@ -270,9 +294,9 @@
         "published": "Tue, 07 Apr 2026 20:00:00 GMT",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE04OVBtWFYweWQ5bk1yT3lLdWh2UTUyS1dDN2U2Z2Y1MUJiWGs4QzJXcHFCaTBMTHRsQkVfeDdEUmpIUHNkaTFMNFNROFhtbEF1X1pqVmFB?oc=5\" target=\"_blank\">EVのスクールバス、四国大学が運行始める 四国で初めて</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">徳島新聞デジタル</font>",
         "site_name": "徳島新聞デジタル",
-        "primary_category": "Data & Ecosystem",
-        "reason": "地域におけるEV活用実証事例。モデルケースとして評価。",
-        "score": 75,
+        "primary_category": "Strategic Shifts",
+        "reason": "地域におけるEV導入実証の具体事例。",
+        "score": 85,
         "is_highly_important": true
     },
     {
@@ -283,8 +307,8 @@
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPYVQ5cnFCdTdjYzdSTS1pb0NIMlJtQkdXT1NZQS1YaUx4Tmp2LU4xc3VuM1FyLUNSYjR3TlZjVzYwdkY3WDlZNnFxeGMxdjBuUVBTQk53N0hDMm16alZ6eE1oZWhtRTlrZ2FldWN0Sml3NGF5WjY4dE1KcUkzRjlmaGVyRkN2QkdiYTI4UzIyT3cxcFhBZkRHTXpUdFBpYXRRQmx3VWp3VHNVQTc0a0k3bHJjME4yaHlUWmFYWjZfelVuT2RqN1HSAcYBQVVfeXFMT2FUOXJxQnU3Y2M3Uk0taW9DSDJSbUJHV09TWUEtWGlMeE5qdi1OMXN1bjNRci1DUmI0d05WY1c2MHZGN1g5WTZxcXhjMXYwblFQU0JOdzdIQzJtempWenhNaGVobUU5a2dhZXVjdEppdzRheVo2OHRNSnFJM0Y5ZmhlckZDdkJHYmEyOFMyMk93MXBYQWZER016VHRQaWF0UUJsd1Vqd1RzVUE3NGtJN2xyYzBOMmh5VFphWFo2X3pVbk9kajdR?oc=5\" target=\"_blank\">フォードのEV戦略見直し、新UEVプラットフォームで手頃な価格を実現</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">тарантас ньюс</font>",
         "site_name": "тарантас ньюс",
         "primary_category": "Strategic Shifts",
-        "reason": "フォードの戦略見直し。欧米メーカーのEV戦略転換は業界全体に影響。",
-        "score": 80,
+        "reason": "プラットフォーム見直しは開発効率化の要。",
+        "score": 70,
         "is_highly_important": true
     },
     {
@@ -295,8 +319,8 @@
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQcjJ0XzR2WnRZN0Q3NFFNUDRMd2tZb2taMWFjNWRkVVlDb1lFYUNRd0JKVVlVRTlrUS13cjNjVWM4MWVTN3lmbm5wSURsbzZ5M2pqN3VZMUFJaDlmWXFLeFUtbndmbmpKZ2V5bExtMkFzcEEwUEpjN0tvZDJlTTRZUXBuUThqbGo5QkJFdGNmQdIBlAFBVV95cUxNcUtkYVBnQ3Jvd193andfYmZWX2dwQ1FZMnVwVV9VYXB1VGpPS0cyYnFpZGZGUTNfT09FdXRrM0kta2hobENram1fRkRROGUyeFlfRHhFVE1hVmJiS19mVDNKSkhoSVBxSFhMVUVzQmdaOHNxZnIwbmRqWW5ZbGNaY3JOR2hKUTRoZXVSSHFUYkNKNXVM?oc=5\" target=\"_blank\">ショー期間中の販売台数はBYDがトヨタを抑えて首位【バンコク国際モーターショーレポート02】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EVsmartブログ</font>",
         "site_name": "EVsmartブログ",
         "primary_category": "Strategic Shifts",
-        "reason": "モーターショーでの販売シェア逆転。市場の勢力図変動を示す重要な指標。",
-        "score": 85,
+        "reason": "新興国市場での勢力図の変化は業界にとって重要なデータ。",
+        "score": 75,
         "is_highly_important": true
     },
     {
@@ -307,8 +331,8 @@
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBlZW9lUlRIVW1zeHU3V2xRY19vamxIWFZJQkVUY09BYzVpWTE5SGR1aXZzd1paWGlvZzV3NlBYbHJUMVpCR2NhaTFneGJlQk5wVWNBNEZNeTJDY2Yza3FkYk9RTkFIdVBxN2VMeTA0OVdRS1hiMl9WcDI2N0c2d00?oc=5\" target=\"_blank\">ソニー･ホンダ､｢テスラと戦える｣目算空転 小米は3周先</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
         "site_name": "日本経済新聞",
         "primary_category": "Strategic Shifts",
-        "reason": "JVの苦戦と競合の急成長。大手アライアンスの限界と新興勢力の勢い。",
-        "score": 90,
+        "reason": "日系メーカーのEV戦略の遅れに対する辛辣かつ正確な分析。",
+        "score": 80,
         "is_highly_important": true
     },
     {
@@ -319,8 +343,8 @@
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1SVmN4ZDgzLVlPWFpxUXAzcUw1eEdqLVF1UEhQQlFkLXhHQTQzc2RFaTZGQkpwYVFmVEdOWDZDRTcxMC1Gam9VbXlDUkp6SDV2M29na2NXNFNncjVpSXhNR2F6dlNsb3lseXVpdE9sQQ?oc=5\" target=\"_blank\">自動車業界 ニュースの見方(41) 日本のEV空白地にテスラが切り込む! 新型車「モデルYL」導入の戦略とは</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.mynavi.jp</font>",
         "site_name": "news.mynavi.jp",
         "primary_category": "Strategic Shifts",
-        "reason": "日本市場におけるテスラの販売戦略。今後の国内市場の競争激化を予見。",
-        "score": 75,
+        "reason": "テスラの戦略的侵攻と日本市場の変化を分析。",
+        "score": 70,
         "is_highly_important": true
     },
     {
@@ -331,8 +355,212 @@
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE5YLUtyNDJ6RVZaS3JDeUYxVTVINVRVZ3ZBVDlZTWl5d1R4NXVVU0c1Q1J3R3ZhREM5V2VoZENMeXRyc0EzR2JF0gFCQVVfeXFMT1pBVEdMYmZxNjhqbFpUSzNWYnl4U290cE1ZTlZ4Y1lWeWFxSFhoQkFicGNvSmZQUDdxN29rY3V2cWNB?oc=5\" target=\"_blank\">BYDは日本の新しい政策を踏まえて、EV補助金が急激に減少</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VOI.id</font>",
         "site_name": "VOI.id",
         "primary_category": "Geopolitics & Policy",
-        "reason": "政策変更によるメーカーへの影響。市場競争のダイナミクスとして重要。",
+        "reason": "補助金政策の変化と企業の対応は重要な地政学的戦略。",
         "score": 70,
+        "is_highly_important": true
+    },
+    {
+        "id": 100868,
+        "title": "海外大手電動モビリティメーカーXDAO、Acalieと共同開発し日本市場に本格参入 - PR TIMES",
+        "link": "https://prtimes.jp/main/html/rd/p/000000146.000140298.html",
+        "published": "Wed, 08 Apr 2026 05:00:01 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFAtV3F2SVNWTVRJT2hJZmhDcEFjVEViNmZlMUVkUUVVNHdKblR0QV9xVEVkWlBLaTA2MjNoRWwzSEd6aHJqQW4wenVhNGdxUEZFdEM0dm1JVEZEVExOd2lMMm5wa0FQMEo3U3c?oc=5\" target=\"_blank\">海外大手電動モビリティメーカーXDAO、Acalieと共同開発し日本市場に本格参入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+        "site_name": "PR TIMES",
+        "primary_category": "Strategic Shifts",
+        "reason": "海外メーカーの本格参入は市場の競争を激化させる要因。",
+        "score": 75,
+        "is_highly_important": true
+    },
+    {
+        "id": 777153,
+        "title": "日産×ユアスタンド、集合住宅のEV充電器設置を全国で支援（レスポンス） - Yahoo!ニュース",
+        "link": "https://news.yahoo.co.jp/articles/870508892a595b59ec72bb3e08550262a075d119",
+        "published": "Wed, 08 Apr 2026 21:00:04 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9qZlE2bWZKbVZCb3FjUVdLZTh2V2xqTGVqcS1SbFZDWHYtOEVZN2c0VFR1TTBOenA4Z1hnSlNaUnhEaF9qZ1lCdDdOdExYcXZGb2tyck0yTmJWUzNWcTJUTWpfUWItVjU2aEZUMWN1b2l6QzRVQ2cwdzU5M2otS0E?oc=5\" target=\"_blank\">日産×ユアスタンド、集合住宅のEV充電器設置を全国で支援（レスポンス）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+        "site_name": "Yahoo!ニュース",
+        "primary_category": "Data & Ecosystem",
+        "reason": "集合住宅のインフラ支援は需要拡大の突破口。",
+        "score": 75,
+        "is_highly_important": true
+    },
+    {
+        "id": 584518,
+        "title": "｢日産を救済｣いまや幻 ホンダ､自動運転･EVで後塵 - 日本経済新聞",
+        "link": "https://www.nikkei.com/prime/mobility/article/DGXZQOUC0615I0W6A400C2000000",
+        "published": "Wed, 08 Apr 2026 20:00:00 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE83X0llY2Zmb3Jya0phZnhwVHpRank5QXNLM0lENlFoVHBhVUxnQ0JaNTlFaEVVRkhva2Z0REFRT25WMTVhNXZmRFdPY0pWZTVoX3daeUdCbTFROGJWQzk0bTktUk84NE42YjI1VVIwcldkOEM5SWpHOVNkbXZfbUU?oc=5\" target=\"_blank\">｢日産を救済｣いまや幻 ホンダ､自動運転･EVで後塵</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+        "site_name": "日本経済新聞",
+        "primary_category": "Strategic Shifts",
+        "reason": "大手メーカーの経営課題に対する分析。",
+        "score": 70,
+        "is_highly_important": true
+    },
+    {
+        "id": 706129,
+        "title": "イタリア車産業不振 2年で生産半減 EV低迷 - 沖縄タイムス社",
+        "link": "https://www.okinawatimes.co.jp/articles/-/1813156",
+        "published": "Wed, 08 Apr 2026 19:00:00 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ma2MtMUg2LTU0T21oaUFHbnRMeTgzdUMxM1FOOVVhako4azFiSTNfV0d0aEs3Nm9wS1lZSHVod09Cc0ZmYnkxQThSMjM2cGZTVzZfV2N1NUFPdl9zZnc?oc=5\" target=\"_blank\">イタリア車産業不振 2年で生産半減 EV低迷</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">沖縄タイムス社</font>",
+        "site_name": "沖縄タイムス社",
+        "primary_category": "Strategic Shifts",
+        "reason": "欧州の産業不振はグローバル戦略全体に影響する重要ニュース。",
+        "score": 75,
+        "is_highly_important": true
+    },
+    {
+        "id": 58157,
+        "title": "ホンダの「致命的弱点」がデータで見えた！財務と業績をトヨタ・日産・VW・ビッグ3と比較、危機の本質は2.5兆円EV損失と“別のところ”にあった - ダイヤモンド・オンライン",
+        "link": "https://diamond.jp/articles/-/387728",
+        "published": "Wed, 08 Apr 2026 19:45:00 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBOQjNzWEpta0FMaXpmSVl5NndwUUp0SllVa2s3b2pLWjJacEtQcktUT294MUI5MkxxcTluZ1lWTmFyWE5CZHJvWkIwVlDSAU9BVV95cUxQYWNPVU15ZmFnUVF2UVVsX2x2eUIzeTd2U1hlSTRYYXVNOFY1czhabWswMUZFNjc1QjFxbDZDTUVRWjg1Yl9tRnJrSW5JWVRn?oc=5\" target=\"_blank\">ホンダの「致命的弱点」がデータで見えた！財務と業績をトヨタ・日産・VW・ビッグ3と比較、危機の本質は2.5兆円EV損失と“別のところ”にあった</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ダイヤモンド・オンライン</font>",
+        "site_name": "ダイヤモンド・オンライン",
+        "primary_category": "Strategic Shifts",
+        "reason": "財務視点でのEV戦略の失敗分析は重要。",
+        "score": 75,
+        "is_highly_important": true
+    },
+    {
+        "id": 154152,
+        "title": "変わらぬ中国EV「過当競争」の闇 供給網は持続可能か - 日本経済新聞",
+        "link": "https://www.nikkei.com/article/DGXZQOFL077FKTX00C26A4000000/",
+        "published": "Wed, 08 Apr 2026 19:30:00 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFB0TWJhMEoxVWtKNWhza2NqWUZ3d0V5NHpVTGRYMDY5alhtR0syUzJMdTZNZHkwbUM2bmVzejM5N1U3WWJsX2tpX3R2eFh6SnJ6RlNlblNxZTljSE1TQS1kM2FEd2MzRjlqRTItSA?oc=5\" target=\"_blank\">変わらぬ中国EV「過当競争」の闇 供給網は持続可能か</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+        "site_name": "日本経済新聞",
+        "primary_category": "Supply Chain & Core Tech",
+        "reason": "中国EV産業の持続可能性に関する深い洞察。",
+        "score": 75,
+        "is_highly_important": true
+    },
+    {
+        "id": 931642,
+        "title": "東洋アルミ、表面｢つるつる｣半導体で通信サクサクに EV低迷でシフト - 日本経済新聞",
+        "link": "https://www.nikkei.com/article/DGXZQOUF1641J0W6A310C2000000/",
+        "published": "Wed, 08 Apr 2026 20:00:00 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBZNm9nNGJ4NWJFdXM3ay1OckZuN1M4LVhNemIyNVFseXg4X2dFbWU5XzEyRnRic2F5a0ticGFLckk4el94T1Q2Uk9NR2RTOXdYRnpNX0doWGRjaV8wNlBVTGMzX3JWSWFWd1dXSw?oc=5\" target=\"_blank\">東洋アルミ、表面｢つるつる｣半導体で通信サクサクに EV低迷でシフト</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+        "site_name": "日本経済新聞",
+        "primary_category": "Supply Chain & Core Tech",
+        "reason": "EV部品サプライヤーの技術シフトと素材産業の重要性。",
+        "score": 70,
+        "is_highly_important": true
+    },
+    {
+        "id": 99453,
+        "title": "フォード､｢真の脅威｣中国に学ぶ CATLからLFP製造技術 - 日本経済新聞",
+        "link": "https://www.nikkei.com/prime/mobility/article/DGXZQOGN0501W0V00C26A4000000?n_cid=DSPRM1OTR01_NKD_Prime",
+        "published": "Wed, 08 Apr 2026 20:00:00 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQTnBwOGY0cVdTc1BnaHhrQkh1cWpQenlFS0M5OEhuM0R2ZFNqRklfb0tXT1dNR2VkRUNkM1JEb2RKbFBEZjh5WDdMT3R3NjBid0hUY3Zxc2lmOV9BbGtLaTE4MFZ6X1hLX0MyRW8yZ3ZKWHlnajNWYm9kTXE1aFM0eFhBd05NbkpKenU1cHVYRW5rYVM5Q2FTbW1JTlZIT3VYejhtZQ?oc=5\" target=\"_blank\">フォード､｢真の脅威｣中国に学ぶ CATLからLFP製造技術</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+        "site_name": "日本経済新聞",
+        "primary_category": "Supply Chain & Core Tech",
+        "reason": "CATLの技術導入は、フォードの生存戦略として重要。",
+        "score": 80,
+        "is_highly_important": true
+    },
+    {
+        "id": 438364,
+        "title": "ホンダ、EV頓挫の代償 減配リスクを市場が意識 北米、新車投入見えず/手元資金、余力小さく - 日本経済新聞",
+        "link": "https://www.nikkei.com/article/DGKKZO95535100Y6A400C2DTB000/",
+        "published": "Wed, 08 Apr 2026 17:00:00 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBYQXBXV1o5MnpjZGljWU82UkdBVGtlOE9xUktaSmplUm03SWp0V1IwRWxodkd3aW5XVjl1S0dkdEM1TmVocW9rLWUwYS1MTWJpZTZlellPQ0tqbm5uR3pVSE1JZWdQUlVEZTl5cQ?oc=5\" target=\"_blank\">ホンダ、EV頓挫の代償 減配リスクを市場が意識 北米、新車投入見えず/手元資金、余力小さく</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+        "site_name": "日本経済新聞",
+        "primary_category": "Strategic Shifts",
+        "reason": "ホンダの経営リスク分析は業界の先行指標。",
+        "score": 75,
+        "is_highly_important": true
+    },
+    {
+        "id": 208641,
+        "title": "日産、集合住宅の「EV充電問題」解決へ。ユアスタンドと充電器設置でタッグ（グーネット） | 自動車情報・ニュース - carview!",
+        "link": "https://carview.yahoo.co.jp/news/detail/d1578d3f265164c142ca28c59c93e46225f57af8/?mode=top",
+        "published": "Wed, 08 Apr 2026 17:48:42 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQLVFkckozXzdrNERZNldoUUdfbm53VVhGMkROS004eGQ4bk5aX3J5RHFFNjhzbW14enl1blVETVBFV3EyOTF2dUtrdUI4SGxqZ3ZoQ2hlMFJsa3Vlc000Mm5qWnMyYkVvZU1hLW1aNmFURmJLbXNSZnBHUkljMEhQNTJGY2ZYOTVsWExzamhIZDFTSkp2?oc=5\" target=\"_blank\">日産、集合住宅の「EV充電問題」解決へ。ユアスタンドと充電器設置でタッグ（グーネット） | 自動車情報・ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carview!</font>",
+        "site_name": "carview!",
+        "primary_category": "Data & Ecosystem",
+        "reason": "集合住宅の充電問題への具体的な提携事例。",
+        "score": 75,
+        "is_highly_important": true
+    },
+    {
+        "id": 162816,
+        "title": "ＥＶ充電メタブライト、施設拡大へ資金調達 - nna.jp",
+        "link": "https://www.nna.jp/news/2911877",
+        "published": "Wed, 08 Apr 2026 15:05:10 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE85X3Fja2MzdDNaN0stX05GbG1MbWlFd1NPYTk5QlNuSEhXVUNqQng2YklLMUNLMXhrTGcxc2VmQjd3OENCaHc?oc=5\" target=\"_blank\">ＥＶ充電メタブライト、施設拡大へ資金調達</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nna.jp</font>",
+        "site_name": "nna.jp",
+        "primary_category": "Data & Ecosystem",
+        "reason": "充電インフラ事業の資金調達はエコシステム拡大を示す指標。",
+        "score": 70,
+        "is_highly_important": true
+    },
+    {
+        "id": 224363,
+        "title": "現代自、新型FCV「ネッソ」を国内発売 750万円から - 日本経済新聞",
+        "link": "https://www.nikkei.com/prime/mobility/article/DGXZQOUC084EN0Y6A400C2000000",
+        "published": "Wed, 08 Apr 2026 20:00:00 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1paS1HZXdaNk1PbE5IMEpxSFEzVnd5XzNTVUlxTExBaWE3UWx4QmZZUnh6WjUzdDA3TDI3cThkVDFURUplQlJHVjJBV3UwTHV0eWVfQkVaVk5lQkVxdmQyekk1SDlMSkp2ZUdzb191TGtYUFR0TGZqam43NWxvNVk?oc=5\" target=\"_blank\">現代自、新型FCV「ネッソ」を国内発売 750万円から</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+        "site_name": "日本経済新聞",
+        "primary_category": "Strategic Shifts",
+        "reason": "水素電気自動車の投入はモビリティ多様化の一環。",
+        "score": 70,
+        "is_highly_important": true
+    },
+    {
+        "id": 699594,
+        "title": "ホンダの屋台骨が戦略見直しで揺らぐ…ソニーとのEVも販売中止へ - nikkan-gendai.com",
+        "link": "https://www.nikkan-gendai.com/articles/view/money/386240",
+        "published": "Wed, 08 Apr 2026 21:00:00 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oT0M2N2Yzd1pjV09pUVdqQ2lPbkxQdzNFa3ppcDRMZ3FVcUVvNVJVNzVjVFMxMTdjLXhJTExBUVM2RnJLU0dXcFB5b2VDNEZfTktFSVA0WjlFTjdZTTZkYkY3bG54cVE?oc=5\" target=\"_blank\">ホンダの屋台骨が戦略見直しで揺らぐ…ソニーとのEVも販売中止へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nikkan-gendai.com</font>",
+        "site_name": "nikkan-gendai.com",
+        "primary_category": "Strategic Shifts",
+        "reason": "ソニーホンダの戦略転換報道。",
+        "score": 75,
+        "is_highly_important": true
+    },
+    {
+        "id": 13142,
+        "title": "中国自動車最大手｢BYD｣､2025年はついに減益／ライバル急追でEVの成長に急ブレーキ､独り勝ち許さぬ中国市場の過酷さ - 東洋経済オンライン",
+        "link": "https://toyokeizai.net/articles/-/940413",
+        "published": "Wed, 08 Apr 2026 21:02:26 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ibEZ5SWNVVVVOSk9ra1pSNElNSDMxdmNLcmRvbDFWTEl2bmRSbzB6bFZ0MWRodHlidF96NTRvc3RwcU92eFhZbkVRanAxa2txZGc?oc=5\" target=\"_blank\">中国自動車最大手｢BYD｣､2025年はついに減益／ライバル急追でEVの成長に急ブレーキ､独り勝ち許さぬ中国市場の過酷さ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東洋経済オンライン</font>",
+        "site_name": "東洋経済オンライン",
+        "primary_category": "Strategic Shifts",
+        "reason": "BYDの減益はEV成長の鈍化と市場の過酷さを象徴する重要記事。",
+        "score": 85,
+        "is_highly_important": true
+    },
+    {
+        "id": 683483,
+        "title": "ＢＹＤ、２００万円台の軽ＥＶ 日本で２０２６年後半に | 全国のニュース - fukuishimbun.co.jp",
+        "link": "https://www.fukuishimbun.co.jp/articles/dkan-gallery/2337936",
+        "published": "Wed, 08 Apr 2026 18:57:12 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1CVmtscmVYX3NaS2V2V05mZmJMYjEtNnZMb29ydVNGbTdYTDBZVklqNjk1a3lDaXVCU1NpbjNVNzVkQlFGVG5ERXlkbUFUcDRzV3Z2WG9CRl9UdU4ybFE2VHFXMks4bTlmWTlDRg?oc=5\" target=\"_blank\">ＢＹＤ、２００万円台の軽ＥＶ 日本で２０２６年後半に | 全国のニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fukuishimbun.co.jp</font>",
+        "site_name": "fukuishimbun.co.jp",
+        "primary_category": "Geopolitics & Policy",
+        "reason": "BYDの低価格展開は日本市場への破壊的影響。",
+        "score": 80,
+        "is_highly_important": true
+    },
+    {
+        "id": 491145,
+        "title": "変わるクルマの賞味期限、BYDは年200回機能更新 「鮮度」競う - 日本経済新聞",
+        "link": "https://www.nikkei.com/nkd/company/us/TSLA/news/?DisplayType=1&ng=DGXZQOGM19A7U019032026000000",
+        "published": "Wed, 08 Apr 2026 20:00:00 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQRXRwd3RRRXVxakkwOTI4NHB2RlRxMTZ0MmlDekxjOGJMNDNLUXRUVE81TThlOHVDRV9oaEVwb2FWSUk3X3phXzdJZkpuRGZpSmVwVG1nTnlaX21TdnVNcGtlamdHM3U1T3otdkpOd0tzWWdnamZPc2Q3Nk5oZ0h5bUxKMkV1Q2Y3ZkU5NmlJQlJ1MjJGaHNwU25B?oc=5\" target=\"_blank\">変わるクルマの賞味期限、BYDは年200回機能更新 「鮮度」競う</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+        "site_name": "日本経済新聞",
+        "primary_category": "Data & Ecosystem",
+        "reason": "OTA更新はEVの製品寿命と収益構造を変える重要な要素。",
+        "score": 75,
+        "is_highly_important": true
+    },
+    {
+        "id": 130154,
+        "title": "シボレー・カマロ後継EV開発中止、内燃機関継続へ - тарантас ньюс",
+        "link": "https://tarantas.news/ja/posts/id22444-shibore-kamarohou-ji-evkai-fa-zhong-zhi-nei-ran-ji-guan-ji-sok-he",
+        "published": "Wed, 08 Apr 2026 13:26:25 GMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3NfU0U2QklIc3VFNjZzdDUwdlhpc3hJcWl2alZjY041UUtLLU91TS1EM2gzMjN0RG0zdlFhc3VJXzZhUnRMZVhMekZFdkJfajdrWGczOGFoaE01OUlmX3c4T05MT1lkblZfdXV4Q25Ob3F3TUVRYlJZQUd4WUt3d2NTMFAwRm1KOEJab2pXeW1ZcklERTZ2cWlXVlc5Y0R2UlBNR3Qtd9IBqwFBVV95cUxNV1V4c2F5UXRhdVJ1WWo4Y0NMSHVOT3FWREdnOU1rNGpyUndMNXVuTVJJTzE2YlZtcHI3MVlna1MxLU4wRzBZU01CNDV0WkFjOHlybGt5My1rSm1zTTlDSlZRVnNEeFRNQ1c2d2dacWZmVk1kb0ZWVkFuZDFKN1BsZzBTbnRYdHV0NDlIOHRNbGtKLXY4YllZM2h2MmZrOHRQZHNaWjF1dHF3NjQ?oc=5\" target=\"_blank\">シボレー・カマロ後継EV開発中止、内燃機関継続へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">тарантас ньюс</font>",
+        "site_name": "тарантас ньюс",
+        "primary_category": "Strategic Shifts",
+        "reason": "EV戦略からの撤回は米メーカーの現実的な方針転換を示す。",
+        "score": 75,
         "is_highly_important": true
     }
 ]
