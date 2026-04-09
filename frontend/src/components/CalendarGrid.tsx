@@ -54,14 +54,14 @@ export default function CalendarGrid({ availableDates, selectedDate }: CalendarG
   }
 
   return (
-    <div className="bg-white/5 border border-white/10 px-2.5 py-1.5 rounded-xl backdrop-blur-xl w-full max-w-[360px] shadow-2xl">
+    <div className="bg-white/5 border border-white/10 px-4 py-2 rounded-xl backdrop-blur-xl w-[360px] shadow-2xl">
       {/* Header */}
-      <div className="relative flex items-center justify-center mb-2 pt-1 px-1">
+      <div className="relative flex items-center justify-center mb-3 pt-1 px-1">
         <h3 className="text-white font-medium text-base flex items-center gap-2">
           <span className="text-ui-muted text-xs font-mono">{year}</span>
           <span className="text-brand-emerald font-bold tracking-tight">{month + 1}月</span>
         </h3>
-        <div className="absolute right-1 flex gap-1">
+        <div className="absolute right-1 flex gap-1.5">
           <button
             onClick={prevMonth}
             className="p-1.5 rounded-md bg-white/5 text-ui-muted hover:bg-white/10 hover:text-white transition-colors"
@@ -78,7 +78,7 @@ export default function CalendarGrid({ availableDates, selectedDate }: CalendarG
       </div>
 
       {/* Week Headers */}
-      <div className="grid grid-cols-7 gap-1 mb-1">
+      <div className="grid grid-cols-7 gap-2 mb-2">
         {weekDays.map((day, idx) => (
           <div
             key={day}
@@ -91,7 +91,7 @@ export default function CalendarGrid({ availableDates, selectedDate }: CalendarG
       </div>
 
       {/* Grid Body */}
-      <div className="grid grid-cols-7 gap-1">
+      <div className="grid grid-cols-7 gap-2">
         {calendarDays.map((day, idx) => {
           if (day === null) {
             return <div key={`empty-${idx}`} className="h-5" />;
