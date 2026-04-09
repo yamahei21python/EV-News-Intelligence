@@ -11,137 +11,77 @@
         "is_grouped": true
     },
     {
-        "topic_name": "ホンダとソニー、EV共同開発を中止",
+        "topic_name": "ホンダ、EV戦略見直しと巨額損失",
         "article_ids": [
             784530,
-            699594
+            240318,
+            699594,
+            229341,
+            204779,
+            556097,
+            426963
         ],
         "is_grouped": true
     },
     {
-        "topic_name": "BYD、2025年決算で4年ぶりの減益",
+        "topic_name": "BYD、バンコクモーターショーで販売首位",
         "article_ids": [
-            13142
+            859689,
+            796890,
+            831075
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "テスラ、小型で安価な新型EVを開発",
+        "article_ids": [
+            848210,
+            606142,
+            111545,
+            22594
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "EVモーターズ製バス、補助金返還へ",
+        "article_ids": [
+            643359
         ],
         "is_grouped": false
     },
     {
-        "topic_name": "BYDのブラジル販売が首位を獲得",
+        "topic_name": "ルートインジャパン、EV充電賞を受賞",
         "article_ids": [
-            625473
+            998390,
+            891833
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "上汽通用五菱、タイで商用EVを発売",
+        "article_ids": [
+            369210
         ],
         "is_grouped": false
     },
     {
-        "topic_name": "テスラ、3列シート車モデルYLを発売",
-        "article_ids": [
-            834566
-        ],
-        "is_grouped": false
-    },
-    {
-        "topic_name": "ホンダのEV戦略見直しと業績低迷",
-        "article_ids": [
-            240318
-        ],
-        "is_grouped": false
-    },
-    {
-        "topic_name": "アークエル、N-VAN e:をシステム対応",
+        "topic_name": "アークエル、ホンダN-VANのEV運行管理対応",
         "article_ids": [
             369265
         ],
         "is_grouped": false
     },
     {
-        "topic_name": "レクサス、急速充電サービスを開始",
+        "topic_name": "デンソーとアイシン、多角化で収益確保",
         "article_ids": [
-            13079
+            401251
         ],
         "is_grouped": false
     },
     {
-        "topic_name": "グリーンコープ、ふくおか中遠支部でEV化",
+        "topic_name": "グリーンコープ、配送トラックのEV化",
         "article_ids": [
             283731
-        ],
-        "is_grouped": false
-    },
-    {
-        "topic_name": "四国大学、県内初のEVスクールバス導入",
-        "article_ids": [
-            385343
-        ],
-        "is_grouped": false
-    },
-    {
-        "topic_name": "国交省、物流施設のEV導入に補助金",
-        "article_ids": [
-            466892
-        ],
-        "is_grouped": false
-    },
-    {
-        "topic_name": "デンソー・ローム等のEV業界動向",
-        "article_ids": [
-            779653
-        ],
-        "is_grouped": false
-    },
-    {
-        "topic_name": "タイのモーターショーでEV需要が拡大",
-        "article_ids": [
-            796890,
-            859689
-        ],
-        "is_grouped": true
-    },
-    {
-        "topic_name": "EV補助金と国産車販売比率の相関分析",
-        "article_ids": [
-            62824
-        ],
-        "is_grouped": false
-    },
-    {
-        "topic_name": "イタリアの自動車生産がEV低迷で半減",
-        "article_ids": [
-            706129
-        ],
-        "is_grouped": false
-    },
-    {
-        "topic_name": "フォード、EV戦略見直しとコスト削減",
-        "article_ids": [
-            658823
-        ],
-        "is_grouped": false
-    },
-    {
-        "topic_name": "GM、カマロ後継EV開発を中止",
-        "article_ids": [
-            130154
-        ],
-        "is_grouped": false
-    },
-    {
-        "topic_name": "BYD、日本での補助金が減額",
-        "article_ids": [
-            980000
-        ],
-        "is_grouped": false
-    },
-    {
-        "topic_name": "日本補助金政策のEV競争格差",
-        "article_ids": [
-            202289
-        ],
-        "is_grouped": false
-    },
-    {
-        "topic_name": "ヒョンデ、日本で水素EVネッソ発売",
-        "article_ids": [
-            916823
         ],
         "is_grouped": false
     },
@@ -153,30 +93,206 @@
         "is_grouped": false
     },
     {
-        "topic_name": "XDAOとAcalie、日本でモビリティ共同開発",
+        "topic_name": "韓国自動車協会、EV補助金の役割を議論",
         "article_ids": [
-            100868
+            62824
         ],
         "is_grouped": false
     },
     {
-        "topic_name": "湘南エリアでEVモビリティ試乗会",
+        "topic_name": "BYD「ドルフィン・ミニ」ブラジル販売首位",
+        "article_ids": [
+            625473
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "三光合成、樹脂製品でEV需要に対応",
+        "article_ids": [
+            627476
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "EV用冷却液市場、2035年に30億ドルへ",
+        "article_ids": [
+            958445
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "四国大学にEVスクールバスを導入",
+        "article_ids": [
+            385343
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "国交省、物流施設EV導入へ最大1億円補助",
+        "article_ids": [
+            466892
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "ヒョンデ「ネッソ」日本発売開始",
+        "article_ids": [
+            916823
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "湘南で都市型EV「e-NEO」試乗販売会",
         "article_ids": [
             581028
         ],
         "is_grouped": false
     },
     {
-        "topic_name": "BYD、200万円台の軽EVを投入へ",
+        "topic_name": "EV補助金の評価制度を巡る議論",
         "article_ids": [
-            683483
+            202289,
+            980000
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "フォード、低価格EV用プラットフォーム開発",
+        "article_ids": [
+            658823
         ],
         "is_grouped": false
     },
     {
-        "topic_name": "EV冷却液市場が2035年に拡大",
+        "topic_name": "Acalie、XDAOと電動モビリティ共同開発",
         "article_ids": [
-            958445
+            100868
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "東洋アルミ、半導体向けへ製品展開",
+        "article_ids": [
+            931642
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "BYDの2025年決算、4年ぶり減益",
+        "article_ids": [
+            13142
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "BYD、機能更新頻度で競争",
+        "article_ids": [
+            491145
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "三菱自動車、フィリピン工場増強",
+        "article_ids": [
+            67605
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "いすゞ、ジャパンモビリティショーでEV公開",
+        "article_ids": [
+            489380
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "大阪府、軽商用EV試乗会を実施",
+        "article_ids": [
+            815140
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "岡崎市、EV公用車のカーシェア開始",
+        "article_ids": [
+            518917
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "甲斐市、公用EVのカーシェア事業開始",
+        "article_ids": [
+            536999
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "Terra Charge、三井のリパークに充電器設置",
+        "article_ids": [
+            664488
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "テスラ、新型車「モデルYL」日本導入",
+        "article_ids": [
+            671198
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "紛争による原油高騰とEV需要への影響",
+        "article_ids": [
+            424564
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "BMW、クロアチア社と車載電池共同製造",
+        "article_ids": [
+            125791
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "日本のEV充電器市場、2035年に成長予測",
+        "article_ids": [
+            606352
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "テスラ、ロボタクシー構想へ注力",
+        "article_ids": [
+            552395
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "BYD、佐賀バルーナーズに軽EV贈呈",
+        "article_ids": [
+            448359
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "公道にEV急速充電所を設置",
+        "article_ids": [
+            658887
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "スバル「アンチャーテッド」、ジオランダー採用",
+        "article_ids": [
+            329967
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "中国ブランドEV、海外で売れ行き好調",
+        "article_ids": [
+            742048
         ],
         "is_grouped": false
     }
