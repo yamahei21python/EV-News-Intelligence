@@ -10,7 +10,17 @@ const config: Config = {
     extend: {
       colors: {
         background: "#050505",
-        foreground: "#ededed",
+        foreground: "#f7f8f8",
+        brand: {
+          emerald: "#3ecf8e",
+          link: "#00c573",
+        },
+        ui: {
+          panel: "#0f1011",
+          marketing: "#08090a",
+          muted: "#62666d",
+          secondary: "#d0d6e0",
+        },
         premium: {
           blue: "#3b82f6",
           cyan: "#06b6d4",

@@ -9,89 +9,73 @@ import Link from "next/link";
 
 export default function LPPage() {
   return (
-    <main className="bg-[#020617] text-white font-sans selection:bg-blue-500/30">
-      {/* Scroll Progress Bar */}
-      <motion.div
-        className="fixed top-0 left-0 right-0 h-1 bg-blue-500 z-50 origin-left"
-        style={{ scaleX: "0%" }}
-      />
-
+    <div className="bg-ui-marketing text-ui-primary selection:bg-brand-emerald/30">
       <Hero />
 
       {/* 2. The Pain Section */}
-      <section className="pt-16 pb-16 px-4 flex flex-col items-center justify-center text-center bg-white/[0.01]">
+      <section className="py-20 px-4 flex flex-col items-center justify-center text-center bg-white/[0.01]">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
-          className="max-w-4xl mx-auto"
+          className="max-w-7xl mx-auto"
         >
-          {/* CTA at the beginning of the section */}
-          <div className="mb-40 flex justify-center">
+          <div className="mb-32 flex justify-center">
             <Link href="/" className="group relative inline-block">
               <motion.div
                 whileHover={{ scale: 1.02, y: -2 }}
                 whileTap={{ scale: 0.98 }}
-                className="relative z-10 px-14 py-7 bg-white text-[#020617] rounded-full font-bold text-xl flex items-center gap-4 shadow-[0_0_40px_rgba(255,255,255,0.1)] group-hover:shadow-[0_0_60px_rgba(255,255,255,0.2)] transition-all overflow-hidden"
+                className="relative z-10 px-14 py-6 bg-[#3ecf8e] text-black rounded-full font-bold text-xl items-center shadow-[0_0_40px_rgba(62,207,142,0.3)] group-hover:shadow-[0_0_60px_rgba(62,207,142,0.5)] transition-all overflow-hidden"
               >
-                <span className="relative z-10 flex items-center gap-4">
+                <span className="relative z-10">
                   ダッシュボードへアクセス
-                  <ArrowRight className="w-6 h-6 group-hover:translate-x-1 transition-transform duration-300" />
                 </span>
-                {/* Subtle shine effect on hover */}
-                <div className="absolute inset-0 bg-gradient-to-r from-transparent via-zinc-100/50 to-transparent -translate-x-[100%] group-hover:translate-x-[100%] transition-transform duration-1000" />
+                <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/40 to-transparent -translate-x-[100%] group-hover:translate-x-[100%] transition-transform duration-1000" />
               </motion.div>
-
-              {/* Outer Glow Effect */}
-              <div className="absolute inset-x-0 inset-y-0 bg-white/20 blur-2xl rounded-full opacity-0 group-hover:opacity-100 transition-opacity duration-500 -z-10" />
             </Link>
           </div>
 
-          <h2 className="font-noto-serif text-3xl md:text-4xl font-bold mb-8 leading-tight text-white">
-            情報過多は、最大の「時間の損失」である。
+          <h2 className="text-4xl md:text-5xl font-medium mb-6 leading-tight tracking-tighter text-hero-dense text-white">
+            ニュースのチェックに、<br />もう時間を奪われない。
           </h2>
-          <div className="w-16 h-[1px] bg-blue-500/50 mx-auto mb-10" />
-          <p className="text-lg md:text-xl text-zinc-400 font-light leading-relaxed max-w-3xl mx-auto">
-            毎日配信される数千のEVニュース。その95%は、重複・広告・表面的な事実の羅列に過ぎません。<br className="hidden md:block" />
-            人間がそれを処理する時代は終わりました。
+          <div className="w-16 h-[1px] bg-brand-emerald/30 mx-auto mb-10" />
+          <p className="text-lg md:text-xl text-ui-secondary font-light leading-relaxed max-w-3xl mx-auto">
+            毎日届く数百のEVニュース。その多くは、実は似たような情報ばかり。<br className="hidden md:block" />
+            そんな無駄なチェックはAIに任せて、本来の仕事に集中。
           </p>
         </motion.div>
       </section>
 
-      {/* 3. Comparison Section (Glassmorphism) */}
-      <section className="pb-32 px-4">
-        <div className="max-w-4xl mx-auto space-y-6">
+      {/* 3. Comparison Section (Side-by-Side) */}
+      <section className="pb-20 px-4">
+        <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-6">
           {/* Manual */}
           <motion.div
             initial={{ opacity: 0, x: -20 }}
             whileInView={{ opacity: 1, x: 0 }}
             viewport={{ once: true }}
-            className="p-8 rounded-2xl bg-white/[0.02] border border-white/5 backdrop-blur-sm flex flex-col md:flex-row md:items-center justify-between gap-4 group hover:bg-white/[0.04] transition-colors"
+            className="intelligence-card p-10 flex flex-col items-center text-center gap-8"
           >
-            <div className="flex items-center gap-4">
-              <div className="p-3 rounded-xl bg-white/5 text-zinc-500">
-                <span className="font-bold tracking-widest text-xs uppercase">[ Manual ]</span>
-              </div>
+            <div className="px-5 py-2 rounded-md bg-white/5 text-ui-muted border border-white/5">
+              <span className="font-bold tracking-[0.2em] text-[10px] uppercase">Manual</span>
             </div>
-            <p className="text-zinc-400 text-base md:text-lg font-light">
-              50記事のスクロール ＋ 重複の確認 ＋ 要点の抽出 ＝ <span className="text-zinc-200 font-medium whitespace-nowrap text-lg md:text-xl">約20分 / 日</span>
+            <p className="text-ui-secondary text-base font-light leading-relaxed">
+              100記事のスクロール ＋ 重複確認 ＋ 要約抽出 ＝ <span className="text-white font-medium text-lg italic uppercase">約20分 / 日</span>
             </p>
           </motion.div>
 
-          {/* AI Engine */}
+          {/* AI */}
           <motion.div
             initial={{ opacity: 0, x: 20 }}
             whileInView={{ opacity: 1, x: 0 }}
             viewport={{ once: true }}
-            className="p-8 rounded-2xl bg-blue-500/[0.03] border border-blue-500/20 backdrop-blur-xl flex flex-col md:flex-row md:items-center justify-between gap-4 group hover:bg-blue-500/[0.06] transition-all shadow-[0_0_50px_rgba(59,130,246,0.05)]"
+            className="intelligence-card p-10 border-brand-emerald/20 bg-brand-emerald/[0.02] flex flex-col items-center text-center gap-8 group shadow-[0_0_50px_rgba(62,207,142,0.05)]"
           >
-            <div className="flex items-center gap-4">
-              <div className="p-3 rounded-xl bg-blue-500/10 text-blue-400 shadow-[0_0_15px_rgba(59,130,246,0.3)]">
-                <span className="font-bold tracking-widest text-xs uppercase">[ AI Engine ]</span>
-              </div>
+            <div className="px-5 py-2 rounded-md bg-brand-emerald/10 text-brand-emerald border border-[#10b981] shadow-[0_0_15px_rgba(16,185,129,0.4)]">
+              <span className="font-bold tracking-[0.25em] text-[11px] uppercase">AI</span>
             </div>
-            <p className="text-blue-100/90 text-base md:text-lg font-medium">
-              純度100%のインサイトを10件確認 ＝ <span className="text-white font-bold text-xl md:text-2xl whitespace-nowrap drop-shadow-[0_0_10px_rgba(59,130,246,0.5)]">約5分 / 日</span>
+            <p className="text-ui-primary text-base font-medium leading-relaxed">
+              本当に必要なニュースを10件だけ確認 ＝ <span className="text-brand-emerald font-bold text-2xl drop-shadow-[0_0_10px_rgba(62,207,142,0.3)]">約5分 / 日</span>
             </p>
           </motion.div>
         </div>
@@ -101,47 +85,37 @@ export default function LPPage() {
 
       <DashboardPreview />
 
-      {/* 5. Final CTA Section - Polished */}
-      <section className="py-1 px-4 relative overflow-hidden">
-        {/* Spotlight Effect */}
+      {/* 5. Final CTA Section */}
+      <section className="py-24 px-4 relative overflow-hidden">
         <div className="absolute inset-0 z-0 pointer-events-none">
-          <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[400px] bg-blue-500/10 blur-[120px] rounded-full opacity-60" />
-          <div className="absolute bottom-0 inset-x-0 h-px bg-gradient-to-r from-transparent via-white/10 to-transparent" />
+          <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[400px] bg-brand-emerald/5 blur-[120px] rounded-full opacity-60" />
         </div>
 
-        <div className="max-w-4xl mx-auto text-center relative z-10">
+        <div className="max-w-7xl mx-auto text-center relative z-10">
           <motion.div
             initial={{ opacity: 0, scale: 0.95 }}
             whileInView={{ opacity: 1, scale: 1 }}
             viewport={{ once: true }}
-            transition={{ duration: 0.8 }}
             className="flex flex-col items-center"
           >
+            <h3 className="text-3xl md:text-4xl font-medium mb-8 tracking-tight text-white leading-tight">
+              未来の市場への、最短経路。
+            </h3>
             <Link href="/" className="group relative inline-block">
               <motion.div
-                whileHover={{ scale: 1.02, y: -2 }}
-                whileTap={{ scale: 0.98 }}
-                className="relative z-10 px-14 py-7 bg-white text-[#020617] rounded-full font-bold text-xl flex items-center gap-4 shadow-[0_0_40px_rgba(255,255,255,0.1)] group-hover:shadow-[0_0_60px_rgba(255,255,255,0.2)] transition-all overflow-hidden"
+                whileHover={{ scale: 1.05 }}
+                whileTap={{ scale: 0.95 }}
+                className="px-20 py-7 bg-[#3ecf8e] text-black rounded-full font-bold text-2xl flex items-center shadow-[0_0_50px_rgba(62,207,142,0.3)] hover:shadow-[0_0_70px_rgba(62,207,142,0.5)] transition-all relative overflow-hidden"
               >
-                <span className="relative z-10 flex items-center gap-4">
+                <span className="relative z-10">
                   ダッシュボードへアクセス
-                  <ArrowRight className="w-6 h-6 group-hover:translate-x-1 transition-transform duration-300" />
                 </span>
-                {/* Subtle shine effect on hover */}
-                <div className="absolute inset-0 bg-gradient-to-r from-transparent via-zinc-100/50 to-transparent -translate-x-[100%] group-hover:translate-x-[100%] transition-transform duration-1000" />
+                <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/40 to-transparent -translate-x-[100%] group-hover:translate-x-[100%] transition-transform duration-1000" />
               </motion.div>
-
-              {/* Outer Glow Effect */}
-              <div className="absolute inset-x-0 inset-y-0 bg-white/20 blur-2xl rounded-full opacity-0 group-hover:opacity-100 transition-opacity duration-500 -z-10" />
             </Link>
           </motion.div>
         </div>
       </section>
-
-      {/* Simple Footer */}
-      <footer className="py-12 px-4 border-t border-white/5 text-center text-zinc-600 text-[10px] tracking-widest uppercase font-bold">
-        © 2026 EV News Intelligence Pipeline. Driven by Gemini 1.5 Pro.
-      </footer>
-    </main>
+    </div>
   );
 }

@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Target, TrendingUp, Zap } from "lucide-react";
+import { Target, TrendingUp, Zap, Sparkles } from "lucide-react";
 
 /**
  * 📝 デモデータ設定
@@ -25,13 +25,13 @@ const DEMO_DATA = {
 
 export default function DashboardPreview() {
   return (
-    <section className="py-32 px-4 max-w-7xl mx-auto">
-      <div className="text-center mb-24">
-        <h2 className="font-noto-serif text-3xl md:text-4xl font-bold mb-8 text-white">
-          The Intelligence
+    <section className="py-20 px-4 max-w-7xl mx-auto">
+      <div className="text-center mb-16">
+        <h2 className="text-4xl md:text-5xl font-medium mb-8 text-white text-hero-dense">
+          Dashboard
         </h2>
-        <p className="text-lg md:text-xl text-zinc-400 font-light max-w-3xl mx-auto leading-relaxed">
-          実際のダッシュボードが提供する、精密な分析体験のプレビュー
+        <p className="text-lg md:text-xl text-ui-secondary font-light max-w-3xl mx-auto leading-relaxed">
+          精密な分析体験を凝縮した、インテリジェンス・インターフェース。
         </p>
       </div>
 
@@ -40,28 +40,28 @@ export default function DashboardPreview() {
         whileInView={{ opacity: 1, y: 0 }}
         viewport={{ once: true }}
         transition={{ duration: 0.8 }}
-        className="glass-card rounded-3xl p-8 md:p-10 relative overflow-hidden group border border-white/10 shadow-2xl shadow-blue-500/10"
+        className="intelligence-card p-8 md:p-10 relative overflow-hidden group shadow-2xl shadow-brand-emerald/10"
       >
         {/* Background Accent from page.tsx */}
-        <div className="absolute top-0 right-0 w-64 h-64 bg-blue-500/5 blur-3xl -mr-32 -mt-32 group-hover:bg-blue-500/10 transition-colors" />
+        <div className="absolute top-0 right-0 w-64 h-64 bg-brand-emerald/5 blur-3xl -mr-32 -mt-32 group-hover:bg-brand-emerald/10 transition-colors" />
 
         <div className="flex flex-col lg:flex-row gap-12 relative z-10">
           {/* Left: Main Content (Summaries) */}
           <div className="flex-1">
-            <div className="inline-flex items-center gap-2 px-3 py-1 rounded-lg bg-blue-500/10 text-blue-400 text-xs font-bold mb-8 border border-blue-500/20 shadow-inner">
-              <Target size={12} />
+            <div className="inline-flex items-center gap-2 px-3 py-1 rounded-md bg-brand-emerald/10 text-brand-emerald text-[10px] font-bold mb-8 border border-brand-emerald/20 shadow-inner uppercase tracking-widest">
+              <Target size={12} strokeWidth={1.5} />
               <span>TOPIC #{DEMO_DATA.topic_id}</span>
             </div>
             
-            <h3 className="text-3xl md:text-4xl font-bold text-white mb-10 leading-tight">
+            <h3 className="text-3xl md:text-4xl font-medium text-white mb-10 leading-tight tracking-tight">
               {DEMO_DATA.title}
             </h3>
 
             <div className="space-y-6">
               {DEMO_DATA.summary_points.map((point, idx) => (
                 <div key={idx} className="flex gap-5">
-                  <div className="mt-2.5 w-1.5 h-1.5 rounded-full bg-blue-500 shrink-0 shadow-[0_0_8px_rgba(59,130,246,0.8)]" />
-                  <p className="text-zinc-300 leading-relaxed font-medium">
+                  <div className="mt-2.5 w-1.5 h-1.5 rounded-full bg-brand-emerald shrink-0 shadow-[0_0_8px_rgba(62,207,142,0.8)]" />
+                  <p className="text-ui-secondary leading-relaxed font-light">
                     {point}
                   </p>
                 </div>
@@ -71,13 +71,13 @@ export default function DashboardPreview() {
 
           {/* Right: Insight Section */}
           <div className="lg:w-[38%] flex flex-col">
-            <div className="h-full bg-white/[0.03] border border-white/5 rounded-3xl p-8 relative ring-1 ring-white/5">
-              <div className="flex items-center gap-2 mb-6 text-amber-500 font-bold text-sm uppercase tracking-[0.2em]">
-                <TrendingUp size={18} />
+            <div className="h-full bg-white/[0.03] border border-white/5 rounded-lg p-8 relative ring-1 ring-white/5">
+              <div className="flex items-center gap-2 mb-6 text-brand-emerald/80 font-bold text-[10px] uppercase tracking-[0.2em]">
+                <TrendingUp size={18} strokeWidth={1.5} />
                 <span>Industry Insight</span>
               </div>
               
-              <div className="text-zinc-400 leading-relaxed italic text-base font-medium mb-10">
+              <div className="text-ui-secondary leading-relaxed italic text-base font-light mb-10">
                 "{DEMO_DATA.insight}"
               </div>
 
@@ -86,12 +86,12 @@ export default function DashboardPreview() {
                   {DEMO_DATA.sources.map((source, idx) => (
                     <div
                       key={idx}
-                      className="group/link flex items-center justify-between gap-4 text-xs text-zinc-500 hover:text-blue-400 transition-all bg-white/[0.01] hover:bg-white/[0.04] p-3 rounded-xl border border-white/5"
+                      className="group/link flex items-center justify-between gap-4 text-[11px] text-ui-muted hover:text-brand-emerald transition-all bg-white/[0.01] hover:bg-white/[0.04] p-3 rounded-md border border-white/5"
                     >
                       <span className="truncate flex-1 font-medium italic">
                         {source.title}
                       </span>
-                      <Zap size={10} className="shrink-0 text-blue-500/40 group-hover/link:text-blue-400 group-hover/link:animate-pulse" />
+                      <Zap size={10} strokeWidth={1.5} className="shrink-0 text-brand-emerald/40 group-hover/link:text-brand-emerald" />
                     </div>
                   ))}
                 </div>

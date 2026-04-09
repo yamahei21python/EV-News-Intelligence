@@ -46,21 +46,22 @@ const GENERATED_NOISE_CARDS = Array.from({ length: 40 }).map((_, i) => {
   };
 });
 
+const CARD_WIDTH = 240;
+const CARD_HEIGHT = 80;
+
 export default function Hero() {
   const [isExecuting, setIsExecuting] = useState(false);
   const [showResult, setShowResult] = useState(false);
+  const [hasMounted, setHasMounted] = useState(false);
 
-  // カードサイズ
-  const CARD_WIDTH = 280;
-  const CARD_HEIGHT = 90;
-
-  // 1秒後に自動実行
+  // 1秒後に自動実行 & マウント確認
   useEffect(() => {
+    setHasMounted(true);
     const timer = setTimeout(() => {
       setIsExecuting(true);
       const resultTimer = setTimeout(() => {
         setShowResult(true);
-      }, 1800); // 完璧な同期 (1.8秒)
+      }, 1800);
       return () => clearTimeout(resultTimer);
     }, 1000);
     return () => clearTimeout(timer);
@@ -77,61 +78,56 @@ export default function Hero() {
         angle = Math.random() * Math.PI * 2;
         radiusX = Math.random() * 500 + 100;
         radiusY = Math.random() * 400 + 50;
-
         x = Math.cos(angle) * radiusX;
         y = Math.sin(angle) * radiusY;
-
         const isTopForbidden = Math.abs(x) < 450 && y < -180;
         const isSideForbidden = Math.abs(x) > 420;
-
-        if (!isTopForbidden && !isSideForbidden) {
-          isOutsideSafeZone = true;
-        }
+        if (!isTopForbidden && !isSideForbidden) isOutsideSafeZone = true;
       }
-
-      return {
-        x,
-        y,
-        rotate: (Math.random() - 0.5) * 45,
-      };
+      return { x, y, rotate: (Math.random() - 0.5) * 45 };
     });
   }, []);
 
   return (
-    <section className="relative min-h-screen py-32 flex flex-col items-center justify-start px-4 bg-[#020617] text-white selection:bg-blue-500/30 overflow-visible">
+    <section className="relative min-h-[90vh] pt-28 pb-12 flex flex-col items-center justify-start px-4 bg-[#08090a] text-[#f7f8f8] selection:bg-emerald-500/30 overflow-visible">
       {/* Background Aurora */}
-      <div className="absolute inset-0 z-0 opacity-40 pointer-events-none overflow-hidden">
-        <div className="absolute top-1/4 left-1/4 w-[40vw] h-[40vw] bg-blue-900/40 rounded-full blur-[120px] mix-blend-screen transition-all duration-1000" />
-        <div className="absolute bottom-1/4 right-1/4 w-[40vw] h-[40vw] bg-purple-900/40 rounded-full blur-[120px] mix-blend-screen transition-all duration-1000" />
+      <div className="absolute inset-0 z-0 opacity-30 pointer-events-none overflow-hidden">
+        <div className="absolute top-1/4 left-1/4 w-[50vw] h-[50vw] bg-emerald-900/20 rounded-full blur-[120px] mix-blend-screen" />
+        <div className="absolute bottom-1/4 right-1/4 w-[40vw] h-[40vw] bg-emerald-500/10 rounded-full blur-[150px] mix-blend-screen" />
       </div>
 
       {/* メインタイトル */}
-      <div className="relative z-20 text-center max-w-5xl mx-auto mb-16 mt-10">
+      <div className="relative z-20 text-center max-w-5xl mx-auto mb-10">
         <motion.h1
-          className="font-noto-serif text-3xl md:text-5xl font-bold leading-tight mb-8 tracking-tight bg-clip-text text-transparent bg-gradient-to-b from-white via-white to-zinc-500"
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8 }}
+          className="text-6xl md:text-8xl font-bold leading-[1.1] mb-10 tracking-tighter text-white flex flex-wrap items-center justify-center gap-1 md:gap-4"
+          initial={{ opacity: 0, scale: 0.95 }}
+          animate={{ opacity: 1, scale: 1 }}
+          transition={{ duration: 1, ease: [0.16, 1, 0.3, 1] }}
         >
-          EV市場のノイズを、<br />戦略のアルファに変える。
+          <span className="inline-flex items-center justify-center px-8 md:px-12 py-3 md:py-5 bg-[#10b981] text-black rounded-2xl italic shadow-[0_0_50px_rgba(16,185,129,0.5)] transform -skew-x-6">
+            <span className="text-4xl md:text-6xl font-black tracking-tighter">EV</span>
+          </span>
+          <span className="ml-2 md:ml-4 drop-shadow-[0_0_25px_rgba(16,185,129,0.75)]">
+            News.Intelligence
+          </span>
         </motion.h1>
 
         <motion.p
-          className="text-zinc-400 max-w-3xl mx-auto text-lg md:text-xl leading-relaxed font-light"
+          className="text-[#d0d6e0] max-w-2xl mx-auto text-lg md:text-xl leading-relaxed font-light"
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
-          transition={{ delay: 0.2, duration: 0.8 }}
+          transition={{ delay: 0.3, duration: 0.8 }}
         >
-          AIが膨大なデータから「真のシグナル」だけを抽出する、<br className="hidden md:block" />
-          経営層・アナリストのためのインテリジェンス・ダッシュボード。
+          EV市場の膨大な情報を、<br className="hidden md:block" />
+          一瞬で「確信」に変える、ビジネスの右腕。
         </motion.p>
       </div>
 
-      <div className="relative w-full max-w-7xl min-h-[600px] flex items-start justify-center z-10 transition-all duration-1000 mb-12">
+      <div className="relative w-full max-w-7xl min-h-[500px] flex items-start justify-center z-10 mb-6">
 
-        {/* 凝縮されたノイズカード */}
+        {/* 凝縮されたノイズカード (Client Side only to avoid hydration mismatch) */}
         <AnimatePresence>
-          {!showResult && (
+          {!showResult && hasMounted && (
             <div className="absolute inset-0 pointer-events-none overflow-visible flex items-center justify-center">
               {GENERATED_NOISE_CARDS.map((card, i) => {
                 const pos = cardPositions[i];
@@ -198,46 +194,46 @@ export default function Hero() {
           )}
         </AnimatePresence>
 
-        {/* 結果セクション */}
+      {/* 結果セクション */}
         <AnimatePresence>
           {showResult && (
             <div className="relative w-full flex items-center justify-center">
-              {/* Subtle Backlight Glow (Blue & Purple) */}
+              {/* Subtle Backlight Glow (Emerald & Indigo) */}
               <motion.div
                 initial={{ opacity: 0, scale: 0.9 }}
                 animate={{ opacity: 1, scale: 1 }}
                 className="absolute inset-0 -z-10 flex items-center justify-center pointer-events-none"
               >
-                <div className="w-[120%] h-[120%] bg-blue-500/10 blur-[150px] rounded-full" />
-                <div className="absolute w-[80%] h-[80%] bg-purple-500/5 blur-[120px] rounded-full translate-x-20 -translate-y-20" />
+                <div className="w-[120%] h-[120%] bg-brand-emerald/10 blur-[150px] rounded-full" />
+                <div className="absolute w-[80%] h-[80%] bg-indigo-500/5 blur-[120px] rounded-full translate-x-20 -translate-y-20" />
               </motion.div>
 
               <motion.div
                 initial={{ opacity: 0, y: 40 }}
                 animate={{ opacity: 1, y: 0 }}
-                className="w-full glass-card rounded-3xl p-8 md:p-10 relative overflow-hidden group border border-white/10 shadow-2xl shadow-blue-500/10"
+                className="w-full intelligence-card p-8 md:p-10 relative overflow-hidden group shadow-2xl shadow-brand-emerald/10"
                 transition={{ duration: 0.8 }}
               >
                 {/* Internal accent light */}
-                <div className="absolute top-0 right-0 w-64 h-64 bg-blue-500/5 blur-3xl -mr-32 -mt-32 group-hover:bg-blue-500/10 transition-colors" />
+                <div className="absolute top-0 right-0 w-64 h-64 bg-brand-emerald/5 blur-3xl -mr-32 -mt-32 group-hover:bg-brand-emerald/10 transition-colors" />
 
                 <div className="flex flex-col lg:flex-row gap-12 relative z-10 text-left">
                   {/* Left Column: Facts */}
                   <div className="flex-1">
-                    <div className="inline-flex items-center gap-2 px-3 py-1 rounded-lg bg-blue-500/10 text-blue-400 text-xs font-bold mb-8 border border-blue-500/20 shadow-inner">
-                      <Target size={12} />
-                      <span>TOPIC #{DEMO_DATA.topic_id}</span>
+                    <div className="inline-flex items-center gap-2 px-3 py-1 rounded-md bg-brand-emerald/10 text-brand-emerald text-[10px] font-bold mb-8 border border-brand-emerald/20 shadow-inner uppercase tracking-widest">
+                      <Target size={12} strokeWidth={1.5} />
+                      <span>Topic #{DEMO_DATA.topic_id}</span>
                     </div>
 
-                    <h3 className="text-3xl md:text-4xl font-bold text-white mb-10 leading-tight">
+                    <h3 className="text-3xl md:text-4xl font-medium text-white mb-10 leading-tight tracking-tight">
                       {DEMO_DATA.title}
                     </h3>
 
                     <div className="space-y-6">
                       {DEMO_DATA.summary_points.map((point, idx) => (
                         <div key={idx} className="flex gap-5">
-                          <div className="mt-2.5 w-1.5 h-1.5 rounded-full bg-blue-500 shrink-0 shadow-[0_0_8px_rgba(59,130,246,0.8)]" />
-                          <p className="text-zinc-300 leading-relaxed font-medium">
+                          <div className="mt-2.5 w-1.5 h-1.5 rounded-full bg-brand-emerald shrink-0 shadow-[0_0_8px_rgba(62,207,142,0.8)]" />
+                          <p className="text-ui-secondary leading-relaxed font-light">
                             {point}
                           </p>
                         </div>
@@ -247,13 +243,13 @@ export default function Hero() {
 
                   {/* Right Column: Insight Box */}
                   <div className="lg:w-[38%] flex flex-col">
-                    <div className="h-full bg-white/[0.03] border border-white/5 rounded-3xl p-8 relative ring-1 ring-white/5">
-                      <div className="flex items-center gap-2 mb-6 text-amber-500 font-bold text-sm uppercase tracking-[0.2em]">
-                        <TrendingUp size={18} />
+                    <div className="h-full bg-white/[0.03] border border-white/5 rounded-lg p-8 relative ring-1 ring-white/5">
+                      <div className="flex items-center gap-2 mb-6 text-brand-emerald/80 font-bold text-[10px] uppercase tracking-[0.2em]">
+                        <TrendingUp size={18} strokeWidth={1.5} />
                         <span>Industry Insight</span>
                       </div>
 
-                      <div className="text-zinc-400 leading-relaxed italic text-base font-medium mb-10">
+                      <div className="text-ui-secondary leading-relaxed italic text-base font-light mb-10">
                         "{DEMO_DATA.insight}"
                       </div>
 
@@ -262,12 +258,12 @@ export default function Hero() {
                           {DEMO_DATA.sources.map((source, idx) => (
                             <div
                               key={idx}
-                              className="group/link flex items-center justify-between gap-4 text-xs text-zinc-500 hover:text-blue-400 transition-all bg-white/[0.01] hover:bg-white/[0.04] p-3 rounded-xl border border-white/5"
+                              className="group/link flex items-center justify-between gap-4 text-[11px] text-ui-muted hover:text-brand-emerald transition-all bg-white/[0.01] hover:bg-white/[0.04] p-3 rounded-md border border-white/5"
                             >
                               <span className="truncate flex-1 font-medium italic">
                                 {source.title}
                               </span>
-                              <Zap size={10} className="shrink-0 text-blue-500/40 group-hover/link:text-blue-400" />
+                              <Zap size={10} strokeWidth={1.5} className="shrink-0 text-brand-emerald/40 group-hover/link:text-brand-emerald" />
                             </div>
                           ))}
                         </div>
