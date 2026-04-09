@@ -54,7 +54,7 @@ export default function CalendarGrid({ availableDates, selectedDate }: CalendarG
   }
 
   return (
-    <div className="bg-white/5 border border-white/10 p-1.5 rounded-lg backdrop-blur-xl w-full max-w-[300px] shadow-2xl">
+    <div className="bg-white/5 border border-white/10 px-2.5 py-1.5 rounded-xl backdrop-blur-xl w-full max-w-[360px] shadow-2xl">
       {/* Header */}
       <div className="relative flex items-center justify-center mb-2 pt-1 px-1">
         <h3 className="text-white font-medium text-base flex items-center gap-2">
