@@ -27,7 +27,7 @@ export default async function Home({
       <header className="mb-16 flex flex-col xl:flex-row xl:items-center justify-between gap-12">
         <div className="flex-1">
           <h1 className="text-5xl md:text-6xl font-black tracking-tighter text-white mb-6 flex flex-wrap items-center gap-4">
-            <span className="inline-flex items-center justify-center px-6 py-2 bg-[#10b981] text-black rounded-xl italic shadow-[0_0_20px_rgba(16,185,129,0.3)] transform -skew-x-6">
+            <span className="inline-flex items-center justify-center px-6 md:px-10 py-2 md:py-3.5 bg-[#10b981] text-black rounded-xl italic shadow-[0_0_30px_rgba(16,185,129,0.3)] transform -skew-x-6">
               EV
             </span>
             <span className="drop-shadow-[0_0_20px_rgba(16,185,129,0.6)]">News.Intelligence</span>
