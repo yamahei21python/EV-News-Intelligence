@@ -54,35 +54,35 @@ export default function CalendarGrid({ availableDates, selectedDate }: CalendarG
   }
 
   return (
-    <div className="bg-white/5 border border-white/10 p-2.5 rounded-xl backdrop-blur-xl w-full max-w-[360px] shadow-2xl">
+    <div className="bg-white/5 border border-white/10 p-1.5 rounded-lg backdrop-blur-xl w-full max-w-[300px] shadow-2xl">
       {/* Header */}
-      <div className="relative flex items-center justify-center mb-4 pt-1 px-1">
-        <h3 className="text-white font-medium text-lg flex items-center gap-2">
-          <span className="text-ui-muted text-sm font-mono">{year}</span>
+      <div className="relative flex items-center justify-center mb-2 pt-1 px-1">
+        <h3 className="text-white font-medium text-base flex items-center gap-2">
+          <span className="text-ui-muted text-xs font-mono">{year}</span>
           <span className="text-brand-emerald font-bold tracking-tight">{month + 1}月</span>
         </h3>
-        <div className="absolute right-1 flex gap-1.5">
+        <div className="absolute right-1 flex gap-1">
           <button
             onClick={prevMonth}
-            className="p-2 rounded-md bg-white/5 text-ui-muted hover:bg-white/10 hover:text-white transition-colors"
+            className="p-1.5 rounded-md bg-white/5 text-ui-muted hover:bg-white/10 hover:text-white transition-colors"
           >
-            <ChevronLeft size={16} strokeWidth={1.5} />
+            <ChevronLeft size={14} strokeWidth={1.5} />
           </button>
           <button
             onClick={nextMonth}
-            className="p-2 rounded-md bg-white/5 text-ui-muted hover:bg-white/10 hover:text-white transition-colors"
+            className="p-1.5 rounded-md bg-white/5 text-ui-muted hover:bg-white/10 hover:text-white transition-colors"
           >
-            <ChevronRight size={16} strokeWidth={1.5} />
+            <ChevronRight size={14} strokeWidth={1.5} />
           </button>
         </div>
       </div>
 
       {/* Week Headers */}
-      <div className="grid grid-cols-7 gap-1.5 mb-2">
+      <div className="grid grid-cols-7 gap-1 mb-1">
         {weekDays.map((day, idx) => (
           <div
             key={day}
-            className={`text-[10px] font-bold text-center py-1 uppercase tracking-widest
+            className={`text-[9px] font-bold text-center py-1 uppercase tracking-widest
               ${idx === 0 ? "text-rose-500/80" : idx === 6 ? "text-brand-emerald/80" : "text-ui-muted"}`}
           >
             {day}
@@ -91,10 +91,10 @@ export default function CalendarGrid({ availableDates, selectedDate }: CalendarG
       </div>
 
       {/* Grid Body */}
-      <div className="grid grid-cols-7 gap-1.5">
+      <div className="grid grid-cols-7 gap-1">
         {calendarDays.map((day, idx) => {
           if (day === null) {
-            return <div key={`empty-${idx}`} className="h-7" />;
+            return <div key={`empty-${idx}`} className="h-5" />;
           }
 
           const dateStr = generateDateStr(day);
@@ -107,15 +107,15 @@ export default function CalendarGrid({ availableDates, selectedDate }: CalendarG
             <Link
               key={dateStr}
               href={`/?date=${dateStr}`}
-              className={`h-7 flex flex-col items-center justify-center rounded-md border relative transition-all group active:scale-90
+              className={`h-5 flex flex-col items-center justify-center rounded-sm border relative transition-all group active:scale-90
                 ${isSelected 
-                  ? "bg-[#10b981]/20 border-[#10b981] shadow-[0_0_20px_rgba(16,185,129,0.7),0_0_40px_rgba(16,185,129,0.4)] z-10" 
+                  ? "bg-[#10b981]/20 border-[#10b981] shadow-[0_0_15px_rgba(16,185,129,0.6),0_0_30px_rgba(16,185,129,0.3)] z-10" 
                   : hasReport 
                     ? "bg-white/5 border-white/10 hover:border-[#10b981]/50 hover:bg-white/10" 
                     : "border-transparent opacity-10 pointer-events-none"
                 }`}
             >
-              <span className={`text-xs font-mono font-bold transition-colors
+              <span className={`text-[10px] font-mono font-bold transition-colors
                 ${isSelected 
                   ? "text-white drop-shadow-[0_0_5px_rgba(16,185,129,0.8)]" 
                   : isSunday 
