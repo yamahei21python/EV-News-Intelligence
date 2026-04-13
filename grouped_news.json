@@ -1,1 +1,44 @@
-[]
+[
+    {
+        "topic_name": "ホンダ、ソニーとのEV共同開発を中止",
+        "article_ids": [
+            784530
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "ブラジルでBYDが販売首位を獲得",
+        "article_ids": [
+            625473
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "国交省、物流施設へEV設備補助金を開始",
+        "article_ids": [
+            466892
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "日産、北九州のEV電池工場建設を断念",
+        "article_ids": [
+            868086
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "タイモーターショーで中国勢が8割を独占",
+        "article_ids": [
+            977071
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "現代自動車、新型IONIQ 3を発表",
+        "article_ids": [
+            385866
+        ],
+        "is_grouped": false
+    }
+]
