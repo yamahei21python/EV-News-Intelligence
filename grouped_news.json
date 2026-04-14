@@ -1,43 +1,58 @@
 [
     {
-        "topic_name": "ホンダ、ソニーとのEV共同開発を中止",
+        "topic_name": "日産、集合住宅へのEV充電器設置を推進",
         "article_ids": [
-            784530
+            665360
         ],
         "is_grouped": false
     },
     {
-        "topic_name": "ブラジルでBYDが販売首位を獲得",
+        "topic_name": "デンソーとアイシン、EV鈍化で多角化へ",
+        "article_ids": [
+            401251
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "ホンダ、カナダEV新工場稼働を延期",
+        "article_ids": [
+            784530,
+            663220
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "BYD、ブラジルでEV販売首位を獲得",
         "article_ids": [
             625473
         ],
         "is_grouped": false
     },
     {
-        "topic_name": "国交省、物流施設へEV設備補助金を開始",
+        "topic_name": "国交省、物流施設のEV設備導入に補助",
         "article_ids": [
             466892
         ],
         "is_grouped": false
     },
     {
-        "topic_name": "日産、北九州のEV電池工場建設を断念",
+        "topic_name": "中国EVメーカー、過当競争が継続",
         "article_ids": [
-            868086
+            154152
         ],
         "is_grouped": false
     },
     {
-        "topic_name": "タイモーターショーで中国勢が8割を独占",
+        "topic_name": "EVモーターズ、民事再生法を申請",
         "article_ids": [
-            977071
+            17772
         ],
         "is_grouped": false
     },
     {
-        "topic_name": "現代自動車、新型IONIQ 3を発表",
+        "topic_name": "国内EV、トヨタ牽引でBYDは減速",
         "article_ids": [
-            385866
+            914782
         ],
         "is_grouped": false
     }
