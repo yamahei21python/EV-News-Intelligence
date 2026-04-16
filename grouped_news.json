@@ -1,58 +1,37 @@
 [
     {
-        "topic_name": "日産、集合住宅へのEV充電器設置を推進",
+        "topic_name": "日産とユアスタンド、集合住宅へEV充電器設置",
         "article_ids": [
             665360
         ],
         "is_grouped": false
     },
     {
-        "topic_name": "デンソーとアイシン、EV鈍化で多角化へ",
+        "topic_name": "アークエル、N-VAN e:を充電管理システム対応化",
         "article_ids": [
-            401251
+            369265
         ],
         "is_grouped": false
     },
     {
-        "topic_name": "ホンダ、カナダEV新工場稼働を延期",
+        "topic_name": "ホンダ・ソニー、EV「AFEELA」開発・販売中止",
         "article_ids": [
             784530,
-            663220
+            171823
         ],
         "is_grouped": true
     },
     {
-        "topic_name": "BYD、ブラジルでEV販売首位を獲得",
+        "topic_name": "中国BYD、競争激化で2025年減益",
         "article_ids": [
-            625473
+            13142
         ],
         "is_grouped": false
     },
     {
-        "topic_name": "国交省、物流施設のEV設備導入に補助",
-        "article_ids": [
-            466892
-        ],
-        "is_grouped": false
-    },
-    {
-        "topic_name": "中国EVメーカー、過当競争が継続",
-        "article_ids": [
-            154152
-        ],
-        "is_grouped": false
-    },
-    {
-        "topic_name": "EVモーターズ、民事再生法を申請",
+        "topic_name": "EVモーターズ・ジャパン、民事再生法を申請",
         "article_ids": [
             17772
-        ],
-        "is_grouped": false
-    },
-    {
-        "topic_name": "国内EV、トヨタ牽引でBYDは減速",
-        "article_ids": [
-            914782
         ],
         "is_grouped": false
     }
