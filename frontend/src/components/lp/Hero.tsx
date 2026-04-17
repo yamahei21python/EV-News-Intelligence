@@ -118,8 +118,8 @@ export default function Hero() {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.3, duration: 0.8 }}
         >
-          EV市場の膨大な情報を、<br className="hidden md:block" />
-          一瞬で「確信」に変える、ビジネスの右腕。
+          膨大なデータから本質を抽出。<br className="hidden md:block" />
+          構造化されたインサイトを提供。
         </motion.p>
       </div>
 

@@ -15,20 +15,6 @@ export default function Footer() {
               </span>
             </Link>
             
-            <nav className="flex items-center gap-6">
-              <Link 
-                href="/lp" 
-                className="text-[13px] font-medium text-[#d0d6e0] transition-colors hover:text-[#f7f8f8]"
-              >
-                Technology
-              </Link>
-              <Link 
-                href="/" 
-                className="text-[13px] font-medium text-[#d0d6e0] transition-colors hover:text-[#f7f8f8]"
-              >
-                Data Portal
-              </Link>
-            </nav>
           </div>
 
           <div className="flex items-center gap-6">

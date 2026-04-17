@@ -1,8 +1,12 @@
 [
     {
-        "topic_name": "日産とユアスタンド、集合住宅へEV充電器設置",
+        "topic_name": "日産とユアスタンド、集合住宅充電で提携",
         "article_ids": [
-            665360
+            665360,
+            458505,
+            334619,
+            777153,
+            208641
         ],
         "articles": [
             {
@@ -13,148 +17,67 @@
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwJBVV95cUxPckdtakNZcHBZT0Y0RzBiSHlhekZsSXZlNmd3Rkt6aWc2a2lwbmxGSUpiaXM2ZjBiajltQW1uSk9NeGROUmd4Rk9MbkhReFA1a3RkamlCNklnOUVIS2VzakI5VzJ1T0hZczRNR0V6TndMTlNPdmZwZ0hwRTluelAtaEdCVGNNd1M5bzFjd1ZMTXRNWUpEbFJ0eWRFaUVPVnFQODlUWFlIMFYxLWxZcDRuTWRSaGpzbTJ1ME1LXzZCXzVuTk9sTUJyWUFUS3ZleFZJaFBwelZUVjJHREJzNm04ZDVaSmNzeEJWMEtkQ2ZqMnJZR25tMks3czlSYm1fT2FIY1EyRTdnQ0FIMVN3UDNlazVkQXM1SjAtbkJ2cmJnWUNlbEkyZUhV?oc=5\" target=\"_blank\">日産とユアスタンド、集合住宅へのEV充電器設置に関するパートナーシップを締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日産自動車ニュースルーム</font>",
                 "site_name": "日産自動車ニュースルーム",
                 "primary_category": "Data & Ecosystem",
-                "reason": "集合住宅の充電インフラ整備はEV普及のボトルネック解消に必須。",
-                "score": 75,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "日本のEV普及における最大のボトルネックは集合住宅のインフラ不足であり、日産調べで52%の潜在層が「自宅充電なし」を理由に購入断念しているという構造的課題の顕在化。",
-                "分譲マンション充電でトップシェアのユアスタンドと組み、最大の難関である「管理組合との合意形成」から補助金申請、設置までを一気通貫でアウトソーシングする体制を構築。",
-                "充電器設置後のアプリ利用料（825円/月）を最長3年間無料にし、ハード・ソフト両面の初期・ランニングコストの障壁を極限まで下げてEV販売牽引へ繋げる購買促進戦略。"
-            ],
-            "insight": "日本市場におけるEV普及の鍵は「自宅充電の確保」にある。日産は専門業者を活用し、最大の壁である管理組合との煩雑な合意形成プロセスを排除した点で極めて有効な打ち手だ。今後の焦点は、この施設がメーカー独自の囲い込みに終わるか、オープンな規格として業界全体のインフラ底上げに繋がるかである。他社も追随必至の中、他社車種の充電拒否や割高課金が生じないよう、充電インフラの相互接続性をどう担保するかが、日本のEV覇権を左右する。"
-        }
-    },
-    {
-        "topic_name": "アークエル、N-VAN e:を充電管理システム対応化",
-        "article_ids": [
-            369265
-        ],
-        "articles": [
-            {
-                "id": 369265,
-                "title": "アークエル／ホンダN-VAN e:がEVスマート充電・運行管理システム「eFleet」に対応 - トラックニュース",
-                "link": "https://www.trucknews.biz/article/s040806/",
-                "published": "Wed, 08 Apr 2026 07:46:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE80dFUzNTVMV1ZHX3RlR1hfT0VBNkptTmYwRDNMeGZGMUVXV1c1UjBneXBpbENHLVp4bS1nS0pwSWoyODFwSFBoWlRIMWtKeF81anVDRQ?oc=5\" target=\"_blank\">アークエル／ホンダN-VAN e:がEVスマート充電・運行管理システム「eFleet」に対応</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">トラックニュース</font>",
-                "site_name": "トラックニュース",
-                "primary_category": "Data & Ecosystem",
-                "reason": "物流EVの運行管理システム連携。インフラ運用効率化の具体例。",
-                "score": 70,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "ホンダの軽商用EV「N-VAN e:」等がAI活用の充電・運行管理システム「eFleet」に対応し、本格的なフリート商用運用が始まった。",
-                "「eFleet」はダイナミックプライシングやEMSと連携し、複数EVの充電を最適化・一括管理する高度なエネルギーマネジメント機能を有する。",
-                "グリーンコープ等での配送用途を通じ、軽EVがラストワンマイル物流の脱炭素と、電力網の需給調整リソース（VPP）を両立する構造が構築されつつある。"
-            ],
-            "insight": "軽商用EVの本格普及の鍵は車両単体のスペックではなく「エネルギーマネジメントとの連携」にある。今回のシステム対応により、N-VAN e:は単なる配送ツールから、動的価格（ダイナミックプライシング）に連動した需給調整リソース（VPP）へと進化した。フリート導入が加速する中、各EVが充電インフラや管理システムのエコシステムにシームレスに組み込まれることが絶対条件となる。中国EVの猛烈なコスト攻勢に対抗するためにも、日本メーカーは車両単体主義を脱却し、国内のエネルギー網や運行管理システムとの「抱き合わせソリューション」で勝負する戦略が不可欠だ。"
-        }
-    },
-    {
-        "topic_name": "ホンダ・ソニー、EV「AFEELA」開発・販売中止",
-        "article_ids": [
-            784530,
-            171823
-        ],
-        "articles": [
-            {
-                "id": 784530,
-                "title": "ホンダ、「AFFELA 1」ソニーとの共同開発中止の大誤算 トランプ政権のEV支援策見直しで“10年先を見据える大転換”に揺り戻し、来期までに2.5兆円の巨額損失計上（マネーポストWEB） - Yahoo!ニュース",
-                "link": "https://news.yahoo.co.jp/articles/1c494453f296ac4f0fd3fb70cdc1b22a51369003",
-                "published": "Wed, 08 Apr 2026 05:53:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFA2ZGdwQThGR1Z3c2trRlNxSTFTYVRydElyYjA4bXVDZktnelF6STFhSElOcm5qYkY5UVUzNlpsYnVGYjY0LWRjdmdWUUphYi1QYnQ2TFU4Q0tjM1JkSlB5RHpfdXNJa2RBTVZKcDJwc240eTFPR0lDNnFNbFQ3dU0?oc=5\" target=\"_blank\">ホンダ、「AFFELA 1」ソニーとの共同開発中止の大誤算 トランプ政権のEV支援策見直しで“10年先を見据える大転換”に揺り戻し、来期までに2.5兆円の巨額損失計上（マネーポストWEB）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-                "site_name": "Yahoo!ニュース",
-                "primary_category": "Strategic Shifts",
-                "reason": "ホンダのEV戦略見直しと巨額損失。大手メーカーの方向転換は市場への影響大。",
-                "score": 85,
+                "reason": "EV充電インフラの課題である集合住宅へのアプローチは市場拡大の鍵。",
+                "score": 80,
                 "is_highly_important": true
             },
             {
-                "id": 171823,
-                "title": "ソニー×ホンダ、EV『AFEELA』開発・販売中止を発表 事業方針見直し「EVを取り巻く市場環境の変化を受け…」 - オリコンニュース",
-                "link": "https://www.oricon.co.jp/news/2444654/photo/1/",
-                "published": "Sun, 12 Apr 2026 01:46:50 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE42NXdVaDVReE9UczN3ZmozVExTVE1CNWQtN3Ftcko1LWF1VVRjQUM4RXc0LXdVcmhMQ2h2dHVRdkMwN2lXMWRabVNmbzRJYzhxbVRWU1hTZzAyUQ?oc=5\" target=\"_blank\">ソニー×ホンダ、EV『AFEELA』開発・販売中止を発表 事業方針見直し「EVを取り巻く市場環境の変化を受け…」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">オリコンニュース</font>",
-                "site_name": "オリコンニュース",
-                "primary_category": "Strategic Shifts",
-                "reason": "アフィーラ開発中止の公式発表。市場環境変化を受けた業界の象徴的事象。",
-                "score": 88,
+                "id": 458505,
+                "title": "集合住宅向けEV充電器設置で協業 - m2ri.jp",
+                "link": "https://www.m2ri.jp/topics/detail.html?id=861",
+                "published": "Wed, 08 Apr 2026 06:57:16 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oNjhRQ0NmbjRaYVlSZDBhR3prSUs2b1ZKSEZXVzZoNGl1eWlnbU93aVpSMDdRY1Awdjh6V2tkZ0xyaFEtWVM3aEtROURLa1NpdlpqVTJjV1E?oc=5\" target=\"_blank\">集合住宅向けEV充電器設置で協業</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">m2ri.jp</font>",
+                "site_name": "m2ri.jp",
+                "primary_category": "Data & Ecosystem",
+                "reason": "充電インフラの社会実装に関する重要トピック。",
+                "score": 70,
+                "is_highly_important": true
+            },
+            {
+                "id": 334619,
+                "title": "日産、マンションのEV充電で新興と提携 アプリ利用料3年無料 - 日本経済新聞",
+                "link": "https://www.nikkei.com/article/DGXZQOUC087JJ0Y6A400C2000000/",
+                "published": "Wed, 08 Apr 2026 09:27:54 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1DOFoyX3AxQWFXNFhjdXBpWC1ET2dWMFZ0VjNyX2swb01SbVo5ekFLNU4xSnRFUkRFTVdFck92N3hDc1ZuNS1ZTWJTbXllS2k0eXdKTnJ5S2haYmNSV18tbzNWWjdmSmQzbHdKTA?oc=5\" target=\"_blank\">日産、マンションのEV充電で新興と提携 アプリ利用料3年無料</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "site_name": "日本経済新聞",
+                "primary_category": "Data & Ecosystem",
+                "reason": "集合住宅のインフラ整備支援は国内EV普及のボトルネック解消に寄与。",
+                "score": 80,
+                "is_highly_important": true
+            },
+            {
+                "id": 777153,
+                "title": "日産×ユアスタンド、集合住宅のEV充電器設置を全国で支援（レスポンス） - Yahoo!ニュース",
+                "link": "https://news.yahoo.co.jp/articles/870508892a595b59ec72bb3e08550262a075d119",
+                "published": "Wed, 08 Apr 2026 21:00:04 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9qZlE2bWZKbVZCb3FjUVdLZTh2V2xqTGVqcS1SbFZDWHYtOEVZN2c0VFR1TTBOenA4Z1hnSlNaUnhEaF9qZ1lCdDdOdExYcXZGb2tyck0yTmJWUzNWcTJUTWpfUWItVjU2aEZUMWN1b2l6QzRVQ2cwdzU5M2otS0E?oc=5\" target=\"_blank\">日産×ユアスタンド、集合住宅のEV充電器設置を全国で支援（レスポンス）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Data & Ecosystem",
+                "reason": "集合住宅のインフラ支援は需要拡大の突破口。",
+                "score": 75,
+                "is_highly_important": true
+            },
+            {
+                "id": 208641,
+                "title": "日産、集合住宅の「EV充電問題」解決へ。ユアスタンドと充電器設置でタッグ（グーネット） | 自動車情報・ニュース - carview!",
+                "link": "https://carview.yahoo.co.jp/news/detail/d1578d3f265164c142ca28c59c93e46225f57af8/?mode=top",
+                "published": "Wed, 08 Apr 2026 17:48:42 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQLVFkckozXzdrNERZNldoUUdfbm53VVhGMkROS004eGQ4bk5aX3J5RHFFNjhzbW14enl1blVETVBFV3EyOTF2dUtrdUI4SGxqZ3ZoQ2hlMFJsa3Vlc000Mm5qWnMyYkVvZU1hLW1aNmFURmJLbXNSZnBHUkljMEhQNTJGY2ZYOTVsWExzamhIZDFTSkp2?oc=5\" target=\"_blank\">日産、集合住宅の「EV充電問題」解決へ。ユアスタンドと充電器設置でタッグ（グーネット） | 自動車情報・ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carview!</font>",
+                "site_name": "carview!",
+                "primary_category": "Data & Ecosystem",
+                "reason": "集合住宅の充電問題への具体的な提携事例。",
+                "score": 75,
                 "is_highly_important": true
             }
         ],
         "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "ソニーとホンダのEV「AFEELA」開発・販売が中止。EV市場の需要減速や政策環境の変化を背景に、巨額の投資リスクを回避する苦渋の決断となった。",
-                "北米市場を中心としたトランプ政権のEV支援策見直しが追い打ちをかけ、投資回収の目処が立たず、最大で2.5兆円規模の損失計上に至る構造的要因がある。",
-                "「車をスマートデバイス化する」という日系メーカーのSDV（ソフトウェア定義車両）戦略が、中国メーカーの価格破壊とインフラ・政策の未成熟により挫折した象徴的出来事。"
+                "EV普及の最大のボトルネックである集合住宅への充電器設置を、日産が専業のユアスタンドと連携して解消する戦略へ転換。",
+                "管理組合との合意形成というアナログな難関を、設置から保守までを一括請け負う「サービス完結型モデル」で突破を図る。",
+                "日産のEV専業メーカーとしての知見と、ユアスタンドの設置実績を組み合わせることで、充電インフラの不足を補完し販売の死角を消す。"
             ],
-            "insight": "今回の「AFEELA」中止は、ソニーの技術力とホンダの製造力を融合させた日系オールスター戦略が、米国の政策転換という外部要因と中国EVの猛烈な価格破壊の前に崩れ去った歴史的挫折だ。トランプ政権によるEV補助金見直し懸念が、巨額の投資リスクを極大化させた。中国勢が既に製造コストとデジタル統合を支配する中、日本のサプライチェーンはSDV覇権争いから一時撤退を余儀なくされた。今後、日系メーカーは純EVへの過度な依存から脱却し、HEVやPHEVなど現実的な選択肢へ「戦線を縮小」する泥臭い生存戦略へ舵を切らざるを得なくなるだろう。"
-        }
-    },
-    {
-        "topic_name": "中国BYD、競争激化で2025年減益",
-        "article_ids": [
-            13142
-        ],
-        "articles": [
-            {
-                "id": 13142,
-                "title": "中国自動車最大手｢BYD｣､2025年はついに減益／ライバル急追でEVの成長に急ブレーキ､独り勝ち許さぬ中国市場の過酷さ - 東洋経済オンライン",
-                "link": "https://toyokeizai.net/articles/-/940413",
-                "published": "Wed, 08 Apr 2026 21:02:26 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ibEZ5SWNVVVVOSk9ra1pSNElNSDMxdmNLcmRvbDFWTEl2bmRSbzB6bFZ0MWRodHlidF96NTRvc3RwcU92eFhZbkVRanAxa2txZGc?oc=5\" target=\"_blank\">中国自動車最大手｢BYD｣､2025年はついに減益／ライバル急追でEVの成長に急ブレーキ､独り勝ち許さぬ中国市場の過酷さ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東洋経済オンライン</font>",
-                "site_name": "東洋経済オンライン",
-                "primary_category": "Strategic Shifts",
-                "reason": "BYDの減益。EVブームから競争激化・収益性重視のフェーズへ移行。",
-                "score": 76,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "BYDが2025年に初の減益へ転落。新エネルギー車の爆発的成長が鈍化し、過剰供給と過激な価格競争が構造化して利益率が歴史的低水準に落ち込んだ。",
-                "「独り勝ち時代」の終焉。新興EVメーカーや伝統的国有メーカーの技術とコストの急速なキャッチアップにより、BYDの垂直統合モデルの優位性が食い潰されている。",
-                "中国市場のゼロサム化。他社の追い上げを振り切るための値引きやインセンティブが常態化し、自動車産業全体の収益構造を根底から圧迫する泥沼のシェア争いが勃発。"
-            ],
-            "insight": "BYDの減益は、中国EV市場が「青き大海」から「血塗られた紅海」へ完全に移行した決定的な一事象だ。国内の利益毀損を補うため、中国各社の海外市場への「価格破壊的輸出」はさらに加速するだろう。これは日本の聖域である東南アジア等で激しいシェア防衛戦を強いることになる。また、BYDすら減益する過酷な環境は中国の部品サプライヤーの淘汰を促進し、生き残った強者によるグローバル展開という新たな波状攻撃に繋がる。日本メーカーは安易な価格競争を避け、SDVや独自のEVプラットフォームでの圧倒的差別化や、関税などの政策的防波堤を戦略的に活用する必要がある。"
-        }
-    },
-    {
-        "topic_name": "EVモーターズ・ジャパン、民事再生法を申請",
-        "article_ids": [
-            17772
-        ],
-        "articles": [
-            {
-                "id": 17772,
-                "title": "EVモーターズ・ジャパン、民事再生法の適用申請 負債総額は57億円 相次ぐEVバス不具合で資金繰り悪化（日刊自動車新聞） - Yahoo!ニュース",
-                "link": "https://news.yahoo.co.jp/articles/7cffcb6d3d7b81bf899f15c7ddaeac77c704a2e2",
-                "published": "Tue, 14 Apr 2026 11:19:41 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1LXzNhR1V2SDhVb1VqRVhKZ1liSVRMVG03SEp6OXdzcWxkT2JWZDZoRl92REx3anhKaEZLNGNPd0ZSUkQ0eGtQcHRKWHFEdzFPQXJGcHlOUG5kcWI3cWVyQmhjMjlBcU1Fa3BoY2ZycVZDeWpwaWFPdVhaR0VPQU0?oc=5\" target=\"_blank\">EVモーターズ・ジャパン、民事再生法の適用申請 負債総額は57億円 相次ぐEVバス不具合で資金繰り悪化（日刊自動車新聞）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-                "site_name": "Yahoo!ニュース",
-                "primary_category": "Strategic Shifts",
-                "reason": "EVモーターズ・ジャパンの民事再生。公共交通EV化のリスクと課題が露呈。",
-                "score": 80,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "品質検証不足による致命傷：販売したEVバスの3割超で不具合が発生し、大阪メトロの190台使用停止や万博向け車両の不備など、公共交通としての信頼を完全に失墜させた。",
-                "補助金依存ビジネスの崩壊：国の電動化促進補助金を前提とした資金計画が、不具合による補助金返還要求や契約解除の連鎖で破綻し、57億円の負債を抱えて民事再生法に追い込まれた。",
-                "報道による資金チェーンの遮断：経営難や品質問題の報道が、新規営業の停止や他社への補助金交付阻害を引き起こし、スタートアップ特有の脆弱な資金繰りをさらに悪化させた。"
-            ],
-            "insight": "補助金依存で拡大を急ぐ日本のEVスタートアップが、量産品質検証という「地上戦」を軽視した末路が今回の破綻だ。この大失敗は国内商用EVへの信頼を致命的に毀損し、逆にコスト競争力と実績を持つ中国製EVバスの日本市場シェア拡大を加速させる懸念がある。公共インフラを支える商用EVにおいて、堅牢なサプライチェーンと徹底した品質保証は、単なる付加価値ではなく覇権争いにおける絶対条件である。"
+            "insight": "日本のEV普及における最大の阻害要因は、一戸建てに比べ圧倒的に導入難易度が高い「集合住宅の既築物件」にある。日産の今回の提携は、車両販売というハード売りから、充電体験というソリューション売りへのシフトを明確にするものだ。今後は、テスラのような独自の充電ネットワーク構築力を持たないメーカーが、いかに外部インフラと密着できるかがシェア維持の分水嶺となる。一方で、電力負荷制限や管理組合の利害調整といった日本特有のガラパゴス的障壁を打破できるかが、普及のスピードを決定づけるだろう。"
         }
     }
 ]

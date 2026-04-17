@@ -1,4 +1,5 @@
-import { getReports, getAvailableDates, AnalysisReport, ArticleDetail } from "@/lib/get-reports";
+import { getReports, getAvailableDates } from "@/lib/get-reports";
+import type { AnalysisReport, ArticleDetail } from "@/lib/types";
 import { Zap, Target, TrendingUp, Calendar as CalendarIcon } from "lucide-react";
 import CalendarGrid from "@/components/CalendarGrid";
 
@@ -33,8 +34,8 @@ export default async function Home({
             <span className="drop-shadow-[0_0_20px_rgba(16,185,129,0.6)]">News.Intelligence</span>
           </h1>
           <p className="text-ui-secondary text-lg max-w-xl font-light leading-relaxed">
-            次世代 EV 業界の精密な分析。ノイズを排除し、<br className="hidden md:block" />
-            構造化されたインサイトをリアルタイムに提供します。
+            膨大なデータから本質を抽出。<br className="hidden md:block" />
+            構造化されたインサイトを提供。
           </p>
         </div>
 
