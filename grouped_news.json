@@ -1,38 +1,53 @@
 [
     {
-        "topic_name": "日産とユアスタンド、集合住宅へEV充電器設置",
+        "topic_name": "EVモーターズ・ジャパン民事再生法申請による運行停止と補助金返還",
         "article_ids": [
-            665360
-        ],
-        "is_grouped": false
-    },
-    {
-        "topic_name": "アークエル、N-VAN e:を充電管理システム対応化",
-        "article_ids": [
-            369265
-        ],
-        "is_grouped": false
-    },
-    {
-        "topic_name": "ホンダ・ソニー、EV「AFEELA」開発・販売中止",
-        "article_ids": [
-            784530,
-            171823
+            705843,
+            83318,
+            113318,
+            202289,
+            205990,
+            661289,
+            377380
         ],
         "is_grouped": true
     },
     {
-        "topic_name": "中国BYD、競争激化で2025年減益",
+        "topic_name": "ホンダの中国ガソリン車工場休止",
         "article_ids": [
-            13142
+            464687,
+            59305,
+            839688
         ],
-        "is_grouped": false
+        "is_grouped": true
     },
     {
-        "topic_name": "EVモーターズ・ジャパン、民事再生法を申請",
+        "topic_name": "ソニー・ホンダモビリティのEV戦略見直しと会社存続協議",
         "article_ids": [
-            17772
+            784530,
+            993932,
+            699594,
+            238876,
+            988543,
+            563951,
+            390299
         ],
-        "is_grouped": false
+        "is_grouped": true
+    },
+    {
+        "topic_name": "ボッシュのEV偏重是正に伴う人員削減",
+        "article_ids": [
+            269151,
+            443410
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "日産によるEVモーターのレアアース使用量削減",
+        "article_ids": [
+            98318,
+            837629
+        ],
+        "is_grouped": true
     }
 ]
