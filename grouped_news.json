@@ -1,0 +1,59 @@
+[
+    {
+        "topic_name": "2026年北京モーターショーの開催と中国EV市場の動向",
+        "article_ids": [
+            742019,
+            404144,
+            901368,
+            174304
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "ホンダの中国EV戦略と現地合弁企業との協業",
+        "article_ids": [
+            334943,
+            577558
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "EV車載用バッテリーの高速充電および劣化診断技術の進展",
+        "article_ids": [
+            866976,
+            875082,
+            846865,
+            598499
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "中国製EVに対する欧州の規制と日本政府の対応",
+        "article_ids": [
+            875082,
+            418450
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "ルネサスエレクトロニクスの甲府工場量産時期の見直し",
+        "article_ids": [
+            572367
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "EVモーターズ・ジャパンの民事再生手続開始",
+        "article_ids": [
+            643954
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "商用EV導入支援および関連補助事業の公募",
+        "article_ids": [
+            987339
+        ],
+        "is_grouped": false
+    }
+]
