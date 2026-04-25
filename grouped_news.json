@@ -1,0 +1,50 @@
+[
+    {
+        "topic_name": "ホンダのEV戦略見直しと事業遅延",
+        "article_ids": [
+            5536,
+            60840,
+            890987,
+            279480,
+            678833,
+            18548
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "EVモーターズ・ジャパンの経営再建と万博EVバス問題",
+        "article_ids": [
+            826613,
+            730245,
+            969492
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "三菱電機の鴻海との車載事業提携検討",
+        "article_ids": [
+            529968,
+            606347
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "日産の長期ビジョン発表と新型車構想",
+        "article_ids": [
+            62284,
+            100528,
+            866132
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "北京モーターショーにおける中国自動車市場の動向",
+        "article_ids": [
+            421508,
+            688605,
+            108008,
+            223269
+        ],
+        "is_grouped": true
+    }
+]
