@@ -1,0 +1,58 @@
+[
+    {
+        "topic_name": "日産の米ミシシッピ州工場でのEV生産計画中止",
+        "article_ids": [
+            973063,
+            227413,
+            500371,
+            970324,
+            637977,
+            357317,
+            658535,
+            200028
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "都営住宅駐車場へのEV急速充電器導入",
+        "article_ids": [
+            695692
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "欧州新車販売とガソリン高によるEV販売への影響",
+        "article_ids": [
+            322539
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "EV大手BYDの1～3月期純利益",
+        "article_ids": [
+            481783
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "テスラおよびBYDの日本市場での展開",
+        "article_ids": [
+            96710
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "中国電池メーカーが世界EV市場に与える影響",
+        "article_ids": [
+            423295
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "中国メーカーの北京モーターショーにおけるHV出展",
+        "article_ids": [
+            398688
+        ],
+        "is_grouped": false
+    }
+]

@@ -1,6 +1,6 @@
 {
-    "updated_at": "2026-05-01 10:19:25",
-    "total_count": 100,
+    "updated_at": "2026-05-01 21:54:04",
+    "total_count": 142,
     "articles": [
         {
             "id": 695692,
@@ -801,6 +801,342 @@
             "published": "Fri, 01 May 2026 00:55:20 GMT",
             "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwaFBJeVlMOHBtOVB4MU9zZXVuZ0NZRGFCbm9UOS1Qcmw1T3dhNFEzeFpBbkhPcnl6bUlHV3dZSGNVTzVGZ0VJa3JVVFF1dklHcHFjRVlGT2paQQ?oc=5\" target=\"_blank\">日産、米でのＥＶ生産計画中止</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国新聞デジタル</font>",
             "site_name": "中国新聞デジタル"
+        },
+        {
+            "id": 159100,
+            "title": "ブレイズ、小型4輪EV「イーカーゴ」出展 - LOGISTICS TODAY",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA1ZTY3N2xLZi15T09jc0V0X1dWRFFNcXREOENsTG9QblFDMXlHanBiMDlyNThZQlVqczIzdmlBT3FTQ2xJaE1aQg?oc=5",
+            "published": "Fri, 01 May 2026 18:33:45 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFA1ZTY3N2xLZi15T09jc0V0X1dWRFFNcXREOENsTG9QblFDMXlHanBiMDlyNThZQlVqczIzdmlBT3FTQ2xJaE1aQg?oc=5\" target=\"_blank\">ブレイズ、小型4輪EV「イーカーゴ」出展</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
+            "site_name": "LOGISTICS TODAY"
+        },
+        {
+            "id": 846485,
+            "title": "ＥＶ関連展示会に出展 住友理工、上海で - 中部経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02M085UEx0alRNOVA1RXljZ2tyWnlHVGt4WTFBQkFRZzhUNTJYcHY2bWNfamxBQmJoeWlpb3JxR1lCTTlGNDhoekx6SDEzYkJuZDdFYzZ3eThGb2VfZ1Nsd25WODdRR2xBSmt0Q1lPLThrdW8?oc=5",
+            "published": "Fri, 01 May 2026 20:16:03 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE02M085UEx0alRNOVA1RXljZ2tyWnlHVGt4WTFBQkFRZzhUNTJYcHY2bWNfamxBQmJoeWlpb3JxR1lCTTlGNDhoekx6SDEzYkJuZDdFYzZ3eThGb2VfZ1Nsd25WODdRR2xBSmt0Q1lPLThrdW8?oc=5\" target=\"_blank\">ＥＶ関連展示会に出展 住友理工、上海で</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中部経済新聞</font>",
+            "site_name": "中部経済新聞"
+        },
+        {
+            "id": 9078,
+            "title": "欧州で10万台売れた「変なSUV」がEV化。崖っぷちの日産が大胆すぎるデザインを選ぶ理由 - Business Insider Japan",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NeGs0TDZNYmcyMVMxaHpMdXNZS1lBVWE4UHR4YkZqMENvRlZFOFdtY0N3cnFZek96R2lzUzBIMzE4ZTZDS21VUVNLRFhLWXV2Y2hiNGhxY2MwaDlLUzdOOTROMjdPZkN5UkZqOUwtbFppejcyS3RjNW9mLXRvUQ?oc=5",
+            "published": "Fri, 01 May 2026 12:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1NeGs0TDZNYmcyMVMxaHpMdXNZS1lBVWE4UHR4YkZqMENvRlZFOFdtY0N3cnFZek96R2lzUzBIMzE4ZTZDS21VUVNLRFhLWXV2Y2hiNGhxY2MwaDlLUzdOOTROMjdPZkN5UkZqOUwtbFppejcyS3RjNW9mLXRvUQ?oc=5\" target=\"_blank\">欧州で10万台売れた「変なSUV」がEV化。崖っぷちの日産が大胆すぎるデザインを選ぶ理由</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider Japan</font>",
+            "site_name": "Business Insider Japan"
+        },
+        {
+            "id": 554866,
+            "title": "【再エネ×EVで、災害に強いまちづくりへ】福島日産自動車様とソーラーポストの連携による取り組みが、テレビニュース・新聞各紙で紹... - gurutto-fukushima.com",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xVThIOWNBb0VBd2VjU0RYbkhmem1wMUpwcGxUdlFLMjU5WW9SbWJIajM3Ym5PSEF0TkRyN2tsZ3FLdHBTb0ZKbDcxZGpLY09PM1JSbi1pLUhVN2Vpc1JnelJJaFVoMVRYQ0JEMjlEdWZTZ3hJODBfRnc0R1A?oc=5",
+            "published": "Fri, 01 May 2026 10:25:04 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9xVThIOWNBb0VBd2VjU0RYbkhmem1wMUpwcGxUdlFLMjU5WW9SbWJIajM3Ym5PSEF0TkRyN2tsZ3FLdHBTb0ZKbDcxZGpLY09PM1JSbi1pLUhVN2Vpc1JnelJJaFVoMVRYQ0JEMjlEdWZTZ3hJODBfRnc0R1A?oc=5\" target=\"_blank\">【再エネ×EVで、災害に強いまちづくりへ】福島日産自動車様とソーラーポストの連携による取り組みが、テレビニュース・新聞各紙で紹...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gurutto-fukushima.com</font>",
+            "site_name": "gurutto-fukushima.com"
+        },
+        {
+            "id": 505588,
+            "title": "Jo-Car・株式会社DOKE ／折りたたみ式EV「Jo-Car」、台溘4媒体で報じられる。世界初を目指して開発加速中、2026年末販売開始予定 - pr-free.jp",
+            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBwb2UxZlBvTFIwdWZSX3FCQ2lHOFE5cnRBdWprN3A0TFhRb1l5V183ZW1ZVUVtQm1rMW4zY2E2STRwZ0staUE?oc=5",
+            "published": "Fri, 01 May 2026 19:08:41 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTFBwb2UxZlBvTFIwdWZSX3FCQ2lHOFE5cnRBdWprN3A0TFhRb1l5V183ZW1ZVUVtQm1rMW4zY2E2STRwZ0staUE?oc=5\" target=\"_blank\">Jo-Car・株式会社DOKE ／折りたたみ式EV「Jo-Car」、台溘4媒体で報じられる。世界初を目指して開発加速中、2026年末販売開始予定</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pr-free.jp</font>",
+            "site_name": "pr-free.jp"
+        },
+        {
+            "id": 395170,
+            "title": "米国のＥＶ生産計画停止 補助金終了で逆風―日産 - 時事ドットコム",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OcnJsTTVUX1F6Yi1jNFlDVVd6TU1DY3ktYmItVTR6Ry1FYjVqeVRNenlpY2taUmtqYTR3VVVENXRfS19zdHQ0R1Q5bFJlYkMyb2MxeEdtYktPakg1VHBGQ2RMTQ?oc=5",
+            "published": "Thu, 30 Apr 2026 23:39:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OcnJsTTVUX1F6Yi1jNFlDVVd6TU1DY3ktYmItVTR6Ry1FYjVqeVRNenlpY2taUmtqYTR3VVVENXRfS19zdHQ0R1Q5bFJlYkMyb2MxeEdtYktPakg1VHBGQ2RMTQ?oc=5\" target=\"_blank\">米国のＥＶ生産計画停止 補助金終了で逆風―日産</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事ドットコム</font>",
+            "site_name": "時事ドットコム"
+        },
+        {
+            "id": 950035,
+            "title": "大阪メトロと「争う方針」 ＥＶバス契約解除で納入元 - 山陽新聞",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYMjdHX0EtZDY2elc1WFJhOERjNEZaak1iRTZ1d09waVU1bEN3VVVfNTN5OGhGQlFzMThzMFdvb3BOeGVjU0JfSFlCSDRGS1ZFWGtZOHYxdWRRRl81bWlaUjcxbHZMbVlvUEhnQXVtMA?oc=5",
+            "published": "Fri, 01 May 2026 07:51:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBYMjdHX0EtZDY2elc1WFJhOERjNEZaak1iRTZ1d09waVU1bEN3VVVfNTN5OGhGQlFzMThzMFdvb3BOeGVjU0JfSFlCSDRGS1ZFWGtZOHYxdWRRRl81bWlaUjcxbHZMbVlvUEhnQXVtMA?oc=5\" target=\"_blank\">大阪メトロと「争う方針」 ＥＶバス契約解除で納入元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
+            "site_name": "山陽新聞"
+        },
+        {
+            "id": 301820,
+            "title": "米国のEV生産計画停止 補助金終了で逆風 日産 - 電波新聞デジタル",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MZURpVEw4WWhhSkNDZlRxY1BYYmxkN0NxSU4zOVUxbkhoSEozUEdpVWlaRjFxNVF5SFhhZHFOY0JDVFVsS3otTGp5R0wtcFBOeWc?oc=5",
+            "published": "Fri, 01 May 2026 08:56:11 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MZURpVEw4WWhhSkNDZlRxY1BYYmxkN0NxSU4zOVUxbkhoSEozUEdpVWlaRjFxNVF5SFhhZHFOY0JDVFVsS3otTGp5R0wtcFBOeWc?oc=5\" target=\"_blank\">米国のEV生産計画停止 補助金終了で逆風 日産</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">電波新聞デジタル</font>",
+            "site_name": "電波新聞デジタル"
+        },
+        {
+            "id": 357317,
+            "title": "日産自動車 アメリカ工場でのEV生産計画中止 税額控除廃止など市場環境の変化うけ（日テレNEWS NNN） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TR3d6WU9XckRVbTZ4Y3FnR3dkaWk4eE9GMWdnaFB6LVBMV3pwQi0zSzJoTWxBX182Y2JDSThTQXl6c3BwWlVDZVdMQ2lsNU9rQjVlTHZwRG9reU80ckRqVnN3QWxQUFRLZ1N4OEVfaDRrU3p2Mko2blFsd1U5cE0?oc=5",
+            "published": "Fri, 01 May 2026 10:54:01 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5TR3d6WU9XckRVbTZ4Y3FnR3dkaWk4eE9GMWdnaFB6LVBMV3pwQi0zSzJoTWxBX182Y2JDSThTQXl6c3BwWlVDZVdMQ2lsNU9rQjVlTHZwRG9reU80ckRqVnN3QWxQUFRLZ1N4OEVfaDRrU3p2Mko2blFsd1U5cE0?oc=5\" target=\"_blank\">日産自動車 アメリカ工場でのEV生産計画中止 税額控除廃止など市場環境の変化うけ（日テレNEWS NNN）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 398688,
+            "title": "吉利など中国メーカーが北京モーターショーにHV出展攻勢 EVへの優遇縮小で有望視（産経新聞） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RLVplcTJjWTIzeWR6WEJERWtkRUtxdWVzQTAwcUE1RTMwZ3VRQTd0TC1fMGxkTFNLczRJcm9HbVR5QmotUm5Gd20xaF9QR21lMU1GZGNTYW5HTzRHQ09tYkQ0S3V1X3JqN1BsS0FnY1kwcjBnYk04NHdhVDNKMVU?oc=5",
+            "published": "Fri, 01 May 2026 11:54:56 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9RLVplcTJjWTIzeWR6WEJERWtkRUtxdWVzQTAwcUE1RTMwZ3VRQTd0TC1fMGxkTFNLczRJcm9HbVR5QmotUm5Gd20xaF9QR21lMU1GZGNTYW5HTzRHQ09tYkQ0S3V1X3JqN1BsS0FnY1kwcjBnYk04NHdhVDNKMVU?oc=5\" target=\"_blank\">吉利など中国メーカーが北京モーターショーにHV出展攻勢 EVへの優遇縮小で有望視（産経新聞）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 198948,
+            "title": "日産、米ミシシッピ州工場での新型ＥＶ生産計画を中止…トランプ政権の税制支援廃止で需要が減少 (読売新聞オンライン) - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa3NBM2VScnlYUlc3Vy01ZURHSmYtRFY0WWVHWTQtRWdFSHhZWC01ZkQtZ245QUg5NUdLMTFhdEwtb2x3OFdGUzdaenhodENFNm9TZ2hQdzJ5cjk4b3JEdVZUT01oMWZta0o4cUNYLXNfb1Y4VlNWZkdHaG45ZWhlVGZzNlVyUUwtOC1DRmFn?oc=5",
+            "published": "Fri, 01 May 2026 08:45:44 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNa3NBM2VScnlYUlc3Vy01ZURHSmYtRFY0WWVHWTQtRWdFSHhZWC01ZkQtZ245QUg5NUdLMTFhdEwtb2x3OFdGUzdaenhodENFNm9TZ2hQdzJ5cjk4b3JEdVZUT01oMWZta0o4cUNYLXNfb1Y4VlNWZkdHaG45ZWhlVGZzNlVyUUwtOC1DRmFn?oc=5\" target=\"_blank\">日産、米ミシシッピ州工場での新型ＥＶ生産計画を中止…トランプ政権の税制支援廃止で需要が減少 (読売新聞オンライン)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 224693,
+            "title": "手付金支払い済みが500人！ 約900馬力のEVオープンスーパースポーツ「ポールスター6」のデビューはいったいいつになる？ - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Hbkd2dGlRY0x1dk80a05pV2NFZGd4b05oWlBiaGJnOUZwUmg0YlBCV2QzY2hCM1NPalFjQ1A2a0t2VkxQS1JkTmM4Z3ZPREk3Qmw0NjJnT1hweGs1V0FLRl8wSU1MUVBaZHlvM3M1dm0wNE5rMHN3MGNSM0l3elU?oc=5",
+            "published": "Fri, 01 May 2026 09:10:03 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1Hbkd2dGlRY0x1dk80a05pV2NFZGd4b05oWlBiaGJnOUZwUmg0YlBCV2QzY2hCM1NPalFjQ1A2a0t2VkxQS1JkTmM4Z3ZPREk3Qmw0NjJnT1hweGs1V0FLRl8wSU1MUVBaZHlvM3M1dm0wNE5rMHN3MGNSM0l3elU?oc=5\" target=\"_blank\">手付金支払い済みが500人！ 約900馬力のEVオープンスーパースポーツ「ポールスター6」のデビューはいったいいつになる？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 816064,
+            "title": "「大きいEVはもういらない」 BYDとボルボが狙う、全長4.3mという最適解（Merkmal） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdWs2WmdyRnktSkh6VGdld3RNNkxTVngwa19TM1pEdGtLQUdKd0pDUHR0Rm5UeXBaMHRSMHAxelNVNVhteUpuOHJOamZydkczUHpLanNOMG92STNfOUtLU2pBNmpnNjRaeUdfZ2J5SGVZNHRWdUlhTjBUOERoUDFDSFJ6RmE3OF9G?oc=5",
+            "published": "Fri, 01 May 2026 05:09:15 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdWs2WmdyRnktSkh6VGdld3RNNkxTVngwa19TM1pEdGtLQUdKd0pDUHR0Rm5UeXBaMHRSMHAxelNVNVhteUpuOHJOamZydkczUHpLanNOMG92STNfOUtLU2pBNmpnNjRaeUdfZ2J5SGVZNHRWdUlhTjBUOERoUDFDSFJ6RmE3OF9G?oc=5\" target=\"_blank\">「大きいEVはもういらない」 BYDとボルボが狙う、全長4.3mという最適解（Merkmal）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 843214,
+            "title": "EV大手のBYD、1〜3月純利益41億元超 - ｄメニューニュース",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR0EzbGgtVkVReWJ2ek40RFNHZFhUNW02bEJlUVVkVTdodnVxbHFUUnQxbE5TWUVRRnE5Zm9PTXJuRGxvZHk2cmNVZVFDeTVONjhvVDNMQl9LNWVfbjBHR1kwcGpfRXVuU2t3ODhHUUg1ZVQ5TG1HZFJTbUNqM2c5MWhmMXgyTXJKZG5CWXZaZUbSAZABQVVfeXFMUEdBM2xoLVZFUXlidnpONERTR2RYVDVtNmxCZVFVZFU3aHZ1cWxxVFJ0MWxOU1lFUUZxOWZvT01ybkRsb2R5NnJjVWVRQ3k1TjY4b1QzTEJfSzVlX24wR0dZMHBqX0V1blNrdzg4R1FINWVUOUxtR2RSU21DajNnOTFoZjF4Mk1ySmRuQll2WmVG?oc=5",
+            "published": "Fri, 01 May 2026 09:31:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQR0EzbGgtVkVReWJ2ek40RFNHZFhUNW02bEJlUVVkVTdodnVxbHFUUnQxbE5TWUVRRnE5Zm9PTXJuRGxvZHk2cmNVZVFDeTVONjhvVDNMQl9LNWVfbjBHR1kwcGpfRXVuU2t3ODhHUUg1ZVQ5TG1HZFJTbUNqM2c5MWhmMXgyTXJKZG5CWXZaZUbSAZABQVVfeXFMUEdBM2xoLVZFUXlidnpONERTR2RYVDVtNmxCZVFVZFU3aHZ1cWxxVFJ0MWxOU1lFUUZxOWZvT01ybkRsb2R5NnJjVWVRQ3k1TjY4b1QzTEJfSzVlX24wR0dZMHBqX0V1blNrdzg4R1FINWVUOUxtR2RSU21DajNnOTFoZjF4Mk1ySmRuQll2WmVG?oc=5\" target=\"_blank\">EV大手のBYD、1〜3月純利益41億元超</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
+            "site_name": "ｄメニューニュース"
+        },
+        {
+            "id": 658535,
+            "title": "日産自動車 アメリカで計画していた新型EVの生産を中止 (2026年5月1日掲載) - ライブドアニュース",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HUDlkbWpLOWtEemk3clNScE8zMEJGdjJDREtCdFo4ZlhVbnRka0pEdmtYSnFmUXBQUXROMEpaVUpQc2puVWVsYXZQRkZ2UFpLTWR2eTlyclF6YmhsRmc?oc=5",
+            "published": "Fri, 01 May 2026 10:54:01 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HUDlkbWpLOWtEemk3clNScE8zMEJGdjJDREtCdFo4ZlhVbnRka0pEdmtYSnFmUXBQUXROMEpaVUpQc2puVWVsYXZQRkZ2UFpLTWR2eTlyclF6YmhsRmc?oc=5\" target=\"_blank\">日産自動車 アメリカで計画していた新型EVの生産を中止 (2026年5月1日掲載)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ライブドアニュース</font>",
+            "site_name": "ライブドアニュース"
+        },
+        {
+            "id": 976258,
+            "title": "手付金支払い済みが500人！　約900馬力のEVオープンスーパースポーツ「ポールスター６」のデビューはいったいいつになる？ - WEB CARTOP",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzT0VlZ2JORVlZdlBmV2dob24yZEk5Z0VONU51aV9YM1g1OWZJbzl1WUc5WXNwTURYdm1RVC1vWnJreGNYYUgyLVhITEEwbm9XTXZrRGNB0gFbQVVfeXFMT1V5LUg1LXVIRjF1X2tFNV8wenJpQV8ya0k5WHpMT3k5MW92OGlLM00wQ1hfZlRJN0gwZ3ltOUFwV3RiXzhJc19xM1dweE42d25HRXhmZnJ4ODliRQ?oc=5",
+            "published": "Fri, 01 May 2026 09:00:46 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzT0VlZ2JORVlZdlBmV2dob24yZEk5Z0VONU51aV9YM1g1OWZJbzl1WUc5WXNwTURYdm1RVC1vWnJreGNYYUgyLVhITEEwbm9XTXZrRGNB0gFbQVVfeXFMT1V5LUg1LXVIRjF1X2tFNV8wenJpQV8ya0k5WHpMT3k5MW92OGlLM00wQ1hfZlRJN0gwZ3ltOUFwV3RiXzhJc19xM1dweE42d25HRXhmZnJ4ODliRQ?oc=5\" target=\"_blank\">手付金支払い済みが500人！　約900馬力のEVオープンスーパースポーツ「ポールスター６」のデビューはいったいいつになる？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEB CARTOP</font>",
+            "site_name": "WEB CARTOP"
+        },
+        {
+            "id": 982689,
+            "title": "日産自動車 アメリカ工場でのEV生産計画中止 税額控除廃止など市場環境の変化うけ - au Webポータル",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIMUR0VGJ4VnNSbV9ZRVlVaGlDQ3Y2QWtjd19RQVdpS2daTTJpTHZpMmh3NEpCV0JmQXVPc1plWXc5SzVRWHE1N0wzbW5rVVVaS3NNLW9CVUV4Ymg1NXJSMkFoblpucTN3eEVRUFYzS2wyRFNVUXJEVzdaVQ?oc=5",
+            "published": "Fri, 01 May 2026 10:55:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBIMUR0VGJ4VnNSbV9ZRVlVaGlDQ3Y2QWtjd19RQVdpS2daTTJpTHZpMmh3NEpCV0JmQXVPc1plWXc5SzVRWHE1N0wzbW5rVVVaS3NNLW9CVUV4Ymg1NXJSMkFoblpucTN3eEVRUFYzS2wyRFNVUXJEVzdaVQ?oc=5\" target=\"_blank\">日産自動車 アメリカ工場でのEV生産計画中止 税額控除廃止など市場環境の変化うけ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">au Webポータル</font>",
+            "site_name": "au Webポータル"
+        },
+        {
+            "id": 234768,
+            "title": "燃料費高騰で欧州のテスラ販売回復が継続、EV需要が拡大 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vS3lfdXhVbTRYeEpsREpoMVZ3aGxXNXJSemM0MWJheXJON01ZTHAtQ251RmdvdTVWbHdyMTFrQ1c5N19Wb0ZqQU5NazVYVVhXTlFEbkJOQzhjczBBRGN0TF85cXdsM1ZQNDc0MVZzanY?oc=5",
+            "published": "Fri, 01 May 2026 12:47:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9vS3lfdXhVbTRYeEpsREpoMVZ3aGxXNXJSemM0MWJheXJON01ZTHAtQ251RmdvdTVWbHdyMTFrQ1c5N19Wb0ZqQU5NazVYVVhXTlFEbkJOQzhjczBBRGN0TF85cXdsM1ZQNDc0MVZzanY?oc=5\" target=\"_blank\">燃料費高騰で欧州のテスラ販売回復が継続、EV需要が拡大 執筆</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</font>",
+            "site_name": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
+        },
+        {
+            "id": 821224,
+            "title": "Honda-CR-V-2023-HD-e40775df1c395da868580f040241804ddb08225ab - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRGU2TVAtdE9LMlQyVUNiSDVSck9FWnJEeW04S1ViZDl1WEdPVFVTY3VGbVRSdG5MTld6WkVNUWZ6U0ZDRzd5bnUxa2p2eURYLTZnbmFrWk1wSHhkRkozMEN2blZnR2gwMEpLOWpYUl9PSGJld3BqbmFqT0RUdWFIOFNWMU9nSnliZTJqZ2dyb2NCNlBtXzBNdV94SGdwdWs?oc=5",
+            "published": "Fri, 01 May 2026 05:36:52 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNRGU2TVAtdE9LMlQyVUNiSDVSck9FWnJEeW04S1ViZDl1WEdPVFVTY3VGbVRSdG5MTld6WkVNUWZ6U0ZDRzd5bnUxa2p2eURYLTZnbmFrWk1wSHhkRkozMEN2blZnR2gwMEpLOWpYUl9PSGJld3BqbmFqT0RUdWFIOFNWMU9nSnliZTJqZ2dyb2NCNlBtXzBNdV94SGdwdWs?oc=5\" target=\"_blank\">Honda-CR-V-2023-HD-e40775df1c395da868580f040241804ddb08225ab</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 37100,
+            "title": "三菱自、関電のEVエネルギーマネジメントシステムに車両データを連携 国内メーカー初のAPI公開も - netdenjd.com",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDclVmTVU0VllPLUVGa2JsM1FYVDhHZFFIVnhBa2E1Zzd6QTlfdHpIcXFpUEJjaHhVYzhLZ2lQaTRBZkRXTzNCbXgzTnFNalZqYUE?oc=5",
+            "published": "Fri, 01 May 2026 07:31:55 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDclVmTVU0VllPLUVGa2JsM1FYVDhHZFFIVnhBa2E1Zzd6QTlfdHpIcXFpUEJjaHhVYzhLZ2lQaTRBZkRXTzNCbXgzTnFNalZqYUE?oc=5\" target=\"_blank\">三菱自、関電のEVエネルギーマネジメントシステムに車両データを連携 国内メーカー初のAPI公開も</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">netdenjd.com</font>",
+            "site_name": "netdenjd.com"
+        },
+        {
+            "id": 426524,
+            "title": "大阪メトロと「争う方針」 ＥＶバス契約解除で納入元 | | 全国のニュース - 佐賀新聞",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tVGlIa0lmdkJCZ3JSbzdlX1J5T2tudjgtUGdPSW80U3lKTXozZkFTWmZZYnZVQUh1TjVtZzhpZ2VkZ3lKNkVzelRaWHVTTXd2dl84YkhR?oc=5",
+            "published": "Fri, 01 May 2026 06:42:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tVGlIa0lmdkJCZ3JSbzdlX1J5T2tudjgtUGdPSW80U3lKTXozZkFTWmZZYnZVQUh1TjVtZzhpZ2VkZ3lKNkVzelRaWHVTTXd2dl84YkhR?oc=5\" target=\"_blank\">大阪メトロと「争う方針」 ＥＶバス契約解除で納入元 | | 全国のニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">佐賀新聞</font>",
+            "site_name": "佐賀新聞"
+        },
+        {
+            "id": 485417,
+            "title": "Honda-CR-V-2023-HD-e40775df1c395da868580f040241804ddb08225ab 2 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcDFaQndrb3V2VlMwQngtdEFpV1lXNUdhZGRTTzlqMHpCYzl4LVNXMzM3cm01aVVOdUlXT1g5NDJ1aTVDQlhZcWdfVUZGaGZNaDNuOWNBaGxjc3U4d3RrSkhTV0tXdjdMd3FNSkxPQk9ReEtJR2N4SG1FVllhXzJLOUdyZjlGMVVrTzZVdnZhbS1acHZjQjlWVEJlY2NzTVpBX2c?oc=5",
+            "published": "Fri, 01 May 2026 05:34:03 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOcDFaQndrb3V2VlMwQngtdEFpV1lXNUdhZGRTTzlqMHpCYzl4LVNXMzM3cm01aVVOdUlXT1g5NDJ1aTVDQlhZcWdfVUZGaGZNaDNuOWNBaGxjc3U4d3RrSkhTV0tXdjdMd3FNSkxPQk9ReEtJR2N4SG1FVllhXzJLOUdyZjlGMVVrTzZVdnZhbS1acHZjQjlWVEJlY2NzTVpBX2c?oc=5\" target=\"_blank\">Honda-CR-V-2023-HD-e40775df1c395da868580f040241804ddb08225ab 2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 393029,
+            "title": "EV大手のBYD、1～3月純利益41億元超 (2026年5月1日掲載) - ライブドアニュース",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91cFlkalpoRi1sV3JDUi1mWkNCQjlQczhuWXdoSE1BN2Q0UGVIM0RVb3dIVTkwYTFEbjRDTGdsb19OV3FaRU9oWnlvaURpUG4wMXlISkFLWVg2cmZPeXc?oc=5",
+            "published": "Fri, 01 May 2026 09:31:17 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE91cFlkalpoRi1sV3JDUi1mWkNCQjlQczhuWXdoSE1BN2Q0UGVIM0RVb3dIVTkwYTFEbjRDTGdsb19OV3FaRU9oWnlvaURpUG4wMXlISkFLWVg2cmZPeXc?oc=5\" target=\"_blank\">EV大手のBYD、1～3月純利益41億元超 (2026年5月1日掲載)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ライブドアニュース</font>",
+            "site_name": "ライブドアニュース"
+        },
+        {
+            "id": 947894,
+            "title": "中国の掃除機メーカーが、ロケット推進式EVを発表、0-60mphをわずか0.9秒で達成可能と主張 - Moomoo",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd3hpRlVMYUlORkwtSi1uWXloMEtoVTV5eHMwaFNTNkNINnRIeTd6N0MxMHlhbGJ5UDFVb2dwZlJtaE9FdnNkdkdzc2Y4am1hRmRMeWk2ejBXekFwWVV6V0RMYzk2a2loZHVpcVF4NGFFYzRoN2RnMW1VbHpBYTZ0ZkM5b1l1NkFmV0xCbzhOeFRVLS1uSTNhTUZzLU9yTmthVUtJYWtQRVdnUFNvZXlGbDNob0RhcDBaVXZtMg?oc=5",
+            "published": "Fri, 01 May 2026 08:49:27 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNd3hpRlVMYUlORkwtSi1uWXloMEtoVTV5eHMwaFNTNkNINnRIeTd6N0MxMHlhbGJ5UDFVb2dwZlJtaE9FdnNkdkdzc2Y4am1hRmRMeWk2ejBXekFwWVV6V0RMYzk2a2loZHVpcVF4NGFFYzRoN2RnMW1VbHpBYTZ0ZkM5b1l1NkFmV0xCbzhOeFRVLS1uSTNhTUZzLU9yTmthVUtJYWtQRVdnUFNvZXlGbDNob0RhcDBaVXZtMg?oc=5\" target=\"_blank\">中国の掃除機メーカーが、ロケット推進式EVを発表、0-60mphをわずか0.9秒で達成可能と主張</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+            "site_name": "Moomoo"
+        },
+        {
+            "id": 124869,
+            "title": "日産自動車　アメリカ工場でのEV生産計画中止　税額控除廃止など市場環境の変化うけ | チバテレ＋プラス - 千葉テレビ放送",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ORll2TDhfT2F2VkRYN0VHc0V1dTd6MHc3UFFQb2ZVTUxmVWgwNFJ4aUNMR0FEV3VaVHRoYWhUamZERGNMSlZLVE1XT3plT1d1M05vM0YxOTJmem9tQndN0gFkQVVfeXFMTU1UTzlMOVd5WUNEbVNYOTF3UXBsYlZFU29WX2Njc2tzeng4eEJQcFdrZDAxQ0Zoa2tXVHhNS21nR0ZZX2pScENpYWFkS0phRVp5RmZWa1hUVFdadWF2c3p4Qzc1SA?oc=5",
+            "published": "Fri, 01 May 2026 10:55:12 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ORll2TDhfT2F2VkRYN0VHc0V1dTd6MHc3UFFQb2ZVTUxmVWgwNFJ4aUNMR0FEV3VaVHRoYWhUamZERGNMSlZLVE1XT3plT1d1M05vM0YxOTJmem9tQndN0gFkQVVfeXFMTU1UTzlMOVd5WUNEbVNYOTF3UXBsYlZFU29WX2Njc2tzeng4eEJQcFdrZDAxQ0Zoa2tXVHhNS21nR0ZZX2pScENpYWFkS0phRVp5RmZWa1hUVFdadWF2c3p4Qzc1SA?oc=5\" target=\"_blank\">日産自動車　アメリカ工場でのEV生産計画中止　税額控除廃止など市場環境の変化うけ | チバテレ＋プラス</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">千葉テレビ放送</font>",
+            "site_name": "千葉テレビ放送"
+        },
+        {
+            "id": 230266,
+            "title": "スープラとの協業終了か。BMW「Z4」後継機は、伝統の直6とEVが共存する独自路線へ（LEVOLANT） | 自動車情報・ニュース - carview!",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUDk0emYzNUNZcjg4aFhWbmVtbnF3dXExRDFtRUhuRFozSW11SnJvSHYwLUVOOEwwQnl5czNNNGZOSlVad21UTThvUWRHM2Flc29aYVFJcHZtTC1teHc0ZnJhNnFlXzJ4SlBEWHFzWFhlVXhIX042eE54UGZlNzJRTDIyUk4wS25K?oc=5",
+            "published": "Fri, 01 May 2026 09:00:24 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUDk0emYzNUNZcjg4aFhWbmVtbnF3dXExRDFtRUhuRFozSW11SnJvSHYwLUVOOEwwQnl5czNNNGZOSlVad21UTThvUWRHM2Flc29aYVFJcHZtTC1teHc0ZnJhNnFlXzJ4SlBEWHFzWFhlVXhIX042eE54UGZlNzJRTDIyUk4wS25K?oc=5\" target=\"_blank\">スープラとの協業終了か。BMW「Z4」後継機は、伝統の直6とEVが共存する独自路線へ（LEVOLANT） | 自動車情報・ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carview!</font>",
+            "site_name": "carview!"
+        },
+        {
+            "id": 200028,
+            "title": "日産、米国工場でのEV生産計画中止 トランプ政権下で市場に逆風 (朝日新聞) - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOWJUeGM3bXpYbWE2Yjd6eTZlMmhxNzI3MEZIYjUzUGJ1Tk1YcEhSa2ROQWNIakhHU25RX0Fqbm9oM2xWY0hRRVhUYkxDTXZMUXlmWDAzaV9teVJjUnVvX1RTQV9UUUhOYTVLemM5N3UwNU9EcVA4cTJqQktFMjNwX2Y3NEdOT1EtMGFvbGJn?oc=5",
+            "published": "Fri, 01 May 2026 06:25:16 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNOWJUeGM3bXpYbWE2Yjd6eTZlMmhxNzI3MEZIYjUzUGJ1Tk1YcEhSa2ROQWNIakhHU25RX0Fqbm9oM2xWY0hRRVhUYkxDTXZMUXlmWDAzaV9teVJjUnVvX1RTQV9UUUhOYTVLemM5N3UwNU9EcVA4cTJqQktFMjNwX2Y3NEdOT1EtMGFvbGJn?oc=5\" target=\"_blank\">日産、米国工場でのEV生産計画中止 トランプ政権下で市場に逆風 (朝日新聞)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 507399,
+            "title": "画像・写真 | フィアット600eが京都市の公用車に 日伊国交160周年を記念した特別仕様を寄納 - AUTOCAR JAPAN",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MUkdMSmU5V2V2bXJFWk1aek8xSW5Sd3JMRDRnOU5vVkpCQWl5ci1oZ0ZMc2R0TmJQVmx5VTBXcHhfVE50c1VVTEtVOVY?oc=5",
+            "published": "Fri, 01 May 2026 08:05:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MUkdMSmU5V2V2bXJFWk1aek8xSW5Sd3JMRDRnOU5vVkpCQWl5ci1oZ0ZMc2R0TmJQVmx5VTBXcHhfVE50c1VVTEtVOVY?oc=5\" target=\"_blank\">画像・写真 | フィアット600eが京都市の公用車に 日伊国交160周年を記念した特別仕様を寄納</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AUTOCAR JAPAN</font>",
+            "site_name": "AUTOCAR JAPAN"
+        },
+        {
+            "id": 110068,
+            "title": "EV逆風の中、Rivianの実行力を評価してみずほが目標株価を引き上げ 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aaEJuMkd5UGZsX2ticG1ZcHAtUldSS1p0SXNTTmxpZTVwWUlGTDBSbzV2MHhBVC01VDBKb3RQWUJaRnZfZnA2cDN3YXhKbU01OTIza2J1SnFLcXJIUjFBdk8tazNhY2ZwUGlCaWpTQzBISWg4?oc=5",
+            "published": "Fri, 01 May 2026 09:22:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5aaEJuMkd5UGZsX2ticG1ZcHAtUldSS1p0SXNTTmxpZTVwWUlGTDBSbzV2MHhBVC01VDBKb3RQWUJaRnZfZnA2cDN3YXhKbU01OTIza2J1SnFLcXJIUjFBdk8tazNhY2ZwUGlCaWpTQzBISWg4?oc=5\" target=\"_blank\">EV逆風の中、Rivianの実行力を評価してみずほが目標株価を引き上げ 執筆</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</font>",
+            "site_name": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
+        },
+        {
+            "id": 153419,
+            "title": "「EV」に生まれ変わったメルセデス・ベンツCクラスを先代の「エンジン車」と比較してみた【写真・9枚目】 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMTJfZXZQdDRDQ2dlbHVHMWcydm05bFZ2YXJ2Z3Q2aGgwT0RxSEI0cG1DNVBid19ObHE2MXJ0QXJQQ3RVWW41U3g5dUl5UE9PRU54VHVoWWMxYUEzMWEyejVQdlh5WTdVNjl2dTV0eEVSbEJNWVA4cmhTV25fUGRTMUxUQWY2Z1hNRUhxVGdtSm5CNXp4U1k0eHFtMVVnOVVRY0YxdGRXOVFUQXBDOTlSOTdISzIxNmVJSHNPcGhMU1dHNW1acVVJWnlma2djZDA5UGZ6V3U2Um1uakJrUDRya2w0SkxGZXJhX2g0?oc=5",
+            "published": "Fri, 01 May 2026 01:01:39 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMTJfZXZQdDRDQ2dlbHVHMWcydm05bFZ2YXJ2Z3Q2aGgwT0RxSEI0cG1DNVBid19ObHE2MXJ0QXJQQ3RVWW41U3g5dUl5UE9PRU54VHVoWWMxYUEzMWEyejVQdlh5WTdVNjl2dTV0eEVSbEJNWVA4cmhTV25fUGRTMUxUQWY2Z1hNRUhxVGdtSm5CNXp4U1k0eHFtMVVnOVVRY0YxdGRXOVFUQXBDOTlSOTdISzIxNmVJSHNPcGhMU1dHNW1acVVJWnlma2djZDA5UGZ6V3U2Um1uakJrUDRya2w0SkxGZXJhX2g0?oc=5\" target=\"_blank\">「EV」に生まれ変わったメルセデス・ベンツCクラスを先代の「エンジン車」と比較してみた【写真・9枚目】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 590079,
+            "title": "「EV」に生まれ変わったメルセデス・ベンツCクラスを先代の「エンジン車」と比較してみた写真12枚目 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQd0FvN0ItcG0xSXh5NmVBRGJqTktGYzZfNEpDeThLRjRUaEpIUGhMOHJKZXo5Q09mbllITlpKTDJESG5wUGtCYnF1VFF0blJrZG5HSGNQRjZPekdfR2Z6Y3JkcDdaRDhSTUNCaldZYmcxOTU4Q194N1d2bDRhczB2V3hqOFZ2REdKZzJDZXFqZHUzdUNaNUJOTnZpelMyaE9oZDR6bjlYdnZucEd4MEZrQWI5WWFTaDBsZUhhdXNzeVhkVFFELVZOa2QzR0E2ZWtOcjBZaDZXNUsxSzljeHlhbVNmbDR6cWg4Uzdj?oc=5",
+            "published": "Fri, 01 May 2026 00:59:23 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQd0FvN0ItcG0xSXh5NmVBRGJqTktGYzZfNEpDeThLRjRUaEpIUGhMOHJKZXo5Q09mbllITlpKTDJESG5wUGtCYnF1VFF0blJrZG5HSGNQRjZPekdfR2Z6Y3JkcDdaRDhSTUNCaldZYmcxOTU4Q194N1d2bDRhczB2V3hqOFZ2REdKZzJDZXFqZHUzdUNaNUJOTnZpelMyaE9oZDR6bjlYdnZucEd4MEZrQWI5WWFTaDBsZUhhdXNzeVhkVFFELVZOa2QzR0E2ZWtOcjBZaDZXNUsxSzljeHlhbVNmbDR6cWg4Uzdj?oc=5\" target=\"_blank\">「EV」に生まれ変わったメルセデス・ベンツCクラスを先代の「エンジン車」と比較してみた写真12枚目</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 459766,
+            "title": "大阪メトロと「争う方針」 EVバス契約解除で納入元 - au Webポータル",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiWUE5VWxWODM3dTllQk1uOVVnT3FkMVFDMTBSWFN2NWM2TWRySEdJYUpCdElNOElHQ294bFlER2J3ZHQ3TnZMTWpTZzJUcFVpTm15WFFkSDkxLXJZZW9qbmVDUkp3bDBwdFdNYnhHUVBQZ2RWczZkMEE2dw?oc=5",
+            "published": "Fri, 01 May 2026 06:42:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBiWUE5VWxWODM3dTllQk1uOVVnT3FkMVFDMTBSWFN2NWM2TWRySEdJYUpCdElNOElHQ294bFlER2J3ZHQ3TnZMTWpTZzJUcFVpTm15WFFkSDkxLXJZZW9qbmVDUkp3bDBwdFdNYnhHUVBQZ2RWczZkMEE2dw?oc=5\" target=\"_blank\">大阪メトロと「争う方針」 EVバス契約解除で納入元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">au Webポータル</font>",
+            "site_name": "au Webポータル"
+        },
+        {
+            "id": 749657,
+            "title": "EV開発・発売中止の余波で北米市場は新車不足に? 最も期待されるホンダ車がCR-V次期型になった理由 【海外情報】 - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZHdkZFVIQ1RrZjIwNlA5cHNLQUFsLUwzVWIzZVpFeWFBTE5idXFtMUFXY2NYemNOd0N6R3pnbnBMOWtWZ3RCNVRlVHdNYV92YXdnLUNtSmdXZDZUbWQ2TUZ4ZnByaDl6Smp0S2ZuVnVQNjRwTDFoZzZ5WFlOUmhkMUs1ZTktUXpwNURaUGJ3?oc=5",
+            "published": "Fri, 01 May 2026 03:36:11 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQZHdkZFVIQ1RrZjIwNlA5cHNLQUFsLUwzVWIzZVpFeWFBTE5idXFtMUFXY2NYemNOd0N6R3pnbnBMOWtWZ3RCNVRlVHdNYV92YXdnLUNtSmdXZDZUbWQ2TUZ4ZnByaDl6Smp0S2ZuVnVQNjRwTDFoZzZ5WFlOUmhkMUs1ZTktUXpwNURaUGJ3?oc=5\" target=\"_blank\">EV開発・発売中止の余波で北米市場は新車不足に? 最も期待されるホンダ車がCR-V次期型になった理由 【海外情報】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 930514,
+            "title": "スズキ初のピュアEV SUV「e Vitara」、オーストラリアで予約受付開始。気になる価格と航続距離は？ - тарантас ньюс",
+            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWlNHOE1namt1eGZDeEdpNTdGQU9JWWNfQVlSOGdwaDIwOFVTNzFQWUgtRzhGNmZaVHlLLS1OdVBWdlFKT0NsN0hUU2hPajBpOEMyNEpOdW5XOER0Rm9ZTUEyTHcyTnYxTEo1ZWFuelZGWndmVmpHRlVTY0EzdXJyWDdsRTlzWEd4ekJWTUY5T0lrUXVfX092dnFmY0Jqd0VVay0zSGhybENzTFItUG9jR1JqYVNHekNXT1k3bnNRcUhzdkNwNTBBeklMSk5oZTZfRTRMZkNwNzczSzFIRVhFMWlR0gHiAUFVX3lxTE9aU0c4TWdqa3V4ZkN4R2k1N0ZBT0lZY19BWVI4Z3BoMjA4VVM3MVBZSC1HOEY2ZlpUeUstLU51UFZ2UUpPQ2w3SFRTaE9qMGk4QzI0Sk51blc4RHRGb1lNQTJMdzJOdjFMSjVlYW56VkZad2ZWakdGVVNjQTN1cnJYN2xFOXNYR3h6QlZNRjlPSWtRdV9fT3Z2cWZjQmp3RVVrLTNIaHJsQ3NMUi1Qb2NHUmphU0d6Q1dPWTduc1FxSHN2Q3A1MEF6SUxKTmhlNl9FNExmQ3A3NzNLMUhFWEUxaVE?oc=5",
+            "published": "Fri, 01 May 2026 17:39:10 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWlNHOE1namt1eGZDeEdpNTdGQU9JWWNfQVlSOGdwaDIwOFVTNzFQWUgtRzhGNmZaVHlLLS1OdVBWdlFKT0NsN0hUU2hPajBpOEMyNEpOdW5XOER0Rm9ZTUEyTHcyTnYxTEo1ZWFuelZGWndmVmpHRlVTY0EzdXJyWDdsRTlzWEd4ekJWTUY5T0lrUXVfX092dnFmY0Jqd0VVay0zSGhybENzTFItUG9jR1JqYVNHekNXT1k3bnNRcUhzdkNwNTBBeklMSk5oZTZfRTRMZkNwNzczSzFIRVhFMWlR0gHiAUFVX3lxTE9aU0c4TWdqa3V4ZkN4R2k1N0ZBT0lZY19BWVI4Z3BoMjA4VVM3MVBZSC1HOEY2ZlpUeUstLU51UFZ2UUpPQ2w3SFRTaE9qMGk4QzI0Sk51blc4RHRGb1lNQTJMdzJOdjFMSjVlYW56VkZad2ZWakdGVVNjQTN1cnJYN2xFOXNYR3h6QlZNRjlPSWtRdV9fT3Z2cWZjQmp3RVVrLTNIaHJsQ3NMUi1Qb2NHUmphU0d6Q1dPWTduc1FxSHN2Q3A1MEF6SUxKTmhlNl9FNExmQ3A3NzNLMUhFWEUxaVE?oc=5\" target=\"_blank\">スズキ初のピュアEV SUV「e Vitara」、オーストラリアで予約受付開始。気になる価格と航続距離は？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">тарантас ньюс</font>",
+            "site_name": "тарантас ньюс"
+        },
+        {
+            "id": 773528,
+            "title": "「EV」に生まれ変わったメルセデス・ベンツCクラスを先代の「エンジン車」と比較してみた【写真・8枚目】 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNFIyeG5qRVV5cWZRLWxxVjVWUEc0SE90RVpTM2RkOUlwLXZLcDUwZl9Fb2c0LWtLaVhfLVlGbmNHc2R6NmVIR254V3dtYm9Hb2VXakRZUEJGd004REZCSFQzLU9qWmgwTlR4X2lYUlFjVklrUGQ2MkpyMVlfZlI1cmVrcVllOHRoanYzc0dITUl4Y0wzRlVGb3pzaWR2SkdOSEpseU5VcWNlelpIbHI1djhxdm1IWlRESlNMaU9ZVTZRdWZyU1FvbElkUWZzTWo3RURJc1BiUl9nTDREaWVNWXh5QXFaXzJYWW1B?oc=5",
+            "published": "Fri, 01 May 2026 00:33:44 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNFIyeG5qRVV5cWZRLWxxVjVWUEc0SE90RVpTM2RkOUlwLXZLcDUwZl9Fb2c0LWtLaVhfLVlGbmNHc2R6NmVIR254V3dtYm9Hb2VXakRZUEJGd004REZCSFQzLU9qWmgwTlR4X2lYUlFjVklrUGQ2MkpyMVlfZlI1cmVrcVllOHRoanYzc0dITUl4Y0wzRlVGb3pzaWR2SkdOSEpseU5VcWNlelpIbHI1djhxdm1IWlRESlNMaU9ZVTZRdWZyU1FvbElkUWZzTWo3RURJc1BiUl9nTDREaWVNWXh5QXFaXzJYWW1B?oc=5\" target=\"_blank\">「EV」に生まれ変わったメルセデス・ベンツCクラスを先代の「エンジン車」と比較してみた【写真・8枚目】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 680583,
+            "title": "EV開発・発売中止の余波で北米市場は新車不足に? 最も期待されるホンダ車がCR-V次期型になった理由 【海外情報】 - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM0xWMlc1cjZPQ0ZzNHpwSV9Pa0toMWJtMnRldXgteVFpdUxsWFh2SEpCLU5CS2VoTDlfVGNreFA4RFdaWFFwS0NyRi13cHZmaVprVHBGUENkanZsX0NtWkNVaU1RSzN6R3gtay1kT19Rb2c0SkxNNmZxZ1NMc0Z3QlRCR0xTd2hRa05fWHF3?oc=5",
+            "published": "Fri, 01 May 2026 03:36:11 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPM0xWMlc1cjZPQ0ZzNHpwSV9Pa0toMWJtMnRldXgteVFpdUxsWFh2SEpCLU5CS2VoTDlfVGNreFA4RFdaWFFwS0NyRi13cHZmaVprVHBGUENkanZsX0NtWkNVaU1RSzN6R3gtay1kT19Rb2c0SkxNNmZxZ1NMc0Z3QlRCR0xTd2hRa05fWHF3?oc=5\" target=\"_blank\">EV開発・発売中止の余波で北米市場は新車不足に? 最も期待されるホンダ車がCR-V次期型になった理由 【海外情報】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 478104,
+            "title": "「EV」に生まれ変わったメルセデス・ベンツCクラスを先代の「エンジン車」と比較してみた【写真・3枚目】 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQi1wbklxRDRYcllRR2JrTk1IU3RvUGowbjVoejAwT0pYX1RsVjluX29YTmswREUwQXkxbEZYakE2TmlySFp3SUU0M0t4RzlrS1FYN1U1bTZSNU9DZmN3bjd4bHhFQ2NyQ3h2eW1IbUhwUmg1WXpvSlhzWGR3cXgyTEh1ejdMalNRQ1VNZGJNaG9HWWFGOWw1V0luWjRFWURZV1lmcU5YelVDTHZUVWZUTG41S0dndlZhczdZQjJDVFlEV1NIeXh4SUc0cHVVSFd2Z3gtS2tkSlU0QnJyTlkzag?oc=5",
+            "published": "Fri, 01 May 2026 00:34:27 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQi1wbklxRDRYcllRR2JrTk1IU3RvUGowbjVoejAwT0pYX1RsVjluX29YTmswREUwQXkxbEZYakE2TmlySFp3SUU0M0t4RzlrS1FYN1U1bTZSNU9DZmN3bjd4bHhFQ2NyQ3h2eW1IbUhwUmg1WXpvSlhzWGR3cXgyTEh1ejdMalNRQ1VNZGJNaG9HWWFGOWw1V0luWjRFWURZV1lmcU5YelVDTHZUVWZUTG41S0dndlZhczdZQjJDVFlEV1NIeXh4SUc0cHVVSFd2Z3gtS2tkSlU0QnJyTlkzag?oc=5\" target=\"_blank\">「EV」に生まれ変わったメルセデス・ベンツCクラスを先代の「エンジン車」と比較してみた【写真・3枚目】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 575875,
+            "title": "「EV」に生まれ変わったメルセデス・ベンツCクラスを先代の「エンジン車」と比較してみた写真13枚目 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUllBZWEya09kMmRVOE9zSkRmY0NHZUJVYV94VkNCRG9UeW1JVkZRMWtSbW8zQWt6NDNqOWQ1UWxMaEhGZ0RjUjVCQzZZbXhPaGkyWVZ4T1JBX0NJakRQOTNxVEhtTGFvV1RsR1BlNjBIazdxQWhKdi1UNkx0ZmtuYWt0elphcDJWQlFTZHNoZm1YQkxCYzFTZnNBazctT1lKaG9OeXBSNEk3YW8xQW5EcE9MTkxQc1NaRU54OVUwMHllelFiQnpCdHVacUVYRlpvMHVUTXJCOWM1RE5sRkdOSUFudUdsdl9HUzJn?oc=5",
+            "published": "Fri, 01 May 2026 00:22:29 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUllBZWEya09kMmRVOE9zSkRmY0NHZUJVYV94VkNCRG9UeW1JVkZRMWtSbW8zQWt6NDNqOWQ1UWxMaEhGZ0RjUjVCQzZZbXhPaGkyWVZ4T1JBX0NJakRQOTNxVEhtTGFvV1RsR1BlNjBIazdxQWhKdi1UNkx0ZmtuYWt0elphcDJWQlFTZHNoZm1YQkxCYzFTZnNBazctT1lKaG9OeXBSNEk3YW8xQW5EcE9MTkxQc1NaRU54OVUwMHllelFiQnpCdHVacUVYRlpvMHVUTXJCOWM1RE5sRkdOSUFudUdsdl9HUzJn?oc=5\" target=\"_blank\">「EV」に生まれ変わったメルセデス・ベンツCクラスを先代の「エンジン車」と比較してみた写真13枚目</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 156376,
+            "title": "「EV」に生まれ変わったメルセデス・ベンツCクラスを先代の「エンジン車」と比較してみた【写真・6枚目】 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPY3hpMXBKcDliSS1jTlViMlEySmRkQTNQT2tZcFExR19ZU2VuVkFVQWppU28zVlFDWG5pZUt5RTAyeXMtNzJlTXJNeVVxTFI0TUNIU0RZa3pfeWtaN2lpUlZGNTY5SFIyVEVJc05PbjJ5SnZQY2RtalpLc0pNQk5yWGtxRGFGNmFLNEtnLWFkaFlhNjhSZkwwMVJSMjdrUkRxSVRvSnNaQ29GQml6NXhUT1FuU2dmbkpJdnE0WU01THFMU3dsazNLLWtjdmQxX3QtYWE4LW9NZk50QThWOFRhVQ?oc=5",
+            "published": "Fri, 01 May 2026 00:28:50 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPY3hpMXBKcDliSS1jTlViMlEySmRkQTNQT2tZcFExR19ZU2VuVkFVQWppU28zVlFDWG5pZUt5RTAyeXMtNzJlTXJNeVVxTFI0TUNIU0RZa3pfeWtaN2lpUlZGNTY5SFIyVEVJc05PbjJ5SnZQY2RtalpLc0pNQk5yWGtxRGFGNmFLNEtnLWFkaFlhNjhSZkwwMVJSMjdrUkRxSVRvSnNaQ29GQml6NXhUT1FuU2dmbkpJdnE0WU01THFMU3dsazNLLWtjdmQxX3QtYWE4LW9NZk50QThWOFRhVQ?oc=5\" target=\"_blank\">「EV」に生まれ変わったメルセデス・ベンツCクラスを先代の「エンジン車」と比較してみた【写真・6枚目】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 873086,
+            "title": "「EV」に生まれ変わったメルセデス・ベンツCクラスを先代の「エンジン車」と比較してみた【写真・4枚目】 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVWMwaXgzS1FXeXJvTVR6TkRMdElZRy14Z05FZUxuQlhsSkgwZ05pMXg4d3hMTlRxLWJYUHRDMFplZ2FOSFB0OWVrbG9rZ2E3Y3ZlMDUxY283YndlMDNpNkRoRi11NHNYZ0labHVVUE1Eelk1bzBlc2ktdWVyUzFFcmpWWUhSRzkwbmdjZFNZUmM4aVZqSkQtbmw1QXBlRmNOOF8zZHdiU2h3TFJ5Uk45T1pNa25adlFPTnptQXM2cExiYUl3aWZiN2MydXJRb1BQdDNQOFpuZ3hrN05LUlJNMA?oc=5",
+            "published": "Fri, 01 May 2026 00:28:52 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVWMwaXgzS1FXeXJvTVR6TkRMdElZRy14Z05FZUxuQlhsSkgwZ05pMXg4d3hMTlRxLWJYUHRDMFplZ2FOSFB0OWVrbG9rZ2E3Y3ZlMDUxY283YndlMDNpNkRoRi11NHNYZ0labHVVUE1Eelk1bzBlc2ktdWVyUzFFcmpWWUhSRzkwbmdjZFNZUmM4aVZqSkQtbmw1QXBlRmNOOF8zZHdiU2h3TFJ5Uk45T1pNa25adlFPTnptQXM2cExiYUl3aWZiN2MydXJRb1BQdDNQOFpuZ3hrN05LUlJNMA?oc=5\" target=\"_blank\">「EV」に生まれ変わったメルセデス・ベンツCクラスを先代の「エンジン車」と比較してみた【写真・4枚目】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 694298,
+            "title": "ホンダ「“新型”スーパーワン」まもなく発売で問合せも多い？ 「指名買い」多発で即・受注停止の可能性も？ 「ブルドッグ復活」果たした「5ドアスポーツカー」が販売店でも話題に - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45dzRHQW1pZjUyWFVkQ2RNWXdORFFURjZ0NjlCQjFTaDlHZ2gzcmlWUmM3dU9CeXNnRWlyNG5TYWQyVG1oU0RtcmVxd3NQN2t1TG1INVlTNUhPSEZNdlRneDFjSXc5X2lpYW9OYTE2QXlOVTdMZE9ITDhUWkFJekk?oc=5",
+            "published": "Fri, 01 May 2026 04:40:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE45dzRHQW1pZjUyWFVkQ2RNWXdORFFURjZ0NjlCQjFTaDlHZ2gzcmlWUmM3dU9CeXNnRWlyNG5TYWQyVG1oU0RtcmVxd3NQN2t1TG1INVlTNUhPSEZNdlRneDFjSXc5X2lpYW9OYTE2QXlOVTdMZE9ITDhUWkFJekk?oc=5\" target=\"_blank\">ホンダ「“新型”スーパーワン」まもなく発売で問合せも多い？ 「指名買い」多発で即・受注停止の可能性も？ 「ブルドッグ復活」果たした「5ドアスポーツカー」が販売店でも話題に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 674502,
+            "title": "米国のＥＶ生産計画停止 - 福島経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EdUZDX21vNm1xclRicndsWWRDb3cxT1J2OTk5eG9xSGNOalMzbUhqblJPSkh2VENZTW9qY0JtZHVDSGRjLXB5NWN3TUpqeFNiZTh5Wmcwcw?oc=5",
+            "published": "Fri, 01 May 2026 02:49:12 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EdUZDX21vNm1xclRicndsWWRDb3cxT1J2OTk5eG9xSGNOalMzbUhqblJPSkh2VENZTW9qY0JtZHVDSGRjLXB5NWN3TUpqeFNiZTh5Wmcwcw?oc=5\" target=\"_blank\">米国のＥＶ生産計画停止</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">福島経済新聞</font>",
+            "site_name": "福島経済新聞"
         }
     ]
 }
