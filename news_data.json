@@ -1,6 +1,6 @@
 {
-    "updated_at": "2026-05-13 11:27:35",
-    "total_count": 100,
+    "updated_at": "2026-05-13 22:13:02",
+    "total_count": 162,
     "articles": [
         {
             "id": 964199,
@@ -801,6 +801,502 @@
             "published": "Tue, 12 May 2026 21:30:00 GMT",
             "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1ydktKVFplSWRwLWFRenlVRDVwQ0FnbXhmU3FYZGZXTWp2UTBtMU9PVFZxaFRoQTZYd21FcW52Q3hMQng2VkwzQ3ZEeFhmZjhmczljUHg0eHVIYWJBZndtbmYxdUVPRkJBMHR4UkZSWQ?oc=5\" target=\"_blank\">ルノーのスポーツEV「5 Turbo 3E」、エクセディのインホイールモーター搭載…555馬力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kakaku.com</font>",
             "site_name": "kakaku.com"
+        },
+        {
+            "id": 629277,
+            "title": "EV超高速充電の熾烈な競争 BYDは9分、CATLは1カ月半後に6分半 - 日経クロステック",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94Uk1MZzJWc3dZWkxyTFF3b2NqYTlwazBySEhVNVB2YTlhNUdnN3c3WlZmdmxsUkFVSWtyUHJfOHh1OW02VWVHR1FVb1l3ZjJCVHZDVVlrVXpVdlVyUmlnaTlJSllkNU5VVFhWcg?oc=5",
+            "published": "Wed, 13 May 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE94Uk1MZzJWc3dZWkxyTFF3b2NqYTlwazBySEhVNVB2YTlhNUdnN3c3WlZmdmxsUkFVSWtyUHJfOHh1OW02VWVHR1FVb1l3ZjJCVHZDVVlrVXpVdlVyUmlnaTlJSllkNU5VVFhWcg?oc=5\" target=\"_blank\">EV超高速充電の熾烈な競争 BYDは9分、CATLは1カ月半後に6分半</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経クロステック</font>",
+            "site_name": "日経クロステック"
+        },
+        {
+            "id": 461510,
+            "title": "EV充電中はレンタル車 山形・上竹田区が１６、１７日に試乗会 - 市民タイムス",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xX2drb2hXTTRaem1lOW9EMlE3eVJNQ1d0c1R0bWk3NWY0MnJsSUNOc0VIZ1dEWXh0VW4wWjFsdmZGdHdiU2pLdDBEaVJNVmV4STVpTldhbWlMTjB4bUpFR1ZVVkY?oc=5",
+            "published": "Wed, 13 May 2026 19:53:10 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xX2drb2hXTTRaem1lOW9EMlE3eVJNQ1d0c1R0bWk3NWY0MnJsSUNOc0VIZ1dEWXh0VW4wWjFsdmZGdHdiU2pLdDBEaVJNVmV4STVpTldhbWlMTjB4bUpFR1ZVVkY?oc=5\" target=\"_blank\">EV充電中はレンタル車 山形・上竹田区が１６、１７日に試乗会</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">市民タイムス</font>",
+            "site_name": "市民タイムス"
+        },
+        {
+            "id": 872249,
+            "title": "塩漬け万博EVバス190台、損失計上へ 「負のレガシー」の今後は [大阪府] - 朝日新聞",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EWkE1OFhqZGdFaDBGdTlabmR2RHUtYU5GZTRVdXR0bTdmMEFpYUNMMmE2UWRrbkZQZWg3X0dpcVhrQWRvRDZRaW1MTnVrU2tGUGVqemZSVUZfUXZuZjd6cWFLLWlGVWs?oc=5",
+            "published": "Wed, 13 May 2026 22:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EWkE1OFhqZGdFaDBGdTlabmR2RHUtYU5GZTRVdXR0bTdmMEFpYUNMMmE2UWRrbkZQZWg3X0dpcVhrQWRvRDZRaW1MTnVrU2tGUGVqemZSVUZfUXZuZjd6cWFLLWlGVWs?oc=5\" target=\"_blank\">塩漬け万博EVバス190台、損失計上へ 「負のレガシー」の今後は [大阪府]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
+            "site_name": "朝日新聞"
+        },
+        {
+            "id": 822786,
+            "title": "トヨタと明暗くっきり…中国の台頭、EVシフト失敗で巨額赤字転落のホンダに残された「挽回策」とは（ダイヤモンド・オンライン） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TTVBLb0syZEl6ZkdnZ0lGSUlhRjgzVDdtNTBLQzQydEtxTHdCR1VOV240TTUtMl83b21uY2RpVGFDTVZuQ3ZpYUwxNkM0MHU5TEVqOFRsRFFvU05NX0lzQmtaa2JvSlZkUVZGaE9LS0Vnb0JTR0NweGhiUkMzc0U?oc=5",
+            "published": "Wed, 13 May 2026 21:02:39 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5TTVBLb0syZEl6ZkdnZ0lGSUlhRjgzVDdtNTBLQzQydEtxTHdCR1VOV240TTUtMl83b21uY2RpVGFDTVZuQ3ZpYUwxNkM0MHU5TEVqOFRsRFFvU05NX0lzQmtaa2JvSlZkUVZGaE9LS0Vnb0JTR0NweGhiUkMzc0U?oc=5\" target=\"_blank\">トヨタと明暗くっきり…中国の台頭、EVシフト失敗で巨額赤字転落のホンダに残された「挽回策」とは（ダイヤモンド・オンライン）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 723825,
+            "title": "海外メディアが注目「トヨタが中国企業に反撃、EVシフトに舵を切る」 - クーリエ・ジャポン",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4d1VXWlpmUEpHbWhmb2RScl9PYThsc2NiUDZkVmVFZnB4eWdINEJjaTJQYTZkWE9zd2dPYTJHUnowOUJrZmtpUUg3UnB3eml3dHFj?oc=5",
+            "published": "Wed, 13 May 2026 21:30:43 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4d1VXWlpmUEpHbWhmb2RScl9PYThsc2NiUDZkVmVFZnB4eWdINEJjaTJQYTZkWE9zd2dPYTJHUnowOUJrZmtpUUg3UnB3eml3dHFj?oc=5\" target=\"_blank\">海外メディアが注目「トヨタが中国企業に反撃、EVシフトに舵を切る」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">クーリエ・ジャポン</font>",
+            "site_name": "クーリエ・ジャポン"
+        },
+        {
+            "id": 601889,
+            "title": "商用EV導入支援のeMotion Fleet、CO2排出量策定のアスエネと輸送・配送の脱炭素化へ連携開始 - LOGI-BIZ online",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54eTl0UkFrb0hfdG1mVlNDMVRJOW84VXBmMUdBeGxYX2lDR2xsaU13dTQtME9xdEY2NUpjbzg1Q2VyS280bllSbGk1Zw?oc=5",
+            "published": "Wed, 13 May 2026 21:00:02 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE54eTl0UkFrb0hfdG1mVlNDMVRJOW84VXBmMUdBeGxYX2lDR2xsaU13dTQtME9xdEY2NUpjbzg1Q2VyS280bllSbGk1Zw?oc=5\" target=\"_blank\">商用EV導入支援のeMotion Fleet、CO2排出量策定のアスエネと輸送・配送の脱炭素化へ連携開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGI-BIZ online</font>",
+            "site_name": "LOGI-BIZ online"
+        },
+        {
+            "id": 961845,
+            "title": "KGモーターズ、ひとり乗り小型EV「mibot」の空冷駆動モーター開発を推進。ミツバと協業深化で性能アップを図る - スマートモビリティJP",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxVndYQjY2dExjdnFDWWtCZnZDNkp0QWswMG5PRmpob0MyazBqYXl0RlE0azl2cHNWRVU5NUQtRExwVkZzZnltMV85d0xPZkdST1NCag?oc=5",
+            "published": "Wed, 13 May 2026 21:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxVndYQjY2dExjdnFDWWtCZnZDNkp0QWswMG5PRmpob0MyazBqYXl0RlE0azl2cHNWRVU5NUQtRExwVkZzZnltMV85d0xPZkdST1NCag?oc=5\" target=\"_blank\">KGモーターズ、ひとり乗り小型EV「mibot」の空冷駆動モーター開発を推進。ミツバと協業深化で性能アップを図る</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">スマートモビリティJP</font>",
+            "site_name": "スマートモビリティJP"
+        },
+        {
+            "id": 979310,
+            "title": "中国EVなどの4月輸出が前年比2倍超 原油価格の高騰の中で「今後も輸出後押し」と分析 - ABEMA",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tbk9YZ1VxVVFsbE9ZcHV3d3lUZXoyYy1PYms3WFRXbl9QQVhRRGtzZFhvX1YzUURfLVN5VEtKeHhlWmZ1NFhSS21SVFJ2amJaUVZZMEltbndYcms?oc=5",
+            "published": "Wed, 13 May 2026 19:26:37 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tbk9YZ1VxVVFsbE9ZcHV3d3lUZXoyYy1PYms3WFRXbl9QQVhRRGtzZFhvX1YzUURfLVN5VEtKeHhlWmZ1NFhSS21SVFJ2amJaUVZZMEltbndYcms?oc=5\" target=\"_blank\">中国EVなどの4月輸出が前年比2倍超 原油価格の高騰の中で「今後も輸出後押し」と分析</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABEMA</font>",
+            "site_name": "ABEMA"
+        },
+        {
+            "id": 918232,
+            "title": "航続距離は最大669km…ポルシェジャパンが受注開始、クーペモデル新型EVの性能 - ニュースイッチ by 日刊工業新聞社",
+            "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE12ZFh6OHlaNGRGWGZ5OHYzaHpFWHo5eUxLOUx2WEVPYkVVbDNXaXJaa040LVEzM1MwTGwyOXRsR2M0QQ?oc=5",
+            "published": "Wed, 13 May 2026 21:04:30 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE12ZFh6OHlaNGRGWGZ5OHYzaHpFWHo5eUxLOUx2WEVPYkVVbDNXaXJaa040LVEzM1MwTGwyOXRsR2M0QQ?oc=5\" target=\"_blank\">航続距離は最大669km…ポルシェジャパンが受注開始、クーペモデル新型EVの性能</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースイッチ by 日刊工業新聞社</font>",
+            "site_name": "ニュースイッチ by 日刊工業新聞社"
+        },
+        {
+            "id": 964301,
+            "title": "韓国キア、日本再上陸 都内に1号店 EVバン投入 - 日刊工業新聞",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5U1lvWGljcC1sMGtPRHpYZGRqUTFjUjV1TDVaR3pDRElvYU4zY2NyZEhCWHJFX19iMHBfeFlzREhMelUwWm1odEJXNVdQejhTeFFlcVExcnIwX00?oc=5",
+            "published": "Wed, 13 May 2026 20:03:07 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5U1lvWGljcC1sMGtPRHpYZGRqUTFjUjV1TDVaR3pDRElvYU4zY2NyZEhCWHJFX19iMHBfeFlzREhMelUwWm1odEJXNVdQejhTeFFlcVExcnIwX00?oc=5\" target=\"_blank\">韓国キア、日本再上陸 都内に1号店 EVバン投入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日刊工業新聞</font>",
+            "site_name": "日刊工業新聞"
+        },
+        {
+            "id": 387110,
+            "title": "編集者の視点 ｢世界のEV需要､ガソリン高で2カ月連続増｣ - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2bkpyVGRwWHZ2WjVpUEhaazAycWQyaFdocEJuS0cxS3JwamhwT25aX0hrVWN4OHRfVEVVZVFTcUw1bVpnZ0x0VUZCaTVxZy04VnpQQTBhMWtQYTRSdVNFSDVEZm8wcVRJVllDLXVvTW9md2N6bEpEOGNvY0RRcjA?oc=5",
+            "published": "Wed, 13 May 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB2bkpyVGRwWHZ2WjVpUEhaazAycWQyaFdocEJuS0cxS3JwamhwT25aX0hrVWN4OHRfVEVVZVFTcUw1bVpnZ0x0VUZCaTVxZy04VnpQQTBhMWtQYTRSdVNFSDVEZm8wcVRJVllDLXVvTW9md2N6bEpEOGNvY0RRcjA?oc=5\" target=\"_blank\">編集者の視点 ｢世界のEV需要､ガソリン高で2カ月連続増｣</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+            "site_name": "日本経済新聞"
+        },
+        {
+            "id": 769215,
+            "title": "ホンダがEV戦略抜本修正、米中＋インドで再構築 14日に説明会 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EVk42d3Y4ZmJMcXdMTXNoWmpkcjFoRXpwVFpScVdsd1FvRF9RbjNXZUxOeFVFS1pnYUEwZmNEZmNKMmEwNmxWaHRSWXdmNnl0MW94MU9SQndkdnI4azQzM1lFVFdYcHk3bTNucw?oc=5",
+            "published": "Wed, 13 May 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1EVk42d3Y4ZmJMcXdMTXNoWmpkcjFoRXpwVFpScVdsd1FvRF9RbjNXZUxOeFVFS1pnYUEwZmNEZmNKMmEwNmxWaHRSWXdmNnl0MW94MU9SQndkdnI4azQzM1lFVFdYcHk3bTNucw?oc=5\" target=\"_blank\">ホンダがEV戦略抜本修正、米中＋インドで再構築 14日に説明会</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+            "site_name": "日本経済新聞"
+        },
+        {
+            "id": 62737,
+            "title": "ヴィックワンの小田日本代表「EV充電器経由でサイバー攻撃リスク」 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3LXVMdGJ4T08tSEsxZkR4RnN5MWVkSFQ2QTVtcnNISGxTVVV4QmhPYjU5VHNDaUp6Q3hDYjROTzlLTFVpOU1YbFBrUmFUdmloLU1YWEhfMzZQMWt6NVE4V0lSTlBTRDZLcDM3Tg?oc=5",
+            "published": "Wed, 13 May 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFB3LXVMdGJ4T08tSEsxZkR4RnN5MWVkSFQ2QTVtcnNISGxTVVV4QmhPYjU5VHNDaUp6Q3hDYjROTzlLTFVpOU1YbFBrUmFUdmloLU1YWEhfMzZQMWt6NVE4V0lSTlBTRDZLcDM3Tg?oc=5\" target=\"_blank\">ヴィックワンの小田日本代表「EV充電器経由でサイバー攻撃リスク」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+            "site_name": "日本経済新聞"
+        },
+        {
+            "id": 114754,
+            "title": "全固体電池いよいよ量産 勢力図で目立つ中国、トヨタ自動車は - 日経テックフォーサイト - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOTFNRFlYQmtvbGVfYW5Ob0RmNlBTSGVXSGI3dlUxRTdCcGJVSVgwODJvU2c5aG9lMm5WME5CUUhqaV9RYjZwNERpVEFnSnktUWZnN240djlUWFM5aEtrOFg4YVJHMlpfT25JVHJZU3cyMXZLS3pwS0w2OHBETXp5Q05LQ0RfSnljWU9kQUZFSlNBUFM0U3BVMmhIQ2EtWG04M2lkYklZTEM?oc=5",
+            "published": "Wed, 13 May 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOTFNRFlYQmtvbGVfYW5Ob0RmNlBTSGVXSGI3dlUxRTdCcGJVSVgwODJvU2c5aG9lMm5WME5CUUhqaV9RYjZwNERpVEFnSnktUWZnN240djlUWFM5aEtrOFg4YVJHMlpfT25JVHJZU3cyMXZLS3pwS0w2OHBETXp5Q05LQ0RfSnljWU9kQUZFSlNBUFM0U3BVMmhIQ2EtWG04M2lkYklZTEM?oc=5\" target=\"_blank\">全固体電池いよいよ量産 勢力図で目立つ中国、トヨタ自動車は - 日経テックフォーサイト</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+            "site_name": "日本経済新聞"
+        },
+        {
+            "id": 620594,
+            "title": "南部州のＥＶ充電設備整備計画、中央政府承認 - nna.jp",
+            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE40bHJuc0RUcl85bW4yUWctRGpRN1VDUGg4a1NMdzFpUlBkMVlnNzM2YXFQX09hUEI5U2hTRTBsSDR0YkZtWFE?oc=5",
+            "published": "Wed, 13 May 2026 15:03:23 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE40bHJuc0RUcl85bW4yUWctRGpRN1VDUGg4a1NMdzFpUlBkMVlnNzM2YXFQX09hUEI5U2hTRTBsSDR0YkZtWFE?oc=5\" target=\"_blank\">南部州のＥＶ充電設備整備計画、中央政府承認</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nna.jp</font>",
+            "site_name": "nna.jp"
+        },
+        {
+            "id": 488720,
+            "title": "中国製ＥＶに物品税32％賦課要請＝業界団体 - nna.jp",
+            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE85YWo2ajd4d2k0UE10MmVtaGF4VUlFdTVEXzVfTmFFdS1kU0RNT3BzN1ZFcDUxbUIteEkxR192NHNYYUNIQWc?oc=5",
+            "published": "Wed, 13 May 2026 15:03:23 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE85YWo2ajd4d2k0UE10MmVtaGF4VUlFdTVEXzVfTmFFdS1kU0RNT3BzN1ZFcDUxbUIteEkxR192NHNYYUNIQWc?oc=5\" target=\"_blank\">中国製ＥＶに物品税32％賦課要請＝業界団体</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nna.jp</font>",
+            "site_name": "nna.jp"
+        },
+        {
+            "id": 958335,
+            "title": "乱立していた中国EVメーカーもいよいよ明暗クッキリ！　EV普及率の高いタイのモーターショーでみえた各社の動向 - WEB CARTOP",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XdDdkaW5kOHlKVEJuR3lYaGN3QzdDZjZWR0RKMGtGWXV5d1ZVTnBUOXJJTF82dWZjenpVM1loLW9kb3dMYlNGN2hIOUI4SGUtYWFZ0gFYQVVfeXFMTXZ2Zm92VFdsd1JfUVIyUGR3ZTIzMWN2ci1hZ3JrNmRTWkUwNGgyNDRSSGFVZl9tXzh4dlBvdGZlcHJSQXB2Nk1NN21mMXl1TXItaWg3VU9GSg?oc=5",
+            "published": "Wed, 13 May 2026 21:20:24 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XdDdkaW5kOHlKVEJuR3lYaGN3QzdDZjZWR0RKMGtGWXV5d1ZVTnBUOXJJTF82dWZjenpVM1loLW9kb3dMYlNGN2hIOUI4SGUtYWFZ0gFYQVVfeXFMTXZ2Zm92VFdsd1JfUVIyUGR3ZTIzMWN2ci1hZ3JrNmRTWkUwNGgyNDRSSGFVZl9tXzh4dlBvdGZlcHJSQXB2Nk1NN21mMXl1TXItaWg3VU9GSg?oc=5\" target=\"_blank\">乱立していた中国EVメーカーもいよいよ明暗クッキリ！　EV普及率の高いタイのモーターショーでみえた各社の動向</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEB CARTOP</font>",
+            "site_name": "WEB CARTOP"
+        },
+        {
+            "id": 155211,
+            "title": "EVに不可欠。アメリカの地中には、328年分のリチウムが眠っている - ギズモード・ジャパン",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSUxWYVkzYWtnQndXUHJSTFhvZjVjUFFQaXdTdG10QkJ1TXhrMHZmbUVEdmhJQVhIZnJsWUVDa01kMlVmTjY0SFBjdEExMU9taWZwZWxfZW1xZVVuaC0wYmU5enJSZlk4dXBFUm04M3lvQ3ZWMmk0ZW9FWFdWZk5rTVNMQUp1TnVDVHBaNHQzUW95UUF3NmVBSE1lVlhSbTd2TjhRUXZ6UHZDS28?oc=5",
+            "published": "Wed, 13 May 2026 13:30:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSUxWYVkzYWtnQndXUHJSTFhvZjVjUFFQaXdTdG10QkJ1TXhrMHZmbUVEdmhJQVhIZnJsWUVDa01kMlVmTjY0SFBjdEExMU9taWZwZWxfZW1xZVVuaC0wYmU5enJSZlk4dXBFUm04M3lvQ3ZWMmk0ZW9FWFdWZk5rTVNMQUp1TnVDVHBaNHQzUW95UUF3NmVBSE1lVlhSbTd2TjhRUXZ6UHZDS28?oc=5\" target=\"_blank\">EVに不可欠。アメリカの地中には、328年分のリチウムが眠っている</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ギズモード・ジャパン</font>",
+            "site_name": "ギズモード・ジャパン"
+        },
+        {
+            "id": 919673,
+            "title": "韓国車「キア」が初上陸 東京に1号店、商用EV販売 - 電波新聞デジタル",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXdVAzVnVNUmluUnNEWkU2aXNuclB1STNkWUxlR1JhMmhmdFBOZFNCOUNsSVZCNmVKS1h2bHpTZXBBZjJ0NTdsMEdIQVZiMlFwMUE?oc=5",
+            "published": "Wed, 13 May 2026 20:20:55 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXdVAzVnVNUmluUnNEWkU2aXNuclB1STNkWUxlR1JhMmhmdFBOZFNCOUNsSVZCNmVKS1h2bHpTZXBBZjJ0NTdsMEdIQVZiMlFwMUE?oc=5\" target=\"_blank\">韓国車「キア」が初上陸 東京に1号店、商用EV販売</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">電波新聞デジタル</font>",
+            "site_name": "電波新聞デジタル"
+        },
+        {
+            "id": 20376,
+            "title": "タイ政府、EV販売店を一斉点検 走行距離の明確な表示を指示 - newsclip.be",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LSVE4MG90SUFtZHlTXzZxalUyU2pFdmxPQ0xPLUJiaHUyX0M2dFFjeUpTZlVlUnJSQVpNZlc0cEVjNFhmMGxKMlVnU0JHSHA5OWdsc2JNOHBrUHFR?oc=5",
+            "published": "Wed, 13 May 2026 15:08:40 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LSVE4MG90SUFtZHlTXzZxalUyU2pFdmxPQ0xPLUJiaHUyX0M2dFFjeUpTZlVlUnJSQVpNZlc0cEVjNFhmMGxKMlVnU0JHSHA5OWdsc2JNOHBrUHFR?oc=5\" target=\"_blank\">タイ政府、EV販売店を一斉点検 走行距離の明確な表示を指示</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newsclip.be</font>",
+            "site_name": "newsclip.be"
+        },
+        {
+            "id": 594746,
+            "title": "Kia、日本でのディーラー第1号店「Kia PBV 東京西」オープン 商用EVバン「PV5」で日本のカーボンニュートラル達成に貢献 - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoYTBDOXhmZGptWHo2RWpVd2JGUnJKVmYzcVRNSmg4cmlqdTVoc2ZtaEhpbXpUclNWQW16RmlSaU5Sb0M5TEc1Y3FVSERhUUJzVXpxX1R5T2UtbU44WjJpOHppTFZKQTBnaEsteGhsWXgwX3I3UVlIREdfU3Zzck0?oc=5",
+            "published": "Wed, 13 May 2026 22:02:24 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBoYTBDOXhmZGptWHo2RWpVd2JGUnJKVmYzcVRNSmg4cmlqdTVoc2ZtaEhpbXpUclNWQW16RmlSaU5Sb0M5TEc1Y3FVSERhUUJzVXpxX1R5T2UtbU44WjJpOHppTFZKQTBnaEsteGhsWXgwX3I3UVlIREdfU3Zzck0?oc=5\" target=\"_blank\">Kia、日本でのディーラー第1号店「Kia PBV 東京西」オープン 商用EVバン「PV5」で日本のカーボンニュートラル達成に貢献</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 589385,
+            "title": "マセラティが中国製EVになる可能性、ファーウェイとJACがステランティスと協議 - SpeedMe.ru",
+            "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxQN3phN2hQQ3R0LXVhX2tPeUEzTGROREJVVjRmMWNRekdCa1JtMjhnblkxdTQxRE5iNGVqM1A0M3Y0TFFwUzY3cHVXMDZHWXZFT2N3dXJyOUhzTDY0dFNYSG1vUHRyb1JCSTZYbnUtcVpkX2RIVWVjMlp1YzhLM19iTFFFeldMbnN3MmRLS1FSc1JoWkY5N1JYVUR6WXg5VGJZX0U2LXBDWEE5MV95ZjU3UzlSOXhkdzdFNkRxY21acDZTTTc0RnUzNFFkYWs0emN6eVB5MFdobUc3akRkdUEzTmpxNnJXekpLcXRQTTBNWE9NZjVZUURMb2V4cTN6LVl0NU54M3l4c2Jqb1ktZE5TMGNtZkNOc2tFSHJxUGJuQnJQS2FaUFRXYVdaWmlEbTA5QWhCSTVLRVpyRHdKNUNPY1RVQUlVQlZOX0NkRGd6MWpEaUVnT3RyS1k2T2VVdDJNMkVDckRlNVpXSl82dmViSXNSdTFka255NW93YWI3U2dEb3JoMDQ0OTMwTGY0M0hLNmlQSDd5VlZhV3ZlNy05VDBUeW1ha3JwQTB2OGg3LWFDSk5iUjFMS0ppTlRoX2VyMlloaGdpckhNaDNtZjZienhNNmtCOXhYSlhJWDRPYnFRX2RK0gHkA0FVX3lxTFA3emE3aFBDdHQtdWFfa095QTNMZE5EQlVWNGYxY1F6R0JrUm0yOGduWTF1NDFETmI0ZWozUDQzdjRMUXBTNjdwdVcwNkdZdkVPY3d1cnI5SHNMNjR0U1hIbW9QdHJvUkJJNlhudS1xWmRfZEhVZWMyWnVjOEszX2JMUUV6V0xuc3cyZEtLUVJzUmhaRjk3UlhVRHpZeDlUYllfRTYtcENYQTkxX3lmNTdTOVI5eGR3N0U2RHFjbVpwNlNNNzRGdTM0UWRhazR6Y3p5UHkwV2htRzdqRGR1QTNOanE2cld6SktxdFBNME1YT01mNVlRRExvZXhxM3otWXQ1TngzeXhzYmpvWS1kTlMwY21mQ05za0VIcnFQYm5CclBLYVpQVFdhV1paaURtMDlBaEJJNUtFWnJEd0o1Q09jVFVBSVVCVk5fQ2REZ3oxakRpRWdPdHJLWTZPZVV0Mk0yRUNyRGU1WldKXzZ2ZWJJc1J1MWRrbnk1b3dhYjdTZ0RvcmgwNDQ5MzBMZjQzSEs2aVBIN3lWVmFXdmU3LTlUMFR5bWFrcnBBMHY4aDctYUNKTmJSMUxLSmlOVGhfZXIyWWhoZ2lySE1oM21mNmJ6eE02a0I5eFhKWElYNE9icVFfZEo?oc=5",
+            "published": "Wed, 13 May 2026 20:15:02 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5ANBVV95cUxQN3phN2hQQ3R0LXVhX2tPeUEzTGROREJVVjRmMWNRekdCa1JtMjhnblkxdTQxRE5iNGVqM1A0M3Y0TFFwUzY3cHVXMDZHWXZFT2N3dXJyOUhzTDY0dFNYSG1vUHRyb1JCSTZYbnUtcVpkX2RIVWVjMlp1YzhLM19iTFFFeldMbnN3MmRLS1FSc1JoWkY5N1JYVUR6WXg5VGJZX0U2LXBDWEE5MV95ZjU3UzlSOXhkdzdFNkRxY21acDZTTTc0RnUzNFFkYWs0emN6eVB5MFdobUc3akRkdUEzTmpxNnJXekpLcXRQTTBNWE9NZjVZUURMb2V4cTN6LVl0NU54M3l4c2Jqb1ktZE5TMGNtZkNOc2tFSHJxUGJuQnJQS2FaUFRXYVdaWmlEbTA5QWhCSTVLRVpyRHdKNUNPY1RVQUlVQlZOX0NkRGd6MWpEaUVnT3RyS1k2T2VVdDJNMkVDckRlNVpXSl82dmViSXNSdTFka255NW93YWI3U2dEb3JoMDQ0OTMwTGY0M0hLNmlQSDd5VlZhV3ZlNy05VDBUeW1ha3JwQTB2OGg3LWFDSk5iUjFMS0ppTlRoX2VyMlloaGdpckhNaDNtZjZienhNNmtCOXhYSlhJWDRPYnFRX2RK0gHkA0FVX3lxTFA3emE3aFBDdHQtdWFfa095QTNMZE5EQlVWNGYxY1F6R0JrUm0yOGduWTF1NDFETmI0ZWozUDQzdjRMUXBTNjdwdVcwNkdZdkVPY3d1cnI5SHNMNjR0U1hIbW9QdHJvUkJJNlhudS1xWmRfZEhVZWMyWnVjOEszX2JMUUV6V0xuc3cyZEtLUVJzUmhaRjk3UlhVRHpZeDlUYllfRTYtcENYQTkxX3lmNTdTOVI5eGR3N0U2RHFjbVpwNlNNNzRGdTM0UWRhazR6Y3p5UHkwV2htRzdqRGR1QTNOanE2cld6SktxdFBNME1YT01mNVlRRExvZXhxM3otWXQ1TngzeXhzYmpvWS1kTlMwY21mQ05za0VIcnFQYm5CclBLYVpQVFdhV1paaURtMDlBaEJJNUtFWnJEd0o1Q09jVFVBSVVCVk5fQ2REZ3oxakRpRWdPdHJLWTZPZVV0Mk0yRUNyRGU1WldKXzZ2ZWJJc1J1MWRrbnk1b3dhYjdTZ0RvcmgwNDQ5MzBMZjQzSEs2aVBIN3lWVmFXdmU3LTlUMFR5bWFrcnBBMHY4aDctYUNKTmJSMUxLSmlOVGhfZXIyWWhoZ2lySE1oM21mNmJ6eE02a0I5eFhKWElYNE9icVFfZEo?oc=5\" target=\"_blank\">マセラティが中国製EVになる可能性、ファーウェイとJACがステランティスと協議</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SpeedMe.ru</font>",
+            "site_name": "SpeedMe.ru"
+        },
+        {
+            "id": 619410,
+            "title": "EVトラックをワイヤレス充電!? 三菱ふそう「eCanter」の実証実験で判明した配送現場のリアル - くるまのニュース",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB3blhLV2JrWGZEcl94U1RNUFprN19rZ2JObmhmZDhVWW50OUpDUHB0TU81b1ZGTWZnejcySTAtUW1ZampxUnlGcUVXWQ?oc=5",
+            "published": "Wed, 13 May 2026 11:30:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFB3blhLV2JrWGZEcl94U1RNUFprN19rZ2JObmhmZDhVWW50OUpDUHB0TU81b1ZGTWZnejcySTAtUW1ZampxUnlGcUVXWQ?oc=5\" target=\"_blank\">EVトラックをワイヤレス充電!? 三菱ふそう「eCanter」の実証実験で判明した配送現場のリアル</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">くるまのニュース</font>",
+            "site_name": "くるまのニュース"
+        },
+        {
+            "id": 636981,
+            "title": "得意のアルミ製で存在感 浜松のA．I．S、EV用「中継ボックス」に活路：ニュース - 中日BIZナビ",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KT3A0RUx1UTVkcmZJdUdwUXg2Y09UeU9UaTZ5QV90clVfbV9UYm42RURDaEJlR2RoY0lZR2JTdjhxQWRmSlAzWHdWNS1oa2FuQUtDeGdfZHZzOVFYNWNB?oc=5",
+            "published": "Wed, 13 May 2026 15:11:43 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KT3A0RUx1UTVkcmZJdUdwUXg2Y09UeU9UaTZ5QV90clVfbV9UYm42RURDaEJlR2RoY0lZR2JTdjhxQWRmSlAzWHdWNS1oa2FuQUtDeGdfZHZzOVFYNWNB?oc=5\" target=\"_blank\">得意のアルミ製で存在感 浜松のA．I．S、EV用「中継ボックス」に活路：ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中日BIZナビ</font>",
+            "site_name": "中日BIZナビ"
+        },
+        {
+            "id": 876707,
+            "title": "「キア」が発売へ 韓国ミニバンEV日本上陸 - テレ東BIZ",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nZlgycl8xeTctSGkwMXY0TkJNbElLUUo4eHlHazFSTWFhN2FkMV9OR2FUcTJhcFJsVVNCZWNYdEdXaXJyU18wVjItX3NrQnBNTk9wUklqdlRyQ201S3dqY3Bn?oc=5",
+            "published": "Wed, 13 May 2026 13:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nZlgycl8xeTctSGkwMXY0TkJNbElLUUo4eHlHazFSTWFhN2FkMV9OR2FUcTJhcFJsVVNCZWNYdEdXaXJyU18wVjItX3NrQnBNTk9wUklqdlRyQ201S3dqY3Bn?oc=5\" target=\"_blank\">「キア」が発売へ 韓国ミニバンEV日本上陸</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">テレ東BIZ</font>",
+            "site_name": "テレ東BIZ"
+        },
+        {
+            "id": 518785,
+            "title": "韓国Kiaが次世代EVバンシリーズ「PV5カーゴ」「PV5パッセンジャー」で日本市場参入写真7枚目 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Oa0g2czNZOVZlTzZnWm1taUMzUWZiX1hKMkpCWmtzLS1oWlE2MXUxYTAyYzVfR3NpTFEwX2M3UExfeUFuUVB6d0h6eVhDYWZUVFBXSjRqOU9WSUVDS2Y2Q2NFdEQ1bGM?oc=5",
+            "published": "Wed, 13 May 2026 13:20:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Oa0g2czNZOVZlTzZnWm1taUMzUWZiX1hKMkpCWmtzLS1oWlE2MXUxYTAyYzVfR3NpTFEwX2M3UExfeUFuUVB6d0h6eVhDYWZUVFBXSjRqOU9WSUVDS2Y2Q2NFdEQ1bGM?oc=5\" target=\"_blank\">韓国Kiaが次世代EVバンシリーズ「PV5カーゴ」「PV5パッセンジャー」で日本市場参入写真7枚目</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 494861,
+            "title": "折れ曲がるサスアーム、自信作に「全然ダメ」 スズキのeビターラ開発 - 日経クロステック",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByeFkwbmZTa1haOEpSdV9OTTlwUVBuOGk4TUtycVFHRUZCMzc2SWlrc0hIU2lpa2dQTjBodGM3WDlGLVF0NG5VUlYtc21NcVZNLUZ6WHA0YVk2VW1jVFRtcHM4VnhrSHZ4QXY1NA?oc=5",
+            "published": "Wed, 13 May 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFByeFkwbmZTa1haOEpSdV9OTTlwUVBuOGk4TUtycVFHRUZCMzc2SWlrc0hIU2lpa2dQTjBodGM3WDlGLVF0NG5VUlYtc21NcVZNLUZ6WHA0YVk2VW1jVFRtcHM4VnhrSHZ4QXY1NA?oc=5\" target=\"_blank\">折れ曲がるサスアーム、自信作に「全然ダメ」 スズキのeビターラ開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経クロステック</font>",
+            "site_name": "日経クロステック"
+        },
+        {
+            "id": 328553,
+            "title": "タイ政府、EVトラブル急増で調査指示 アフターサービスに不満相次ぐ - newsclip.be",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aZ01XcEQ3WDFKU3VVZXF2NkdDNjlaQk55X0F0dll6WUpnVkxTRTQzcmVteDBWZ3d3QzUtbnFyQ1FHUlBkbFRGNjNuMU1kM0NYekZJdkFRVDc1MTJl?oc=5",
+            "published": "Wed, 13 May 2026 13:43:24 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aZ01XcEQ3WDFKU3VVZXF2NkdDNjlaQk55X0F0dll6WUpnVkxTRTQzcmVteDBWZ3d3QzUtbnFyQ1FHUlBkbFRGNjNuMU1kM0NYekZJdkFRVDc1MTJl?oc=5\" target=\"_blank\">タイ政府、EVトラブル急増で調査指示 アフターサービスに不満相次ぐ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newsclip.be</font>",
+            "site_name": "newsclip.be"
+        },
+        {
+            "id": 844631,
+            "title": "韓国Kiaが次世代EVバンシリーズ「PV5カーゴ」「PV5パッセンジャー」で日本市場参入 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rMFJJNWRGZl9MNGNvcGstSUxTQ0FRY3Q3LU1FRWJPX2lNTjZxa1lneDF3dnpSQ2NpMDJWVjVLb1p3Zkx6VEFlSmpDWUJhZw?oc=5",
+            "published": "Wed, 13 May 2026 08:52:12 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rMFJJNWRGZl9MNGNvcGstSUxTQ0FRY3Q3LU1FRWJPX2lNTjZxa1lneDF3dnpSQ2NpMDJWVjVLb1p3Zkx6VEFlSmpDWUJhZw?oc=5\" target=\"_blank\">韓国Kiaが次世代EVバンシリーズ「PV5カーゴ」「PV5パッセンジャー」で日本市場参入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 865830,
+            "title": "起亜のＥＶバン「ＰＶ５」、日本で発売 - nna.jp",
+            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBTNmxzMV94VU94dGpGaWFsek45dU1ISVl1YkF2bHNsaUFudDZycjdwSmZmZ2dmaW1XME5DU2VOWkdDRFlYVkE?oc=5",
+            "published": "Wed, 13 May 2026 15:02:48 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTFBTNmxzMV94VU94dGpGaWFsek45dU1ISVl1YkF2bHNsaUFudDZycjdwSmZmZ2dmaW1XME5DU2VOWkdDRFlYVkE?oc=5\" target=\"_blank\">起亜のＥＶバン「ＰＶ５」、日本で発売</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nna.jp</font>",
+            "site_name": "nna.jp"
+        },
+        {
+            "id": 958707,
+            "title": "韓国・起亜、日本でＥＶバン発売…双日の代理店が西東京市に１号店開業 (読売新聞オンライン) - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd3lwNEM4VTBWZnF2V1Bha2RrZklPNV9EbENBMU5qR3BLTGNwSnRocmFpU2xzWUZtVzNhZXNSVEJUUlI3R2NRQnJxd2NDT0Z4cWQ3dVVxY050VVZ6bjBwYjhWV0sySm5SQlJaZUJLS3dXNFBwbXhBLUhXVy1PZTVWWG01VUpXR282V1dMWDhB?oc=5",
+            "published": "Wed, 13 May 2026 08:52:31 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQd3lwNEM4VTBWZnF2V1Bha2RrZklPNV9EbENBMU5qR3BLTGNwSnRocmFpU2xzWUZtVzNhZXNSVEJUUlI3R2NRQnJxd2NDT0Z4cWQ3dVVxY050VVZ6bjBwYjhWV0sySm5SQlJaZUJLS3dXNFBwbXhBLUhXVy1PZTVWWG01VUpXR282V1dMWDhB?oc=5\" target=\"_blank\">韓国・起亜、日本でＥＶバン発売…双日の代理店が西東京市に１号店開業 (読売新聞オンライン)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 946945,
+            "title": "韓国Kiaが次世代EVバンシリーズ「PV5カーゴ」「PV5パッセンジャー」で日本市場参入写真4枚目 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zejdFbWk4emZFVjI2N051akZqTDdUbnRwdGpTUVU3cmRHZW9pY0hacG1uTzN0MXdwOE9aQkY0WUk2X2pGR0tRZ2NOTTBjSEFvSFluVi1VYlFvZTlldmRLVFRXTXpiX00?oc=5",
+            "published": "Wed, 13 May 2026 11:20:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zejdFbWk4emZFVjI2N051akZqTDdUbnRwdGpTUVU3cmRHZW9pY0hacG1uTzN0MXdwOE9aQkY0WUk2X2pGR0tRZ2NOTTBjSEFvSFluVi1VYlFvZTlldmRLVFRXTXpiX00?oc=5\" target=\"_blank\">韓国Kiaが次世代EVバンシリーズ「PV5カーゴ」「PV5パッセンジャー」で日本市場参入写真4枚目</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 5964,
+            "title": "なぜ？「発売前に注文殺到」ホンダのEVスーパーワン - 現代ビジネス",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GRzJhallkWS1XcUF0Mll3M0xkRlNIRnlPWjBKUWExMFhGcnVKU2k4ZFR4dUVOOVBUekdzOFc2SWwwV3ltQUdKcHd5UEExRTA?oc=5",
+            "published": "Wed, 13 May 2026 20:00:35 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GRzJhallkWS1XcUF0Mll3M0xkRlNIRnlPWjBKUWExMFhGcnVKU2k4ZFR4dUVOOVBUekdzOFc2SWwwV3ltQUdKcHd5UEExRTA?oc=5\" target=\"_blank\">なぜ？「発売前に注文殺到」ホンダのEVスーパーワン</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">現代ビジネス</font>",
+            "site_name": "現代ビジネス"
+        },
+        {
+            "id": 380074,
+            "title": "中国勢台頭、再編迫る 日本精工・NTN統合 日本車縮小、EVシフト追い打ち - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY2VHdGVwanJTenYyb2lFQmpLOUlKVWMySlZDcGszRGNkakQ1SzRzMTBzaVRLaF9HR19OOXI5ZmdmbW55QUpiMEd4YzVyTUNQd0lRNXBBcGZOWjdHZEtZNkhDVldzWlBJZFZDNG5rclRZbE8zMHIwWld1TDRZcU90NlVCMmZ3czlzeDkxNFpLVEVLc0pVcjZqckhHMU5CSkhUSEE?oc=5",
+            "published": "Wed, 13 May 2026 20:03:45 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQY2VHdGVwanJTenYyb2lFQmpLOUlKVWMySlZDcGszRGNkakQ1SzRzMTBzaVRLaF9HR19OOXI5ZmdmbW55QUpiMEd4YzVyTUNQd0lRNXBBcGZOWjdHZEtZNkhDVldzWlBJZFZDNG5rclRZbE8zMHIwWld1TDRZcU90NlVCMmZ3czlzeDkxNFpLVEVLc0pVcjZqckhHMU5CSkhUSEE?oc=5\" target=\"_blank\">中国勢台頭、再編迫る 日本精工・NTN統合 日本車縮小、EVシフト追い打ち</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+            "site_name": "日本経済新聞"
+        },
+        {
+            "id": 948706,
+            "title": "KiaのEVバン「PV5」が日本上陸！ 双日とタッグで直営1号店を東京にオープン 田島社長らが日本展開を語る - くるまのニュース",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FZVFxajFXWmNNVURKeWJQZmFnNUtQTVF5NWNyVGJaZUFybWFCYVRkSHJTYl9YRm50YjAxWDFWS3dMb2RqUmJNSGcyZw?oc=5",
+            "published": "Wed, 13 May 2026 06:50:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FZVFxajFXWmNNVURKeWJQZmFnNUtQTVF5NWNyVGJaZUFybWFCYVRkSHJTYl9YRm50YjAxWDFWS3dMb2RqUmJNSGcyZw?oc=5\" target=\"_blank\">KiaのEVバン「PV5」が日本上陸！ 双日とタッグで直営1号店を東京にオープン 田島社長らが日本展開を語る</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">くるまのニュース</font>",
+            "site_name": "くるまのニュース"
+        },
+        {
+            "id": 81933,
+            "title": "メーカーをまたいで国産EVに一気乗り！ EVはつまらないなんて誰が言ったんだって思うほど個性たっぷりだった - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMzU1cllNYUs3UlpWRENKVEFWZkFOM1RBalpaS2JuV0NiNG9zYnY0QVBISnJPUTE5Zm5YTWJqd1Jra2xzYVIyaW1EVFZvQ01JdVEzanBiMnR4ekVWVGpFbXRQY3p4OHp4aDg3MlJOVi1RMTJTVE9mZWNNQzFIM2tRQURaN3NiZkRnYThaazlR?oc=5",
+            "published": "Wed, 13 May 2026 08:10:12 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNMzU1cllNYUs3UlpWRENKVEFWZkFOM1RBalpaS2JuV0NiNG9zYnY0QVBISnJPUTE5Zm5YTWJqd1Jra2xzYVIyaW1EVFZvQ01JdVEzanBiMnR4ekVWVGpFbXRQY3p4OHp4aDg3MlJOVi1RMTJTVE9mZWNNQzFIM2tRQURaN3NiZkRnYThaazlR?oc=5\" target=\"_blank\">メーカーをまたいで国産EVに一気乗り！ EVはつまらないなんて誰が言ったんだって思うほど個性たっぷりだった</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 948905,
+            "title": "フィアットとシトロエン、欧州向け低価格EV投入へ 市場活性化狙う - Автомобильный портал 32CARS.RU",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLWxjSFFsdV9NRGZZTGVxMlByLUhSMUlQR0FhRDZ0S1lXSWhzdFo3c3hCdzhwNDJIQ0ZCdm5kLXd0OTUyQ1RXY2VDYmlWaFVubEY1b2NCWVA2MlZ1b3lkd2hqems4aWtuVzFrMkRmWm5YQXZPalVoVWw4MmlVaFVjZVlCTmFvUnpVM2Fnb3pDWFM0eXhWa09vc0lNRE1CMmtYbzd5bldpQzVLalFqUmRpb2NTc3dYMHpXbXFJdEtvSE1vUEtlR2M00gHHAUFVX3lxTE8tbGNIUWx1X01EZllMZXEyUHItSFIxSVBHQWFENnRLWVdJaHN0WjdzeEJ3OHA0MkhDRkJ2bmQtd3Q5NTJDVFdjZUNiaVZoVW5sRjVvY0JZUDYyVnVveWR3aGp6azhpa25XMWsyRGZablhBdk9qVWhVbDgyaVVoVWNlWUJOYW9SelUzYWdvekNYUzR5eFZrT29zSU1ETUIya1hvN3luV2lDNUtqUWpSZGlvY1Nzd1gweldtcUl0S29ITW9QS2VHYzQ?oc=5",
+            "published": "Wed, 13 May 2026 14:25:29 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPLWxjSFFsdV9NRGZZTGVxMlByLUhSMUlQR0FhRDZ0S1lXSWhzdFo3c3hCdzhwNDJIQ0ZCdm5kLXd0OTUyQ1RXY2VDYmlWaFVubEY1b2NCWVA2MlZ1b3lkd2hqems4aWtuVzFrMkRmWm5YQXZPalVoVWw4MmlVaFVjZVlCTmFvUnpVM2Fnb3pDWFM0eXhWa09vc0lNRE1CMmtYbzd5bldpQzVLalFqUmRpb2NTc3dYMHpXbXFJdEtvSE1vUEtlR2M00gHHAUFVX3lxTE8tbGNIUWx1X01EZllMZXEyUHItSFIxSVBHQWFENnRLWVdJaHN0WjdzeEJ3OHA0MkhDRkJ2bmQtd3Q5NTJDVFdjZUNiaVZoVW5sRjVvY0JZUDYyVnVveWR3aGp6azhpa25XMWsyRGZablhBdk9qVWhVbDgyaVVoVWNlWUJOYW9SelUzYWdvekNYUzR5eFZrT29zSU1ETUIya1hvN3luV2lDNUtqUWpSZGlvY1Nzd1gweldtcUl0S29ITW9QS2VHYzQ?oc=5\" target=\"_blank\">フィアットとシトロエン、欧州向け低価格EV投入へ 市場活性化狙う</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Автомобильный портал 32CARS.RU</font>",
+            "site_name": "Автомобильный портал 32CARS.RU"
+        },
+        {
+            "id": 497467,
+            "title": "【Kia PV5 日本上陸】トップギアが認めた「世界最強のファミリーEVバン」が日本の常識を覆す - トップギア・ジャパン",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TNElIYnhqblJXaldEU0szNERnNzR4UHNENk95YlZ0djNZU2IwYTZpbmppUnZLSnFId0U0TUNBSGxQZHpoMk9xM3VUYw?oc=5",
+            "published": "Wed, 13 May 2026 22:04:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TNElIYnhqblJXaldEU0szNERnNzR4UHNENk95YlZ0djNZU2IwYTZpbmppUnZLSnFId0U0TUNBSGxQZHpoMk9xM3VUYw?oc=5\" target=\"_blank\">【Kia PV5 日本上陸】トップギアが認めた「世界最強のファミリーEVバン」が日本の常識を覆す</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">トップギア・ジャパン</font>",
+            "site_name": "トップギア・ジャパン"
+        },
+        {
+            "id": 308283,
+            "title": "KiaのEVバン「PV5」が日本上陸！ 双日とタッグで直営1号店を東京にオープン 田島社長らが日本展開を語る - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPakJ4UkxDeHpBei01SXpkaWs4ZFhHZ25NeWVBODM4TW95eHVzTFlEUmowajNVeWV4ZEN1M1FZV1o0LTRGZ3J1SFFuZ1BkbWZNanJEU2thOHJULWhxUE5XV2xfa3RsdGotLVRFZ2wtWm03d21yWmZZcjRXLUFuSmlTYm45YlZ5VHd2?oc=5",
+            "published": "Wed, 13 May 2026 06:50:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPakJ4UkxDeHpBei01SXpkaWs4ZFhHZ25NeWVBODM4TW95eHVzTFlEUmowajNVeWV4ZEN1M1FZV1o0LTRGZ3J1SFFuZ1BkbWZNanJEU2thOHJULWhxUE5XV2xfa3RsdGotLVRFZ2wtWm03d21yWmZZcjRXLUFuSmlTYm45YlZ5VHd2?oc=5\" target=\"_blank\">KiaのEVバン「PV5」が日本上陸！ 双日とタッグで直営1号店を東京にオープン 田島社長らが日本展開を語る</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 877706,
+            "title": "「注目の軽EV」SUVらしい逞しさが自慢の『eKクロスEV』。日産サクラと共通する上質さも美点だ!写真17枚目 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sWmZJcHQ4eGhrUW5haFN5SjdrM19ma1gtQWJWRExteEd6enVLeHhQVGxERkhOaTgxYm5xWURxSmhnR3RVck5XUEIxVjFkdFVvUUl0UnhRd2JrVy1zZzh2TkVubEptYVYyMHc?oc=5",
+            "published": "Wed, 13 May 2026 02:10:54 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9sWmZJcHQ4eGhrUW5haFN5SjdrM19ma1gtQWJWRExteEd6enVLeHhQVGxERkhOaTgxYm5xWURxSmhnR3RVck5XUEIxVjFkdFVvUUl0UnhRd2JrVy1zZzh2TkVubEptYVYyMHc?oc=5\" target=\"_blank\">「注目の軽EV」SUVらしい逞しさが自慢の『eKクロスEV』。日産サクラと共通する上質さも美点だ!写真17枚目</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 527074,
+            "title": "＜画像1 / 6＞高級感あふれる光岡自動車のEV「雷駆（ライク）」本日予約開始 - ウォーカープラス",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6d1ZUUWdNZTN5NDc0NDRRNFJTUHBQQmJVNWplbDlLMjhlOVhHOEZLU3VqVk9WeEZsdzM4aG1NMkh5eEZSRFcyTm1Idk52VWFPOGlhc3pFZUNhSUsycFZhOFJLdTRzYWs?oc=5",
+            "published": "Wed, 13 May 2026 13:09:48 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6d1ZUUWdNZTN5NDc0NDRRNFJTUHBQQmJVNWplbDlLMjhlOVhHOEZLU3VqVk9WeEZsdzM4aG1NMkh5eEZSRFcyTm1Idk52VWFPOGlhc3pFZUNhSUsycFZhOFJLdTRzYWs?oc=5\" target=\"_blank\">＜画像1 / 6＞高級感あふれる光岡自動車のEV「雷駆（ライク）」本日予約開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ウォーカープラス</font>",
+            "site_name": "ウォーカープラス"
+        },
+        {
+            "id": 788113,
+            "title": "KiaのEVバン「PV5カーゴ」「PV5パッセンジャー」が上陸 初の正規ディーラーもオープン (webCG) - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYk50Y3hpeTlwM1BNQm5jUkRBNEtYM2tBV0cwSlR3N1BLamN4RF94YlZuaFBjNXJoR2pmNDc3b1JQYjRvOGV4c3JnbkI3T3Y5ZElaTU5nZHFGZ3ZHRUlrNFMxODQwYVdXVUFUZGlfRF94YUpXVDdSREdGeEJ4ZW1mWTlNeWd6NDJEODJGaXZ3?oc=5",
+            "published": "Wed, 13 May 2026 09:06:22 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPYk50Y3hpeTlwM1BNQm5jUkRBNEtYM2tBV0cwSlR3N1BLamN4RF94YlZuaFBjNXJoR2pmNDc3b1JQYjRvOGV4c3JnbkI3T3Y5ZElaTU5nZHFGZ3ZHRUlrNFMxODQwYVdXVUFUZGlfRF94YUpXVDdSREdGeEJ4ZW1mWTlNeWd6NDJEODJGaXZ3?oc=5\" target=\"_blank\">KiaのEVバン「PV5カーゴ」「PV5パッセンジャー」が上陸 初の正規ディーラーもオープン (webCG)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 840175,
+            "title": "ジャガー新型『タイプ01』 新時代を象徴する1000psの電動4ドアGT、ついに名称決定 9月正式デビューへ - AUTOCAR JAPAN",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBYUUw5Rlp0bG1HS2dYOWxxaUtGVWZTeVJuVFNZSGdjQ3VIdkhDYjhWVVItbFRCaFNzUk1pZ3VLSjlCdDVNeTkwMWpkNA?oc=5",
+            "published": "Wed, 13 May 2026 22:05:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBYUUw5Rlp0bG1HS2dYOWxxaUtGVWZTeVJuVFNZSGdjQ3VIdkhDYjhWVVItbFRCaFNzUk1pZ3VLSjlCdDVNeTkwMWpkNA?oc=5\" target=\"_blank\">ジャガー新型『タイプ01』 新時代を象徴する1000psの電動4ドアGT、ついに名称決定 9月正式デビューへ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AUTOCAR JAPAN</font>",
+            "site_name": "AUTOCAR JAPAN"
+        },
+        {
+            "id": 247806,
+            "title": "韓国Kiaが次世代EVバンシリーズ「PV5カーゴ」「PV5パッセンジャー」で日本市場参入写真3枚目 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZdlc0Tkl2dGpBaWpCNDJqR0lQSXhCMjFrN1BNZzhVMktkdXpWQjlxUnFYNmt3bXdoekxKY1dpaUljMW1nV0t6SWhsZTdkY21Ib3NsUzZfREQ4M1BuRmtia25MYXB3Tlk?oc=5",
+            "published": "Wed, 13 May 2026 09:19:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZdlc0Tkl2dGpBaWpCNDJqR0lQSXhCMjFrN1BNZzhVMktkdXpWQjlxUnFYNmt3bXdoekxKY1dpaUljMW1nV0t6SWhsZTdkY21Ib3NsUzZfREQ4M1BuRmtia25MYXB3Tlk?oc=5\" target=\"_blank\">韓国Kiaが次世代EVバンシリーズ「PV5カーゴ」「PV5パッセンジャー」で日本市場参入写真3枚目</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 950375,
+            "title": "EV コンストラクション、トヨタカローラ南海の店舗に150kW出力のEV用急速充電器3基を設置完了 (画像No. 5 - MOTA",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lbUM4NUY1MERnM29zZ0s1RTI2ZFhCb2x1blMzXzgxVVZNMndvSWJsc2I4RWItQ0IycUEyZzluSU9uYlhjb0YzLVNTRld4dmhhQUY5ZzdnX05qV1FHamc?oc=5",
+            "published": "Wed, 13 May 2026 11:52:03 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lbUM4NUY1MERnM29zZ0s1RTI2ZFhCb2x1blMzXzgxVVZNMndvSWJsc2I4RWItQ0IycUEyZzluSU9uYlhjb0YzLVNTRld4dmhhQUY5ZzdnX05qV1FHamc?oc=5\" target=\"_blank\">EV コンストラクション、トヨタカローラ南海の店舗に150kW出力のEV用急速充電器3基を設置完了 (画像No. 5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MOTA</font>",
+            "site_name": "MOTA"
+        },
+        {
+            "id": 896626,
+            "title": "EV コンストラクション、トヨタカローラ南海の店舗に150kW出力のEV用急速充電器3基を設置完了 (画像No. 6 - MOTA",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXNWVmWlh1em92SnYycTJFSDRzWWJYVkpPT05Wc01GeEtyaXY5V0F2U2dhaTZISi03ckRLZGNRU0sxR1hZMGJfZU1WSV8wcjdlbVJzOTA2TEJUTjlOX3c?oc=5",
+            "published": "Wed, 13 May 2026 11:51:34 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXNWVmWlh1em92SnYycTJFSDRzWWJYVkpPT05Wc01GeEtyaXY5V0F2U2dhaTZISi03ckRLZGNRU0sxR1hZMGJfZU1WSV8wcjdlbVJzOTA2TEJUTjlOX3c?oc=5\" target=\"_blank\">EV コンストラクション、トヨタカローラ南海の店舗に150kW出力のEV用急速充電器3基を設置完了 (画像No. 6</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MOTA</font>",
+            "site_name": "MOTA"
+        },
+        {
+            "id": 88070,
+            "title": "EV コンストラクション、トヨタカローラ南海の店舗に150kW出力のEV用急速充電器3基を設置完了 (画像No. 8 - MOTA",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SNXBTa2stZ09rTms2SVFJZ1hKN1RHUmhnQURoUW96a3hwNUZlUTdnanBIdlZQSXdiWHlIVF82OWlIY09naTJkOUU2YnVOeE1jZDRuY084bFRpbGFPeVE?oc=5",
+            "published": "Wed, 13 May 2026 11:51:34 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SNXBTa2stZ09rTms2SVFJZ1hKN1RHUmhnQURoUW96a3hwNUZlUTdnanBIdlZQSXdiWHlIVF82OWlIY09naTJkOUU2YnVOeE1jZDRuY084bFRpbGFPeVE?oc=5\" target=\"_blank\">EV コンストラクション、トヨタカローラ南海の店舗に150kW出力のEV用急速充電器3基を設置完了 (画像No. 8</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MOTA</font>",
+            "site_name": "MOTA"
+        },
+        {
+            "id": 399160,
+            "title": "EV コンストラクション、トヨタカローラ南海の店舗に150kW出力のEV用急速充電器3基を設置完了 (画像No. 7 - MOTA",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYbGxCdVlKT1p1X0lISk13OFhvSWRURUlMVWdrdHNaVUxvbmNHc2pnUG42ZnNFd056VXVUWUFobHA4X2F3S01XVWVkUTZGSDZvb05meFdNcmY3eC13OUE?oc=5",
+            "published": "Wed, 13 May 2026 11:50:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYbGxCdVlKT1p1X0lISk13OFhvSWRURUlMVWdrdHNaVUxvbmNHc2pnUG42ZnNFd056VXVUWUFobHA4X2F3S01XVWVkUTZGSDZvb05meFdNcmY3eC13OUE?oc=5\" target=\"_blank\">EV コンストラクション、トヨタカローラ南海の店舗に150kW出力のEV用急速充電器3基を設置完了 (画像No. 7</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MOTA</font>",
+            "site_name": "MOTA"
+        },
+        {
+            "id": 545111,
+            "title": "EV コンストラクション、トヨタカローラ南海の店舗に150kW出力のEV用急速充電器3基を設置完了 (画像No. 12 - MOTA",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92MWNGbENZa3pJdklVdkZnVlNucVNXXzlHaFZMT3lSQWk3elZwUy1BRnQ1b2EyNk1sbXZzaGpCb0tYbHpfdFdwRFdjT2xid0xoM2I5b2pPSV9LM25LTUE?oc=5",
+            "published": "Wed, 13 May 2026 11:49:05 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE92MWNGbENZa3pJdklVdkZnVlNucVNXXzlHaFZMT3lSQWk3elZwUy1BRnQ1b2EyNk1sbXZzaGpCb0tYbHpfdFdwRFdjT2xid0xoM2I5b2pPSV9LM25LTUE?oc=5\" target=\"_blank\">EV コンストラクション、トヨタカローラ南海の店舗に150kW出力のEV用急速充電器3基を設置完了 (画像No. 12</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MOTA</font>",
+            "site_name": "MOTA"
+        },
+        {
+            "id": 260003,
+            "title": "韓国Kiaが次世代EVバンシリーズ「PV5カーゴ」「PV5パッセンジャー」で日本市場参入 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90Y2MwN1ZLd2xlbEFmWFZKQ0NwRXdacHVPTzVSMG9WN0tuWXRpWDdiQnBERXZseS1rU29Fb3RhWFhnQTZoS0xKQnJjRG1FcXVPbDl5U1dEM3lCcGpncHBVbXo5dVhJN3BE?oc=5",
+            "published": "Wed, 13 May 2026 11:20:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE90Y2MwN1ZLd2xlbEFmWFZKQ0NwRXdacHVPTzVSMG9WN0tuWXRpWDdiQnBERXZseS1rU29Fb3RhWFhnQTZoS0xKQnJjRG1FcXVPbDl5U1dEM3lCcGpncHBVbXo5dVhJN3BE?oc=5\" target=\"_blank\">韓国Kiaが次世代EVバンシリーズ「PV5カーゴ」「PV5パッセンジャー」で日本市場参入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 17874,
+            "title": "ヒョンデはなぜ、日産の半分に過ぎない「50万台」を目標にしたのか？ 北京モーターショーで露呈した“主導権経営”の勝算 - Merkmal",
+            "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8wSUVadC1lSE9iUnc0ZEQwNTJxbUxQMUlRaTJmWE80RV9memt0N0xQZGw0c0JtWUZMdXU0YTFKb1F6eWE2dFB1U0R3?oc=5",
+            "published": "Wed, 13 May 2026 20:53:08 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE8wSUVadC1lSE9iUnc0ZEQwNTJxbUxQMUlRaTJmWE80RV9memt0N0xQZGw0c0JtWUZMdXU0YTFKb1F6eWE2dFB1U0R3?oc=5\" target=\"_blank\">ヒョンデはなぜ、日産の半分に過ぎない「50万台」を目標にしたのか？ 北京モーターショーで露呈した“主導権経営”の勝算</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Merkmal</font>",
+            "site_name": "Merkmal"
+        },
+        {
+            "id": 392701,
+            "title": "ホンダ「ICON e:」インプレ｜利便性&航続距離を獲得したEVスクーター (1/2) - Webオートバイ",
+            "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE56M2xvZ1NxNVhtS0V0TEZpSzY3Z3RkbTVGZC1uMTVsRVY5WmtNS01QVTl0a056ZGI3TGhZMl9wSTFScFlCY0JjdDh3?oc=5",
+            "published": "Wed, 13 May 2026 10:30:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE56M2xvZ1NxNVhtS0V0TEZpSzY3Z3RkbTVGZC1uMTVsRVY5WmtNS01QVTl0a056ZGI3TGhZMl9wSTFScFlCY0JjdDh3?oc=5\" target=\"_blank\">ホンダ「ICON e:」インプレ｜利便性&航続距離を獲得したEVスクーター (1/2)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Webオートバイ</font>",
+            "site_name": "Webオートバイ"
+        },
+        {
+            "id": 842731,
+            "title": "甲斐市と九電 ＥＶ公用車を貸し出し 県内初、閉庁日に有償で - sannichi.co.jp",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qVldLdnJ0XzVSYzg2SDFOS0tvamhqbHlzYk8wTXlZckdGNEpoRy1ZYkVCczFIRV9jZlplWVNhSkFzQ1lTOHU5MU9fcjZzbTRDYS1hbWN3RG5QaDRWd2J1Y2huUC02Tjh4SG02MThBc0ktNlVj?oc=5",
+            "published": "Wed, 13 May 2026 05:16:58 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9qVldLdnJ0XzVSYzg2SDFOS0tvamhqbHlzYk8wTXlZckdGNEpoRy1ZYkVCczFIRV9jZlplWVNhSkFzQ1lTOHU5MU9fcjZzbTRDYS1hbWN3RG5QaDRWd2J1Y2huUC02Tjh4SG02MThBc0ktNlVj?oc=5\" target=\"_blank\">甲斐市と九電 ＥＶ公用車を貸し出し 県内初、閉庁日に有償で</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sannichi.co.jp</font>",
+            "site_name": "sannichi.co.jp"
+        },
+        {
+            "id": 402213,
+            "title": "フィアット・グランデ・パンダ・エレクトリック（2） 能力はいかにも小さなイタリア車 初代の精神を明確に受け継ぐ - AUTOCAR JAPAN",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5STHU2cmpSZmRpOXpCdWRjbFJTUUtaN0lUUGhKUERBU3BSSWtES2QtR1ZNYl8xZ3dhVVVNSGN3VlFPSVM3VXA0elBhNlQ?oc=5",
+            "published": "Wed, 13 May 2026 09:10:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE5STHU2cmpSZmRpOXpCdWRjbFJTUUtaN0lUUGhKUERBU3BSSWtES2QtR1ZNYl8xZ3dhVVVNSGN3VlFPSVM3VXA0elBhNlQ?oc=5\" target=\"_blank\">フィアット・グランデ・パンダ・エレクトリック（2） 能力はいかにも小さなイタリア車 初代の精神を明確に受け継ぐ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AUTOCAR JAPAN</font>",
+            "site_name": "AUTOCAR JAPAN"
+        },
+        {
+            "id": 520655,
+            "title": "【金融機関のEV化を加速】ブレイズの電動三輪ミニカー『EVデリバリー』、富士信用金庫にてテスト導入開始 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82dGpueHE5WmZoMHctQWNMMl9ZdTVkb2MxVHZ5T2xiWE5LdG9vdVYySG1BcFJ0RGYtNmlLUWFJWTNGWmJIUDl5MVptZUpLaUxmR0RJeWo1dzFQYTlGajVhQXFCODBWZm9tY1E?oc=5",
+            "published": "Wed, 13 May 2026 02:00:02 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE82dGpueHE5WmZoMHctQWNMMl9ZdTVkb2MxVHZ5T2xiWE5LdG9vdVYySG1BcFJ0RGYtNmlLUWFJWTNGWmJIUDl5MVptZUpLaUxmR0RJeWo1dzFQYTlGajVhQXFCODBWZm9tY1E?oc=5\" target=\"_blank\">【金融機関のEV化を加速】ブレイズの電動三輪ミニカー『EVデリバリー』、富士信用金庫にてテスト導入開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+            "site_name": "PR TIMES"
+        },
+        {
+            "id": 790913,
+            "title": "KiaのEVバン「PV5」が日本上陸！ 双日とタッグで直営1号店を東京にオープン 田島社長らが日本展開を語る - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeV9OTHQ4RmxIY3hOcy1qTmZIVk9UQzNUbkgweFlqVUN3TWc0Tnh0cjloellISDJ6R1VXdXZ3UmhfQWZlc3VkRi1hdUh2VzE4NWhsaGhuOHdJS1ljVExYWjdJQkhzTGRHeVBxWUpYODhBQm5UazlFU0wxNGZ4WkJuX0NtMFk1U1lXUlZ4NHJB?oc=5",
+            "published": "Wed, 13 May 2026 06:50:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOeV9OTHQ4RmxIY3hOcy1qTmZIVk9UQzNUbkgweFlqVUN3TWc0Tnh0cjloellISDJ6R1VXdXZ3UmhfQWZlc3VkRi1hdUh2VzE4NWhsaGhuOHdJS1ljVExYWjdJQkhzTGRHeVBxWUpYODhBQm5UazlFU0wxNGZ4WkJuX0NtMFk1U1lXUlZ4NHJB?oc=5\" target=\"_blank\">KiaのEVバン「PV5」が日本上陸！ 双日とタッグで直営1号店を東京にオープン 田島社長らが日本展開を語る</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 827226,
+            "title": "中国勢台頭、再編迫る 日本精工・NTN統合 日本車縮小、EVシフト追い打ち - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeTJ0U0hONFZmUFltZ3NrWkd0OGU4LWhJX1k0RDNKend2WnFXZERabXBEdUExSVIxQnltdlgxMU5sRDZva1RhdkdUVlBlejc0MEdVTVRYenh6czRoanVZcW11bC1nZjBRVnJuNk5jcUxrTFUyUDlaNHhTNHpnRmE2YXFqUnpSSk5WYXVqYjZxVHFaNjFmVWExOGZVdjVyYVo2d0toR0dn?oc=5",
+            "published": "Wed, 13 May 2026 17:03:45 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNeTJ0U0hONFZmUFltZ3NrWkd0OGU4LWhJX1k0RDNKend2WnFXZERabXBEdUExSVIxQnltdlgxMU5sRDZva1RhdkdUVlBlejc0MEdVTVRYenh6czRoanVZcW11bC1nZjBRVnJuNk5jcUxrTFUyUDlaNHhTNHpnRmE2YXFqUnpSSk5WYXVqYjZxVHFaNjFmVWExOGZVdjVyYVo2d0toR0dn?oc=5\" target=\"_blank\">中国勢台頭、再編迫る 日本精工・NTN統合 日本車縮小、EVシフト追い打ち</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+            "site_name": "日本経済新聞"
+        },
+        {
+            "id": 698999,
+            "title": "走った距離に応じて税負担---EV時代の自動車税、「走行距離課税」の背景 - レスポンス（Response.jp）",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrVUhUTnREdGZ1YmV4OExXWTRwc2VSdC1rRjZKRHRnNF9WTWJMZ3A0WFcwTUJTeTh6QWFRNUdHRXNGZzEtSG1YeXZOZTd1bWFwRGZRYm8xZDFyQlJfYXZV?oc=5",
+            "published": "Wed, 13 May 2026 03:30:04 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrVUhUTnREdGZ1YmV4OExXWTRwc2VSdC1rRjZKRHRnNF9WTWJMZ3A0WFcwTUJTeTh6QWFRNUdHRXNGZzEtSG1YeXZOZTd1bWFwRGZRYm8xZDFyQlJfYXZV?oc=5\" target=\"_blank\">走った距離に応じて税負担---EV時代の自動車税、「走行距離課税」の背景</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
+            "site_name": "レスポンス（Response.jp）"
+        },
+        {
+            "id": 640045,
+            "title": "トヨタが“小さなランクル”を模索したCompact Cruiser EV【写真・5枚目】 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01ZHhLVnNLNmwtTk1reXZqTzRwWERHVkQ3WEk2U1pHbFBzOHRINThOYkJwcFE3Sm9xMmZSUHhldFZvb3I3ak5HZjlZeWRHNWhNM0xPUklSNjNUaFJVcjhKR1AzUEVVQQ?oc=5",
+            "published": "Wed, 13 May 2026 02:49:58 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE01ZHhLVnNLNmwtTk1reXZqTzRwWERHVkQ3WEk2U1pHbFBzOHRINThOYkJwcFE3Sm9xMmZSUHhldFZvb3I3ak5HZjlZeWRHNWhNM0xPUklSNjNUaFJVcjhKR1AzUEVVQQ?oc=5\" target=\"_blank\">トヨタが“小さなランクル”を模索したCompact Cruiser EV【写真・5枚目】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 887293,
+            "title": "世界のＥＶ需要、2カ月連続増加 ガソリン高が追い風（ロイター） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XY0pVMmpZVEsxdmQ4WHNEXzlqSGpDYktkcDRqZFFUcjR0ZGhfcEsteGhmak1jd0ZRUUxOd0lQdjktN0dnZGczLXMydGVIR2dZeEN3RllXajhwaUFna1djQWFtc2VkNEdaUkh6NWRsUG1Hb0lNb0hpWUZ0WnRpX2s?oc=5",
+            "published": "Tue, 12 May 2026 23:37:38 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1XY0pVMmpZVEsxdmQ4WHNEXzlqSGpDYktkcDRqZFFUcjR0ZGhfcEsteGhmak1jd0ZRUUxOd0lQdjktN0dnZGczLXMydGVIR2dZeEN3RllXajhwaUFna1djQWFtc2VkNEdaUkh6NWRsUG1Hb0lNb0hpWUZ0WnRpX2s?oc=5\" target=\"_blank\">世界のＥＶ需要、2カ月連続増加 ガソリン高が追い風（ロイター）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 563377,
+            "title": "EV時代のV6――HORSE W30が示すハイブリッドパワートレーンの新基準【北京モーターショー2026】写真5枚目 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94bkNXTUtfOXp3MTNLUW5GVk9QLWN5VTdvSktlYnVtc2dPWFEyZzJlRFlta0RvNXpDb1NkNXJCTWt1Qk1LWjk4cWNIN3BENE0wekREV05GSmRRRjJZ?oc=5",
+            "published": "Wed, 13 May 2026 02:49:06 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE94bkNXTUtfOXp3MTNLUW5GVk9QLWN5VTdvSktlYnVtc2dPWFEyZzJlRFlta0RvNXpDb1NkNXJCTWt1Qk1LWjk4cWNIN3BENE0wekREV05GSmRRRjJZ?oc=5\" target=\"_blank\">EV時代のV6――HORSE W30が示すハイブリッドパワートレーンの新基準【北京モーターショー2026】写真5枚目</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 142678,
+            "title": "ジャガー新型フラッグシップEV「タイプ01」名称決定、1000馬力超 - Автомобильный портал 32CARS.RU",
+            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZWs0N0hlWS1Yd01mc0hObWZQcnZ4V1VJSEFjdFkydWw4SzFkYmdQNVFwaUdqU2hKOV80cFhWN2Z2blRwMEs5Yi1KVy1jUHV3aTV6bTJoSm5UY09iT1BVMWpGS1Q5a01BNG8wTl9nQlV3d0pTY1B0SnUzWGhwaWlqRW0xYk52TV9JNzgzbkhMdjhhWHZJX21YRDlpbERQUTBKSGI5UExBYThRenAxTlNydkJ2Z1F4UzVZ0gG8AUFVX3lxTFAwREp3S3ZpZDd2djBlR0pWRDB0S250VzY2THpTWmRmTjBVN0wtOUYxVVRlNVNVVENnZTNaRHZORGo1U2x0OThNT1RTdUp2WmdHYTVrZGxMWmkyTHhXX2FXZlRLNkk5Nl9wTUljbVY3OXdpclRGdmthN1R3R2o4bFBicWhTYVE1amRHY2NhamFxcW9QaXhxdUxZdlN1b2tKWjcwODRSd2psNm1XMlBtUG5DbXh0YVhLZGYwNXdU?oc=5",
+            "published": "Wed, 13 May 2026 11:57:31 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZWs0N0hlWS1Yd01mc0hObWZQcnZ4V1VJSEFjdFkydWw4SzFkYmdQNVFwaUdqU2hKOV80cFhWN2Z2blRwMEs5Yi1KVy1jUHV3aTV6bTJoSm5UY09iT1BVMWpGS1Q5a01BNG8wTl9nQlV3d0pTY1B0SnUzWGhwaWlqRW0xYk52TV9JNzgzbkhMdjhhWHZJX21YRDlpbERQUTBKSGI5UExBYThRenAxTlNydkJ2Z1F4UzVZ0gG8AUFVX3lxTFAwREp3S3ZpZDd2djBlR0pWRDB0S250VzY2THpTWmRmTjBVN0wtOUYxVVRlNVNVVENnZTNaRHZORGo1U2x0OThNT1RTdUp2WmdHYTVrZGxMWmkyTHhXX2FXZlRLNkk5Nl9wTUljbVY3OXdpclRGdmthN1R3R2o4bFBicWhTYVE1amRHY2NhamFxcW9QaXhxdUxZdlN1b2tKWjcwODRSd2psNm1XMlBtUG5DbXh0YVhLZGYwNXdU?oc=5\" target=\"_blank\">ジャガー新型フラッグシップEV「タイプ01」名称決定、1000馬力超</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Автомобильный портал 32CARS.RU</font>",
+            "site_name": "Автомобильный портал 32CARS.RU"
         }
     ]
 }
