@@ -1,0 +1,109 @@
+[
+    {
+        "topic_name": "スバルのEV開発延期",
+        "article_ids": [
+            783679,
+            813688,
+            888377,
+            350835
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "ホンダの2026年3月期決算とEV事業損失",
+        "article_ids": [
+            112200,
+            865307,
+            788420
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "三菱ふそうトラックのワイヤレス充電実証実験",
+        "article_ids": [
+            786083,
+            852064
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "大阪メトロのEVバス補助金返還とEVモーターズ・ジャパン民事再生",
+        "article_ids": [
+            510671
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "大同特殊鋼による東北特殊鋼のTOB",
+        "article_ids": [
+            326223
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "BYDによる欧州工場買収検討",
+        "article_ids": [
+            7451
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "ホンダの事業再構築とHVシフト",
+        "article_ids": [
+            103318,
+            907721,
+            360535,
+            242225
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "中国におけるEV電池材料の輸入依存",
+        "article_ids": [
+            637360
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "EUのCO2排出規制緩和と欧州EV産業への影響",
+        "article_ids": [
+            443331
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "中国EVの技術進化",
+        "article_ids": [
+            631532
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "デンソー撤退とパワー半導体の課題",
+        "article_ids": [
+            905674
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "オートバックスと奇瑞汽車の提携によるEV日本展開",
+        "article_ids": [
+            50845
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "タイにおけるEVのVAT減免",
+        "article_ids": [
+            549189
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "中国EV輸入削減を求める業界の動き",
+        "article_ids": [
+            574171
+        ],
+        "is_grouped": false
+    }
+]
