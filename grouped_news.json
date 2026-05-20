@@ -1,0 +1,49 @@
+[
+    {
+        "topic_name": "ミライズエネチェンジの民事再生法申請",
+        "article_ids": [
+            675457,
+            84830,
+            148558,
+            931919,
+            836640,
+            518903,
+            707410
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "ホンダのEV戦略見直しと業績赤字",
+        "article_ids": [
+            524072,
+            155309,
+            752767,
+            798982
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "スバルの自社EV投入延期",
+        "article_ids": [
+            806835,
+            654881
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "世界のEV販売シェア予測（IEA）",
+        "article_ids": [
+            224403,
+            971895
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "欧州EV販売増加とエネルギー危機の影響",
+        "article_ids": [
+            126381,
+            51464
+        ],
+        "is_grouped": true
+    }
+]
