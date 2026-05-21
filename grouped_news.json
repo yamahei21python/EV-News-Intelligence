@@ -1,0 +1,31 @@
+[
+    {
+        "topic_name": "IEAによる2025-2026年世界EV販売動向報告",
+        "article_ids": [
+            626819,
+            138341,
+            785749,
+            445934,
+            12136
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "ニチコンによる新型EV急速充電器の開発と発表",
+        "article_ids": [
+            381509,
+            449762
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "ホンダのEV事業戦略・展開",
+        "article_ids": [
+            601504,
+            40931,
+            208823,
+            636602
+        ],
+        "is_grouped": true
+    }
+]
