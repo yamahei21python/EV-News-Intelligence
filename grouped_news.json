@@ -1,0 +1,56 @@
+[
+    {
+        "topic_name": "ホンダの小型EV「スーパーワン」発売",
+        "article_ids": [
+            284017,
+            314880,
+            819733,
+            132943
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "EVモーターズ・ジャパンの民事再生と万博EVバス問題",
+        "article_ids": [
+            958827,
+            153862,
+            294857,
+            34460
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "ホンダアクセス「Honda V2H Stand」発売",
+        "article_ids": [
+            916555,
+            604963
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "IEAによる2025-2026年世界EV販売動向の発表",
+        "article_ids": [
+            138341,
+            763869,
+            135874
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "BYDの活動および技術発表",
+        "article_ids": [
+            89036,
+            640506
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "ホンダのEV戦略見直しと開発中止",
+        "article_ids": [
+            243097,
+            599287,
+            873899
+        ],
+        "is_grouped": true
+    }
+]
