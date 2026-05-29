@@ -1,6 +1,6 @@
 {
-    "updated_at": "2026-05-29 12:10:53",
-    "total_count": 100,
+    "updated_at": "2026-05-29 22:29:12",
+    "total_count": 165,
     "articles": [
         {
             "id": 176625,
@@ -801,6 +801,526 @@
             "published": "Fri, 29 May 2026 01:33:00 GMT",
             "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yazZyT2RTUlI1QWE4a281SXpOSkd1R1E5Q0E0bkVTUVpPOTZSb1U5MXR0cG0wd0lTcFNwTUQ2X2U5dGtMYXBnSTY0X1NISWV3NHptRnBB?oc=5\" target=\"_blank\">トヨタ、次世代ＥＶ開発中止 市場減速、関連技術は継続 | | 全国のニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">佐賀新聞</font>",
             "site_name": "佐賀新聞"
+        },
+        {
+            "id": 228845,
+            "title": "トヨタ、次世代ＥＶ中止 レクサスで計画 技術開発は続行 - 朝日新聞",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yRWQ4UnFTSEZfdEtrbjVEb21DNTZ4QXMyeGdmSUVfUlg1cFhUTU56dXd6VHBPS29wa3FQT3NVejFoZnNPWEw4d1oyeE1JYXBNTGxKTWUtWHV4MXg1?oc=5",
+            "published": "Fri, 29 May 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yRWQ4UnFTSEZfdEtrbjVEb21DNTZ4QXMyeGdmSUVfUlg1cFhUTU56dXd6VHBPS29wa3FQT3NVejFoZnNPWEw4d1oyeE1JYXBNTGxKTWUtWHV4MXg1?oc=5\" target=\"_blank\">トヨタ、次世代ＥＶ中止 レクサスで計画 技術開発は続行</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
+            "site_name": "朝日新聞"
+        },
+        {
+            "id": 646064,
+            "title": "トヨタ次世代EV、国内では開発中止を決めても、中国では生産へ 経営判断が分かれた決定的な差は… - 東京新聞デジタル",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uU25ocXktam5rdVdzeDY3T3RJODNTWURDaXZsRUczMTBrcWNadE16TThKNmlsUWprM01Gc3pWSEdxeW91V1BJNlFwLVFFSnZqWDBF?oc=5",
+            "published": "Fri, 29 May 2026 21:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uU25ocXktam5rdVdzeDY3T3RJODNTWURDaXZsRUczMTBrcWNadE16TThKNmlsUWprM01Gc3pWSEdxeW91V1BJNlFwLVFFSnZqWDBF?oc=5\" target=\"_blank\">トヨタ次世代EV、国内では開発中止を決めても、中国では生産へ 経営判断が分かれた決定的な差は…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東京新聞デジタル</font>",
+            "site_name": "東京新聞デジタル"
+        },
+        {
+            "id": 308059,
+            "title": "BYD、新型軽EV「ラッコ」は一充電走行距離200kmの「200」、300kmの「300Plus」「300Premium」の3グレード展開 - Car Watch",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LM2xLS1ZhOFc3RmdBYVJEN0hYLUFpa1JSV2NRX3gxaDl0Q2xWVUx5ZDRwckRlY0JXZW9XWXdvTnNsX1psS2QtWEFKLTl6RngxcUVWYmFpa201QWRXejlhd1BlaTM?oc=5",
+            "published": "Fri, 29 May 2026 03:54:02 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LM2xLS1ZhOFc3RmdBYVJEN0hYLUFpa1JSV2NRX3gxaDl0Q2xWVUx5ZDRwckRlY0JXZW9XWXdvTnNsX1psS2QtWEFKLTl6RngxcUVWYmFpa201QWRXejlhd1BlaTM?oc=5\" target=\"_blank\">BYD、新型軽EV「ラッコ」は一充電走行距離200kmの「200」、300kmの「300Plus」「300Premium」の3グレード展開</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Car Watch</font>",
+            "site_name": "Car Watch"
+        },
+        {
+            "id": 862441,
+            "title": "次世代ＥＶの一部 中止 トヨタ セダン、市場減速受け - 福井新聞社",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDbktXdk9vUnpYalFzZXgtMno2emk2RVc0cFpOQmlJd2dCTVRmOXhobVVVOURxSkE4cHZydTZnQkdTNzNObkV1VExWWVZCVGJpQlpYNDVESFpWSVVUUlE?oc=5",
+            "published": "Fri, 29 May 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDbktXdk9vUnpYalFzZXgtMno2emk2RVc0cFpOQmlJd2dCTVRmOXhobVVVOURxSkE4cHZydTZnQkdTNzNObkV1VExWWVZCVGJpQlpYNDVESFpWSVVUUlE?oc=5\" target=\"_blank\">次世代ＥＶの一部 中止 トヨタ セダン、市場減速受け</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">福井新聞社</font>",
+            "site_name": "福井新聞社"
+        },
+        {
+            "id": 838611,
+            "title": "質問なるほドリ：日本メーカー、なぜEV戦略縮小？ トランプ政権が優遇廃止、販売減少＝回答・田中韻 - 毎日新聞",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jLUlJZkVnY2h6UWhmMkNhRUFFU3NteVBoQ1dUX3BsMEE0YkluODdfUzFSc2RwMXZUNWpoTjV5aUVVR185SnYwT002WGE0b01VZnpBTjJXUTRqQ3dEVFIza0R4WGRaTXYt?oc=5",
+            "published": "Fri, 29 May 2026 17:01:53 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jLUlJZkVnY2h6UWhmMkNhRUFFU3NteVBoQ1dUX3BsMEE0YkluODdfUzFSc2RwMXZUNWpoTjV5aUVVR185SnYwT002WGE0b01VZnpBTjJXUTRqQ3dEVFIza0R4WGRaTXYt?oc=5\" target=\"_blank\">質問なるほドリ：日本メーカー、なぜEV戦略縮小？ トランプ政権が優遇廃止、販売減少＝回答・田中韻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">毎日新聞</font>",
+            "site_name": "毎日新聞"
+        },
+        {
+            "id": 294275,
+            "title": "普段はEVモードで、ここ一番は「S5」並みの加速で！「アウディ A5」シリーズ初のプラグイン・ハイブリッドが上陸【1151万円〜】 - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aN2tsMWZJZE5XbHhLTGRGelNULUFCVmExUUFobVJxdllqRklEejVkV2ZOVU5iMFB6b1NmanJ5elhhM283aHZXalVmMlotdnhIWlJNbW5aX25DWjdaalR1NHA1bDlaaFlfc0RDeXFjRXdZMllXNGRjOU9NenZHVTQ?oc=5",
+            "published": "Fri, 29 May 2026 21:05:04 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9aN2tsMWZJZE5XbHhLTGRGelNULUFCVmExUUFobVJxdllqRklEejVkV2ZOVU5iMFB6b1NmanJ5elhhM283aHZXalVmMlotdnhIWlJNbW5aX25DWjdaalR1NHA1bDlaaFlfc0RDeXFjRXdZMllXNGRjOU9NenZHVTQ?oc=5\" target=\"_blank\">普段はEVモードで、ここ一番は「S5」並みの加速で！「アウディ A5」シリーズ初のプラグイン・ハイブリッドが上陸【1151万円〜】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 593197,
+            "title": "フェラーリ初EV、｢らしさ｣巡り大論争 元Appleデザイナーと路線転換 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xNG1nRzZUcnVfR3FUVWZZTGYzNjhGNUVxVDE1S1hzNVliS3hyMV8zM056V1lQNldOeTkwZ3VVamlvMURiYlNuR2pfNDlwUnlaS0Q3N0RFRWJoRDNLNS1uZ0ZydlNSNFJ5aG4weQ?oc=5",
+            "published": "Fri, 29 May 2026 19:20:24 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1xNG1nRzZUcnVfR3FUVWZZTGYzNjhGNUVxVDE1S1hzNVliS3hyMV8zM056V1lQNldOeTkwZ3VVamlvMURiYlNuR2pfNDlwUnlaS0Q3N0RFRWJoRDNLNS1uZ0ZydlNSNFJ5aG4weQ?oc=5\" target=\"_blank\">フェラーリ初EV、｢らしさ｣巡り大論争 元Appleデザイナーと路線転換</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+            "site_name": "日本経済新聞"
+        },
+        {
+            "id": 575285,
+            "title": "トヨタ、EV戦略に大なた 新体制で高級セダン開発中止 採算徹底、中国勢を意識 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3cDBEOFJDX3M4dktGMnZqRFA5TUx5ZERDMkFWclREZEZmRFJ5WE9QQXJTckpjd0JpOVpGR0FoNkJPNUVNNDFPMmVCck14UWdleThtbFZ2R3NLUnkwc1AyN0lWTEE2TmYxYkRSQw?oc=5",
+            "published": "Fri, 29 May 2026 17:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFB3cDBEOFJDX3M4dktGMnZqRFA5TUx5ZERDMkFWclREZEZmRFJ5WE9QQXJTckpjd0JpOVpGR0FoNkJPNUVNNDFPMmVCck14UWdleThtbFZ2R3NLUnkwc1AyN0lWTEE2TmYxYkRSQw?oc=5\" target=\"_blank\">トヨタ、EV戦略に大なた 新体制で高級セダン開発中止 採算徹底、中国勢を意識</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+            "site_name": "日本経済新聞"
+        },
+        {
+            "id": 569244,
+            "title": "ダイハツ初の量産軽商用EV『e-ハイゼット』『e-アトレー』、アイシンやデンソーらが共同開発の「eAxle」採用 - CAR CARE PLUS",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50ZmNaVG1PdW82cjAwYmdUWllidWo5N3dsSEE3dnZsZTVBdkM2M3JRUzhHUkVvS0ZmbVdJM0hyZVdrYkdPcnRIVzdtOTNjR1A3UUh2RTBHYWxCdTJUMUY5MHhR?oc=5",
+            "published": "Fri, 29 May 2026 22:00:03 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE50ZmNaVG1PdW82cjAwYmdUWllidWo5N3dsSEE3dnZsZTVBdkM2M3JRUzhHUkVvS0ZmbVdJM0hyZVdrYkdPcnRIVzdtOTNjR1A3UUh2RTBHYWxCdTJUMUY5MHhR?oc=5\" target=\"_blank\">ダイハツ初の量産軽商用EV『e-ハイゼット』『e-アトレー』、アイシンやデンソーらが共同開発の「eAxle」採用</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CAR CARE PLUS</font>",
+            "site_name": "CAR CARE PLUS"
+        },
+        {
+            "id": 218965,
+            "title": "トヨタ 「レクサス」の次世代EV「LF－ZC」の開発を中止 - FNNプライムオンライン",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43MTh2WFAxNTVKRUROT1llaFNzdzRuREdsSFM1UVdIM0o5RENLeFRtRVJfbVN4Ti14VDAzdXFqMUNDWmZnYVczanZydGprUQ?oc=5",
+            "published": "Fri, 29 May 2026 15:28:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE43MTh2WFAxNTVKRUROT1llaFNzdzRuREdsSFM1UVdIM0o5RENLeFRtRVJfbVN4Ti14VDAzdXFqMUNDWmZnYVczanZydGprUQ?oc=5\" target=\"_blank\">トヨタ 「レクサス」の次世代EV「LF－ZC」の開発を中止</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FNNプライムオンライン</font>",
+            "site_name": "FNNプライムオンライン"
+        },
+        {
+            "id": 664177,
+            "title": "「人とくるまのテクノロジー展」閉幕 ＥＶ向け技術を提案 軽量化や効率化もアピール - 中部経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mS0o3aG1xYlN4WGFhdEdFbmlXSmZLRXRlejZ2Y1VPM1BSX0VNX2MxY0hDajZ6UjczTjREZFROT2IwMURybHhmb0txSDVIYUd2dXgxSThnV3c1VzJ0SzV6c2hUXzllV1p0VXFoVlNkZHp1bEE?oc=5",
+            "published": "Fri, 29 May 2026 20:12:25 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5mS0o3aG1xYlN4WGFhdEdFbmlXSmZLRXRlejZ2Y1VPM1BSX0VNX2MxY0hDajZ6UjczTjREZFROT2IwMURybHhmb0txSDVIYUd2dXgxSThnV3c1VzJ0SzV6c2hUXzllV1p0VXFoVlNkZHp1bEE?oc=5\" target=\"_blank\">「人とくるまのテクノロジー展」閉幕 ＥＶ向け技術を提案 軽量化や効率化もアピール</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中部経済新聞</font>",
+            "site_name": "中部経済新聞"
+        },
+        {
+            "id": 487914,
+            "title": "トヨタ、次世代ＥＶ開発中止（中部経済新聞） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Dc2ZsZXFDRmhrMzByVFdOckdoV1BpX2RwOUI4NFQtSUtNQmRVOVVfSTVHVUpCNGhHT1NDemZmYmRFd1BJTzdwVDVYRkh1YXpqT1h1M0Z5anJxcm85X0NncFhlMkdDQ2IwZnNZejVzdHBMdHYyRXgzcXRMWXZTbVE?oc=5",
+            "published": "Fri, 29 May 2026 01:45:26 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9Dc2ZsZXFDRmhrMzByVFdOckdoV1BpX2RwOUI4NFQtSUtNQmRVOVVfSTVHVUpCNGhHT1NDemZmYmRFd1BJTzdwVDVYRkh1YXpqT1h1M0Z5anJxcm85X0NncFhlMkdDQ2IwZnNZejVzdHBMdHYyRXgzcXRMWXZTbVE?oc=5\" target=\"_blank\">トヨタ、次世代ＥＶ開発中止（中部経済新聞）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 222190,
+            "title": "人とくるまのテクノロジー展 エンジン車再び注目 ＥＶ普及減速で ：地域ニュース - 読売新聞",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wLWMtWjBEY0xwbFVWTnVqV3NPQmcyV1d3Vm1mMldlUW1OSm9IUHd3THZEWjFWTTRWZU9URFlMeWRxNVhFM3VPWWxBR1V4d0VBRDhNeEFWbGhwVDJVNXpMZUxKeExEY3RTc0ZDZTBqTVQ?oc=5",
+            "published": "Fri, 29 May 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE0wLWMtWjBEY0xwbFVWTnVqV3NPQmcyV1d3Vm1mMldlUW1OSm9IUHd3THZEWjFWTTRWZU9URFlMeWRxNVhFM3VPWWxBR1V4d0VBRDhNeEFWbGhwVDJVNXpMZUxKeExEY3RTc0ZDZTBqTVQ?oc=5\" target=\"_blank\">人とくるまのテクノロジー展 エンジン車再び注目 ＥＶ普及減速で ：地域ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">読売新聞</font>",
+            "site_name": "読売新聞"
+        },
+        {
+            "id": 564929,
+            "title": "アルプスアルパイン、来期純利益予想20億円下げ EV減速で - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdXByLVFXR0dGcmhVTk1sUEFPbHdMcEQ3ckxxS195MUxnZDIwXzYzMFk2TnZ0VnREVDFrdk8tS1U5WV9feldSeUw0aF9JSXdOUV9TcGN4NWN0RWdXOTE5UER6RFFzeFk4clc5aFpsYXAySDZCM0Q5UVJMYjdHeU80OTJJRDNRVTdQakJvaXBIOG54TzFjd3haTGhyTXNOODFXN01XUkUzVWE?oc=5",
+            "published": "Fri, 29 May 2026 20:10:33 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdXByLVFXR0dGcmhVTk1sUEFPbHdMcEQ3ckxxS195MUxnZDIwXzYzMFk2TnZ0VnREVDFrdk8tS1U5WV9feldSeUw0aF9JSXdOUV9TcGN4NWN0RWdXOTE5UER6RFFzeFk4clc5aFpsYXAySDZCM0Q5UVJMYjdHeU80OTJJRDNRVTdQakJvaXBIOG54TzFjd3haTGhyTXNOODFXN01XUkUzVWE?oc=5\" target=\"_blank\">アルプスアルパイン、来期純利益予想20億円下げ EV減速で</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+            "site_name": "日本経済新聞"
+        },
+        {
+            "id": 185488,
+            "title": "トヨタ、次世代EVの開発中止＝市場伸び悩み、レクサスモデル☆差替(時事通信) - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb0hUcXNDSW1scVZFLVVkby1jbnVmZ1BjR05CYUZJR2VXVjJvRy1OV3lMM0RqRGxBTk03Z2o2eHd0NTFMNDVZclhiZElaNUMtSGhJUW9uMXlYNEU1T3NjMWpnZVhndGI2LTljM2lTMjFnTHR3TE03aHpicFFXYmZDOWlJZTZjLTA?oc=5",
+            "published": "Fri, 29 May 2026 13:07:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOb0hUcXNDSW1scVZFLVVkby1jbnVmZ1BjR05CYUZJR2VXVjJvRy1OV3lMM0RqRGxBTk03Z2o2eHd0NTFMNDVZclhiZElaNUMtSGhJUW9uMXlYNEU1T3NjMWpnZVhndGI2LTljM2lTMjFnTHR3TE03aHpicFFXYmZDOWlJZTZjLTA?oc=5\" target=\"_blank\">トヨタ、次世代EVの開発中止＝市場伸び悩み、レクサスモデル☆差替(時事通信)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ファイナンス</font>",
+            "site_name": "Yahoo!ファイナンス"
+        },
+        {
+            "id": 574453,
+            "title": "トヨタ レクサスの次世代EV開発中止 世界的な需要鈍化影響か 最新の経済ニュース【随時更新】 - ABEMA",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eWVqc0F1Nm9Na3JPc2dlSUtxeFBHUnRyWlVPU25xTEtLSGtReDNRVm1mdlJ0UVVpUHVYbmUtdExjWnJkVXNhN3ZQbkx2ZU5tUGNHUkkyNDFhY0E?oc=5",
+            "published": "Fri, 29 May 2026 11:22:26 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eWVqc0F1Nm9Na3JPc2dlSUtxeFBHUnRyWlVPU25xTEtLSGtReDNRVm1mdlJ0UVVpUHVYbmUtdExjWnJkVXNhN3ZQbkx2ZU5tUGNHUkkyNDFhY0E?oc=5\" target=\"_blank\">トヨタ レクサスの次世代EV開発中止 世界的な需要鈍化影響か 最新の経済ニュース【随時更新】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABEMA</font>",
+            "site_name": "ABEMA"
+        },
+        {
+            "id": 124918,
+            "title": "トヨタ、次世代EV開発中止 世界的なEV市場の減速を考慮 - 毎日新聞",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xd3JzRm1nNVc5SVdjang3aVpJMUNrbjVGZTJaVmdnYjc0b0QxQ3A0UUxLWlZZY3BVa0dwUzl5cWtOcTlKOHAzd0hBSnZOalJRdWZCNGcxek96Q0lQc3ZOZ0NSbFRhWTdT?oc=5",
+            "published": "Fri, 29 May 2026 04:58:33 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xd3JzRm1nNVc5SVdjang3aVpJMUNrbjVGZTJaVmdnYjc0b0QxQ3A0UUxLWlZZY3BVa0dwUzl5cWtOcTlKOHAzd0hBSnZOalJRdWZCNGcxek96Q0lQc3ZOZ0NSbFRhWTdT?oc=5\" target=\"_blank\">トヨタ、次世代EV開発中止 世界的なEV市場の減速を考慮</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">毎日新聞</font>",
+            "site_name": "毎日新聞"
+        },
+        {
+            "id": 608452,
+            "title": "ブレイズ、三輪EV配送車の走行安定性を向上 - LOGISTICS TODAY",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5JRlhzT0JNRHI4YU1QNDJSdDRUTWV1Y29zbzZZTEFKUUZUcXVfT0FibVJUYnRLVTBqYnZlNlRRQVdBbjdYd1pESw?oc=5",
+            "published": "Fri, 29 May 2026 09:46:06 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5JRlhzT0JNRHI4YU1QNDJSdDRUTWV1Y29zbzZZTEFKUUZUcXVfT0FibVJUYnRLVTBqYnZlNlRRQVdBbjdYd1pESw?oc=5\" target=\"_blank\">ブレイズ、三輪EV配送車の走行安定性を向上</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
+            "site_name": "LOGISTICS TODAY"
+        },
+        {
+            "id": 863504,
+            "title": "燃料高対策など 都、補正案542億円 EV購入補助130万円に - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObzIzQi1YRWljOGZhNDd4aUpBZzlWRnh0LW1WNnJDZnhjQ3dOeEVXTG9pQVlzcFd4SmtTZEE3R3hBa0VnR0RlazlVU0c0Sm5MUi1iMGMzTXZ4WkFfZ0hFQ0V6TDI0YXUzemNKS2xaYlBCZDMtc212UGotTnk2TFBYUUstQWNUVUN3eWUtcVpvS2VyVEUzNHQ1c3g0SDh4OU1nWHBDRU53?oc=5",
+            "published": "Fri, 29 May 2026 17:04:42 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxObzIzQi1YRWljOGZhNDd4aUpBZzlWRnh0LW1WNnJDZnhjQ3dOeEVXTG9pQVlzcFd4SmtTZEE3R3hBa0VnR0RlazlVU0c0Sm5MUi1iMGMzTXZ4WkFfZ0hFQ0V6TDI0YXUzemNKS2xaYlBCZDMtc212UGotTnk2TFBYUUstQWNUVUN3eWUtcVpvS2VyVEUzNHQ1c3g0SDh4OU1nWHBDRU53?oc=5\" target=\"_blank\">燃料高対策など 都、補正案542億円 EV購入補助130万円に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+            "site_name": "日本経済新聞"
+        },
+        {
+            "id": 975343,
+            "title": "DSオートモビル、新世代フラグシップEV「N°8」発売 価格1005万円から - Car Watch",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4aUN3MzBfeC10MWJIVktzdGxabkdtVl9BSDJhZUJyajhFNzJTLS12V3BkXzNzV1c1U3dCaUhyZnRqdHRMLU9mTmx6RzdEdXRNaUtYaXEtakJxTzgzdlozNTlPdW8?oc=5",
+            "published": "Fri, 29 May 2026 13:20:49 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4aUN3MzBfeC10MWJIVktzdGxabkdtVl9BSDJhZUJyajhFNzJTLS12V3BkXzNzV1c1U3dCaUhyZnRqdHRMLU9mTmx6RzdEdXRNaUtYaXEtakJxTzgzdlozNTlPdW8?oc=5\" target=\"_blank\">DSオートモビル、新世代フラグシップEV「N°8」発売 価格1005万円から</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Car Watch</font>",
+            "site_name": "Car Watch"
+        },
+        {
+            "id": 52509,
+            "title": "日中出資のEV新ブランド誕生 2027年に発売開始 29年までに4車種投入を計画 - テレ東BIZ",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45TGR1TWNsTEkzMU0zcjdrTXBpLVZXX19hVE5zbUx3QjBieXZHV2k2WTlYc3JWOC1MZWRVWVUzdTB2QW9mU2g0ZjdZbjBXYlhBN21rVzQ1dzdoZlBwUGc?oc=5",
+            "published": "Fri, 29 May 2026 10:46:53 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE45TGR1TWNsTEkzMU0zcjdrTXBpLVZXX19hVE5zbUx3QjBieXZHV2k2WTlYc3JWOC1MZWRVWVUzdTB2QW9mU2g0ZjdZbjBXYlhBN21rVzQ1dzdoZlBwUGc?oc=5\" target=\"_blank\">日中出資のEV新ブランド誕生 2027年に発売開始 29年までに4車種投入を計画</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">テレ東BIZ</font>",
+            "site_name": "テレ東BIZ"
+        },
+        {
+            "id": 58516,
+            "title": "三輪電動バイク『EVデリバリー』がマイナーチェンジ、全長10cm延長で走行安定性を強化…59万9500円から 3枚目の写真・画像 - レスポンス（Response.jp）",
+            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaG05djQ2d19RVFNzS3FTNUExSklSRWhMQ1NvQUFQOEE4RTRReU0zVkJpWk5sbWUxbXkyc0dtUllxYlMxTEJjTXBXT21LeEVsV3l1SWNjZHFOdEllNWU2ZGRnbnpIWVNtRHhDZlBKZEtCcVNqVDNJa05lUEgtTy1ORlJjSGFWVTUtYmJnZEtaNA?oc=5",
+            "published": "Fri, 29 May 2026 08:00:04 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQaG05djQ2d19RVFNzS3FTNUExSklSRWhMQ1NvQUFQOEE4RTRReU0zVkJpWk5sbWUxbXkyc0dtUllxYlMxTEJjTXBXT21LeEVsV3l1SWNjZHFOdEllNWU2ZGRnbnpIWVNtRHhDZlBKZEtCcVNqVDNJa05lUEgtTy1ORlJjSGFWVTUtYmJnZEtaNA?oc=5\" target=\"_blank\">三輪電動バイク『EVデリバリー』がマイナーチェンジ、全長10cm延長で走行安定性を強化…59万9500円から 3枚目の写真・画像</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
+            "site_name": "レスポンス（Response.jp）"
+        },
+        {
+            "id": 435295,
+            "title": "電気自動車の最新情報 - ブロックチェーンの革新がEVインフラ開発を変える - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMTN4SkFxanJMaGpEVGlybDRadWFpUkI5SWdGcEtJMG5RTzk0eVdEUTlFc3JBYUJjLTdTUmpRQXp4Y3B2d3JUb3NFLTFZWTZBNkp0Z25TbzVxOC1rYXBXbElkMjFqQy1kT09DSVplbDdxUkZ6aDJiZ3lWXzBYc0Z5dExXVV9FRVZKY01DemFNb9IBlAFBVV95cUxQTjdibHJTNmtxNlVNUEVuY2tjTDh2Unllem1EeGJjdnlka3NsUFo2VkNUaTFYOXFJc2ZLbzd2Ty11NjVRRVVqeXlHR0Ztd2pnc2JCWDVXVlh0OGdxNnBQdEdRdFZ6al8zSGZkcUpvcnZlTm45MlBZR0lqVGJSMmRwT1RERFFMSGRjZlplY3ZXZ29JOGRS?oc=5",
+            "published": "Fri, 29 May 2026 12:46:10 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQMTN4SkFxanJMaGpEVGlybDRadWFpUkI5SWdGcEtJMG5RTzk0eVdEUTlFc3JBYUJjLTdTUmpRQXp4Y3B2d3JUb3NFLTFZWTZBNkp0Z25TbzVxOC1rYXBXbElkMjFqQy1kT09DSVplbDdxUkZ6aDJiZ3lWXzBYc0Z5dExXVV9FRVZKY01DemFNb9IBlAFBVV95cUxQTjdibHJTNmtxNlVNUEVuY2tjTDh2Unllem1EeGJjdnlka3NsUFo2VkNUaTFYOXFJc2ZLbzd2Ty11NjVRRVVqeXlHR0Ztd2pnc2JCWDVXVlh0OGdxNnBQdEdRdFZ6al8zSGZkcUpvcnZlTm45MlBZR0lqVGJSMmRwT1RERFFMSGRjZlplY3ZXZ29JOGRS?oc=5\" target=\"_blank\">電気自動車の最新情報 - ブロックチェーンの革新がEVインフラ開発を変える</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+            "site_name": "simplywall.st"
+        },
+        {
+            "id": 932150,
+            "title": "フェラーリ 初のEV発表 価格1億円 市場は拒絶？ - テレ東BIZ",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DN0huRlBuMHo3ckRHQmRwNmpMd0RNUGNUdmVFeXdHNW9BMmo4c1k2d20yTGZiLTVTZTJ6cXN6N2dIenNYVjRlVTFmYUxqaE00LVlkOHpvUDF2Y0RCN2c?oc=5",
+            "published": "Fri, 29 May 2026 10:55:58 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DN0huRlBuMHo3ckRHQmRwNmpMd0RNUGNUdmVFeXdHNW9BMmo4c1k2d20yTGZiLTVTZTJ6cXN6N2dIenNYVjRlVTFmYUxqaE00LVlkOHpvUDF2Y0RCN2c?oc=5\" target=\"_blank\">フェラーリ 初のEV発表 価格1億円 市場は拒絶？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">テレ東BIZ</font>",
+            "site_name": "テレ東BIZ"
+        },
+        {
+            "id": 302883,
+            "title": "モリタ、欧州規格対応のはしご付消防自動車とEVポンプ出展へ…INTERSCHUTZ 2026 2枚目の写真・画像 - レスポンス（Response.jp）",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kOElyWUhDdm9EWHFBSlVZWXlKSmF4cl9MTUlWbHRPdEwzY3JIQk1LcGlyU2lqdElhM2xDOWwxWEZ1N0ZJeG9mSUpiM0dXeFlrNjd3c3BITi1ESGw4TU5JNU81X0tHeV9rM25VX1JiRWdnQQ?oc=5",
+            "published": "Fri, 29 May 2026 08:45:03 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1kOElyWUhDdm9EWHFBSlVZWXlKSmF4cl9MTUlWbHRPdEwzY3JIQk1LcGlyU2lqdElhM2xDOWwxWEZ1N0ZJeG9mSUpiM0dXeFlrNjd3c3BITi1ESGw4TU5JNU81X0tHeV9rM25VX1JiRWdnQQ?oc=5\" target=\"_blank\">モリタ、欧州規格対応のはしご付消防自動車とEVポンプ出展へ…INTERSCHUTZ 2026 2枚目の写真・画像</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
+            "site_name": "レスポンス（Response.jp）"
+        },
+        {
+            "id": 759494,
+            "title": "中国BYD、軽EV「ラッコ」7月28日発売、トヨタは次世代EV「LF-ZC」開発中止［新聞ウォッチ］ - レスポンス（Response.jp）",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CRXR4UjBKRWJaVFZNbmdsRjBudWhtbjdmOE9CMTluTldkWGg4Q0t5MlEycWxTMmJXQXpEa3FpVHlTelVXM3MwRFJvZno5N0dVeFZOMUMweXRmczE2RXRF?oc=5",
+            "published": "Thu, 28 May 2026 23:28:27 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CRXR4UjBKRWJaVFZNbmdsRjBudWhtbjdmOE9CMTluTldkWGg4Q0t5MlEycWxTMmJXQXpEa3FpVHlTelVXM3MwRFJvZno5N0dVeFZOMUMweXRmczE2RXRF?oc=5\" target=\"_blank\">中国BYD、軽EV「ラッコ」7月28日発売、トヨタは次世代EV「LF-ZC」開発中止［新聞ウォッチ］</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
+            "site_name": "レスポンス（Response.jp）"
+        },
+        {
+            "id": 21552,
+            "title": "欧州新車販売 EV好調 3カ月連続のプラス - テレ東BIZ",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RQ3ZoOHlzaHVQY01BOW80WG5UMWtXUUUyNzdCQzJ5dEcwLThVb1EyZDI3SUVCYWhsSmdJUnRRM1VpRmVpMmVWWTRaVXozUHdpNV9Qa1VsX1dSRHhfTkE?oc=5",
+            "published": "Fri, 29 May 2026 09:10:09 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RQ3ZoOHlzaHVQY01BOW80WG5UMWtXUUUyNzdCQzJ5dEcwLThVb1EyZDI3SUVCYWhsSmdJUnRRM1VpRmVpMmVWWTRaVXozUHdpNV9Qa1VsX1dSRHhfTkE?oc=5\" target=\"_blank\">欧州新車販売 EV好調 3カ月連続のプラス</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">テレ東BIZ</font>",
+            "site_name": "テレ東BIZ"
+        },
+        {
+            "id": 954301,
+            "title": "トヨタ レクサスの次世代EV開発中止 需要鈍化が影響 【アベマ厳選】注目の最新&独自ニュースをチェック! | 厳選 - ABEMA",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MZGJwcWVtZzJvMFd6SUxJUVZ0azhUOThXbWEyYXRBdms1VzdpaE92WS1wT1dxRmphai1PSFo3aGdQX2xaYjNaQUc2S09NRzhvOHJhRkNjUjFDbmM?oc=5",
+            "published": "Fri, 29 May 2026 09:06:22 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MZGJwcWVtZzJvMFd6SUxJUVZ0azhUOThXbWEyYXRBdms1VzdpaE92WS1wT1dxRmphai1PSFo3aGdQX2xaYjNaQUc2S09NRzhvOHJhRkNjUjFDbmM?oc=5\" target=\"_blank\">トヨタ レクサスの次世代EV開発中止 需要鈍化が影響 【アベマ厳選】注目の最新&独自ニュースをチェック! | 厳選</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABEMA</font>",
+            "site_name": "ABEMA"
+        },
+        {
+            "id": 690789,
+            "title": "15年前にトヨタが作ったEVの大記録！　ニュルを「7分47秒794」で駆け抜けた「TMG EV P001」に敬礼!! - WEB CARTOP",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wNTlMLUNHQm1VUGpzWDV3UXJzVUZTa0JJYXl3M29pMWVnR3FDbnR0ZTBXVV93NnhhRzVvZDd5QXdid0xjbnJZTkg3NU9TQnNfMWJJ0gFYQVVfeXFMT01qLWFQM2ZLQjdIdXdtbGxfOXdFN2tfT0M1WWZZRURDeU1zTlZUN2d1TERobnc0dTVIQmJBR1dtYmt2cjVyanl6U3ZLU1FwXzZ4cWVtRFhmUQ?oc=5",
+            "published": "Fri, 29 May 2026 08:30:46 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wNTlMLUNHQm1VUGpzWDV3UXJzVUZTa0JJYXl3M29pMWVnR3FDbnR0ZTBXVV93NnhhRzVvZDd5QXdid0xjbnJZTkg3NU9TQnNfMWJJ0gFYQVVfeXFMT01qLWFQM2ZLQjdIdXdtbGxfOXdFN2tfT0M1WWZZRURDeU1zTlZUN2d1TERobnc0dTVIQmJBR1dtYmt2cjVyanl6U3ZLU1FwXzZ4cWVtRFhmUQ?oc=5\" target=\"_blank\">15年前にトヨタが作ったEVの大記録！　ニュルを「7分47秒794」で駆け抜けた「TMG EV P001」に敬礼!!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEB CARTOP</font>",
+            "site_name": "WEB CARTOP"
+        },
+        {
+            "id": 162726,
+            "title": "株価急落の厳しい反応！ フェラーリ初のEV ルーチェが型破りなデザインを採用した理由 - carview!",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRlpNcDJYWUNncGpXeVdJTmQzTDZVeTBvZmViS2puNUllOGJVcGVZd3ZiNG9tbjU2QV9uZzNfRXotb0hFWEduWDRad2xCRHFWbTE0QUZmWUNZNVRyQmU4eWlCOGw4Qzg1b1RNaTFjSkp4RWtBYTVvVEduQmttWEg4UEc4ZVFSOTls?oc=5",
+            "published": "Fri, 29 May 2026 12:32:55 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRlpNcDJYWUNncGpXeVdJTmQzTDZVeTBvZmViS2puNUllOGJVcGVZd3ZiNG9tbjU2QV9uZzNfRXotb0hFWEduWDRad2xCRHFWbTE0QUZmWUNZNVRyQmU4eWlCOGw4Qzg1b1RNaTFjSkp4RWtBYTVvVEduQmttWEg4UEc4ZVFSOTls?oc=5\" target=\"_blank\">株価急落の厳しい反応！ フェラーリ初のEV ルーチェが型破りなデザインを採用した理由</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carview!</font>",
+            "site_name": "carview!"
+        },
+        {
+            "id": 846066,
+            "title": "トヨタ 「レクサス」の次世代EV「LF－ZC」の開発を中止 - au Webポータル",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aSkJacW5uWHhjbGFuLTlLdW1FLUJ5RHNpMFNIenZFMDgzQ2hUb3REemJmbU0wVHFlWm5sNVRMWUhUNUdpY1JEQXVZMzJhVGw4anllb0JFc3VJaThDRmFsVjhBZHdPS0xtZkFRMXUzLWtGUVZnQlhhMUFsMA?oc=5",
+            "published": "Fri, 29 May 2026 15:41:50 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9aSkJacW5uWHhjbGFuLTlLdW1FLUJ5RHNpMFNIenZFMDgzQ2hUb3REemJmbU0wVHFlWm5sNVRMWUhUNUdpY1JEQXVZMzJhVGw4anllb0JFc3VJaThDRmFsVjhBZHdPS0xtZkFRMXUzLWtGUVZnQlhhMUFsMA?oc=5\" target=\"_blank\">トヨタ 「レクサス」の次世代EV「LF－ZC」の開発を中止</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">au Webポータル</font>",
+            "site_name": "au Webポータル"
+        },
+        {
+            "id": 35195,
+            "title": "目指すは国内第5のバイクメーカー。三崎未来電子EVバイク発進！【写真・2枚目】 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82Ty1RYVJNcTE1SkNrV29hM1dDLWJRN05XdUIwNEpobWpiN1JoUkEzZk0xbW1MdG9qamVhVFM3bm4xWTRNaTdxOTIxMzVibDNEUjRoM1ZfbDZ1Zw?oc=5",
+            "published": "Fri, 29 May 2026 14:25:07 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE82Ty1RYVJNcTE1SkNrV29hM1dDLWJRN05XdUIwNEpobWpiN1JoUkEzZk0xbW1MdG9qamVhVFM3bm4xWTRNaTdxOTIxMzVibDNEUjRoM1ZfbDZ1Zw?oc=5\" target=\"_blank\">目指すは国内第5のバイクメーカー。三崎未来電子EVバイク発進！【写真・2枚目】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 16093,
+            "title": "「レクサス」の次世代電気自動車「LF-ZC」の開発を中止 トヨタ自動車（中京テレビＮＥＷＳ） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xd3B6MVhCNEowTUNMVFRsNFROelJMVVQ5VXNOajlLWjNSeks3cnBmd2pIc09vdE1CME9nRTJVbE9aTGUxN2x1Wkg4ZEF5MmFheENPVEVIc2JlVHpCM3ZMdzVhRGI1Yi1FRGRBSzM4MEJnQ2pkV3VjeVMwaGRtZ1U?oc=5",
+            "published": "Fri, 29 May 2026 03:22:01 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE0xd3B6MVhCNEowTUNMVFRsNFROelJMVVQ5VXNOajlLWjNSeks3cnBmd2pIc09vdE1CME9nRTJVbE9aTGUxN2x1Wkg4ZEF5MmFheENPVEVIc2JlVHpCM3ZMdzVhRGI1Yi1FRGRBSzM4MEJnQ2pkV3VjeVMwaGRtZ1U?oc=5\" target=\"_blank\">「レクサス」の次世代電気自動車「LF-ZC」の開発を中止 トヨタ自動車（中京テレビＮＥＷＳ）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 271700,
+            "title": "目指すは国内第5のバイクメーカー。三崎未来電子EVバイク発進！【写真・16枚目】 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QRjVLQWFJVGVsYXRHeWYyVm5OTjQ4SDd4eFVaMGZFcFNBREg1YWpUdnVSXzNRSVpsUFBDaDI4TjFBdUNMbmwyVTJ5VzJ3eTJ0Z0VPNUNlSmJkZw?oc=5",
+            "published": "Fri, 29 May 2026 14:25:22 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QRjVLQWFJVGVsYXRHeWYyVm5OTjQ4SDd4eFVaMGZFcFNBREg1YWpUdnVSXzNRSVpsUFBDaDI4TjFBdUNMbmwyVTJ5VzJ3eTJ0Z0VPNUNlSmJkZw?oc=5\" target=\"_blank\">目指すは国内第5のバイクメーカー。三崎未来電子EVバイク発進！【写真・16枚目】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 526137,
+            "title": "トヨタ、レクサス次世代EV開発中止－市場減速や米国補助金廃止で - Bloomberg.com",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81bGd2MmlibTdyZ2ZkWHl6UXh3d1dQaXc1Um5VVFh1RVBTX1AzcHN0YmJMX0V6a2prWENXN0tsWE04QjhQVzdGWkF6SHNjVzM1YjRYNU1rSkNGNmMzU2JOX3VVaG5CRC1SSDZCWlp6UkJqRHJyQmI0?oc=5",
+            "published": "Fri, 29 May 2026 01:05:09 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE81bGd2MmlibTdyZ2ZkWHl6UXh3d1dQaXc1Um5VVFh1RVBTX1AzcHN0YmJMX0V6a2prWENXN0tsWE04QjhQVzdGWkF6SHNjVzM1YjRYNU1rSkNGNmMzU2JOX3VVaG5CRC1SSDZCWlp6UkJqRHJyQmI0?oc=5\" target=\"_blank\">トヨタ、レクサス次世代EV開発中止－市場減速や米国補助金廃止で</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+            "site_name": "Bloomberg.com"
+        },
+        {
+            "id": 326455,
+            "title": "トヨタ新社長、EV選別へ大なた セダン型開発中止で採算徹底 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY1V5a01Vcl9pWEwxQzljYVZPOUdKWmdkb0hYWUNqQlBHZURhUWFfWGFneXI4ZEtHRlRkX2o0bm03VElLZTY1VDFuRWVVN09nZFVDY2U1OTREd0FlUnhGTWJ1eXdSeHBvTmd1dE96dEFOZENwYUNuVEhja3dFSmNsYUNiUUVYSllqb01DQVMwLXNFRnpubElWRzhBWjR3blBBVXJxZERtbkg?oc=5",
+            "published": "Fri, 29 May 2026 02:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY1V5a01Vcl9pWEwxQzljYVZPOUdKWmdkb0hYWUNqQlBHZURhUWFfWGFneXI4ZEtHRlRkX2o0bm03VElLZTY1VDFuRWVVN09nZFVDY2U1OTREd0FlUnhGTWJ1eXdSeHBvTmd1dE96dEFOZENwYUNuVEhja3dFSmNsYUNiUUVYSllqb01DQVMwLXNFRnpubElWRzhBWjR3blBBVXJxZERtbkg?oc=5\" target=\"_blank\">トヨタ新社長、EV選別へ大なた セダン型開発中止で採算徹底</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+            "site_name": "日本経済新聞"
+        },
+        {
+            "id": 402377,
+            "title": "Mazda-6e-2026-1280-70a9681892ebb8290f3b6374c408e716b2 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdzlCaTdMUnB3NV9oMmlXZmtybFB0YlozcFA0SXMtV0daeWtZdV9pbFdTRW1BNlpQc0lLczFwcEtiRUNQT3N2UHFIVVVmMXNWU2JMMmMteUV5bGxpamJLUWIxbjhaVzFtLXBjN3dxZzIyRWwwbkxhNERxT2dybWJvbEkyY1BkVlIzYlFtblBucFpRV3Z1Vnc?oc=5",
+            "published": "Fri, 29 May 2026 15:09:55 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPdzlCaTdMUnB3NV9oMmlXZmtybFB0YlozcFA0SXMtV0daeWtZdV9pbFdTRW1BNlpQc0lLczFwcEtiRUNQT3N2UHFIVVVmMXNWU2JMMmMteUV5bGxpamJLUWIxbjhaVzFtLXBjN3dxZzIyRWwwbkxhNERxT2dybWJvbEkyY1BkVlIzYlFtblBucFpRV3Z1Vnc?oc=5\" target=\"_blank\">Mazda-6e-2026-1280-70a9681892ebb8290f3b6374c408e716b2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 995178,
+            "title": "目指すは国内第5のバイクメーカー。三崎未来電子EVバイク発進！【写真・21枚目】 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ycmtnWXZqSFlFNHlSbzQ3NVJ4TW5Ec2JtYWx5V1pQX0xUbkhod1R1WTNwUjkwbGpTNnNTSm9rQjVYNzVXWkVoRU4tTnoxRXNXREtqTV9nNXJFUQ?oc=5",
+            "published": "Fri, 29 May 2026 13:59:20 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ycmtnWXZqSFlFNHlSbzQ3NVJ4TW5Ec2JtYWx5V1pQX0xUbkhod1R1WTNwUjkwbGpTNnNTSm9rQjVYNzVXWkVoRU4tTnoxRXNXREtqTV9nNXJFUQ?oc=5\" target=\"_blank\">目指すは国内第5のバイクメーカー。三崎未来電子EVバイク発進！【写真・21枚目】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 338401,
+            "title": "三輪電動バイク『EVデリバリー』がマイナーチェンジ、全長10cm延長で走行安定性を強化…59万9500円から - carview!",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRElmd2V3azIxbXVIandFYXZXcUJnMkZzU3E4Vzh4OHluX2VrUjl6bFVTYlZ6eVlWZmFsZG94ZmJEUUdnSWpDb2w4ZjFtcVFNWlVTTUlMWlNiN0xVdlVLczdnY1ZsU2M0Nm42OE9HcW1xRVhfLVBfa0NPRV9NYlR4cVE2MnVKNGtF?oc=5",
+            "published": "Fri, 29 May 2026 08:35:03 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRElmd2V3azIxbXVIandFYXZXcUJnMkZzU3E4Vzh4OHluX2VrUjl6bFVTYlZ6eVlWZmFsZG94ZmJEUUdnSWpDb2w4ZjFtcVFNWlVTTUlMWlNiN0xVdlVLczdnY1ZsU2M0Nm42OE9HcW1xRVhfLVBfa0NPRV9NYlR4cVE2MnVKNGtF?oc=5\" target=\"_blank\">三輪電動バイク『EVデリバリー』がマイナーチェンジ、全長10cm延長で走行安定性を強化…59万9500円から</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carview!</font>",
+            "site_name": "carview!"
+        },
+        {
+            "id": 684288,
+            "title": "目指すは国内第5のバイクメーカー。三崎未来電子EVバイク発進！【写真・22枚目】 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xdGxlQ0lIQjNGaE5NRHZ5NEZsTWc2RGgxUTFKVDBWM09WNmdwU0dQQUFiWXpQZnlnamJJSWxXRGQ5MElGVjRxY3dwdHp5Z3BHWXBLb3ZELU1xU18yc2E3RDNXc1VBMWQyUjRDaFZzWHVuUDA2Snpr?oc=5",
+            "published": "Fri, 29 May 2026 13:25:28 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE0xdGxlQ0lIQjNGaE5NRHZ5NEZsTWc2RGgxUTFKVDBWM09WNmdwU0dQQUFiWXpQZnlnamJJSWxXRGQ5MElGVjRxY3dwdHp5Z3BHWXBLb3ZELU1xU18yc2E3RDNXc1VBMWQyUjRDaFZzWHVuUDA2Snpr?oc=5\" target=\"_blank\">目指すは国内第5のバイクメーカー。三崎未来電子EVバイク発進！【写真・22枚目】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 577194,
+            "title": "未来を切り拓く温故知新 フィアット・グランデ・パンダ・エレクトリック ｘ ルノー 5 E-テック（1） 安価な中国製EVへ対峙 - AUTOCAR JAPAN",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1WeVlsaFlwRUExN3BWT2tkcmxaQ2g0UWwxZnNaM3g0WmZkU3RSRkc0NnBVZW95cnlrVDRyejd4MWZic3ZUdXpGbkpaYw?oc=5",
+            "published": "Fri, 29 May 2026 09:05:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE1WeVlsaFlwRUExN3BWT2tkcmxaQ2g0UWwxZnNaM3g0WmZkU3RSRkc0NnBVZW95cnlrVDRyejd4MWZic3ZUdXpGbkpaYw?oc=5\" target=\"_blank\">未来を切り拓く温故知新 フィアット・グランデ・パンダ・エレクトリック ｘ ルノー 5 E-テック（1） 安価な中国製EVへ対峙</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AUTOCAR JAPAN</font>",
+            "site_name": "AUTOCAR JAPAN"
+        },
+        {
+            "id": 366039,
+            "title": "目指すは国内第5のバイクメーカー。三崎未来電子EVバイク発進！【写真・14枚目】 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FWjBGQmtZdEllaHZpcDg4TU9RMnAtLWRVZ3gzTHhBZXVRUGphUGxzbjZZWnZGZjBxTTRIdWEwWnNUZUtuMEJZTEFSZkJzd1MtbWhibnJDN0czdw?oc=5",
+            "published": "Fri, 29 May 2026 12:27:09 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FWjBGQmtZdEllaHZpcDg4TU9RMnAtLWRVZ3gzTHhBZXVRUGphUGxzbjZZWnZGZjBxTTRIdWEwWnNUZUtuMEJZTEFSZkJzd1MtbWhibnJDN0czdw?oc=5\" target=\"_blank\">目指すは国内第5のバイクメーカー。三崎未来電子EVバイク発進！【写真・14枚目】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 894304,
+            "title": "目指すは国内第5のバイクメーカー。三崎未来電子EVバイク発進！【写真・18枚目】 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuS1dhLS1QdDlCZmlyRm1MLU5HU1NOZTJ0QmRkY2dfbVlDQ1J1OExfNTQ5TXNxT04tQzRCMWV6X0s1M3FxV2ZsQmpPYXA5VVVCMXZZMmFOR1pSQQ?oc=5",
+            "published": "Fri, 29 May 2026 12:07:09 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuS1dhLS1QdDlCZmlyRm1MLU5HU1NOZTJ0QmRkY2dfbVlDQ1J1OExfNTQ5TXNxT04tQzRCMWV6X0s1M3FxV2ZsQmpPYXA5VVVCMXZZMmFOR1pSQQ?oc=5\" target=\"_blank\">目指すは国内第5のバイクメーカー。三崎未来電子EVバイク発進！【写真・18枚目】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 720466,
+            "title": "目指すは国内第5のバイクメーカー。三崎未来電子EVバイク発進！【写真・20枚目】 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OMWRRS3ZMbDI2WjlHVnd2UjFSWTlkTTk4OU5tamdlelhDek5SdGI2bkdGNXhUckdhaUtxb2h4czlKQ3lPRV96Z2dpcnE0NDBWdU84X3B0b1ZBZw?oc=5",
+            "published": "Fri, 29 May 2026 12:17:10 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OMWRRS3ZMbDI2WjlHVnd2UjFSWTlkTTk4OU5tamdlelhDek5SdGI2bkdGNXhUckdhaUtxb2h4czlKQ3lPRV96Z2dpcnE0NDBWdU84X3B0b1ZBZw?oc=5\" target=\"_blank\">目指すは国内第5のバイクメーカー。三崎未来電子EVバイク発進！【写真・20枚目】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 709655,
+            "title": "LGとGMの電池工場、EV需要低迷で従業員の職場復帰を延期 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NaFhhaXJrZEdSaFYyNlRjT19zRmUwdE9WYVFoLWlESXE0WDI3ejN4RDRBS1dCWjlDV29WeHhWNXlJb1hKRnViQmdkeVdDaDJBaTloakxDcW14RjRHczRWMjF3cnVEOXZObDdjMmo5UGU0bDVtWXBF?oc=5",
+            "published": "Fri, 29 May 2026 14:27:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5NaFhhaXJrZEdSaFYyNlRjT19zRmUwdE9WYVFoLWlESXE0WDI3ejN4RDRBS1dCWjlDV29WeHhWNXlJb1hKRnViQmdkeVdDaDJBaTloakxDcW14RjRHczRWMjF3cnVEOXZObDdjMmo5UGU0bDVtWXBF?oc=5\" target=\"_blank\">LGとGMの電池工場、EV需要低迷で従業員の職場復帰を延期 執筆</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</font>",
+            "site_name": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
+        },
+        {
+            "id": 416506,
+            "title": "Toyota to Pull Plug on Next-Gen EV Development - 時事通信ニュース",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlRURqMXhKdkxpYkU3dE1ld3RENmtlQzRCbThFeVhQbVhfVVVKRDBaaHBtM0s4RU5WVHdSaGZkRGtydEY5Z00ycTg2bVZWc19OYkE?oc=5",
+            "published": "Fri, 29 May 2026 11:01:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlRURqMXhKdkxpYkU3dE1ld3RENmtlQzRCbThFeVhQbVhfVVVKRDBaaHBtM0s4RU5WVHdSaGZkRGtydEY5Z00ycTg2bVZWc19OYkE?oc=5\" target=\"_blank\">Toyota to Pull Plug on Next-Gen EV Development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事通信ニュース</font>",
+            "site_name": "時事通信ニュース"
+        },
+        {
+            "id": 311369,
+            "title": "◎トヨタ、次世代ＥＶの開発中止＝市場伸び悩み、レクサスモデル - 時事通信ニュース",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mTGRpR3ZFanZQMGluYS1SZUpDbGdVVW5FTFJ4dEVCLVZUUVp4WnhWN2twaUtPYS0ybXlab1hma0dneFJFVXZtaVYxcEh6aUp0aTBhRg?oc=5",
+            "published": "Fri, 29 May 2026 09:50:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mTGRpR3ZFanZQMGluYS1SZUpDbGdVVW5FTFJ4dEVCLVZUUVp4WnhWN2twaUtPYS0ybXlab1hma0dneFJFVXZtaVYxcEh6aUp0aTBhRg?oc=5\" target=\"_blank\">◎トヨタ、次世代ＥＶの開発中止＝市場伸び悩み、レクサスモデル</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事通信ニュース</font>",
+            "site_name": "時事通信ニュース"
+        },
+        {
+            "id": 319985,
+            "title": "フェラーリ新型EVに異変 「跳ね馬を外して」批判拡大、株価急落の背景 - topnews.jp",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVWFKTnVjdTFFUmZPZ0VkR2liTE1TYm53SXV1d1EwbUx0NXVjQnVvZVpmak00RzM1TmV6dUxGeXFnRWxHSzZOSjh4WERVVExoNTRVTVBNNVYxZVBDdzhaRTZCbndxczQ4NmhYaEx2Tl9QVXRPLTJRTmNLazR4R1l3Qw?oc=5",
+            "published": "Fri, 29 May 2026 20:00:26 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPVWFKTnVjdTFFUmZPZ0VkR2liTE1TYm53SXV1d1EwbUx0NXVjQnVvZVpmak00RzM1TmV6dUxGeXFnRWxHSzZOSjh4WERVVExoNTRVTVBNNVYxZVBDdzhaRTZCbndxczQ4NmhYaEx2Tl9QVXRPLTJRTmNLazR4R1l3Qw?oc=5\" target=\"_blank\">フェラーリ新型EVに異変 「跳ね馬を外して」批判拡大、株価急落の背景</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">topnews.jp</font>",
+            "site_name": "topnews.jp"
+        },
+        {
+            "id": 765929,
+            "title": "目指すは国内第5のバイクメーカー。三崎未来電子EVバイク発進！【写真・19枚目】 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1maFZlSE9feTZjR0pFcHBrcS1PLVRQT2c1cURKS19Tdmh3X21YLURKUXJTaXdqT0g3NU1SNGJTaUJRakpWcmJaV1U1WEtaSm4zRFVQY0hvVFBmQQ?oc=5",
+            "published": "Fri, 29 May 2026 10:57:03 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1maFZlSE9feTZjR0pFcHBrcS1PLVRQT2c1cURKS19Tdmh3X21YLURKUXJTaXdqT0g3NU1SNGJTaUJRakpWcmJaV1U1WEtaSm4zRFVQY0hvVFBmQQ?oc=5\" target=\"_blank\">目指すは国内第5のバイクメーカー。三崎未来電子EVバイク発進！【写真・19枚目】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 574642,
+            "title": "株価急落の厳しい反応！ フェラーリ初のEV ルーチェが型破りなデザインを採用した理由 - Auto Messe Web",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oNmhFRW85YU5vWVJwRWx4ekNlQ0FwRU9sX1dHVFZIcnV6ZFFoX3l2a0NSRG9pZGEzV1NLYnFEMGpOaDJRRF9CUkd4b2pLNmQ3MUdKbENGVW1Md9IBX0FVX3lxTE1xVzJiOF9QQjJlZzBHUDI3ZmdvSXBGLUt6dU1aX2FjdGxwTjBuMEk1V25YdnZ5a2dBM19OR3haQ3dWSVRyQ2RqVGcweEd3LVczVjVZSFpNLXJ6eTN4ang4?oc=5",
+            "published": "Fri, 29 May 2026 13:38:06 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oNmhFRW85YU5vWVJwRWx4ekNlQ0FwRU9sX1dHVFZIcnV6ZFFoX3l2a0NSRG9pZGEzV1NLYnFEMGpOaDJRRF9CUkd4b2pLNmQ3MUdKbENGVW1Md9IBX0FVX3lxTE1xVzJiOF9QQjJlZzBHUDI3ZmdvSXBGLUt6dU1aX2FjdGxwTjBuMEk1V25YdnZ5a2dBM19OR3haQ3dWSVRyQ2RqVGcweEd3LVczVjVZSFpNLXJ6eTN4ang4?oc=5\" target=\"_blank\">株価急落の厳しい反応！ フェラーリ初のEV ルーチェが型破りなデザインを採用した理由</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Auto Messe Web</font>",
+            "site_name": "Auto Messe Web"
+        },
+        {
+            "id": 929752,
+            "title": "トヨタ、次世代ＥＶ開発中止 - OANDA証券",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0cEV3MjNLT3E4MktodjkzT0ZHVFpsX18zR2MtazZwclo4ai1ZRmM0TDhURWdYejIzVG9heG5mNkVQRVJRT25vS2JBNi13VkxJYk04OTRMcGIzWHprM3AtZGdHN0hXcnJtVmVQMkh5UHVxaDVZZFE?oc=5",
+            "published": "Fri, 29 May 2026 01:34:19 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFA0cEV3MjNLT3E4MktodjkzT0ZHVFpsX18zR2MtazZwclo4ai1ZRmM0TDhURWdYejIzVG9heG5mNkVQRVJRT25vS2JBNi13VkxJYk04OTRMcGIzWHprM3AtZGdHN0hXcnJtVmVQMkh5UHVxaDVZZFE?oc=5\" target=\"_blank\">トヨタ、次世代ＥＶ開発中止</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OANDA証券</font>",
+            "site_name": "OANDA証券"
+        },
+        {
+            "id": 512399,
+            "title": "トヨタ、次世代ＥＶ開発中止 市場減速、関連技術は継続 - 長崎新聞ホームページ",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTVhvRHUtQUFQZkhtcVduVzNraTdtdWowejdvZE12RHNMbElZb1NpSmZNcm1xMG1lN09UZk1yMy1ud1VQOVd5cWl1Nzh5LTNuQTRoRDNpOUJoWkM1QzNCXzlfZEpGV05QMDcwaEU2QU9hLVhyWm9POWVYUkd1STJCN1Jn?oc=5",
+            "published": "Fri, 29 May 2026 01:34:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOTVhvRHUtQUFQZkhtcVduVzNraTdtdWowejdvZE12RHNMbElZb1NpSmZNcm1xMG1lN09UZk1yMy1ud1VQOVd5cWl1Nzh5LTNuQTRoRDNpOUJoWkM1QzNCXzlfZEpGV05QMDcwaEU2QU9hLVhyWm9POWVYUkd1STJCN1Jn?oc=5\" target=\"_blank\">トヨタ、次世代ＥＶ開発中止 市場減速、関連技術は継続</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">長崎新聞ホームページ</font>",
+            "site_name": "長崎新聞ホームページ"
+        },
+        {
+            "id": 814611,
+            "title": "目指すは国内第5のバイクメーカー。三崎未来電子EVバイク発進！【写真・9枚目】 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yemdNMTNKRElDUkRYbjJ1ZTdxUUdiUU5felFBaFhtVUM4X0Y4YjU5OWxkc184X3JfZTVhRVRkTnA4SHBmY01VN2NjOW9lcDBFSGE5LVV0Ni1mYnlzaXc5emQxaDY4RlE?oc=5",
+            "published": "Fri, 29 May 2026 11:27:09 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yemdNMTNKRElDUkRYbjJ1ZTdxUUdiUU5felFBaFhtVUM4X0Y4YjU5OWxkc184X3JfZTVhRVRkTnA4SHBmY01VN2NjOW9lcDBFSGE5LVV0Ni1mYnlzaXc5emQxaDY4RlE?oc=5\" target=\"_blank\">目指すは国内第5のバイクメーカー。三崎未来電子EVバイク発進！【写真・9枚目】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 437412,
+            "title": "BYD、4ナノの車載用半導体－自動運転向けで中国初、EV競争に攻勢 - Bloomberg.com",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00U2lmN1lEcTExWnVXSHlwdmo2VHFaNm1pQmU0UmljNm9YUS1EUERIek1XcFJENy1qeVJBdnV0d19lN2ZxU0Vja3l1MHNGb05GTENnYUI3TzZvZmVzTURNSThWVEdqRGFFUkhfaUVza2NBVG5PV2lz?oc=5",
+            "published": "Fri, 29 May 2026 01:47:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE00U2lmN1lEcTExWnVXSHlwdmo2VHFaNm1pQmU0UmljNm9YUS1EUERIek1XcFJENy1qeVJBdnV0d19lN2ZxU0Vja3l1MHNGb05GTENnYUI3TzZvZmVzTURNSThWVEdqRGFFUkhfaUVza2NBVG5PV2lz?oc=5\" target=\"_blank\">BYD、4ナノの車載用半導体－自動運転向けで中国初、EV競争に攻勢</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+            "site_name": "Bloomberg.com"
+        },
+        {
+            "id": 482658,
+            "title": "目指すは国内第5のバイクメーカー。三崎未来電子EVバイク発進！【写真・5枚目】 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkSW9FX2JleW8zdkNZcUpJeGRqekg0aU5mSUN2YXNDTkNZakFSengtZjV4SzlsQ1JfekRIbXUxblNvSkNTc0JlSG5Hdk1ZUkJvNDFhQlluNkJWZw?oc=5",
+            "published": "Fri, 29 May 2026 10:22:57 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkSW9FX2JleW8zdkNZcUpJeGRqekg0aU5mSUN2YXNDTkNZakFSengtZjV4SzlsQ1JfekRIbXUxblNvSkNTc0JlSG5Hdk1ZUkJvNDFhQlluNkJWZw?oc=5\" target=\"_blank\">目指すは国内第5のバイクメーカー。三崎未来電子EVバイク発進！【写真・5枚目】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 115746,
+            "title": "三輪電動バイク『EVデリバリー』がマイナーチェンジ、全長10cm延長で走行安定性を強化…59万9500円から (レスポンス) - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZThxWlBlMlcxbkVKRTBIbS1lbWZueGlvU204X04wUGVBc204YzR1OXdiTHVaNTNIdWRsaHl1Q2VCeDZ2d2EwcEdyM21DZzBJSWdFNTRuQks3VWVSODZsdXU2OWtWLVJUR3hCeS1FeXJFQ0xVaTl1M0JMX0stanZzT244NlhHRy1JMU9KTWh3?oc=5",
+            "published": "Fri, 29 May 2026 10:36:36 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNZThxWlBlMlcxbkVKRTBIbS1lbWZueGlvU204X04wUGVBc204YzR1OXdiTHVaNTNIdWRsaHl1Q2VCeDZ2d2EwcEdyM21DZzBJSWdFNTRuQks3VWVSODZsdXU2OWtWLVJUR3hCeS1FeXJFQ0xVaTl1M0JMX0stanZzT244NlhHRy1JMU9KTWh3?oc=5\" target=\"_blank\">三輪電動バイク『EVデリバリー』がマイナーチェンジ、全長10cm延長で走行安定性を強化…59万9500円から (レスポンス)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 127657,
+            "title": "「災害大国ニッポンにEVは最適だ」ダイハツが披露した軽EV「走る蓄電池」のすごさとは（1/2 ページ） - 乗りものニュース",
+            "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0yRVpidGlaMVlESEJ4TGF0V3R2dFZHZ184WkVHLXJvWHkweDdNZk9LdGNaeDhyTHFnZ2F5ekFsS082S1FZUmVQSGdn?oc=5",
+            "published": "Fri, 29 May 2026 01:42:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE0yRVpidGlaMVlESEJ4TGF0V3R2dFZHZ184WkVHLXJvWHkweDdNZk9LdGNaeDhyTHFnZ2F5ekFsS082S1FZUmVQSGdn?oc=5\" target=\"_blank\">「災害大国ニッポンにEVは最適だ」ダイハツが披露した軽EV「走る蓄電池」のすごさとは（1/2 ページ）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">乗りものニュース</font>",
+            "site_name": "乗りものニュース"
+        },
+        {
+            "id": 147512,
+            "title": "日本に新自動車ブランド「エムタ」上陸 2027年から軽EVで日本市場に参入し2029年までに4車種展開を目指す (Car Watch) - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbHNLeURUYVBPeVJ2M0F4Vl9OdWJMcWZ0dzVGaks0MWpiUGhVWno3dUI3aTVUT1RQUk9Nc1RYNFlMamRZWjlpcWJMZzkzYWExZVB2ak1Wa0xYS0x5QkJxcWxHWklOVnhkT2F2OXZRTzMwUGJ1Qnl3Y3pVMjNibEdyZ0dkaUhCQTZqS0NvOWhR?oc=5",
+            "published": "Fri, 29 May 2026 07:01:28 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNbHNLeURUYVBPeVJ2M0F4Vl9OdWJMcWZ0dzVGaks0MWpiUGhVWno3dUI3aTVUT1RQUk9Nc1RYNFlMamRZWjlpcWJMZzkzYWExZVB2ak1Wa0xYS0x5QkJxcWxHWklOVnhkT2F2OXZRTzMwUGJ1Qnl3Y3pVMjNibEdyZ0dkaUhCQTZqS0NvOWhR?oc=5\" target=\"_blank\">日本に新自動車ブランド「エムタ」上陸 2027年から軽EVで日本市場に参入し2029年までに4車種展開を目指す (Car Watch)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 930521,
+            "title": "トヨタが「レクサス」の次世代EVの開発中止 需要鈍化を受けか - TBS NEWS DIG",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iSC1VMHp3NVZyN2U1X2xyZ2FHT2JUMDRPREFMb1RtdTJCRVlPYW5rYlFhTWM1YXYzMWE1QXIwdWVjbHVYbk5sbmo5Z3VEdm5zc1NILUNXRDFYZ0RWeU16VFFwcDFxQkU?oc=5",
+            "published": "Fri, 29 May 2026 02:32:28 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iSC1VMHp3NVZyN2U1X2xyZ2FHT2JUMDRPREFMb1RtdTJCRVlPYW5rYlFhTWM1YXYzMWE1QXIwdWVjbHVYbk5sbmo5Z3VEdm5zc1NILUNXRDFYZ0RWeU16VFFwcDFxQkU?oc=5\" target=\"_blank\">トヨタが「レクサス」の次世代EVの開発中止 需要鈍化を受けか</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBS NEWS DIG</font>",
+            "site_name": "TBS NEWS DIG"
+        },
+        {
+            "id": 151971,
+            "title": "全車種対象！最大66時間試乗モニターキャンペーン | BYD Auto Japan株式会社 - byd.com",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LOEdxQ09qQmFXOFBHOF8zNUo1YkM2WS0zUzdlYWsyZ2RKQWFZdlBKZ3ZWY3ZFRWJkYkFOZEg5UXRla0luUE4yM3JKb0UydEJQdmU0ajd2dFZGZnZZTnc?oc=5",
+            "published": "Fri, 29 May 2026 11:30:56 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LOEdxQ09qQmFXOFBHOF8zNUo1YkM2WS0zUzdlYWsyZ2RKQWFZdlBKZ3ZWY3ZFRWJkYkFOZEg5UXRla0luUE4yM3JKb0UydEJQdmU0ajd2dFZGZnZZTnc?oc=5\" target=\"_blank\">全車種対象！最大66時間試乗モニターキャンペーン | BYD Auto Japan株式会社</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">byd.com</font>",
+            "site_name": "byd.com"
+        },
+        {
+            "id": 423323,
+            "title": "ホンダ小型EV「スーパーワン」22日に発売 - 最新の経済ニュース【随時更新】 (ニュース) | 無料動画・見逃し配信を見るなら - ABEMA",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiZVBOM0VfaGdIUVVhYzRoZDJNQUo5dmhGaHZpQW5sNkZUdko5YTBYQXkxd004YmtwS3Z0T20zenJoWkZQOVpPbURQUHA4bndWeElBdV9NQ0RabzQ?oc=5",
+            "published": "Fri, 29 May 2026 02:41:17 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiZVBOM0VfaGdIUVVhYzRoZDJNQUo5dmhGaHZpQW5sNkZUdko5YTBYQXkxd004YmtwS3Z0T20zenJoWkZQOVpPbURQUHA4bndWeElBdV9NQ0RabzQ?oc=5\" target=\"_blank\">ホンダ小型EV「スーパーワン」22日に発売 - 最新の経済ニュース【随時更新】 (ニュース) | 無料動画・見逃し配信を見るなら</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABEMA</font>",
+            "site_name": "ABEMA"
+        },
+        {
+            "id": 398031,
+            "title": "モリタ、欧州規格対応のはしご付消防自動車とEVポンプ出展へ…INTERSCHUTZ 2026 - レスポンス（Response.jp）",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MUXFhOEYxTzNqU21FU290a1JndzNvRnFBRFFfdFdLT3pOOVVHalBRTHFNMUFITmVYYzZ3Qkw3bzVPMTFkcFpLWjByZ1hSODNLZjJvLXMwZFFhVDNmdkxr?oc=5",
+            "published": "Fri, 29 May 2026 08:45:03 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MUXFhOEYxTzNqU21FU290a1JndzNvRnFBRFFfdFdLT3pOOVVHalBRTHFNMUFITmVYYzZ3Qkw3bzVPMTFkcFpLWjByZ1hSODNLZjJvLXMwZFFhVDNmdkxr?oc=5\" target=\"_blank\">モリタ、欧州規格対応のはしご付消防自動車とEVポンプ出展へ…INTERSCHUTZ 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
+            "site_name": "レスポンス（Response.jp）"
+        },
+        {
+            "id": 261675,
+            "title": "ボッシュと三菱商事の合弁会社、EVトラック向けバッテリー交換・充電サービスを中国で開始 1枚目の写真・画像 - レスポンス（Response.jp）",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1WFFVeGRYeTFtalBtMlM0S0JydWtaZWdzbU1zTUI2RF95bzRMcDVMeU5xNmdhVzhGRUlmY2lGTXRDcWw3X19YdEhSQndlVG1kT0xVWlNpWXVtY0h5enJ5c0l6QjVncWMwaXNhNmZySQ?oc=5",
+            "published": "Fri, 29 May 2026 04:15:04 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFB1WFFVeGRYeTFtalBtMlM0S0JydWtaZWdzbU1zTUI2RF95bzRMcDVMeU5xNmdhVzhGRUlmY2lGTXRDcWw3X19YdEhSQndlVG1kT0xVWlNpWXVtY0h5enJ5c0l6QjVncWMwaXNhNmZySQ?oc=5\" target=\"_blank\">ボッシュと三菱商事の合弁会社、EVトラック向けバッテリー交換・充電サービスを中国で開始 1枚目の写真・画像</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
+            "site_name": "レスポンス（Response.jp）"
+        },
+        {
+            "id": 472866,
+            "title": "『サーキットも攻められるEV』 ヒョンデ アイオニック5 セフィローさんのレビュー - carview!",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSl9yWjlnMzBONmtvNXlwMFkxQ1VzV3l4U1FYdGZraDBraW85SUtnRG54Q2J3TC0yOWUtRURVMVFPOVFKN1F4QWc5SnVBTVNhb3J0d2h0VjNFQm53ZVFEUmdtYi1rS2RmazBxS2lic0ZBenFqbHZWdXZwSk9nTF9OZzJ3?oc=5",
+            "published": "Fri, 29 May 2026 10:42:45 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPSl9yWjlnMzBONmtvNXlwMFkxQ1VzV3l4U1FYdGZraDBraW85SUtnRG54Q2J3TC0yOWUtRURVMVFPOVFKN1F4QWc5SnVBTVNhb3J0d2h0VjNFQm53ZVFEUmdtYi1rS2RmazBxS2lic0ZBenFqbHZWdXZwSk9nTF9OZzJ3?oc=5\" target=\"_blank\">『サーキットも攻められるEV』 ヒョンデ アイオニック5 セフィローさんのレビュー</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carview!</font>",
+            "site_name": "carview!"
+        },
+        {
+            "id": 298790,
+            "title": "トヨタ、次世代ＥＶ開発中止 市場減速、関連技術は継続 - 山陽新聞",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iMkhIbERLOEJ1SmJjOVBrNGwtcTNxSHViUzdvaWJ4SHItS3dBOFRsR2NPZUVUVE1sak4wMzBya194YTV0X1pfTjI5QTU4V1l6MkxVOFNWSDNQMHNMMko1VFpVVkRTRFlaNnhqTHo4WmRQU0F4bDhFOUs5cHI?oc=5",
+            "published": "Fri, 29 May 2026 01:34:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1iMkhIbERLOEJ1SmJjOVBrNGwtcTNxSHViUzdvaWJ4SHItS3dBOFRsR2NPZUVUVE1sak4wMzBya194YTV0X1pfTjI5QTU4V1l6MkxVOFNWSDNQMHNMMko1VFpVVkRTRFlaNnhqTHo4WmRQU0F4bDhFOUs5cHI?oc=5\" target=\"_blank\">トヨタ、次世代ＥＶ開発中止 市場減速、関連技術は継続</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
+            "site_name": "山陽新聞"
         }
     ]
 }
