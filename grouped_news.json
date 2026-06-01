@@ -1,0 +1,45 @@
+[
+    {
+        "topic_name": "トヨタ次世代EV開発中止",
+        "article_ids": [
+            190759,
+            792142,
+            292893
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "ホンダのEV戦略見直しと販売計画",
+        "article_ids": [
+            587176,
+            436717,
+            391308,
+            645650
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "中国自動車メーカーの新ブランドEMTAによる日本への軽EV投入",
+        "article_ids": [
+            434471,
+            615440
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "中国メーカーの全固体電池開発",
+        "article_ids": [
+            652616,
+            584276
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "世界的なEV販売動向（37カ国で最高記録）",
+        "article_ids": [
+            852578,
+            741656
+        ],
+        "is_grouped": true
+    }
+]
