@@ -1,0 +1,38 @@
+[
+    {
+        "topic_name": "トヨタの次世代EV開発中止",
+        "article_ids": [
+            109520,
+            790370,
+            62308
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "三菱自動車の北米向け新型EV「エクリプス スポーツバック」投入",
+        "article_ids": [
+            264463,
+            804567,
+            720493,
+            921980
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "EUのEV購入優遇政策における日本対象の検討",
+        "article_ids": [
+            293432,
+            120807
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "GMのEV電池技術を用いた系統用蓄電事業への参入",
+        "article_ids": [
+            761098,
+            778314,
+            460226
+        ],
+        "is_grouped": true
+    }
+]
