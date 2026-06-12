@@ -1,0 +1,35 @@
+[
+    {
+        "topic_name": "EUのEV優遇策における日韓英の対象検討",
+        "article_ids": [
+            120807
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "EVモーターズ・ジャパンの経営破綻",
+        "article_ids": [
+            225642
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "BYDの欧州拠点生産・充電インフラ展開",
+        "article_ids": [
+            119872,
+            353426,
+            3955
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "日系自動車メーカーのEV事業再編と決算への影響",
+        "article_ids": [
+            407473,
+            760817,
+            821629,
+            558465
+        ],
+        "is_grouped": true
+    }
+]
