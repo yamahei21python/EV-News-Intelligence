@@ -1,6 +1,6 @@
 {
-    "updated_at": "2026-06-14 11:26:00",
-    "total_count": 76,
+    "updated_at": "2026-06-14 22:09:44",
+    "total_count": 126,
     "articles": [
         {
             "id": 395901,
@@ -608,6 +608,406 @@
             "link": "https://news.google.com/rss/articles/CBMi6gZBVV95cUxQdHRwdkRod0VFUWhOY1VDMTdSLWlYOUNDYmtDdDh5Sm9RZDdKRjYtTm0zRFduVTZYTnJYYXQ3TUhaeU9mMV9JNGlONk5hUml5dVR2b083UG1hMzliT0ZsNkduUWNzbTZZRTNvSkdwdTV6ampfT2dicEhiZ0tnblRYaC1HNTlOSjUwTFduOGtiRGZMaHh1MFc1OERiY2dYRm54M1UyNU5vX3JGbnpwcnJDbGtoaF9tcEN0dmcxTzBBSnVzdVZDMGdkUDdFcDRTaDIxUHFrVGJkbENyVEI2ZkczcEFDMHc0V1JfYkgxUTFkQVEzUDIya1N0R3dPaTYwbGd2dl9pamkyZkEtdEZuQl83SmxoTEJmcS1fQzJLTDVYM3gxZ050UkI4TVlla2U0ZTRWTnBzOVNiTE1HYkowTFZ4VTlSSy05ZXd6TzN4VkJnUlRzOWZyT0tQZEt2V3VrWkd4b3I2a2RXajJyR3NGZEZ3QW5JOEx6TlZtYkwzZlMtZmZvNFpGeEhzcWpGd0VtZlliamFaN1BWYnpmZERGMVRpdG8tU1JkeTNjN1lXWEc3ZFduM2lBZmRXUERleEpKSnVPVHBfaFhrMjFTdEZYUVY4UFNmRUhNLWxDNk1Hd2doVW9DREFYUlVTbjRiOGJEcEpLSDA4RExHcnhGSk5fYjRpTFBUYVpZdFBCSTgzZDg3NGtPdDRIM0dmV3VieHN4QUY2cXZYbHZ3cEFVb2RiNVFxa0V5V1M5V0pJSHRObVlheGxGTFVNSzVkRHdmOVhReVp2aWFBYnVEVWRZTVJmdkZUT3k3X3FyU2FtRjFET1NacjJKODJxUG4yNlNxMklaMTNtcFhJQ0UweS04T3pNMEd6b3RPTExmQ1N3cjBWdUtEY05aMXV4ZGNSRl8xWUkwRmJDRUFfSUlXUm15RjQtVHEtT1R2UXFCZ0pnbE1DejFuUHVTbkVjdXo3cjVDSmtxVVRENHJydFlZbWJNODZqN3JyT29KS1ctU0FlVm1md3VWLTk3SnZQOEJaUjdlS0N6MTBNR2w3SHBFcXgySG9XVXl5VXA5TFhncWNER2l5enVQNHl2Z3BPSktHcERrcTB1QXRIYTRTRVB1R2ZtNWsxbFdmaXhDSmhkOVJJdjhUWTRzMDkwY2kwV0JVbmJ3?oc=5",
             "published": "Sun, 14 Jun 2026 03:01:11 GMT",
             "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gZBVV95cUxQdHRwdkRod0VFUWhOY1VDMTdSLWlYOUNDYmtDdDh5Sm9RZDdKRjYtTm0zRFduVTZYTnJYYXQ3TUhaeU9mMV9JNGlONk5hUml5dVR2b083UG1hMzliT0ZsNkduUWNzbTZZRTNvSkdwdTV6ampfT2dicEhiZ0tnblRYaC1HNTlOSjUwTFduOGtiRGZMaHh1MFc1OERiY2dYRm54M1UyNU5vX3JGbnpwcnJDbGtoaF9tcEN0dmcxTzBBSnVzdVZDMGdkUDdFcDRTaDIxUHFrVGJkbENyVEI2ZkczcEFDMHc0V1JfYkgxUTFkQVEzUDIya1N0R3dPaTYwbGd2dl9pamkyZkEtdEZuQl83SmxoTEJmcS1fQzJLTDVYM3gxZ050UkI4TVlla2U0ZTRWTnBzOVNiTE1HYkowTFZ4VTlSSy05ZXd6TzN4VkJnUlRzOWZyT0tQZEt2V3VrWkd4b3I2a2RXajJyR3NGZEZ3QW5JOEx6TlZtYkwzZlMtZmZvNFpGeEhzcWpGd0VtZlliamFaN1BWYnpmZERGMVRpdG8tU1JkeTNjN1lXWEc3ZFduM2lBZmRXUERleEpKSnVPVHBfaFhrMjFTdEZYUVY4UFNmRUhNLWxDNk1Hd2doVW9DREFYUlVTbjRiOGJEcEpLSDA4RExHcnhGSk5fYjRpTFBUYVpZdFBCSTgzZDg3NGtPdDRIM0dmV3VieHN4QUY2cXZYbHZ3cEFVb2RiNVFxa0V5V1M5V0pJSHRObVlheGxGTFVNSzVkRHdmOVhReVp2aWFBYnVEVWRZTVJmdkZUT3k3X3FyU2FtRjFET1NacjJKODJxUG4yNlNxMklaMTNtcFhJQ0UweS04T3pNMEd6b3RPTExmQ1N3cjBWdUtEY05aMXV4ZGNSRl8xWUkwRmJDRUFfSUlXUm15RjQtVHEtT1R2UXFCZ0pnbE1DejFuUHVTbkVjdXo3cjVDSmtxVVRENHJydFlZbWJNODZqN3JyT29KS1ctU0FlVm1md3VWLTk3SnZQOEJaUjdlS0N6MTBNR2w3SHBFcXgySG9XVXl5VXA5TFhncWNER2l5enVQNHl2Z3BPSktHcERrcTB1QXRIYTRTRVB1R2ZtNWsxbFdmaXhDSmhkOVJJdjhUWTRzMDkwY2kwV0JVbmJ3?oc=5\" target=\"_blank\">新型「“5人乗り”スポーツカー」登場に反響殺到！ 全長5mの斬新「デザイン」×“1050馬力”！ 「時代が変わった」「価格に驚いた」の声もあるフェラーリ「ルーチェ」伊国仕様に注目</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+            "site_name": "MSN"
+        },
+        {
+            "id": 69661,
+            "title": "レンジエクステンダーEV急浮上、欧州の新たな選択肢 トヨタはPHEVで対抗 - 日経クロステック",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNNERMVEhRMl9rMU9KNGhkSlJkZVdUWnF6X2VHM0dPZTl0a2VCVTJET1JHMjB6RTc3eW5Ec0RBQVFnenpETi0xay0tMG8wMVlGVldjRmpLblJpSkdWY3Z6MUFwN0c5RjNZZGJTSg?oc=5",
+            "published": "Sun, 14 Jun 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBNNERMVEhRMl9rMU9KNGhkSlJkZVdUWnF6X2VHM0dPZTl0a2VCVTJET1JHMjB6RTc3eW5Ec0RBQVFnenpETi0xay0tMG8wMVlGVldjRmpLblJpSkdWY3Z6MUFwN0c5RjNZZGJTSg?oc=5\" target=\"_blank\">レンジエクステンダーEV急浮上、欧州の新たな選択肢 トヨタはPHEVで対抗</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経クロステック</font>",
+            "site_name": "日経クロステック"
+        },
+        {
+            "id": 461646,
+            "title": "「充電大丈夫かよ…」EV乗り最大の不安を終わらせる？日産新型リーフ「地球70万周のデータ」が生んだ答え - ダイヤモンド・オンライン",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9VcnRCeWVPYXlyWktKc2R4S0g4UENVcGJUd29QSjhFOHVfN1RvWHpYWWdUWTVjbENpeUpzb1c0SXVUalVvRHppQnJueVE?oc=5",
+            "published": "Sun, 14 Jun 2026 21:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9VcnRCeWVPYXlyWktKc2R4S0g4UENVcGJUd29QSjhFOHVfN1RvWHpYWWdUWTVjbENpeUpzb1c0SXVUalVvRHppQnJueVE?oc=5\" target=\"_blank\">「充電大丈夫かよ…」EV乗り最大の不安を終わらせる？日産新型リーフ「地球70万周のデータ」が生んだ答え</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ダイヤモンド・オンライン</font>",
+            "site_name": "ダイヤモンド・オンライン"
+        },
+        {
+            "id": 154276,
+            "title": "徳島県 事業者がＥＶ導入で補助金 災害時の電力供給に活用 - NHKニュース",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00Wk1MYnFqOUZ4bjBubHQtVUlPb1Q0ZU9HRG1SY0tONTVIWkxMYWdHVTRudURNRjZzRl95MXUxbTAyVjhIVUZyeEFza00tTEs2ZGZoTTJXaVk?oc=5",
+            "published": "Sun, 14 Jun 2026 21:01:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE00Wk1MYnFqOUZ4bjBubHQtVUlPb1Q0ZU9HRG1SY0tONTVIWkxMYWdHVTRudURNRjZzRl95MXUxbTAyVjhIVUZyeEFza00tTEs2ZGZoTTJXaVk?oc=5\" target=\"_blank\">徳島県 事業者がＥＶ導入で補助金 災害時の電力供給に活用</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NHKニュース</font>",
+            "site_name": "NHKニュース"
+        },
+        {
+            "id": 775,
+            "title": "2026年の経営者：印刷を原点に半導体部材・EV関連も――北島義斉・大日本印刷社長 - 週刊エコノミスト Online",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lSVphazlqR0dsaEY0X2JFQ2cwQWtJR2ktSzV2Q0hDSUp3TUhyZE8wRWo1djhCNnZYRlB6bkVTelkzS2xtQmo0SDFwNTJBbk1XY3NzYVd4dDRVNHNnOTRUcGEyd1k2Y05FUzdfR1p3N1Nra2owVWFxaDVtM0lPSTg?oc=5",
+            "published": "Sun, 14 Jun 2026 20:03:24 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5lSVphazlqR0dsaEY0X2JFQ2cwQWtJR2ktSzV2Q0hDSUp3TUhyZE8wRWo1djhCNnZYRlB6bkVTelkzS2xtQmo0SDFwNTJBbk1XY3NzYVd4dDRVNHNnOTRUcGEyd1k2Y05FUzdfR1p3N1Nra2owVWFxaDVtM0lPSTg?oc=5\" target=\"_blank\">2026年の経営者：印刷を原点に半導体部材・EV関連も――北島義斉・大日本印刷社長</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">週刊エコノミスト Online</font>",
+            "site_name": "週刊エコノミスト Online"
+        },
+        {
+            "id": 409178,
+            "title": "気になるEV、1週間徹底試乗レポート！［三菱 アウトランダーPHEV］リアルにチェック編（グーネット） | 自動車情報・ニュース - carview!",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb3RReDFSMjVyVHN6ZWJMYVJrZHZteURvV1RwblNKcG15VUxpVXZXSEJ0RDNMSlgtdzZ4eVFYb3JVX0VKaFlFaUlpclNrWWpqVTZpbElRX1ZYYWMxcV9FODV1NlJoQ2pjbWRCNFhoWXpzcDNybklBaGVOS2xuTHBFeUtrVFdUNFNo?oc=5",
+            "published": "Sun, 14 Jun 2026 18:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb3RReDFSMjVyVHN6ZWJMYVJrZHZteURvV1RwblNKcG15VUxpVXZXSEJ0RDNMSlgtdzZ4eVFYb3JVX0VKaFlFaUlpclNrWWpqVTZpbElRX1ZYYWMxcV9FODV1NlJoQ2pjbWRCNFhoWXpzcDNybklBaGVOS2xuTHBFeUtrVFdUNFNo?oc=5\" target=\"_blank\">気になるEV、1週間徹底試乗レポート！［三菱 アウトランダーPHEV］リアルにチェック編（グーネット） | 自動車情報・ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carview!</font>",
+            "site_name": "carview!"
+        },
+        {
+            "id": 544714,
+            "title": "日本のEV普及は遅れている？ 市場構造と技術動向から読み解く未来【写真・4枚目】 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04a2xJWm56TjlTWWU1UVM0a2ZnRE05ZzBmM0J2c0NDWTRvcldIREdxajFEc2hULWF1aVhUNE4zRlVGYmI3cndJX3pobjdOZ1lLUHpaLXpiMA?oc=5",
+            "published": "Sun, 14 Jun 2026 14:45:33 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE04a2xJWm56TjlTWWU1UVM0a2ZnRE05ZzBmM0J2c0NDWTRvcldIREdxajFEc2hULWF1aVhUNE4zRlVGYmI3cndJX3pobjdOZ1lLUHpaLXpiMA?oc=5\" target=\"_blank\">日本のEV普及は遅れている？ 市場構造と技術動向から読み解く未来【写真・4枚目】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 876886,
+            "title": "画像 | 先行予約で7000台超の大ヒットEV｢スーパーワン｣の源流…80年代に人気を博したホンダ｢シティ･ターボⅡ｣に迫る - 東洋経済オンライン",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCcG8tZDFER282ZUI5MXRjem9QblduWmdzWEU2ckhldmlDMG0yS2FaNE90bkVHZW5WV1dEb0twV09RZVN2REdsTDVfXy1FYmt6TUlxemFnLU5iTC0xNEk0?oc=5",
+            "published": "Sun, 14 Jun 2026 20:30:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCcG8tZDFER282ZUI5MXRjem9QblduWmdzWEU2ckhldmlDMG0yS2FaNE90bkVHZW5WV1dEb0twV09RZVN2REdsTDVfXy1FYmt6TUlxemFnLU5iTC0xNEk0?oc=5\" target=\"_blank\">画像 | 先行予約で7000台超の大ヒットEV｢スーパーワン｣の源流…80年代に人気を博したホンダ｢シティ･ターボⅡ｣に迫る</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東洋経済オンライン</font>",
+            "site_name": "東洋経済オンライン"
+        },
+        {
+            "id": 923982,
+            "title": "BYDの高級EVロードスター、3モーター1500馬力超仕様の情報がリーク、海外展開へ - Moomoo",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTmUtMnljbW9VMEJfaXRWOElGcFRyVHFkLWotbURnOERKUFlNejQwT2pOU0dvczhXcW1fT3NqTmJ6bFF2ZW1tRWJrbkJOQ0Q3X3hkR0JFbDk0VjlQVGUxMkt4YTVDTFdVczd3S2hDVm9Sc2JmSHVUaS1URlUxdzhQN0dPWGY5aDJPMS1odFFvRFVLNkZtTVk2YzAtVjhmbkxnSHlBbXdHTQ?oc=5",
+            "published": "Sun, 14 Jun 2026 09:52:20 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNTmUtMnljbW9VMEJfaXRWOElGcFRyVHFkLWotbURnOERKUFlNejQwT2pOU0dvczhXcW1fT3NqTmJ6bFF2ZW1tRWJrbkJOQ0Q3X3hkR0JFbDk0VjlQVGUxMkt4YTVDTFdVczd3S2hDVm9Sc2JmSHVUaS1URlUxdzhQN0dPWGY5aDJPMS1odFFvRFVLNkZtTVk2YzAtVjhmbkxnSHlBbXdHTQ?oc=5\" target=\"_blank\">BYDの高級EVロードスター、3モーター1500馬力超仕様の情報がリーク、海外展開へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+            "site_name": "Moomoo"
+        },
+        {
+            "id": 886824,
+            "title": "【特許】住友理工、冷却用熱交換機の性能向上 EV電池に - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYVNvUW12YUJTcEVrQXpVN3pZSV9HUG5rZVlPN3puT1I4MlQ2Wk1IUDVKQ2hCajJCU29nSW5LRnB2alZHaUpEalk1SEJhOWwwOXFoRDBMLVdmM1l3ZjFTYWQwQUVXVnN6Y1k4MExLaUVrczBxcmlGTWNzZVJYS2FSRUdacXM4NDQ?oc=5",
+            "published": "Sun, 14 Jun 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQYVNvUW12YUJTcEVrQXpVN3pZSV9HUG5rZVlPN3puT1I4MlQ2Wk1IUDVKQ2hCajJCU29nSW5LRnB2alZHaUpEalk1SEJhOWwwOXFoRDBMLVdmM1l3ZjFTYWQwQUVXVnN6Y1k4MExLaUVrczBxcmlGTWNzZVJYS2FSRUdacXM4NDQ?oc=5\" target=\"_blank\">【特許】住友理工、冷却用熱交換機の性能向上 EV電池に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+            "site_name": "日本経済新聞"
+        },
+        {
+            "id": 199116,
+            "title": "2026-05-27_11-59-34_385 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ENDV4UUdYNDlNR2tBdEdQbVd3eUxXVHVMU3dGY0lzcGlFUEJvTHpxeXZ4TllfWmNyQ1RBc1pocEJkamZrX0NjTlNYeUE2Tl9xbGR6bWdyeU95aE52R3MydzdvRVhVN28yaXdEdlpn?oc=5",
+            "published": "Sun, 14 Jun 2026 13:48:41 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5ENDV4UUdYNDlNR2tBdEdQbVd3eUxXVHVMU3dGY0lzcGlFUEJvTHpxeXZ4TllfWmNyQ1RBc1pocEJkamZrX0NjTlNYeUE2Tl9xbGR6bWdyeU95aE52R3MydzdvRVhVN28yaXdEdlpn?oc=5\" target=\"_blank\">2026-05-27_11-59-34_385</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 959223,
+            "title": "シーサー顔のAIM EVM！超小型EVに詰め込まれた生活圏モビリティの可能性【写真・4枚目】 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Jc0ppNVJYLTdZVERyb1NvV2VHalktME1idmRYejNfUnNaMjktQmxpX19Lc0dwcEdfTEIxWGE4YnlhUFhfZ01EbVl1alRodDNQVE05aDJOLWM?oc=5",
+            "published": "Sun, 14 Jun 2026 13:02:27 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Jc0ppNVJYLTdZVERyb1NvV2VHalktME1idmRYejNfUnNaMjktQmxpX19Lc0dwcEdfTEIxWGE4YnlhUFhfZ01EbVl1alRodDNQVE05aDJOLWM?oc=5\" target=\"_blank\">シーサー顔のAIM EVM！超小型EVに詰め込まれた生活圏モビリティの可能性【写真・4枚目】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 343283,
+            "title": "なぜトヨタは逆風下でも3.8兆円規模の利益を確保できたのか？ 収益多層化と投資循環、競争優位を左右する条件とは - au Webポータル",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rOTB5TzZ1T2NDUlFoYks4R3ZUSkdvelQxMWZpeVA3SWJGd0tXeW9YX1d6Vjl3LXJNQkdrdGlOb3g4SktVUVlCellkMTdsQ0w3dDNXRFl4UnNiUEVmVkVVVkQyNm9BTERUQzQweXVYbTFicThzaW1FLVJDOA?oc=5",
+            "published": "Sun, 14 Jun 2026 21:26:04 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5rOTB5TzZ1T2NDUlFoYks4R3ZUSkdvelQxMWZpeVA3SWJGd0tXeW9YX1d6Vjl3LXJNQkdrdGlOb3g4SktVUVlCellkMTdsQ0w3dDNXRFl4UnNiUEVmVkVVVkQyNm9BTERUQzQweXVYbTFicThzaW1FLVJDOA?oc=5\" target=\"_blank\">なぜトヨタは逆風下でも3.8兆円規模の利益を確保できたのか？ 収益多層化と投資循環、競争優位を左右する条件とは</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">au Webポータル</font>",
+            "site_name": "au Webポータル"
+        },
+        {
+            "id": 952772,
+            "title": "BMW、次世代FCEV向け水素タンク技術「フラット・ストレージ」で生産効率化 航続距離約750kmへ - AUTOCAR JAPAN",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54eFpXVEhQRVhkdXRNalZSaVFMQnZrZVY1MUd0VW5reHJkTHlxUnJWcFB1d3dQWGtxamxTQ245Q25feDZQZ0tnWjMwZw?oc=5",
+            "published": "Sun, 14 Jun 2026 22:05:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE54eFpXVEhQRVhkdXRNalZSaVFMQnZrZVY1MUd0VW5reHJkTHlxUnJWcFB1d3dQWGtxamxTQ245Q25feDZQZ0tnWjMwZw?oc=5\" target=\"_blank\">BMW、次世代FCEV向け水素タンク技術「フラット・ストレージ」で生産効率化 航続距離約750kmへ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AUTOCAR JAPAN</font>",
+            "site_name": "AUTOCAR JAPAN"
+        },
+        {
+            "id": 738197,
+            "title": "big20240501a9xugu184233533628 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TZmdaalRpNFd2MVNrckoydjdDYVMyWXdVWUIyWjlhUXpvQnV1dW0wWFpLQ1RnSW9kaEVBTXpfLUVpQUJMYWJSQlZJWXVDbmFWc0pVS1dKZFZzS3pVSXNaQzZOZHFrMzVjNmdGaWZ3bUpXSmFk?oc=5",
+            "published": "Sun, 14 Jun 2026 10:38:52 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1TZmdaalRpNFd2MVNrckoydjdDYVMyWXdVWUIyWjlhUXpvQnV1dW0wWFpLQ1RnSW9kaEVBTXpfLUVpQUJMYWJSQlZJWXVDbmFWc0pVS1dKZFZzS3pVSXNaQzZOZHFrMzVjNmdGaWZ3bUpXSmFk?oc=5\" target=\"_blank\">big20240501a9xugu184233533628</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 439942,
+            "title": "気になるEV、1週間徹底試乗レポート！［三菱 アウトランダーPHEV］リアルにチェック編 - ｄメニューニュース",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QcElZVHkyUk5KdnNWSnhTdVNmRW90QUF1VU8xX3FPcGR4dW12ckNMNVZHZ0lEenNiTFVIRFFtbEdDR1RxWGthS1BJcDM1ZVFYS1M0Y1M5UmJQWFJKZU55dXZBUDlJSHBKZ1NienJKc0RjOFlLY19VZ1RpVjhZZ9IBekFVX3lxTFBxZ3JDNHNEQ1ppblp5ZnRyZVlvNVhvZDRaeWhTUm1td3dQVW03akJmX2VnRTBOTVp5Nmw1TndOYzFtTlljQktlZHh5am5hVm5hejBBLUx3UzNJU29KSkxLbzFubi0tU3d4OUJBSUZRQUZaTXVZTURTbXF3?oc=5",
+            "published": "Sun, 14 Jun 2026 09:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5QcElZVHkyUk5KdnNWSnhTdVNmRW90QUF1VU8xX3FPcGR4dW12ckNMNVZHZ0lEenNiTFVIRFFtbEdDR1RxWGthS1BJcDM1ZVFYS1M0Y1M5UmJQWFJKZU55dXZBUDlJSHBKZ1NienJKc0RjOFlLY19VZ1RpVjhZZ9IBekFVX3lxTFBxZ3JDNHNEQ1ppblp5ZnRyZVlvNVhvZDRaeWhTUm1td3dQVW03akJmX2VnRTBOTVp5Nmw1TndOYzFtTlljQktlZHh5am5hVm5hejBBLUx3UzNJU29KSkxLbzFubi0tU3d4OUJBSUZRQUZaTXVZTURTbXF3?oc=5\" target=\"_blank\">気になるEV、1週間徹底試乗レポート！［三菱 アウトランダーPHEV］リアルにチェック編</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
+            "site_name": "ｄメニューニュース"
+        },
+        {
+            "id": 359701,
+            "title": "三菱、日産リーフベースのEclipse Sportback EV を準備 - VOI.id",
+            "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9PV2N2ejJPbnMzaTNvWVZMRUhpZnlwQXZqajVIaV9qSHVmV2lXandhRWZMbE5nZW12Q2dhOE9hWUZCUXZw?oc=5",
+            "published": "Sun, 14 Jun 2026 18:57:37 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE9PV2N2ejJPbnMzaTNvWVZMRUhpZnlwQXZqajVIaV9qSHVmV2lXandhRWZMbE5nZW12Q2dhOE9hWUZCUXZw?oc=5\" target=\"_blank\">三菱、日産リーフベースのEclipse Sportback EV を準備</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VOI.id</font>",
+            "site_name": "VOI.id"
+        },
+        {
+            "id": 927465,
+            "title": "約22万円で買える原付一種のEVバイク「Vmoto CU」が登場。定格出力600W、航続距離55kmの良コスパモデル - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWnUxc3R6UVpObW91ZFhGVWx2RDhHeUJkblNudG9CRjRfdm9UNk5KTWJfamZIZlZqTTB0bHRuNXhzQ3JINTg4V3BkWVIyNDdFTjFKazBCNXk5QWNMY3NvLXJDcWV3Nk1ZRERVTDYwWmJwWVFwNm1YcEYzMUNkWnY2YTlMbTJELUpiX2w5RFd3?oc=5",
+            "published": "Sun, 14 Jun 2026 03:10:56 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNWnUxc3R6UVpObW91ZFhGVWx2RDhHeUJkblNudG9CRjRfdm9UNk5KTWJfamZIZlZqTTB0bHRuNXhzQ3JINTg4V3BkWVIyNDdFTjFKazBCNXk5QWNMY3NvLXJDcWV3Nk1ZRERVTDYwWmJwWVFwNm1YcEYzMUNkWnY2YTlMbTJELUpiX2w5RFd3?oc=5\" target=\"_blank\">約22万円で買える原付一種のEVバイク「Vmoto CU」が登場。定格出力600W、航続距離55kmの良コスパモデル</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 25388,
+            "title": "big20240501zxij1p182311650293 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MTXV3WjdoMmhzRFRhOWF0ZjhmUjVfVE5XRDRnMHBJWExaY3RjTng4OVZXUUhSRTNKWTdma0hNSWF0N2NiWmstSzNDRGRMNlJfbVlHalhQczdCdlpYdVdpNWktcGRwbjZxdWdRWVRqb2ZndUhz?oc=5",
+            "published": "Sun, 14 Jun 2026 00:35:14 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9MTXV3WjdoMmhzRFRhOWF0ZjhmUjVfVE5XRDRnMHBJWExaY3RjTng4OVZXUUhSRTNKWTdma0hNSWF0N2NiWmstSzNDRGRMNlJfbVlHalhQczdCdlpYdVdpNWktcGRwbjZxdWdRWVRqb2ZndUhz?oc=5\" target=\"_blank\">big20240501zxij1p182311650293</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 639332,
+            "title": "big202405012ebf1u182445575508 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LaHpZMEY2enp4V0xvaEVDLTUxejFtdHJoQkhqVVBLdXFsVlVCYjBrZjBLUC1HY1dfMlE1V3EyWnQ0cHgzbUhfRFVnTVVxUjc0YjFzYVRpcmJyNTd2VHpPaG1ZVl9kV0V2eWIwelVrWHYyQmhZ?oc=5",
+            "published": "Sun, 14 Jun 2026 00:28:32 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9LaHpZMEY2enp4V0xvaEVDLTUxejFtdHJoQkhqVVBLdXFsVlVCYjBrZjBLUC1HY1dfMlE1V3EyWnQ0cHgzbUhfRFVnTVVxUjc0YjFzYVRpcmJyNTd2VHpPaG1ZVl9kV0V2eWIwelVrWHYyQmhZ?oc=5\" target=\"_blank\">big202405012ebf1u182445575508</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 307344,
+            "title": "三菱自、オートモビルカウンシル2026に出展 歴代パジェロやコンセプトカーなど展示 - netdenjd.com",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtVGVaVjN4LVAzMlJIeVd0dWNuYUtUcXFuV2xZOUJ0RWNkRnZ6Q2tqWFVkdW5aMkJVcG02S2JIeTlLQWFfbVVLNzFybmhpeHYzUkE?oc=5",
+            "published": "Sun, 14 Jun 2026 09:19:51 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtVGVaVjN4LVAzMlJIeVd0dWNuYUtUcXFuV2xZOUJ0RWNkRnZ6Q2tqWFVkdW5aMkJVcG02S2JIeTlLQWFfbVVLNzFybmhpeHYzUkE?oc=5\" target=\"_blank\">三菱自、オートモビルカウンシル2026に出展 歴代パジェロやコンセプトカーなど展示</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">netdenjd.com</font>",
+            "site_name": "netdenjd.com"
+        },
+        {
+            "id": 745219,
+            "title": "Audi Sportauto Mule 1 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84Y1JRTEZtOU1yc2ZCUGlnaFZpZEhWZWY2aDdwaWtnV2tfQnpnYVphdFF5cDVybEwzNTJmSXVyUWVtb2JoMUsybjVZOC1iQTYwN1h6bEJXNUF2bFE4R2k5SUR2cXNENFVMLTNj?oc=5",
+            "published": "Sun, 14 Jun 2026 00:26:16 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE84Y1JRTEZtOU1yc2ZCUGlnaFZpZEhWZWY2aDdwaWtnV2tfQnpnYVphdFF5cDVybEwzNTJmSXVyUWVtb2JoMUsybjVZOC1iQTYwN1h6bEJXNUF2bFE4R2k5SUR2cXNENFVMLTNj?oc=5\" target=\"_blank\">Audi Sportauto Mule 1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 913889,
+            "title": "「注目の軽EV」N-VANらしい積載性や利便性で仕事も遊びもカバーする『N-VAN e:』は、乗り味も良好だ! - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fYnVCS29jbEZmLUl3YVNmeW1BcVoyV1BGVEh4QUR6a3A2cDVCSlc5RHZ4cUtRX09FWXVwMGx2V1pxeWlUclhaUlBiWVhXUTB1SV9xa0JqclNuZmg2Z3V0LWFpR3dJVlU?oc=5",
+            "published": "Sun, 14 Jun 2026 00:42:16 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fYnVCS29jbEZmLUl3YVNmeW1BcVoyV1BGVEh4QUR6a3A2cDVCSlc5RHZ4cUtRX09FWXVwMGx2V1pxeWlUclhaUlBiWVhXUTB1SV9xa0JqclNuZmg2Z3V0LWFpR3dJVlU?oc=5\" target=\"_blank\">「注目の軽EV」N-VANらしい積載性や利便性で仕事も遊びもカバーする『N-VAN e:』は、乗り味も良好だ!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 121443,
+            "title": "中宮中3年生が全日本カート選手権に出場 - 枚方つーしん",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBpQ1ZjX3dKWkgwZ0l6WTNsS1p2ekZWckpJWlh5RGpEelRMZ1ZKMnFFTnY2bVk4NDFhNGFwbzJoQVZLSTNyQ2YwX2lxN0k0dVFpVGRmU2h0QQ?oc=5",
+            "published": "Sun, 14 Jun 2026 08:17:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBpQ1ZjX3dKWkgwZ0l6WTNsS1p2ekZWckpJWlh5RGpEelRMZ1ZKMnFFTnY2bVk4NDFhNGFwbzJoQVZLSTNyQ2YwX2lxN0k0dVFpVGRmU2h0QQ?oc=5\" target=\"_blank\">中宮中3年生が全日本カート選手権に出場</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">枚方つーしん</font>",
+            "site_name": "枚方つーしん"
+        },
+        {
+            "id": 906831,
+            "title": "【独自】日産の英サンダーランド工場が大幅縮小に追い込まれた真相…｢リーフ｣に続き｢ジューク｣も半年遅れの深刻実態 - 東洋経済オンライン",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYRDgwS3ZzZDF4WDFBTDM1Nk5VdWRrdmYzcGhNWUxwTzFTTGQzbHR4ampoT1B3TnBHY3RkcFJscVYxRGQ4MDFiNlBEZFFGVFZhMnV1cEpnNEJUMGdTRDdV?oc=5",
+            "published": "Sun, 14 Jun 2026 19:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYRDgwS3ZzZDF4WDFBTDM1Nk5VdWRrdmYzcGhNWUxwTzFTTGQzbHR4ampoT1B3TnBHY3RkcFJscVYxRGQ4MDFiNlBEZFFGVFZhMnV1cEpnNEJUMGdTRDdV?oc=5\" target=\"_blank\">【独自】日産の英サンダーランド工場が大幅縮小に追い込まれた真相…｢リーフ｣に続き｢ジューク｣も半年遅れの深刻実態</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東洋経済オンライン</font>",
+            "site_name": "東洋経済オンライン"
+        },
+        {
+            "id": 670421,
+            "title": "これが令和のCR-Xか！ホンダ伝説のFFスポーツを355ps EVとして再現した予想CG公開（MotorFan） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00YjNpamZuenZjcDZibDZ2ZmFZaEhyd204RzRyM3lXaDZTQ19lamtOWXhWR25qSXdQWG5qTzlEczNINXBvN2JSYzlxTFhmZzE1NXdVc2p4TGg5Ni1LN19hODUxX0pVcjJGV095V2hiZWNSNnVuaDNnTDB0RHdtNWM?oc=5",
+            "published": "Sun, 14 Jun 2026 04:37:56 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE00YjNpamZuenZjcDZibDZ2ZmFZaEhyd204RzRyM3lXaDZTQ19lamtOWXhWR25qSXdQWG5qTzlEczNINXBvN2JSYzlxTFhmZzE1NXdVc2p4TGg5Ni1LN19hODUxX0pVcjJGV095V2hiZWNSNnVuaDNnTDB0RHdtNWM?oc=5\" target=\"_blank\">これが令和のCR-Xか！ホンダ伝説のFFスポーツを355ps EVとして再現した予想CG公開（MotorFan）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 408919,
+            "title": "Honda-CRX-Prototype-1-copy - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84YnV3ZFRETHhMSWtXMHBQNnYtcnFfTmxmclNhTldjX0JRRFRnSkt6Sm1aN0JKOWNUQnBwN3RaZVFjV21obGRBNGNaZ25vdVJaTTJUTVk5ZnJjaFp2R3NpbFg4dTQyQXlDeVhCczVmWVh1QQ?oc=5",
+            "published": "Sun, 14 Jun 2026 05:59:17 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE84YnV3ZFRETHhMSWtXMHBQNnYtcnFfTmxmclNhTldjX0JRRFRnSkt6Sm1aN0JKOWNUQnBwN3RaZVFjV21obGRBNGNaZ25vdVJaTTJUTVk5ZnJjaFp2R3NpbFg4dTQyQXlDeVhCczVmWVh1QQ?oc=5\" target=\"_blank\">Honda-CRX-Prototype-1-copy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 719070,
+            "title": "Honda-CRX-Prototype-11 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sWjZ0Zkp0WExmSnNQdlhHQUVnaldfcDFzTE1QNzRhRkpZSUlMTExsUEtkTkhETTdzc1NfTW5ybXNYT3EyejFHQkt3VGpGa1NyOG45dVdRMHdGaFRtNGVlMlZKTEVOM1EzT2QtXw?oc=5",
+            "published": "Sun, 14 Jun 2026 05:48:15 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1sWjZ0Zkp0WExmSnNQdlhHQUVnaldfcDFzTE1QNzRhRkpZSUlMTExsUEtkTkhETTdzc1NfTW5ybXNYT3EyejFHQkt3VGpGa1NyOG45dVdRMHdGaFRtNGVlMlZKTEVOM1EzT2QtXw?oc=5\" target=\"_blank\">Honda-CRX-Prototype-11</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 84336,
+            "title": "#花いろは 2ndアルバムリリースイベント #カメイドクロック #ハナサツ & #ドットビーピーエム 5thシングル発売記念イベント #錦糸町マルイ - Digital Life Innovator",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYUJTejdBVzFlLXNQREdLTFduNEVBdkc5amJBOGRuX18zUE5fYWRSck8yTWVseTJ6aE5VUzRIamI4dlNjRWFDYjFEdnZLRVBweFFDbnh5YUN2UC1wVGZhbEZEOGtkazQ5clVtdXB5Zy1KT3Z2dkRsZU1Cc21ibXFBRmttdTJocUpxSlRidzNPVjJsZlVwZHVPUFVoZnI3ZlpqUkhKR2tLb9IBpwFBVV95cUxPYUJTejdBVzFlLXNQREdLTFduNEVBdkc5amJBOGRuX18zUE5fYWRSck8yTWVseTJ6aE5VUzRIamI4dlNjRWFDYjFEdnZLRVBweFFDbnh5YUN2UC1wVGZhbEZEOGtkazQ5clVtdXB5Zy1KT3Z2dkRsZU1Cc21ibXFBRmttdTJocUpxSlRidzNPVjJsZlVwZHVPUFVoZnI3ZlpqUkhKR2tLbw?oc=5",
+            "published": "Sun, 14 Jun 2026 15:05:13 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPYUJTejdBVzFlLXNQREdLTFduNEVBdkc5amJBOGRuX18zUE5fYWRSck8yTWVseTJ6aE5VUzRIamI4dlNjRWFDYjFEdnZLRVBweFFDbnh5YUN2UC1wVGZhbEZEOGtkazQ5clVtdXB5Zy1KT3Z2dkRsZU1Cc21ibXFBRmttdTJocUpxSlRidzNPVjJsZlVwZHVPUFVoZnI3ZlpqUkhKR2tLb9IBpwFBVV95cUxPYUJTejdBVzFlLXNQREdLTFduNEVBdkc5amJBOGRuX18zUE5fYWRSck8yTWVseTJ6aE5VUzRIamI4dlNjRWFDYjFEdnZLRVBweFFDbnh5YUN2UC1wVGZhbEZEOGtkazQ5clVtdXB5Zy1KT3Z2dkRsZU1Cc21ibXFBRmttdTJocUpxSlRidzNPVjJsZlVwZHVPUFVoZnI3ZlpqUkhKR2tLbw?oc=5\" target=\"_blank\">#花いろは 2ndアルバムリリースイベント #カメイドクロック #ハナサツ & #ドットビーピーエム 5thシングル発売記念イベント #錦糸町マルイ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Digital Life Innovator</font>",
+            "site_name": "Digital Life Innovator"
+        },
+        {
+            "id": 273344,
+            "title": "Honda-CRX-Prototype-3 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RclhGalN4dDZiYWozN0lZYVp1anZwN2xkUkFnR1IzdDBMdzhfdF9HVHFhWk1WRmFJZWc1YmxPSlFhd1YyaC0xeFRJdXI4bjBYWXlGTlEzTjdzU09EUjl3ekZjRjFld0VTT1Rr?oc=5",
+            "published": "Sun, 14 Jun 2026 05:12:46 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5RclhGalN4dDZiYWozN0lZYVp1anZwN2xkUkFnR1IzdDBMdzhfdF9HVHFhWk1WRmFJZWc1YmxPSlFhd1YyaC0xeFRJdXI4bjBYWXlGTlEzTjdzU09EUjl3ekZjRjFld0VTT1Rr?oc=5\" target=\"_blank\">Honda-CRX-Prototype-3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 9210,
+            "title": "熟練ドライバーにしかできない「神業」をAIで実現！　いすゞ×ティアフォー×NVIDIAの「自動運転バス」が街に解き放たれる - WEB CARTOP",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZUXRfakdRTi13WkZNSUtvUFFCblhnZVAtcDhFZURwcW5qb3NVeVlibXZKQ1lfVnRyODJ0YzJVOUtuUE9GNGJ0RjlDaldwN3Z4S1Rr0gFYQVVfeXFMTWUwdV9kZk9rcnpUNmxoZUtPZDNqLTdTQVVKTklmRDVWLVU1TUZ6cHhBXzlwZDBKaXhUWElTWFNZbTZrWnUxVWhOYjQ5US1PU0NZLVp5am5hSQ?oc=5",
+            "published": "Sun, 14 Jun 2026 11:00:24 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZUXRfakdRTi13WkZNSUtvUFFCblhnZVAtcDhFZURwcW5qb3NVeVlibXZKQ1lfVnRyODJ0YzJVOUtuUE9GNGJ0RjlDaldwN3Z4S1Rr0gFYQVVfeXFMTWUwdV9kZk9rcnpUNmxoZUtPZDNqLTdTQVVKTklmRDVWLVU1TUZ6cHhBXzlwZDBKaXhUWElTWFNZbTZrWnUxVWhOYjQ5US1PU0NZLVp5am5hSQ?oc=5\" target=\"_blank\">熟練ドライバーにしかできない「神業」をAIで実現！　いすゞ×ティアフォー×NVIDIAの「自動運転バス」が街に解き放たれる</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEB CARTOP</font>",
+            "site_name": "WEB CARTOP"
+        },
+        {
+            "id": 975915,
+            "title": "BMW320d ディーゼルの真骨頂！ 1000km一気に走破 東京〜山形往復で燃費は？ 同じことを電気自動車（EV）でできる？ - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvUHBtMi1NX1FybVFYYlBzMkZzbHBiVm5vUFZ0azM4U2ROdlZkZ0lIV0ZwWWQwRXMwWmVZLUhOSUVwcVlSakNKS2ZPWmRLclZiOHZpRGxyLTB6ZVhWUWNMb0h3?oc=5",
+            "published": "Sun, 14 Jun 2026 00:48:10 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvUHBtMi1NX1FybVFYYlBzMkZzbHBiVm5vUFZ0azM4U2ROdlZkZ0lIV0ZwWWQwRXMwWmVZLUhOSUVwcVlSakNKS2ZPWmRLclZiOHZpRGxyLTB6ZVhWUWNMb0h3?oc=5\" target=\"_blank\">BMW320d ディーゼルの真骨頂！ 1000km一気に走破 東京〜山形往復で燃費は？ 同じことを電気自動車（EV）でできる？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 940236,
+            "title": "マグネシウム新合金開発 藤岡エンジニアリング 高い放熱性能 カメラ、ＥＶ部品参入狙う - 山陽新聞",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04amlTU0MxWXVRRm9tWW9oUE1PYkUtaUQyV3JORXRqRkx1Q3BpcktDcGlPWG1GMVhGZmY3NjhnSVJzM3JtaHlDMHIzR0xtRldWSzk4UXpQUnp1b21idjlHVEFRV01TeWs?oc=5",
+            "published": "Sat, 13 Jun 2026 22:54:34 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04amlTU0MxWXVRRm9tWW9oUE1PYkUtaUQyV3JORXRqRkx1Q3BpcktDcGlPWG1GMVhGZmY3NjhnSVJzM3JtaHlDMHIzR0xtRldWSzk4UXpQUnp1b21idjlHVEFRV01TeWs?oc=5\" target=\"_blank\">マグネシウム新合金開発 藤岡エンジニアリング 高い放熱性能 カメラ、ＥＶ部品参入狙う</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
+            "site_name": "山陽新聞"
+        },
+        {
+            "id": 651276,
+            "title": "Honda-CRX-Prototype-4 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtU3NzVzRQdFBrRGFGVkpXenNWQlVtNVk1eDlkcDJiZi01OHhhVWNRYmhya0c2a29udWk5UFJKVUJ3eHZJQ2VGLUVwVmJUc3E1OWZ1c1VmaDRTeGRVa3NrV0d1ZnV1aFg3SklR?oc=5",
+            "published": "Sun, 14 Jun 2026 00:46:28 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFAtU3NzVzRQdFBrRGFGVkpXenNWQlVtNVk1eDlkcDJiZi01OHhhVWNRYmhya0c2a29udWk5UFJKVUJ3eHZJQ2VGLUVwVmJUc3E1OWZ1c1VmaDRTeGRVa3NrV0d1ZnV1aFg3SklR?oc=5\" target=\"_blank\">Honda-CRX-Prototype-4</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 245702,
+            "title": "これが令和のCR-Xか！ホンダ伝説のFFスポーツを355ps EVとして再現した予想CG公開 (MotorFan) - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeGVHQXl1aWNrcFdDMW92cTV2X2xEdHNtcUVuWlE1NjMzUHRkcXpuNW9OSlJCX1EzaDJSeV92T2czc3hRNFNhcXZ3QlVWVGRwc1hCWFZlbzNBalBwWTJFeUVWUFFJdV9FVGttZ0JSMzNCaDA0Q1hNdFFpbEZsUEYzUjV4b1VMUC1qbkN3dXZn?oc=5",
+            "published": "Sun, 14 Jun 2026 04:37:56 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQeGVHQXl1aWNrcFdDMW92cTV2X2xEdHNtcUVuWlE1NjMzUHRkcXpuNW9OSlJCX1EzaDJSeV92T2czc3hRNFNhcXZ3QlVWVGRwc1hCWFZlbzNBalBwWTJFeUVWUFFJdV9FVGttZ0JSMzNCaDA0Q1hNdFFpbEZsUEYzUjV4b1VMUC1qbkN3dXZn?oc=5\" target=\"_blank\">これが令和のCR-Xか！ホンダ伝説のFFスポーツを355ps EVとして再現した予想CG公開 (MotorFan)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 733075,
+            "title": "Honda-CRX-Prototype-6-copys - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2RnR2Qzh6S1hXM1Vkb09paEJzVFVpanRiekk1bGxEbEk4UlVXd0RqYUN6Umd1YTUycVdGVHhtd0llejBGdjVqNXdTaVNLLURLYTdhSGU5UGtzdjFLazJsY182Q0pxWVZ3YWhzMkpiT0d1Mkk?oc=5",
+            "published": "Sun, 14 Jun 2026 00:22:04 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFB2RnR2Qzh6S1hXM1Vkb09paEJzVFVpanRiekk1bGxEbEk4UlVXd0RqYUN6Umd1YTUycVdGVHhtd0llejBGdjVqNXdTaVNLLURLYTdhSGU5UGtzdjFLazJsY182Q0pxWVZ3YWhzMkpiT0d1Mkk?oc=5\" target=\"_blank\">Honda-CRX-Prototype-6-copys</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 5691,
+            "title": "新型「トヨタRAV4 PHEV」に初搭載された第6世代ハイブリッドシステム、その全貌に迫る【写真・20枚目】 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yMmJCbG5LMzFNeG5JYVdTSjJtdUx2ODFHODF2VjRQd1doUTN3akxtdl8yUXhLM0Z3UFZxTTNkTzBWUl9QNERFMkVra0lJUTZoMmplVk1UTU5JLVhhN1NkdVhvRFRuUGZZQl9JbHA2QUlCSEo1R3c?oc=5",
+            "published": "Sun, 14 Jun 2026 00:53:59 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE0yMmJCbG5LMzFNeG5JYVdTSjJtdUx2ODFHODF2VjRQd1doUTN3akxtdl8yUXhLM0Z3UFZxTTNkTzBWUl9QNERFMkVra0lJUTZoMmplVk1UTU5JLVhhN1NkdVhvRFRuUGZZQl9JbHA2QUlCSEo1R3c?oc=5\" target=\"_blank\">新型「トヨタRAV4 PHEV」に初搭載された第6世代ハイブリッドシステム、その全貌に迫る【写真・20枚目】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 271671,
+            "title": "Honda-CRX-Prototype-5 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DNDA2YkYtU3RGVm1jWm1yVVhaeDlRZnJZSDBLUW1ZWWlveUJnUzh6OVFtRUxza09GMlZZT05RUTRMenNPV3ZranlYcmg3YnBXR1lzRE9qa0RGM2Rpb3U5aG04bEtfVFZOZTA0?oc=5",
+            "published": "Sun, 14 Jun 2026 00:22:04 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1DNDA2YkYtU3RGVm1jWm1yVVhaeDlRZnJZSDBLUW1ZWWlveUJnUzh6OVFtRUxza09GMlZZT05RUTRMenNPV3ZranlYcmg3YnBXR1lzRE9qa0RGM2Rpb3U5aG04bEtfVFZOZTA0?oc=5\" target=\"_blank\">Honda-CRX-Prototype-5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 588380,
+            "title": "Honda-CRX-Prototype-6 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9STE1hRVBpVFN2bTVnVnlpODIzdHR5d3pDblFJVzAydV9oT3g2UUdpcnU5VzZiMnMyZ2gyeVpKSllnZThpUDRaWThhMzUwOURhUFUyZzVoeWk1bFc0M3BncmppWFU2OEwyY2Nr?oc=5",
+            "published": "Sun, 14 Jun 2026 00:20:01 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9STE1hRVBpVFN2bTVnVnlpODIzdHR5d3pDblFJVzAydV9oT3g2UUdpcnU5VzZiMnMyZ2gyeVpKSllnZThpUDRaWThhMzUwOURhUFUyZzVoeWk1bFc0M3BncmppWFU2OEwyY2Nr?oc=5\" target=\"_blank\">Honda-CRX-Prototype-6</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 51494,
+            "title": "Honda-CRX-Prototype-7-2 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZZlpTbjRuWUcyZHY3UlJHUjB5TDBBQlJHd2dvaEM4WGd1RmlwejVtcmRscEpKU0tDQTZSdmd0WVdEeGVJTjE5bFRkSWhZajdOdzZDVjVLb1B5NFFHc3lfSW8xTDhMTnYwUEQ3NW1n?oc=5",
+            "published": "Sun, 14 Jun 2026 00:50:10 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBZZlpTbjRuWUcyZHY3UlJHUjB5TDBBQlJHd2dvaEM4WGd1RmlwejVtcmRscEpKU0tDQTZSdmd0WVdEeGVJTjE5bFRkSWhZajdOdzZDVjVLb1B5NFFHc3lfSW8xTDhMTnYwUEQ3NW1n?oc=5\" target=\"_blank\">Honda-CRX-Prototype-7-2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 376856,
+            "title": "新型「“5人乗り”スポーツカー」登場に反響殺到！ 全長5mの斬新「デザイン」×“1050馬力”！ 「時代が変わった」「価格に驚いた」の声もあるフェラーリ「ルーチェ」伊国仕様に注目 - ｄメニューニュース",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaGthSDh2V1dXVkpXdFdZcGFnOFFDUmNvQkR2eVNpRzFtRC1JRUZ5YS1rbE93YzE2VjdfZ2FIazBBa0FXVWxpV0dGT2djRkk1UVZ2VzQwci15ZnR6SnlrNjNsZVBJc01vS0lQdFp3NWVMdVhWR0psemNBc21FeXNDdmszcVV3UdIBhgFBVV95cUxPaGthSDh2V1dXVkpXdFdZcGFnOFFDUmNvQkR2eVNpRzFtRC1JRUZ5YS1rbE93YzE2VjdfZ2FIazBBa0FXVWxpV0dGT2djRkk1UVZ2VzQwci15ZnR6SnlrNjNsZVBJc01vS0lQdFp3NWVMdVhWR0psemNBc21FeXNDdmszcVV3UQ?oc=5",
+            "published": "Sun, 14 Jun 2026 02:10:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPaGthSDh2V1dXVkpXdFdZcGFnOFFDUmNvQkR2eVNpRzFtRC1JRUZ5YS1rbE93YzE2VjdfZ2FIazBBa0FXVWxpV0dGT2djRkk1UVZ2VzQwci15ZnR6SnlrNjNsZVBJc01vS0lQdFp3NWVMdVhWR0psemNBc21FeXNDdmszcVV3UdIBhgFBVV95cUxPaGthSDh2V1dXVkpXdFdZcGFnOFFDUmNvQkR2eVNpRzFtRC1JRUZ5YS1rbE93YzE2VjdfZ2FIazBBa0FXVWxpV0dGT2djRkk1UVZ2VzQwci15ZnR6SnlrNjNsZVBJc01vS0lQdFp3NWVMdVhWR0psemNBc21FeXNDdmszcVV3UQ?oc=5\" target=\"_blank\">新型「“5人乗り”スポーツカー」登場に反響殺到！ 全長5mの斬新「デザイン」×“1050馬力”！ 「時代が変わった」「価格に驚いた」の声もあるフェラーリ「ルーチェ」伊国仕様に注目</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
+            "site_name": "ｄメニューニュース"
+        },
+        {
+            "id": 132522,
+            "title": "これが令和のCR-Xか！ホンダ伝説のFFスポーツを355ps EVとして再現した予想CG公開 (MotorFan) - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY0tmYjdUV19TeThkQjFGdFNkR2JDOTJQWHE4ZDFxWllOXzdRRnY1X1FzT25yMkUyRFNsRktUZlNEZ24zalJES3lfY01lcXZ5UXB1OERMbmxZRkFWdmd2N2trdXg1bEN4bVRPOXhCNWx0ckhuQzJrNUd3YmJnbWMxRGN6S0hoTnl3MVhiVElR?oc=5",
+            "published": "Sun, 14 Jun 2026 04:37:56 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQY0tmYjdUV19TeThkQjFGdFNkR2JDOTJQWHE4ZDFxWllOXzdRRnY1X1FzT25yMkUyRFNsRktUZlNEZ24zalJES3lfY01lcXZ5UXB1OERMbmxZRkFWdmd2N2trdXg1bEN4bVRPOXhCNWx0ckhuQzJrNUd3YmJnbWMxRGN6S0hoTnl3MVhiVElR?oc=5\" target=\"_blank\">これが令和のCR-Xか！ホンダ伝説のFFスポーツを355ps EVとして再現した予想CG公開 (MotorFan)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 160113,
+            "title": "率直に問う 自動車は“日本のプライド”であり続けられるか？ 出荷額71.6兆円という不動の基幹産業、その価値の行方とは - Merkmal",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zVWNwQmFTRGNIQkNKSDI0QUdvLWVwbzNnbWZ2Yi1KalBvdWQzSnVzN0RGZUhGNldPRWswa0lEbFBWdXRsV0FRVkpUWG4?oc=5",
+            "published": "Sat, 13 Jun 2026 23:26:55 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zVWNwQmFTRGNIQkNKSDI0QUdvLWVwbzNnbWZ2Yi1KalBvdWQzSnVzN0RGZUhGNldPRWswa0lEbFBWdXRsV0FRVkpUWG4?oc=5\" target=\"_blank\">率直に問う 自動車は“日本のプライド”であり続けられるか？ 出荷額71.6兆円という不動の基幹産業、その価値の行方とは</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Merkmal</font>",
+            "site_name": "Merkmal"
+        },
+        {
+            "id": 673305,
+            "title": "焦点：中国の省エネシフト加速、燃料需要が急減 ＥＶ 普及など - MSN",
+            "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOYzhfblRXdU9rVnJyNExqcWgycU5paHEzekN5d0wtVlBOV21WTVU0aVR0ZXluNWJITTE2TXdQLWYwRy1vRzFGY3FDT0hUb3dfOGxjdDIwWGJaVXF1OHJrNkdsTXBkQnF3NGxIUlRSZDZrQ3VRX01VV2VvZWNsdzlNSzFXVVRJb0V6TkszYzBlVGFJbjJSOHM4SWdDSms5c0dYbk5HZU1qbWtFTjRoYUFnTm5sTGVvb1pkVjRONGdLN3RMekZSMUdNUEtBWGFwSG9QckdqVTJtaEZROENtUV90UzZvZmlsNzdWbzRzTE53bFk5eGk1SXEzeVBFRk5TU2NXanRZeHN6SXBUZDlzRjFDR2ViT09VS0RDXzMzeUtYd0tiZTNRNnQzMmV0TGduMFJuQ2N3MlRLZU9SYXVPRTJYd20takxKbFhsX3RtQVl0bU1VeUdjSEljdHlVRVBtV0lha2NSTnZCbkYzTks0UHRXbzBRV3BLQVowdjZXY2dvUzYxRktma29RcDZwZXRlNDFONEZvT19mb1lVRmc?oc=5",
+            "published": "Sun, 14 Jun 2026 03:08:32 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwNBVV95cUxOYzhfblRXdU9rVnJyNExqcWgycU5paHEzekN5d0wtVlBOV21WTVU0aVR0ZXluNWJITTE2TXdQLWYwRy1vRzFGY3FDT0hUb3dfOGxjdDIwWGJaVXF1OHJrNkdsTXBkQnF3NGxIUlRSZDZrQ3VRX01VV2VvZWNsdzlNSzFXVVRJb0V6TkszYzBlVGFJbjJSOHM4SWdDSms5c0dYbk5HZU1qbWtFTjRoYUFnTm5sTGVvb1pkVjRONGdLN3RMekZSMUdNUEtBWGFwSG9QckdqVTJtaEZROENtUV90UzZvZmlsNzdWbzRzTE53bFk5eGk1SXEzeVBFRk5TU2NXanRZeHN6SXBUZDlzRjFDR2ViT09VS0RDXzMzeUtYd0tiZTNRNnQzMmV0TGduMFJuQ2N3MlRLZU9SYXVPRTJYd20takxKbFhsX3RtQVl0bU1VeUdjSEljdHlVRVBtV0lha2NSTnZCbkYzTks0UHRXbzBRV3BLQVowdjZXY2dvUzYxRktma29RcDZwZXRlNDFONEZvT19mb1lVRmc?oc=5\" target=\"_blank\">焦点：中国の省エネシフト加速、燃料需要が急減 ＥＶ 普及など</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+            "site_name": "MSN"
+        },
+        {
+            "id": 871502,
+            "title": "年間100万台売れる“トヨタの絶対的エース”をどこまで“変えた”のか？ 新型「RAV4」気になる点も - au Webポータル",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zNnRXcG5IM0EwOEFPUi1aODlubTZBRzVvbkRBc3UtTEpsczFLUURybU9Sd3A5LVVPWkdOYnlhZFZfYU5rMmRKcFRfTjFXMWRaN1VqUlhLN3dyeV9aYk9DNkFnYmJHMC1DdWU0b0Vwa2JXSmJwTzNPa3Z3?oc=5",
+            "published": "Sun, 14 Jun 2026 10:12:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE8zNnRXcG5IM0EwOEFPUi1aODlubTZBRzVvbkRBc3UtTEpsczFLUURybU9Sd3A5LVVPWkdOYnlhZFZfYU5rMmRKcFRfTjFXMWRaN1VqUlhLN3dyeV9aYk9DNkFnYmJHMC1DdWU0b0Vwa2JXSmJwTzNPa3Z3?oc=5\" target=\"_blank\">年間100万台売れる“トヨタの絶対的エース”をどこまで“変えた”のか？ 新型「RAV4」気になる点も</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">au Webポータル</font>",
+            "site_name": "au Webポータル"
+        },
+        {
+            "id": 864825,
+            "title": "EVはやはりガソリン車よりクリーン、バッテリー製造を含めても - 32CARS",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ1M4V0pTODZFTFd1N0ZhOWtvVU1CV1FoZndvTk5qaVE5aUlqRkpCd0lMVnUwTnlaa1JMY0E5SFVleWZDaFBnZjgwaXRTblloTjFvb2ZJNmJIS2dwWmlmQVA4WGRzN0ZMTV92d1BOUHU5VFRWd2pYcFB3T3N6YU5OWTBqbWVIMzZObzJOTVB0MkRrNVBhSUdiMXR5TjRyR0tJb2FZ0gGnAUFVX3lxTFBiR2VKWXZwcllVWnJaRkdDQm4ybUhCSWNCTjZpdlVKRmVlMlNJTEN0VUF5X0ZsaTE1RXpzQjVRcy1HSWpybjdaUHh1RTZzbElycG9TUVdLMW1YaU13ZkZkc1BUbXpHUzhBYWlKSkg2amhsbG5hUGhYbkF3YURPT3FZNW9EQTlhZnJsNkhOaTRRS2JjVTR6UEoyS1FVRURmdmF1YndJYjlr?oc=5",
+            "published": "Sun, 14 Jun 2026 11:30:02 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ1M4V0pTODZFTFd1N0ZhOWtvVU1CV1FoZndvTk5qaVE5aUlqRkpCd0lMVnUwTnlaa1JMY0E5SFVleWZDaFBnZjgwaXRTblloTjFvb2ZJNmJIS2dwWmlmQVA4WGRzN0ZMTV92d1BOUHU5VFRWd2pYcFB3T3N6YU5OWTBqbWVIMzZObzJOTVB0MkRrNVBhSUdiMXR5TjRyR0tJb2FZ0gGnAUFVX3lxTFBiR2VKWXZwcllVWnJaRkdDQm4ybUhCSWNCTjZpdlVKRmVlMlNJTEN0VUF5X0ZsaTE1RXpzQjVRcy1HSWpybjdaUHh1RTZzbElycG9TUVdLMW1YaU13ZkZkc1BUbXpHUzhBYWlKSkg2amhsbG5hUGhYbkF3YURPT3FZNW9EQTlhZnJsNkhOaTRRS2JjVTR6UEoyS1FVRURmdmF1YndJYjlr?oc=5\" target=\"_blank\">EVはやはりガソリン車よりクリーン、バッテリー製造を含めても</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">32CARS</font>",
+            "site_name": "32CARS"
+        },
+        {
+            "id": 514712,
+            "title": "メルセデスCLA 200+ EQ：4万9650ユーロから航続730km - 32CARS",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNDlVSTZtcVpyZmM2ejhMT1V2M2VfWG5Dc240R2hCN25uTGVyZDV2ODkzemd0blpIanlPTDI4M3RwVXFNaG1uZnRGMnBMYzZuRnhSNTJBVG9MdndtVVB3TktpNTFwZXFuMkZiSUpoSFFTX1Q1b2V5WWVVUlNDa0h1SGRlb3BqRlU2ZVdrT3dXTzdjQmg1d1HSAZoBQVVfeXFMTXhKU3BjWWpvNS04b3BFRFRaV25mTURFb1ByN29wT1luOUxwVm1rYXhPUDRuTjFzcS16dU1CODRTdEl0a0NRVU9OS2NoSEhjSWlYTHctT2FQc1hsUHlnZUsxZVhiQk9ERmp0RWgwdTlTNUJFY3N0OFNJR3JETGl4QXozRUd0aGFfTmhicDV5Sk8wYnFlSjlVS0RrZw?oc=5",
+            "published": "Sun, 14 Jun 2026 14:00:02 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPNDlVSTZtcVpyZmM2ejhMT1V2M2VfWG5Dc240R2hCN25uTGVyZDV2ODkzemd0blpIanlPTDI4M3RwVXFNaG1uZnRGMnBMYzZuRnhSNTJBVG9MdndtVVB3TktpNTFwZXFuMkZiSUpoSFFTX1Q1b2V5WWVVUlNDa0h1SGRlb3BqRlU2ZVdrT3dXTzdjQmg1d1HSAZoBQVVfeXFMTXhKU3BjWWpvNS04b3BFRFRaV25mTURFb1ByN29wT1luOUxwVm1rYXhPUDRuTjFzcS16dU1CODRTdEl0a0NRVU9OS2NoSEhjSWlYTHctT2FQc1hsUHlnZUsxZVhiQk9ERmp0RWgwdTlTNUJFY3N0OFNJR3JETGl4QXozRUd0aGFfTmhicDV5Sk8wYnFlSjlVS0RrZw?oc=5\" target=\"_blank\">メルセデスCLA 200+ EQ：4万9650ユーロから航続730km</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">32CARS</font>",
+            "site_name": "32CARS"
+        },
+        {
+            "id": 676727,
+            "title": "Avatr VISION XPECTRAが重慶でお披露目—次世代プレミアムの予告編 - SpeedMe.ru",
+            "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPMV9kVDJQVzJWMFdfVFdEbW9ndzhtakVpTWMtbHVhVHkzcEdhRW5sQmR6MXdFLWkwQ1hrWGY3bTkycjYzcW9ibnZWMTBZTWVnRzFPYzNBM2I4aUQyVl9lNWVWUzZENXBNdGR2ZWRaUG1kUXNid2hEcmllM1BPY3gzREZ0U0xKUUtVZEFBY1FMZ0MtMGtFcmtUTXpRdGRCS25DVDloUEZwYnJLT1JINWFzMUdKQS03Wi00Wnp2Ujc4NEJQUnBwNUVoX2dBb3FhNnBkQzY3TzZQVm9EMEV0UzVkZ3hNeTViNnI0RnJELXVfSk9GLXJHc3Z3N2U5QVJCZVBHQWV3N2hISW5JbDlsU01XSlR6UGZ6Tzg0bkRlZ01Rd3BOVnlvSWxCTFdsSjBzcW9nMVZBWi1HMjNlV3FIQ25qQ0h6QmVlX0NaRDQzQkJHY3Z6ZTFjZWJQWG1HRE7SAdwCQVVfeXFMTzFfZFQyUFcyVjBXX1RXRG1vZ3c4bWpFaU1jLWx1YVR5M3BHYUVubEJkejF3RS1pMENYa1hmN205MnI2M3FvYm52VjEwWU1lZ0cxT2MzQTNiOGlEMlZfZTVlVlM2RDVwTXRkdmVkWlBtZFFzYndoRHJpZTNQT2N4M0RGdFNMSlFLVWRBQWNRTGdDLTBrRXJrVE16UXRkQktuQ1Q5aFBGcGJyS09SSDVhczFHSkEtN1otNFp6dlI3ODRCUFJwcDVFaF9nQW9xYTZwZEM2N082UFZvRDBFdFM1ZGd4TXk1YjZyNEZyRC11X0pPRi1yR3N2dzdlOUFSQmVQR0FldzdoSEluSWw5bFNNV0pUelBmek84NG5EZWdNUXdwTlZ5b0lsQkxXbEowc3FvZzFWQVotRzIzZVdxSENuakNIekJlZV9DWkQ0M0JCR2N2emUxY2ViUFhtR0RO?oc=5",
+            "published": "Sun, 14 Jun 2026 07:22:02 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AJBVV95cUxPMV9kVDJQVzJWMFdfVFdEbW9ndzhtakVpTWMtbHVhVHkzcEdhRW5sQmR6MXdFLWkwQ1hrWGY3bTkycjYzcW9ibnZWMTBZTWVnRzFPYzNBM2I4aUQyVl9lNWVWUzZENXBNdGR2ZWRaUG1kUXNid2hEcmllM1BPY3gzREZ0U0xKUUtVZEFBY1FMZ0MtMGtFcmtUTXpRdGRCS25DVDloUEZwYnJLT1JINWFzMUdKQS03Wi00Wnp2Ujc4NEJQUnBwNUVoX2dBb3FhNnBkQzY3TzZQVm9EMEV0UzVkZ3hNeTViNnI0RnJELXVfSk9GLXJHc3Z3N2U5QVJCZVBHQWV3N2hISW5JbDlsU01XSlR6UGZ6Tzg0bkRlZ01Rd3BOVnlvSWxCTFdsSjBzcW9nMVZBWi1HMjNlV3FIQ25qQ0h6QmVlX0NaRDQzQkJHY3Z6ZTFjZWJQWG1HRE7SAdwCQVVfeXFMTzFfZFQyUFcyVjBXX1RXRG1vZ3c4bWpFaU1jLWx1YVR5M3BHYUVubEJkejF3RS1pMENYa1hmN205MnI2M3FvYm52VjEwWU1lZ0cxT2MzQTNiOGlEMlZfZTVlVlM2RDVwTXRkdmVkWlBtZFFzYndoRHJpZTNQT2N4M0RGdFNMSlFLVWRBQWNRTGdDLTBrRXJrVE16UXRkQktuQ1Q5aFBGcGJyS09SSDVhczFHSkEtN1otNFp6dlI3ODRCUFJwcDVFaF9nQW9xYTZwZEM2N082UFZvRDBFdFM1ZGd4TXk1YjZyNEZyRC11X0pPRi1yR3N2dzdlOUFSQmVQR0FldzdoSEluSWw5bFNNV0pUelBmek84NG5EZWdNUXdwTlZ5b0lsQkxXbEowc3FvZzFWQVotRzIzZVdxSENuakNIekJlZV9DWkQ0M0JCR2N2emUxY2ViUFhtR0RO?oc=5\" target=\"_blank\">Avatr VISION XPECTRAが重慶でお披露目—次世代プレミアムの予告編</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SpeedMe.ru</font>",
+            "site_name": "SpeedMe.ru"
+        },
+        {
+            "id": 499554,
+            "title": "合成燃料は内燃機関を救えない――数字が容赦なく告げる現実 - Tarantas News",
+            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRDZLbWtTOXhiR1V6SHBacklfU0ZLdXp3dFRTT0JNdS11bm5ENzRmVHJqeDdZZ3FneWpWQVhjOG9xT3V3cjNabmV1LW5OU3VxMDMwVGpuM1Nwa0RwYW9IUzhzbk9OVTllVmxzZFhldGpQZGc3bGRuVDRMVzhMSk1wYm5vR3AzdVc4bncxOWNTOUN0cmpIRk9NWFZkTmhUc1QwWlczOFNhcXBpYlhYNkd3a0FWQlJ6bEFudUh0VDVGbE9LZ9IBxgFBVV95cUxQNElBdTVVLXp4LXFHQ3VDeVpzNHc4b0dSc0lTbEU2SE5RNnpXd2pQcFB6SEJhTC11cld2SEtDT2hFSWRKanl1N1Q3dmJ2UlhMZ2VzeDFGWlVHWnZwZjdLUlpOTTZDUE5sTmdJb1EwcnlNbnZzUEktX0hYZUk2YzFlTG5YeXc1QklsbE9qM0NTX3U1Z1pENzl4MmNfckdQbkZybzhQWjFpTlVSc0J0a0pNcEVpQWJ1Tmh0Ukd6ZUVpNkNvX0FleEE?oc=5",
+            "published": "Sun, 14 Jun 2026 08:29:02 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRDZLbWtTOXhiR1V6SHBacklfU0ZLdXp3dFRTT0JNdS11bm5ENzRmVHJqeDdZZ3FneWpWQVhjOG9xT3V3cjNabmV1LW5OU3VxMDMwVGpuM1Nwa0RwYW9IUzhzbk9OVTllVmxzZFhldGpQZGc3bGRuVDRMVzhMSk1wYm5vR3AzdVc4bncxOWNTOUN0cmpIRk9NWFZkTmhUc1QwWlczOFNhcXBpYlhYNkd3a0FWQlJ6bEFudUh0VDVGbE9LZ9IBxgFBVV95cUxQNElBdTVVLXp4LXFHQ3VDeVpzNHc4b0dSc0lTbEU2SE5RNnpXd2pQcFB6SEJhTC11cld2SEtDT2hFSWRKanl1N1Q3dmJ2UlhMZ2VzeDFGWlVHWnZwZjdLUlpOTTZDUE5sTmdJb1EwcnlNbnZzUEktX0hYZUk2YzFlTG5YeXc1QklsbE9qM0NTX3U1Z1pENzl4MmNfckdQbkZybzhQWjFpTlVSc0J0a0pNcEVpQWJ1Tmh0Ukd6ZUVpNkNvX0FleEE?oc=5\" target=\"_blank\">合成燃料は内燃機関を救えない――数字が容赦なく告げる現実</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tarantas News</font>",
+            "site_name": "Tarantas News"
+        },
+        {
+            "id": 381285,
+            "title": "アウディ・ヌヴォラーリがナルドで全開──987馬力、350km/h超、わずか499台 - Tarantas News",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeFdFMUtJMWZhdThBTDg2WVZnYzJQRVVsdFdTUnN5VW9HVk9uWDgyN3k2SzhHOXdqazBWRVVQTFlWdHNSS19nU0lNWEZpUlVNZ3JNTXN4Y0x2cjIxekNvUUdiREhTdk1UQXJIcFNLWDZMRUE3Sm5ZNmRrR09ENXhzXzlleGk4VGxuTWtRWTVfLTRPU2dORGloLW9XZXNhNzhxYVlaekwwM2h2NDTSAa8BQVVfeXFMTmZfTUhBNWFXQ29uQXo2RmFRY1B1LWU1YUxmajNvNnNGUGlObllMVExpcC1YNW1henF6c0tLSEQxSkk5c3JyYVp5ekJyWWFnVW5jblNpZmxIUnRJOHpocFVEVWhJOWRzNVJHTFZFQ0JVRzRBZEJaR2pIYjQ4V0FDeXBMbHAyQUZucWdMd0lyaDVZSEtXV2ZWTDhkQXA4S05sZTF4UEV3VGhpRVlLN3NEUQ?oc=5",
+            "published": "Sun, 14 Jun 2026 11:00:02 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeFdFMUtJMWZhdThBTDg2WVZnYzJQRVVsdFdTUnN5VW9HVk9uWDgyN3k2SzhHOXdqazBWRVVQTFlWdHNSS19nU0lNWEZpUlVNZ3JNTXN4Y0x2cjIxekNvUUdiREhTdk1UQXJIcFNLWDZMRUE3Sm5ZNmRrR09ENXhzXzlleGk4VGxuTWtRWTVfLTRPU2dORGloLW9XZXNhNzhxYVlaekwwM2h2NDTSAa8BQVVfeXFMTmZfTUhBNWFXQ29uQXo2RmFRY1B1LWU1YUxmajNvNnNGUGlObllMVExpcC1YNW1henF6c0tLSEQxSkk5c3JyYVp5ekJyWWFnVW5jblNpZmxIUnRJOHpocFVEVWhJOWRzNVJHTFZFQ0JVRzRBZEJaR2pIYjQ4V0FDeXBMbHAyQUZucWdMd0lyaDVZSEtXV2ZWTDhkQXA4S05sZTF4UEV3VGhpRVlLN3NEUQ?oc=5\" target=\"_blank\">アウディ・ヌヴォラーリがナルドで全開──987馬力、350km/h超、わずか499台</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tarantas News</font>",
+            "site_name": "Tarantas News"
+        },
+        {
+            "id": 61602,
+            "title": "初採用“消えるスイッチ” レクサス「新型の高級セダン」が発売! ハイブリッドとEVの8代目「ES」 - MSN",
+            "link": "https://news.google.com/rss/articles/CBMikwRBVV95cUxPOVF4aWtDMFZFcl9kZENIRURqdWNkaFVCZFkzWkNCQk5NZHJFOF9aU0Y4WHRJRE8yWWZFTE5QZTlRMVFlQ21XV3FDRjVwNFpWa2ZfZWU0VEdhUEVsYjM5QTFjVUItR2daZXpxQnNyZVRFbnhIUVdiQzNvN0RTV2NRRlNVb2hkT0tLMnA3Y3lJeU1jX0RGbkZGSzhoT2dieFNtTHZFbThaekhKYlhMcHJwRXoyT2tKNnM0cmVXNUpYbUFxODRpUEpEaVZrcFFKN2VERTVrVjI5azI2bGtfLTlXSl82TFQ3am9GVG40bmN2Z2dFWTFybTJyRU9OdEV2VnIwdXVOYTNQUkU2R1lxZU5EUDk1QTJfb1JQcE9wQkw2d2ZndHBJUXp0SU8yVF9QNlNkbTYxLUFDSmJkdFo4Z1JVaTZpcjJ2VEwzMFNWVVJaS01hOERyNmJXNVBFcEUtdWdUR3loR3hxTmhDTFJiNFE3TURRVGtucFNCWWI4MGxXQVI5RFlHajRYUFlSTm5seElBcUNQVFFpUTBTWVFwYWQxdHkta3V4Vl90NHdnYjFUQXdLcWhRN01TcUI4VzFON3R0bTg4eXcyMHRhSXlzSW1xU052b1FrM29jVzVnY1NoNmpXMUpJazhHaF9rTHNLRzlkMVhIdjlzV19JWEZGZTFsbkNDbFA0d3ZSU2RUVlFYRldVaDg?oc=5",
+            "published": "Sat, 13 Jun 2026 22:27:13 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwRBVV95cUxPOVF4aWtDMFZFcl9kZENIRURqdWNkaFVCZFkzWkNCQk5NZHJFOF9aU0Y4WHRJRE8yWWZFTE5QZTlRMVFlQ21XV3FDRjVwNFpWa2ZfZWU0VEdhUEVsYjM5QTFjVUItR2daZXpxQnNyZVRFbnhIUVdiQzNvN0RTV2NRRlNVb2hkT0tLMnA3Y3lJeU1jX0RGbkZGSzhoT2dieFNtTHZFbThaekhKYlhMcHJwRXoyT2tKNnM0cmVXNUpYbUFxODRpUEpEaVZrcFFKN2VERTVrVjI5azI2bGtfLTlXSl82TFQ3am9GVG40bmN2Z2dFWTFybTJyRU9OdEV2VnIwdXVOYTNQUkU2R1lxZU5EUDk1QTJfb1JQcE9wQkw2d2ZndHBJUXp0SU8yVF9QNlNkbTYxLUFDSmJkdFo4Z1JVaTZpcjJ2VEwzMFNWVVJaS01hOERyNmJXNVBFcEUtdWdUR3loR3hxTmhDTFJiNFE3TURRVGtucFNCWWI4MGxXQVI5RFlHajRYUFlSTm5seElBcUNQVFFpUTBTWVFwYWQxdHkta3V4Vl90NHdnYjFUQXdLcWhRN01TcUI4VzFON3R0bTg4eXcyMHRhSXlzSW1xU052b1FrM29jVzVnY1NoNmpXMUpJazhHaF9rTHNLRzlkMVhIdjlzV19JWEZGZTFsbkNDbFA0d3ZSU2RUVlFYRldVaDg?oc=5\" target=\"_blank\">初採用“消えるスイッチ” レクサス「新型の高級セダン」が発売! ハイブリッドとEVの8代目「ES」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
             "site_name": "MSN"
         }
     ]
