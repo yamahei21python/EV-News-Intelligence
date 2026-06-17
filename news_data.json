@@ -1,6 +1,6 @@
 {
-    "updated_at": "2026-06-17 12:46:54",
-    "total_count": 100,
+    "updated_at": "2026-06-17 22:45:42",
+    "total_count": 139,
     "articles": [
         {
             "id": 790159,
@@ -801,6 +801,318 @@
             "published": "Wed, 17 Jun 2026 00:29:59 GMT",
             "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9BdTdBVmtvaU95a0dqVTAwVHlIYkdseDgweGF5eFkxWWJBVnVmQXROVDZjazJlSWtuRDcxVjdKOWhIZk9RQkk0VExBcTJMMVdVd3ZGeUp4MzlpLVotOWZlcjJKVnhMd082VnhkcQ?oc=5\" target=\"_blank\">《写真提供 JFEテクノリサーチ》 塗工式ラミネート型全固体電池（1/10）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
             "site_name": "レスポンス（Response.jp）"
+        },
+        {
+            "id": 394423,
+            "title": "電動パワステ＋減速機で高出力 ナブテスコ､中国EV開拓 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xSjBCMDFhTXM5RFFQNGhjUzBLSzBNSVkzcUFLbm9nUzFtcnUtekRVTk5sa1ZKYkM3X0J6d1JHNlJ5dmFYMk1qeG1OUkxra0ZUaU1oSkxCOUZmaXUwaFlwNDlBQ0gyTmdFSDRWaVF6Q3oycV94eEt3d0FzdlRpVTA?oc=5",
+            "published": "Wed, 17 Jun 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5xSjBCMDFhTXM5RFFQNGhjUzBLSzBNSVkzcUFLbm9nUzFtcnUtekRVTk5sa1ZKYkM3X0J6d1JHNlJ5dmFYMk1qeG1OUkxra0ZUaU1oSkxCOUZmaXUwaFlwNDlBQ0gyTmdFSDRWaVF6Q3oycV94eEt3d0FzdlRpVTA?oc=5\" target=\"_blank\">電動パワステ＋減速機で高出力 ナブテスコ､中国EV開拓</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+            "site_name": "日本経済新聞"
+        },
+        {
+            "id": 814788,
+            "title": "日産リーフOEM調達…三菱自動車、北米でEV「エクリプススポーツバック」投入 - ニュースイッチ by 日刊工業新聞社",
+            "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9QMGYwUjFQRUhUX0xId2doN3dYSlNVTlhFS2xTYk9zdmttV0s4M3Q0ejhkZWNrandIRVhmUWR3VEtPZw?oc=5",
+            "published": "Wed, 17 Jun 2026 21:00:54 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE9QMGYwUjFQRUhUX0xId2doN3dYSlNVTlhFS2xTYk9zdmttV0s4M3Q0ejhkZWNrandIRVhmUWR3VEtPZw?oc=5\" target=\"_blank\">日産リーフOEM調達…三菱自動車、北米でEV「エクリプススポーツバック」投入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースイッチ by 日刊工業新聞社</font>",
+            "site_name": "ニュースイッチ by 日刊工業新聞社"
+        },
+        {
+            "id": 93398,
+            "title": "やっぱりトヨタの「EV戦略」は間違っていなかった…価格競争が世界で激化するなか、「bZ4X」を実質220万円に変える東京発の市場づくり - Merkmal",
+            "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5PdUpSeEo5Mm90RE0tb2czV0xOaGtYdmp6UDZFY2xWak1uTzZ4ckQ5OGtVLTkyZ2NleENuVTh6U2xSaUwza214NFR3?oc=5",
+            "published": "Wed, 17 Jun 2026 21:10:06 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE5PdUpSeEo5Mm90RE0tb2czV0xOaGtYdmp6UDZFY2xWak1uTzZ4ckQ5OGtVLTkyZ2NleENuVTh6U2xSaUwza214NFR3?oc=5\" target=\"_blank\">やっぱりトヨタの「EV戦略」は間違っていなかった…価格競争が世界で激化するなか、「bZ4X」を実質220万円に変える東京発の市場づくり</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Merkmal</font>",
+            "site_name": "Merkmal"
+        },
+        {
+            "id": 426695,
+            "title": "UACJ・田中信二社長「EV、半導体、航空機、全てに付加価値」 - 日経BP",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wZ1pQeTM2ZDlDa0Y2Q0ZESnZoY1RYSWxBdDI1bndsWl85WTFKQUx4YWZQZnIwcGlWZ3Y0cXpsQVZUcmtlV0pzQ19oSXFVRXFtRDJpeFdzTDQ2MExaNjQ3bktDTzNMb2Z3WldyRmJISmQ?oc=5",
+            "published": "Wed, 17 Jun 2026 15:04:54 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE0wZ1pQeTM2ZDlDa0Y2Q0ZESnZoY1RYSWxBdDI1bndsWl85WTFKQUx4YWZQZnIwcGlWZ3Y0cXpsQVZUcmtlV0pzQ19oSXFVRXFtRDJpeFdzTDQ2MExaNjQ3bktDTzNMb2Z3WldyRmJISmQ?oc=5\" target=\"_blank\">UACJ・田中信二社長「EV、半導体、航空機、全てに付加価値」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経BP</font>",
+            "site_name": "日経BP"
+        },
+        {
+            "id": 157494,
+            "title": "三菱ふそう『eキャンター』、改良新型を発売…国内EV小型トラック初のクレーン架装対応シャシ設定（レスポンス） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NS2JISUVHekpOXzRzX0QxZW1IMnJEdWdJOUZrQ09XYzFab3RVSEZpOTlheWE4R2pBVGFVOWVBQTlKNDAxdy1paEVzQzAxMUpyTDJUMDM3SVRzem1JdkhLSmVBRngwQVFUXzBBUWRXUTRqaXk5dTdVV01SYmpPbG8?oc=5",
+            "published": "Wed, 17 Jun 2026 22:18:01 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5NS2JISUVHekpOXzRzX0QxZW1IMnJEdWdJOUZrQ09XYzFab3RVSEZpOTlheWE4R2pBVGFVOWVBQTlKNDAxdy1paEVzQzAxMUpyTDJUMDM3SVRzem1JdkhLSmVBRngwQVFUXzBBUWRXUTRqaXk5dTdVV01SYmpPbG8?oc=5\" target=\"_blank\">三菱ふそう『eキャンター』、改良新型を発売…国内EV小型トラック初のクレーン架装対応シャシ設定（レスポンス）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 462073,
+            "title": "三菱ふそうがEV小型トラック「eCanter」の新タイプ発売、初のクレーン専用シャシ設定追加 - LOGI-BIZ online",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90VlItdEVPcHFEUFlTYnItSHpITXJadno3YjZOZnlSd3cwYXBGVENzZGZxWXpIMkJhUzMxT2FaMmZLdDkzM1J1XzJNQQ?oc=5",
+            "published": "Wed, 17 Jun 2026 21:00:37 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE90VlItdEVPcHFEUFlTYnItSHpITXJadno3YjZOZnlSd3cwYXBGVENzZGZxWXpIMkJhUzMxT2FaMmZLdDkzM1J1XzJNQQ?oc=5\" target=\"_blank\">三菱ふそうがEV小型トラック「eCanter」の新タイプ発売、初のクレーン専用シャシ設定追加</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGI-BIZ online</font>",
+            "site_name": "LOGI-BIZ online"
+        },
+        {
+            "id": 555265,
+            "title": "ホンダが次世代EV開発中止とHV回帰で描く四輪事業の再建シナリオ…問われる自前主義の脱却とアライアンスの行方 - 東洋経済オンライン",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kNjdEclhkSWtmelRFMkljLVZESXdyQzlxQk1GcHpwTU5PWU9qV3NSaVB0SW5GeWR6S0I1NDZNcHZmdy1QVXhEQUxvcTVxZDR5c3c?oc=5",
+            "published": "Wed, 17 Jun 2026 20:10:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kNjdEclhkSWtmelRFMkljLVZESXdyQzlxQk1GcHpwTU5PWU9qV3NSaVB0SW5GeWR6S0I1NDZNcHZmdy1QVXhEQUxvcTVxZDR5c3c?oc=5\" target=\"_blank\">ホンダが次世代EV開発中止とHV回帰で描く四輪事業の再建シナリオ…問われる自前主義の脱却とアライアンスの行方</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東洋経済オンライン</font>",
+            "site_name": "東洋経済オンライン"
+        },
+        {
+            "id": 287891,
+            "title": "三菱ふそう『eキャンター』、改良新型を発売…国内EV小型トラック初のクレーン架装対応シャシ設定 - レスポンス（Response.jp）",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaT1RnRGhqVkN1TGZ2LUo4dHZaQ0FpS1BiT1JPQ0RPZnZVU3VYYlZwYU0yMV9uaG83UC0zOTlsM3o1bWtTRk4wNlc3d09KMkt4Ym1TZ3ZPREdfVnVELVBn?oc=5",
+            "published": "Wed, 17 Jun 2026 22:00:03 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaT1RnRGhqVkN1TGZ2LUo4dHZaQ0FpS1BiT1JPQ0RPZnZVU3VYYlZwYU0yMV9uaG83UC0zOTlsM3o1bWtTRk4wNlc3d09KMkt4Ym1TZ3ZPREdfVnVELVBn?oc=5\" target=\"_blank\">三菱ふそう『eキャンター』、改良新型を発売…国内EV小型トラック初のクレーン架装対応シャシ設定</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
+            "site_name": "レスポンス（Response.jp）"
+        },
+        {
+            "id": 173804,
+            "title": "やっぱりトヨタの「EV戦略」は間違っていなかった…価格競争が世界で激化するなか、「bZ4X」を実質220万円に変える東京発の市場づくり - ｄメニューニュース",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeHdIVGlsWXVnY3dxOUNOZU9yaDEwekFNWGk3dmpWcUo0aUdCeUQ0a0FhclhrdXF2UFBOUFZLMlhKcDAtZjdRMDMzN2RkYTZvanRoaTVqNk54dkg2TFFzejN3UnVlNm1qRC1LQjhQSkQtWExwMzlOaW1kZkZ3MEpyVzR3SHUtQWRsSEJRctIBiAFBVV95cUxQdWdzWlNPNXR5RDlIMWl5NVpLclRiRmQ1aWJzaDRZR29ONkt5VnJzX3UwOTcyZUdDb1NRZS1wU3VjWnlfdEFMX1N1ZDBGMlc4NXBpa0xqWjBic2FrdFM2WDZmd28wYkdGT1ExNW1uVFVBNzRYNG9hYXRRdWlVZlRucWlwci1sM0lG?oc=5",
+            "published": "Wed, 17 Jun 2026 21:35:27 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQeHdIVGlsWXVnY3dxOUNOZU9yaDEwekFNWGk3dmpWcUo0aUdCeUQ0a0FhclhrdXF2UFBOUFZLMlhKcDAtZjdRMDMzN2RkYTZvanRoaTVqNk54dkg2TFFzejN3UnVlNm1qRC1LQjhQSkQtWExwMzlOaW1kZkZ3MEpyVzR3SHUtQWRsSEJRctIBiAFBVV95cUxQdWdzWlNPNXR5RDlIMWl5NVpLclRiRmQ1aWJzaDRZR29ONkt5VnJzX3UwOTcyZUdDb1NRZS1wU3VjWnlfdEFMX1N1ZDBGMlc4NXBpa0xqWjBic2FrdFM2WDZmd28wYkdGT1ExNW1uVFVBNzRYNG9hYXRRdWlVZlRucWlwci1sM0lG?oc=5\" target=\"_blank\">やっぱりトヨタの「EV戦略」は間違っていなかった…価格競争が世界で激化するなか、「bZ4X」を実質220万円に変える東京発の市場づくり</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
+            "site_name": "ｄメニューニュース"
+        },
+        {
+            "id": 757355,
+            "title": "ホンダはなぜ中国からEVを輸入するのか、「インサイト」に見る方針転換（2ページ目） - 日経クロステック",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbWlmWFpjZEVDSVZMTGRTNHVTdXRuNFE0Q0hKYklPSEp4dW1UNy1tNDF2UjM1Zk8zMHY4eGFQZTd1VGMzTmptcUo4NWJfX1hlUGVHeVo5aUY5QWoycVk1NHFnbkV4LTRBQW5QSUphN3FxT1FxLUoxNGxiSUw2OU05NS16Ul90emcycENLWEFDMlc4dkkz?oc=5",
+            "published": "Wed, 17 Jun 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNbWlmWFpjZEVDSVZMTGRTNHVTdXRuNFE0Q0hKYklPSEp4dW1UNy1tNDF2UjM1Zk8zMHY4eGFQZTd1VGMzTmptcUo4NWJfX1hlUGVHeVo5aUY5QWoycVk1NHFnbkV4LTRBQW5QSUphN3FxT1FxLUoxNGxiSUw2OU05NS16Ul90emcycENLWEFDMlc4dkkz?oc=5\" target=\"_blank\">ホンダはなぜ中国からEVを輸入するのか、「インサイト」に見る方針転換（2ページ目）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経クロステック</font>",
+            "site_name": "日経クロステック"
+        },
+        {
+            "id": 232132,
+            "title": "中国車、エンジンでも猛追 EVだけでない、日本勢の脅威に 奇瑞汽車、動力効率に強み 吉利汽車、HVの燃費改良 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVTB2eVZjcjFLN0JmY3BBQ3M0azVrWFNhUDd2anFTZGY5WW5oM3pSQXgyUW0tbWVfaGlLU2U2cTRmTlNudnd2UnlmUjdJZ0ZSWDJGckRSYXphZko5c2NWMm5xUV9ZUXE0ZXlwbTZjcUlkTDBWUTNNRnEzc0VJVE9jQTNuZEowOE1yMGtjaFlTZFBYNWQ5YVFDRVVycmFqWlNPUzhUT0ZjYjg?oc=5",
+            "published": "Wed, 17 Jun 2026 18:45:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVTB2eVZjcjFLN0JmY3BBQ3M0azVrWFNhUDd2anFTZGY5WW5oM3pSQXgyUW0tbWVfaGlLU2U2cTRmTlNudnd2UnlmUjdJZ0ZSWDJGckRSYXphZko5c2NWMm5xUV9ZUXE0ZXlwbTZjcUlkTDBWUTNNRnEzc0VJVE9jQTNuZEowOE1yMGtjaFlTZFBYNWQ5YVFDRVVycmFqWlNPUzhUT0ZjYjg?oc=5\" target=\"_blank\">中国車、エンジンでも猛追 EVだけでない、日本勢の脅威に 奇瑞汽車、動力効率に強み 吉利汽車、HVの燃費改良</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+            "site_name": "日本経済新聞"
+        },
+        {
+            "id": 209329,
+            "title": "中国車、エンジンでも猛追 EVだけでない、日本勢の脅威に 奇瑞汽車、動力効率に強み 吉利汽車、HVの燃費改良 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSXZfdWZaUmpWVVBjMmdrNUJMSkRQd3FReFRtRHJsaXF1ZUVjUzFCazBtVzBRb1kwYjFaZmVZU3FjUGZscVAyVlRhQ1R2cUFjbFlINWU5U2tqT0hrZjNmbzhEM3J0MWY2Ymx0V3hlSjBUX0NEX1BqR0xJTHJHVUtKUWltdWpEOXN3Q3E3NXR3NVdrTDhxdHRRWEQtOGhNQ2JmR2c?oc=5",
+            "published": "Wed, 17 Jun 2026 18:23:38 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPSXZfdWZaUmpWVVBjMmdrNUJMSkRQd3FReFRtRHJsaXF1ZUVjUzFCazBtVzBRb1kwYjFaZmVZU3FjUGZscVAyVlRhQ1R2cUFjbFlINWU5U2tqT0hrZjNmbzhEM3J0MWY2Ymx0V3hlSjBUX0NEX1BqR0xJTHJHVUtKUWltdWpEOXN3Q3E3NXR3NVdrTDhxdHRRWEQtOGhNQ2JmR2c?oc=5\" target=\"_blank\">中国車、エンジンでも猛追 EVだけでない、日本勢の脅威に 奇瑞汽車、動力効率に強み 吉利汽車、HVの燃費改良</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+            "site_name": "日本経済新聞"
+        },
+        {
+            "id": 735255,
+            "title": "中国車、エンジンでも猛追 EVだけでない、日本勢の脅威に 奇瑞汽車、動力効率に強み 吉利汽車、HVの燃費改良 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZTUFqcTdQSjNjUjRqWHIzQXR3VXpiTm9BX3Fudkd1R0M1YjNtRXRrWDhDd2ZtU3ZTNy1aYXBFSVJQaGdiTVJQWU5fVDdSdDQxWE1ldmktTTY5WWRsQVVPamtoTnBWZ2JfZ1ZfcQ?oc=5",
+            "published": "Wed, 17 Jun 2026 17:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZTUFqcTdQSjNjUjRqWHIzQXR3VXpiTm9BX3Fudkd1R0M1YjNtRXRrWDhDd2ZtU3ZTNy1aYXBFSVJQaGdiTVJQWU5fVDdSdDQxWE1ldmktTTY5WWRsQVVPamtoTnBWZ2JfZ1ZfcQ?oc=5\" target=\"_blank\">中国車、エンジンでも猛追 EVだけでない、日本勢の脅威に 奇瑞汽車、動力効率に強み 吉利汽車、HVの燃費改良</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+            "site_name": "日本経済新聞"
+        },
+        {
+            "id": 985671,
+            "title": "編集者の視点 ｢W杯､現代自Gが車2100台･ロボ4台提供｣ - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiT3JjRFB1amxVTlRjdmpFUzRrS0JtTXphZFNfbW4zYUZlUkJhWVJRTHE4SFNHeDdtYVZkWklvWVNVdUh4d1NyaVFTN3Bpal81bWxfcWtWdmJyTDNDT3JKb0t1Rm1WRXppSlJ3bHJlem1wamtiVFIxNkluZkQxcUU?oc=5",
+            "published": "Wed, 17 Jun 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBiT3JjRFB1amxVTlRjdmpFUzRrS0JtTXphZFNfbW4zYUZlUkJhWVJRTHE4SFNHeDdtYVZkWklvWVNVdUh4d1NyaVFTN3Bpal81bWxfcWtWdmJyTDNDT3JKb0t1Rm1WRXppSlJ3bHJlem1wamtiVFIxNkluZkQxcUU?oc=5\" target=\"_blank\">編集者の視点 ｢W杯､現代自Gが車2100台･ロボ4台提供｣</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+            "site_name": "日本経済新聞"
+        },
+        {
+            "id": 610023,
+            "title": "［画像］レクサス、新型セダン「ES」はHEVとバッテリEVをラインアップ 価格790万円から / (16/18) - Car Watch",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VM2hVNFJDbzJ6a3M2Z204b05UWVV6eDhyc1YyekJubjVTSUoxYWRvVjVOb2FsRE5ReGI4ODFIWERIYUJwSEdnMGRnY3Rzam9YaVJKSkRxWkR0YlZhYno0US15UzZuR2RTTVRRLVl6QXdKWWtMLUxRa1FCOHg?oc=5",
+            "published": "Wed, 17 Jun 2026 20:53:09 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1VM2hVNFJDbzJ6a3M2Z204b05UWVV6eDhyc1YyekJubjVTSUoxYWRvVjVOb2FsRE5ReGI4ODFIWERIYUJwSEdnMGRnY3Rzam9YaVJKSkRxWkR0YlZhYno0US15UzZuR2RTTVRRLVl6QXdKWWtMLUxRa1FCOHg?oc=5\" target=\"_blank\">［画像］レクサス、新型セダン「ES」はHEVとバッテリEVをラインアップ 価格790万円から / (16/18)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Car Watch</font>",
+            "site_name": "Car Watch"
+        },
+        {
+            "id": 592325,
+            "title": "「EV一本化」は本当に正解だったのか？ 欧州プラグインHVで実排出量“400倍”の乖離、電動化競争を変える「使われ方」という新基準とは (Merkmal) - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSW5XX29wcXk3M2d6b2JJaEpKRkRmNngzZGl4b1REZW14QUJsbk5VRXlWRHhETGc3cXZKc0VaLU1oUXdXSUQ0dFdEZmotNGxfejA1WTZsMFhBV1pVQmhFVW5aZzVTVEFqNE5qRl9CY093Y2s4bDMyd2RtQlBMUC1ZdEVIVlp5Q1lEOWQ2NnFR?oc=5",
+            "published": "Wed, 17 Jun 2026 10:29:17 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNSW5XX29wcXk3M2d6b2JJaEpKRkRmNngzZGl4b1REZW14QUJsbk5VRXlWRHhETGc3cXZKc0VaLU1oUXdXSUQ0dFdEZmotNGxfejA1WTZsMFhBV1pVQmhFVW5aZzVTVEFqNE5qRl9CY093Y2s4bDMyd2RtQlBMUC1ZdEVIVlp5Q1lEOWQ2NnFR?oc=5\" target=\"_blank\">「EV一本化」は本当に正解だったのか？ 欧州プラグインHVで実排出量“400倍”の乖離、電動化競争を変える「使われ方」という新基準とは (Merkmal)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 7121,
+            "title": "中国車、エンジンでも猛追 EVだけでない、日本勢の脅威に 奇瑞汽車、動力効率に強み 吉利汽車、HVの燃費改良 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb2xVM3pCZXd0N2djOFdEdUZGa09oZnQ1S3Jacm9wNHVGaFZqQ1RuV1p3Ql9aODNxbXVHc09aX1QwYTU4R0ZkS25IUXR5M0dGUHJHWTAtR2ttQjU3T21aQmhMRFN0RFlkWjhvNlNZVEtic0t4REtsX0tXalVDUlFGT29hRnNUVk9mMjd1YWNKdDhKNjJwVzVRY0s4YkdRVnhwZWp5RFVB?oc=5",
+            "published": "Wed, 17 Jun 2026 17:11:54 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQb2xVM3pCZXd0N2djOFdEdUZGa09oZnQ1S3Jacm9wNHVGaFZqQ1RuV1p3Ql9aODNxbXVHc09aX1QwYTU4R0ZkS25IUXR5M0dGUHJHWTAtR2ttQjU3T21aQmhMRFN0RFlkWjhvNlNZVEtic0t4REtsX0tXalVDUlFGT29hRnNUVk9mMjd1YWNKdDhKNjJwVzVRY0s4YkdRVnhwZWp5RFVB?oc=5\" target=\"_blank\">中国車、エンジンでも猛追 EVだけでない、日本勢の脅威に 奇瑞汽車、動力効率に強み 吉利汽車、HVの燃費改良</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+            "site_name": "日本経済新聞"
+        },
+        {
+            "id": 181894,
+            "title": "「大阪メトロの対応が遅い」EVバスめぐる対応に“筆頭株主”大阪市の横山市長が苦言 万博で大量導入するも不具合続き路線バスへの転用断念 株主総会で報告予定が延期に | 関西のニュース | ニュース - ktv.jp",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SV0tHUlFzazRqZ1MtNXp4NUl5Ti13dTk0RE56UkdZLU9qSTJSdlN2NTVhMlhlaEhwQkpkeE96ZDYwalc4S05WSHFaaVktcHRmbkVRMg?oc=5",
+            "published": "Wed, 17 Jun 2026 09:21:07 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SV0tHUlFzazRqZ1MtNXp4NUl5Ti13dTk0RE56UkdZLU9qSTJSdlN2NTVhMlhlaEhwQkpkeE96ZDYwalc4S05WSHFaaVktcHRmbkVRMg?oc=5\" target=\"_blank\">「大阪メトロの対応が遅い」EVバスめぐる対応に“筆頭株主”大阪市の横山市長が苦言 万博で大量導入するも不具合続き路線バスへの転用断念 株主総会で報告予定が延期に | 関西のニュース | ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ktv.jp</font>",
+            "site_name": "ktv.jp"
+        },
+        {
+            "id": 857356,
+            "title": "EV充電器「テラチャージ」、沖縄の「メガネ1番」2店舗に設置 1枚目の写真・画像 - レスポンス（Response.jp）",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGRGN3ZjdZbE5lc2YtdGFBNmJWRHJzU1VlR3V1aWtGOXgtV3FFQWpYUGNrYmU2a2JxLVViRzI1Q2lLS1NuZkZFUHRwaldhaDZ1bTdFbXJDNUxXcFpmOExZMlozNEZiWVNJODFRUw?oc=5",
+            "published": "Wed, 17 Jun 2026 11:06:09 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBGRGN3ZjdZbE5lc2YtdGFBNmJWRHJzU1VlR3V1aWtGOXgtV3FFQWpYUGNrYmU2a2JxLVViRzI1Q2lLS1NuZkZFUHRwaldhaDZ1bTdFbXJDNUxXcFpmOExZMlozNEZiWVNJODFRUw?oc=5\" target=\"_blank\">EV充電器「テラチャージ」、沖縄の「メガネ1番」2店舗に設置 1枚目の写真・画像</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
+            "site_name": "レスポンス（Response.jp）"
+        },
+        {
+            "id": 315069,
+            "title": "テスラが初めてヨーロッパ市場でBYDに負けた背景。重い関税にもかかわらず中国EVが急成長 2ページ目 | ビジネス - 東洋経済オンライン",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56Nm1ocEhYNUxtMFpJbW5qZ2dMRkhvaVRidWpmZkxvLVMwb1FYTXBpM01MMmQ0R3pVMjVoM1dqVXluY1N3cUctX1J3cmVlMG1lS3VLUXVWdVZrUTg?oc=5",
+            "published": "Wed, 17 Jun 2026 18:07:58 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE56Nm1ocEhYNUxtMFpJbW5qZ2dMRkhvaVRidWpmZkxvLVMwb1FYTXBpM01MMmQ0R3pVMjVoM1dqVXluY1N3cUctX1J3cmVlMG1lS3VLUXVWdVZrUTg?oc=5\" target=\"_blank\">テスラが初めてヨーロッパ市場でBYDに負けた背景。重い関税にもかかわらず中国EVが急成長 2ページ目 | ビジネス</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東洋経済オンライン</font>",
+            "site_name": "東洋経済オンライン"
+        },
+        {
+            "id": 481324,
+            "title": "EV充電器「テラチャージ」、沖縄の「メガネ1番」2店舗に設置（レスポンス） | 自動車情報・ニュース - carview!",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUGZFbGh5VFhrbTBCLVh2R2ZLTTM0SlNzeXU3R0Y1eGNVeGZRbGdYdXNGZG9XcGo0Z3psaXV4N2dyMzhCOW9IVHQ2SC1lWFZKcFNDZHFiSHEwYmlRcmstOU9yT3F3Tjhra01yVjNHb19YRm5FdmVXeVBtOVRYQ29wM3YteHVwMU1G?oc=5",
+            "published": "Wed, 17 Jun 2026 10:29:03 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUGZFbGh5VFhrbTBCLVh2R2ZLTTM0SlNzeXU3R0Y1eGNVeGZRbGdYdXNGZG9XcGo0Z3psaXV4N2dyMzhCOW9IVHQ2SC1lWFZKcFNDZHFiSHEwYmlRcmstOU9yT3F3Tjhra01yVjNHb19YRm5FdmVXeVBtOVRYQ29wM3YteHVwMU1G?oc=5\" target=\"_blank\">EV充電器「テラチャージ」、沖縄の「メガネ1番」2店舗に設置（レスポンス） | 自動車情報・ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carview!</font>",
+            "site_name": "carview!"
+        },
+        {
+            "id": 337906,
+            "title": "EV充電器「テラチャージ」、沖縄の「メガネ1番」2店舗に設置 2枚目の写真・画像 - レスポンス（Response.jp）",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8ycVRhTGVLRGtieThVVE9waVc1dE9FNXNtcklKanRDTTVlaUpYTW9ZQTJJNUxTOGZNRGY4aXNGTXpJd0xWS1REWG9GSkYzQU0wODEzZ3RQOHBRQ0FpV1hHWUJuSm40UG9rZzF5YWk5ekdKQQ?oc=5",
+            "published": "Wed, 17 Jun 2026 09:45:03 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE8ycVRhTGVLRGtieThVVE9waVc1dE9FNXNtcklKanRDTTVlaUpYTW9ZQTJJNUxTOGZNRGY4aXNGTXpJd0xWS1REWG9GSkYzQU0wODEzZ3RQOHBRQ0FpV1hHWUJuSm40UG9rZzF5YWk5ekdKQQ?oc=5\" target=\"_blank\">EV充電器「テラチャージ」、沖縄の「メガネ1番」2店舗に設置 2枚目の写真・画像</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
+            "site_name": "レスポンス（Response.jp）"
+        },
+        {
+            "id": 898237,
+            "title": "EV充電器「テラチャージ」、沖縄の「メガネ1番」2店舗に設置 3枚目の写真・画像 - レスポンス（Response.jp）",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GRFVhQnh6SDB3X2lhUFVqU3IxcmpScmZoZW9DTXg5bXJOSVVnbHNQSzRVaVBzZ0hPNC1yeVlvYklOektacFpHbWhtcXhkRUdXNFRvamhnTnNOVm4xeEtTZzJvYlVqemVvLWU0aEh6MGVOZw?oc=5",
+            "published": "Wed, 17 Jun 2026 09:45:03 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9GRFVhQnh6SDB3X2lhUFVqU3IxcmpScmZoZW9DTXg5bXJOSVVnbHNQSzRVaVBzZ0hPNC1yeVlvYklOektacFpHbWhtcXhkRUdXNFRvamhnTnNOVm4xeEtTZzJvYlVqemVvLWU0aEh6MGVOZw?oc=5\" target=\"_blank\">EV充電器「テラチャージ」、沖縄の「メガネ1番」2店舗に設置 3枚目の写真・画像</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
+            "site_name": "レスポンス（Response.jp）"
+        },
+        {
+            "id": 633718,
+            "title": "アフリカ最大級EV企業Spiro、2億1,500万ドル調達で電動モビリティ拡大へ！ - Africa Quest.com",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9veWdoSnNhaGEzNkM2TlZJY1FzTVY1bTNEOEpEUE05Z0ozRnZjbXBNZkRCX3RRaGFFQWR0MVFQcmsyMG0tazN6WXNLSHNfZw?oc=5",
+            "published": "Wed, 17 Jun 2026 14:03:24 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9veWdoSnNhaGEzNkM2TlZJY1FzTVY1bTNEOEpEUE05Z0ozRnZjbXBNZkRCX3RRaGFFQWR0MVFQcmsyMG0tazN6WXNLSHNfZw?oc=5\" target=\"_blank\">アフリカ最大級EV企業Spiro、2億1,500万ドル調達で電動モビリティ拡大へ！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Africa Quest.com</font>",
+            "site_name": "Africa Quest.com"
+        },
+        {
+            "id": 478910,
+            "title": "スズキとスズキ自販茨城、つくば市と災害時応援協定を締結…軽商用車・EVを無償貸与 - レスポンス（Response.jp）",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nZ1lFODdFTUk4cnFEY20wWTE2cTA5SEZ0Y1JUWURrTzBjaHpNYVZBcGdTS3dMZG51bWphRDV5WnpOaEpkMWRoTkJUUDNSTFNVSUFpTmJYSzgyV2c4bjJz?oc=5",
+            "published": "Wed, 17 Jun 2026 21:00:03 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nZ1lFODdFTUk4cnFEY20wWTE2cTA5SEZ0Y1JUWURrTzBjaHpNYVZBcGdTS3dMZG51bWphRDV5WnpOaEpkMWRoTkJUUDNSTFNVSUFpTmJYSzgyV2c4bjJz?oc=5\" target=\"_blank\">スズキとスズキ自販茨城、つくば市と災害時応援協定を締結…軽商用車・EVを無償貸与</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
+            "site_name": "レスポンス（Response.jp）"
+        },
+        {
+            "id": 738610,
+            "title": "中古EV流通モデル「ReNew EV」、愛媛県でマルチブランド展開へ…MobiSaviが2026年度も採択 1枚目の写真・画像 - レスポンス（Response.jp）",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UczlrSUtYX0tYenEwVkNhMHVvREJpenhfM2tFNXR2MTRIc3hKSzJnTEl3U181STRwVWtwR05sZXp3TmhLbXZVY1lneXNiMjBRRHBPeDNWaDVMTU11RzZreVhKWHBkSmp5T3hMWDEtbw?oc=5",
+            "published": "Wed, 17 Jun 2026 05:30:04 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9UczlrSUtYX0tYenEwVkNhMHVvREJpenhfM2tFNXR2MTRIc3hKSzJnTEl3U181STRwVWtwR05sZXp3TmhLbXZVY1lneXNiMjBRRHBPeDNWaDVMTU11RzZreVhKWHBkSmp5T3hMWDEtbw?oc=5\" target=\"_blank\">中古EV流通モデル「ReNew EV」、愛媛県でマルチブランド展開へ…MobiSaviが2026年度も採択 1枚目の写真・画像</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
+            "site_name": "レスポンス（Response.jp）"
+        },
+        {
+            "id": 960020,
+            "title": "住友三井オートサービスと大阪ガス、EV活用で覚書…車両運用と電力コスト最適化を両立へ 1枚目の写真・画像 - レスポンス（Response.jp）",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wYlJ4TzE5VUt3bGIwbGZxRTlsUDdhS19HcnFzYmdWbENJV3kwRHVXd1V4Z3NuU0N5ZmVDd1VaTDh5WmNrYVhHZ3NLT1gtZDVlWDlfWjd3Qm9QY1RSUFdjdHUzN3p0RWtEeldRZm1nYw?oc=5",
+            "published": "Wed, 17 Jun 2026 07:30:03 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE8wYlJ4TzE5VUt3bGIwbGZxRTlsUDdhS19HcnFzYmdWbENJV3kwRHVXd1V4Z3NuU0N5ZmVDd1VaTDh5WmNrYVhHZ3NLT1gtZDVlWDlfWjd3Qm9QY1RSUFdjdHUzN3p0RWtEeldRZm1nYw?oc=5\" target=\"_blank\">住友三井オートサービスと大阪ガス、EV活用で覚書…車両運用と電力コスト最適化を両立へ 1枚目の写真・画像</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
+            "site_name": "レスポンス（Response.jp）"
+        },
+        {
+            "id": 737989,
+            "title": "スバルのEVの購入者に最大20万円分を補助 群馬・太田市（朝日新聞） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YSkFZbDNoSGMyUGI5bUhhamVmc3A0dlZ1Y005Mm4yTHAxbzNDVEhnVXdfd05GRWg4X0pFeXJhRGRVVXRXM2JYcUpuWWJxYnZmZXRKU2VZc0p6dEFoSktRcVhuWEpXQ0RJWVhFX0ZiVDJVX3hQamU5N3p0cVFYQmc?oc=5",
+            "published": "Wed, 17 Jun 2026 02:15:01 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9YSkFZbDNoSGMyUGI5bUhhamVmc3A0dlZ1Y005Mm4yTHAxbzNDVEhnVXdfd05GRWg4X0pFeXJhRGRVVXRXM2JYcUpuWWJxYnZmZXRKU2VZc0p6dEFoSktRcVhuWEpXQ0RJWVhFX0ZiVDJVX3hQamU5N3p0cVFYQmc?oc=5\" target=\"_blank\">スバルのEVの購入者に最大20万円分を補助 群馬・太田市（朝日新聞）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 510738,
+            "title": "2026年欧州版 最も注目すべきEV 10選（前編） 今や英国の新車登録4分の1以上 UK編集部イチオシはチェコのコンパクトSUV - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa3FYUmpYVEZuSHFuNDctUjdoeGtDZ0lEX1BxX0pDRTlyQXA1b0tId1BZWHNNX3ZFSEhKclB0TVhydHRTSjN0RW90b3JTTkthNkdHdzZJMEpZVEFiVGY4emZ0b0JNZ25DQWs1LURjOTAxN2tibWZvN05rNXJldGx6UldOcFhhQkNkSWxCU293?oc=5",
+            "published": "Wed, 17 Jun 2026 08:05:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQa3FYUmpYVEZuSHFuNDctUjdoeGtDZ0lEX1BxX0pDRTlyQXA1b0tId1BZWHNNX3ZFSEhKclB0TVhydHRTSjN0RW90b3JTTkthNkdHdzZJMEpZVEFiVGY4emZ0b0JNZ25DQWs1LURjOTAxN2tibWZvN05rNXJldGx6UldOcFhhQkNkSWxCU293?oc=5\" target=\"_blank\">2026年欧州版 最も注目すべきEV 10選（前編） 今や英国の新車登録4分の1以上 UK編集部イチオシはチェコのコンパクトSUV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 601437,
+            "title": "2026年欧州版 最も注目すべきEV 10選（前編） 今や英国の新車登録4分の1以上 UK編集部イチオシはチェコのコンパクトSUV - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb18taTVhRDJyZWtib1A0dk5PbEdFSzh0VGNrQXFSdExMTUVtT3ppWkU4ZF9NTlc1ZDBGakF0NnFyeFRzdWwzRndwWFhWQTJMZDlucEh3NTYwYlhsazRJRHFjNXRiNnRlMHFsRDZUa1JMT1czUzRyREdXSTR1VGxmT0Y3NTVXMFZqYjdQTHRB?oc=5",
+            "published": "Wed, 17 Jun 2026 08:05:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQb18taTVhRDJyZWtib1A0dk5PbEdFSzh0VGNrQXFSdExMTUVtT3ppWkU4ZF9NTlc1ZDBGakF0NnFyeFRzdWwzRndwWFhWQTJMZDlucEh3NTYwYlhsazRJRHFjNXRiNnRlMHFsRDZUa1JMT1czUzRyREdXSTR1VGxmT0Y3NTVXMFZqYjdQTHRB?oc=5\" target=\"_blank\">2026年欧州版 最も注目すべきEV 10選（前編） 今や英国の新車登録4分の1以上 UK編集部イチオシはチェコのコンパクトSUV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 135544,
+            "title": "210万円で買える!? ホンダ新型「5ドアスポーツカー」の走りがヤバい！ ノスタルジック感満載で車好き歓喜の「疑似MT」搭載！ “ヤンチャ”な新型「スーパーワン」注文殺到も納得の理由とは - ｄメニューニュース",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRkZoSUtKRXFrc0Z1TVN0djYyOUlWbHlTaWtuV1NvbGlhX2p0QzBsaEFoNmNoOUM0UFRWR2VNWWRzZi1oQmxKNzBKMFJBVnNiUk9tSWNoelFpSVpKcU1YN2thdldLckdjSzJyWGVWMGEzRDc3bkdGUWExcEtkNHpaSnNVTldiQdIBhgFBVV95cUxNRkZoSUtKRXFrc0Z1TVN0djYyOUlWbHlTaWtuV1NvbGlhX2p0QzBsaEFoNmNoOUM0UFRWR2VNWWRzZi1oQmxKNzBKMFJBVnNiUk9tSWNoelFpSVpKcU1YN2thdldLckdjSzJyWGVWMGEzRDc3bkdGUWExcEtkNHpaSnNVTldiQQ?oc=5",
+            "published": "Wed, 17 Jun 2026 12:10:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNRkZoSUtKRXFrc0Z1TVN0djYyOUlWbHlTaWtuV1NvbGlhX2p0QzBsaEFoNmNoOUM0UFRWR2VNWWRzZi1oQmxKNzBKMFJBVnNiUk9tSWNoelFpSVpKcU1YN2thdldLckdjSzJyWGVWMGEzRDc3bkdGUWExcEtkNHpaSnNVTldiQdIBhgFBVV95cUxNRkZoSUtKRXFrc0Z1TVN0djYyOUlWbHlTaWtuV1NvbGlhX2p0QzBsaEFoNmNoOUM0UFRWR2VNWWRzZi1oQmxKNzBKMFJBVnNiUk9tSWNoelFpSVpKcU1YN2thdldLckdjSzJyWGVWMGEzRDc3bkdGUWExcEtkNHpaSnNVTldiQQ?oc=5\" target=\"_blank\">210万円で買える!? ホンダ新型「5ドアスポーツカー」の走りがヤバい！ ノスタルジック感満載で車好き歓喜の「疑似MT」搭載！ “ヤンチャ”な新型「スーパーワン」注文殺到も納得の理由とは</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
+            "site_name": "ｄメニューニュース"
+        },
+        {
+            "id": 304410,
+            "title": "リビアン、R2納車開始からわずか1週間で数百人規模の人員削減を発表 - finance.biggo.jp",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ScXZpd1pKOXRNRzdtdEpYRms3N1pRUlEtbGVfSm9rQWd6M1d6czRlMnE5UTNRcl9aN2JPVzlqak5NdVIwS0NEWDAtUWVwTHBDMUFISk9PQzctOVc3dTFmbl9lcy1qaVF5bUhodkY1Rm94dWhm?oc=5",
+            "published": "Wed, 17 Jun 2026 15:05:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1ScXZpd1pKOXRNRzdtdEpYRms3N1pRUlEtbGVfSm9rQWd6M1d6czRlMnE5UTNRcl9aN2JPVzlqak5NdVIwS0NEWDAtUWVwTHBDMUFISk9PQzctOVc3dTFmbl9lcy1qaVF5bUhodkY1Rm94dWhm?oc=5\" target=\"_blank\">リビアン、R2納車開始からわずか1週間で数百人規模の人員削減を発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.jp</font>",
+            "site_name": "finance.biggo.jp"
+        },
+        {
+            "id": 587181,
+            "title": "ＥＶバス購入の検証「対応遅い」 大阪市長がメトロに苦言｜全国のニュース｜Web東奥 - 東奥日報社",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4Qml0UHY1OG9YU0VGZlFGY1lhWlBOSS1TUk9QWEg1dFllM3lnS0NPNnpiQWJCa29ZUElZRnV3Q19PWmI1VHlMYV9Cd1NDS2tKSS1IdjE1eGs?oc=5",
+            "published": "Wed, 17 Jun 2026 08:12:30 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4Qml0UHY1OG9YU0VGZlFGY1lhWlBOSS1TUk9QWEg1dFllM3lnS0NPNnpiQWJCa29ZUElZRnV3Q19PWmI1VHlMYV9Cd1NDS2tKSS1IdjE1eGs?oc=5\" target=\"_blank\">ＥＶバス購入の検証「対応遅い」 大阪市長がメトロに苦言｜全国のニュース｜Web東奥</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東奥日報社</font>",
+            "site_name": "東奥日報社"
+        },
+        {
+            "id": 213754,
+            "title": "中国、自動運転車の事故「全額メーカー負担」 - 自動運転ラボ",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE96NVhrQ2d4R1RVejg5ZEp4SFRDNnNGQUE0LUlJb3IzYWoyMjhjMjZVZEdsUElhMEdrWVlzOE9jTlJtV1FwQmNxZdIBTkFVX3lxTE1rV1dPZDNSc1lZeHJweWFwVWwzb3N5MVZNc3JfSmI2ZzZnejZqcFMwcDFqS2dSSWhlVEZtRUxuU2FySmRiV3I1N0k5Z042UQ?oc=5",
+            "published": "Wed, 17 Jun 2026 21:56:16 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE96NVhrQ2d4R1RVejg5ZEp4SFRDNnNGQUE0LUlJb3IzYWoyMjhjMjZVZEdsUElhMEdrWVlzOE9jTlJtV1FwQmNxZdIBTkFVX3lxTE1rV1dPZDNSc1lZeHJweWFwVWwzb3N5MVZNc3JfSmI2ZzZnejZqcFMwcDFqS2dSSWhlVEZtRUxuU2FySmRiV3I1N0k5Z042UQ?oc=5\" target=\"_blank\">中国、自動運転車の事故「全額メーカー負担」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">自動運転ラボ</font>",
+            "site_name": "自動運転ラボ"
+        },
+        {
+            "id": 139054,
+            "title": "電気自動車の最新ニュース ― リヴィアン、電力網のレジリエンス強化と省エネを目的にチャージスケープに参画 - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWlp1WHZfSzZnaEFkRDlKNGJHNm1BWVVvU2NmU1BLSkZrSnlvVHRwVXBZdkx3SF82WUw1ZUtoLUlnNEZyTzBZY2hmbG9BMlBZVDR5S3FJbzdNek1YeWdwQkpKQnRWU3lGVkdvUi12SWc2bVV5RmJ5LXhnQW5pSlU4dUZRODdTeFhSclZVeFRKa9IBlAFBVV95cUxOZHNyaHlRTEF1M2tkV3lQZGRLVlNVdlgxVnNGa25NSXVPTllOWWNyMTFXaXpCNjlZamdyVWU3NzZfUW45ZVBQT2wzcmk3SE8xcFBKWElCVFVrWm5aSWxIQmNDNmgyaU00TUVJaFRjT3BSeWIyXzNSc2x2cXNWd295YnQyRHhZTE1Ia2JwVEZHelBEZzhL?oc=5",
+            "published": "Wed, 17 Jun 2026 12:21:09 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNWlp1WHZfSzZnaEFkRDlKNGJHNm1BWVVvU2NmU1BLSkZrSnlvVHRwVXBZdkx3SF82WUw1ZUtoLUlnNEZyTzBZY2hmbG9BMlBZVDR5S3FJbzdNek1YeWdwQkpKQnRWU3lGVkdvUi12SWc2bVV5RmJ5LXhnQW5pSlU4dUZRODdTeFhSclZVeFRKa9IBlAFBVV95cUxOZHNyaHlRTEF1M2tkV3lQZGRLVlNVdlgxVnNGa25NSXVPTllOWWNyMTFXaXpCNjlZamdyVWU3NzZfUW45ZVBQT2wzcmk3SE8xcFBKWElCVFVrWm5aSWxIQmNDNmgyaU00TUVJaFRjT3BSeWIyXzNSc2x2cXNWd295YnQyRHhZTE1Ia2JwVEZHelBEZzhL?oc=5\" target=\"_blank\">電気自動車の最新ニュース ― リヴィアン、電力網のレジリエンス強化と省エネを目的にチャージスケープに参画</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+            "site_name": "simplywall.st"
+        },
+        {
+            "id": 362331,
+            "title": "斬新「“4WD”流麗SUV」が凄いッ！ 全長4.7mボディに“メーカー初”の「400馬力パワトレ」搭載！ “広い室内空間”にハイテク内装も魅力的！ ジャガー「I-PACE」が担った“ブランド変革の礎”とは？ - ｄメニューニュース",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYUVDaTQ0MkFUN3owRmpXQTduMWVwSUNYTU85RmN1bjVrd1pSUk83amE5Mnd5Y3U1OUFOeVQ2RGNFaDhGVzRiZW40WjdacDlfNTVrSVZtNzJzMFI2Ynd5QzVGNW1BWEVaWV82VFZFdlJfckVDS3hZVU42bXFjMms0aGR4UTktZ9IBhgFBVV95cUxQYUVDaTQ0MkFUN3owRmpXQTduMWVwSUNYTU85RmN1bjVrd1pSUk83amE5Mnd5Y3U1OUFOeVQ2RGNFaDhGVzRiZW40WjdacDlfNTVrSVZtNzJzMFI2Ynd5QzVGNW1BWEVaWV82VFZFdlJfckVDS3hZVU42bXFjMms0aGR4UTktZw?oc=5",
+            "published": "Wed, 17 Jun 2026 11:30:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQYUVDaTQ0MkFUN3owRmpXQTduMWVwSUNYTU85RmN1bjVrd1pSUk83amE5Mnd5Y3U1OUFOeVQ2RGNFaDhGVzRiZW40WjdacDlfNTVrSVZtNzJzMFI2Ynd5QzVGNW1BWEVaWV82VFZFdlJfckVDS3hZVU42bXFjMms0aGR4UTktZ9IBhgFBVV95cUxQYUVDaTQ0MkFUN3owRmpXQTduMWVwSUNYTU85RmN1bjVrd1pSUk83amE5Mnd5Y3U1OUFOeVQ2RGNFaDhGVzRiZW40WjdacDlfNTVrSVZtNzJzMFI2Ynd5QzVGNW1BWEVaWV82VFZFdlJfckVDS3hZVU42bXFjMms0aGR4UTktZw?oc=5\" target=\"_blank\">斬新「“4WD”流麗SUV」が凄いッ！ 全長4.7mボディに“メーカー初”の「400馬力パワトレ」搭載！ “広い室内空間”にハイテク内装も魅力的！ ジャガー「I-PACE」が担った“ブランド変革の礎”とは？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
+            "site_name": "ｄメニューニュース"
+        },
+        {
+            "id": 354033,
+            "title": "EVバス購入の検証「対応遅い」 大阪市長がメトロに苦言 - au Webポータル",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBENU9YbjhDREU3bkowSTZUZG13aGhlY3dlblFTX0ktLTgwOVVzT3RkNWZ3RF94UmE2X2dXLVJ3cG44SnFLTzg4ZVFuWS1oVnIyOHRzTUxvSHRtWjU5VEtJS3JJa2xnXzRFVFBNX2luSThyWWpMdWdpSk1LUQ?oc=5",
+            "published": "Wed, 17 Jun 2026 08:12:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBENU9YbjhDREU3bkowSTZUZG13aGhlY3dlblFTX0ktLTgwOVVzT3RkNWZ3RF94UmE2X2dXLVJ3cG44SnFLTzg4ZVFuWS1oVnIyOHRzTUxvSHRtWjU5VEtJS3JJa2xnXzRFVFBNX2luSThyWWpMdWdpSk1LUQ?oc=5\" target=\"_blank\">EVバス購入の検証「対応遅い」 大阪市長がメトロに苦言</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">au Webポータル</font>",
+            "site_name": "au Webポータル"
+        },
+        {
+            "id": 663752,
+            "title": "【注目モデル試乗】BOOTモードで「痛快BEVレーサー」に大変身。令和のブルドッグ「ホンダ・スーパーONE」は楽しいゾ！ - caranddriver.co.jp",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95MUIyeTU4eFFWVkNqdUlJNHI1bXdnQ3dlbl9JTDZxSmJEOWRWU3ZSdFRuQmQwMGVKWmNIYVdVSGVIM0M2dVZ6QjFWNHkwQXhZbS1NS0xzMjk?oc=5",
+            "published": "Wed, 17 Jun 2026 21:39:58 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE95MUIyeTU4eFFWVkNqdUlJNHI1bXdnQ3dlbl9JTDZxSmJEOWRWU3ZSdFRuQmQwMGVKWmNIYVdVSGVIM0M2dVZ6QjFWNHkwQXhZbS1NS0xzMjk?oc=5\" target=\"_blank\">【注目モデル試乗】BOOTモードで「痛快BEVレーサー」に大変身。令和のブルドッグ「ホンダ・スーパーONE」は楽しいゾ！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">caranddriver.co.jp</font>",
+            "site_name": "caranddriver.co.jp"
+        },
+        {
+            "id": 676812,
+            "title": "ホンダ「上場初赤字」の真因はEV損失1.5兆円。それでも本業が1兆円黒字を維持できた理由と事業構造 (LIMO) - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVjRpT0hJb1Fja2RKZE5sbm5idzlpU1pLX25UTGEzUWhoMHlLdXZFY2lOWm56SndxczJtbE5fbks3Mm03M2Fab2JyWkRXenNJWDJQNnNKSDQ4QXozc3hrdC1ncFNkNWc0TFNwT1RPTnpZaW41RWt1NEJaYzJEbkY5LWtwcEk4Z3FUZVU3U2VR?oc=5",
+            "published": "Wed, 17 Jun 2026 05:45:59 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNVjRpT0hJb1Fja2RKZE5sbm5idzlpU1pLX25UTGEzUWhoMHlLdXZFY2lOWm56SndxczJtbE5fbks3Mm03M2Fab2JyWkRXenNJWDJQNnNKSDQ4QXozc3hrdC1ncFNkNWc0TFNwT1RPTnpZaW41RWt1NEJaYzJEbkY5LWtwcEk4Z3FUZVU3U2VR?oc=5\" target=\"_blank\">ホンダ「上場初赤字」の真因はEV損失1.5兆円。それでも本業が1兆円黒字を維持できた理由と事業構造 (LIMO)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
         }
     ]
 }
