@@ -1,0 +1,27 @@
+[
+    {
+        "topic_name": "いすゞ自動車と横浜市のバッテリー交換式EVごみ収集車実証実験",
+        "article_ids": [
+            691942,
+            694916,
+            684139
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "万博EVバス不具合による実証実験車両の国産ディーゼル車への変更",
+        "article_ids": [
+            59560,
+            297552,
+            787477
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "新型「bZ4X」及び関連車種のリコール",
+        "article_ids": [
+            803983
+        ],
+        "is_grouped": false
+    }
+]
