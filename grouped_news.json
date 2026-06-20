@@ -1,0 +1,47 @@
+[
+    {
+        "topic_name": "使用済みEVバッテリー診断およびリサイクル",
+        "article_ids": [
+            623410,
+            922252
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "BYDの生産・販売および環境問題",
+        "article_ids": [
+            88060,
+            594544,
+            558324
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "トヨタbZ4X・レクサス・ソルテラのリコール",
+        "article_ids": [
+            123795
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "日産の全固体電池向けドライ電極技術の開発",
+        "article_ids": [
+            844907
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "中国製EVへのEU関税検討",
+        "article_ids": [
+            392235
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "シャオミSU7の衝突事故",
+        "article_ids": [
+            910437
+        ],
+        "is_grouped": false
+    }
+]
