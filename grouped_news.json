@@ -1,0 +1,27 @@
+[
+    {
+        "topic_name": "マレーシアのEV輸入規制導入",
+        "article_ids": [
+            441944,
+            427647,
+            277030
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "大阪・関西万博のEVバス運用不具合と検証遅延",
+        "article_ids": [
+            557048,
+            938355
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "中古EVバッテリーの劣化診断サービス",
+        "article_ids": [
+            208503,
+            922252
+        ],
+        "is_grouped": true
+    }
+]
