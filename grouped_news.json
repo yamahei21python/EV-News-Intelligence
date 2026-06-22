@@ -1,0 +1,37 @@
+[
+    {
+        "topic_name": "EV戦略見直しと日米欧メーカーの業績への影響",
+        "article_ids": [
+            874267,
+            958989,
+            367100,
+            524513
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "日本政府による欧州のEV購入支援策への修正要求",
+        "article_ids": [
+            187136,
+            879642
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "ホンダのEV事業戦略",
+        "article_ids": [
+            735317,
+            292913
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "EV用次世代モーターおよび部品開発",
+        "article_ids": [
+            380285,
+            983686,
+            835640
+        ],
+        "is_grouped": true
+    }
+]
