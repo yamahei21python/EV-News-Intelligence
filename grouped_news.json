@@ -1,0 +1,36 @@
+[
+    {
+        "topic_name": "ヴァレオと日産の欧州V2G充給電提携",
+        "article_ids": [
+            896721,
+            750844
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "東京都のEV・PHEV補助金上限引き上げ",
+        "article_ids": [
+            641658,
+            4272
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "米国のコネクテッドカー規制によるポールスター販売禁止",
+        "article_ids": [
+            255431,
+            192405,
+            395827,
+            501630
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "中国のEV充電インフラ数2249万基突破",
+        "article_ids": [
+            729681,
+            857426
+        ],
+        "is_grouped": true
+    }
+]
