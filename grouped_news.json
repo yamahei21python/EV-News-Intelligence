@@ -1,0 +1,44 @@
+[
+    {
+        "topic_name": "ホンダのEV戦略見直しと株主総会での赤字謝罪",
+        "article_ids": [
+            953534,
+            881471,
+            873238,
+            557557
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "米国によるPolestar車両の販売禁止措置",
+        "article_ids": [
+            323054,
+            632108
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "ミライズエネチェンジのEV充電補助金水増し疑惑",
+        "article_ids": [
+            980204,
+            218972
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "欧州のEV新規制「EV-26」",
+        "article_ids": [
+            406666
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "自動車メーカーのEV戦略見直しによる損失拡大",
+        "article_ids": [
+            915016,
+            171279,
+            945430
+        ],
+        "is_grouped": true
+    }
+]
