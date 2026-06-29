@@ -1,366 +1,230 @@
 {
-    "updated_at": "2026-06-28 22:02:31",
-    "total_count": 83,
+    "updated_at": "2026-06-29 13:00:50",
+    "total_count": 100,
     "articles": [
         {
-            "id": 653234,
-            "title": "中国EV「リープモーター」、世界累計150万台突破 わずか8カ月で50万台上積み - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55SDR2STg4UGxNSzVTZUJzUUpBZmNXVHRBWVdZbkp6Q0Y5QTVOQUFvdmZqN290RnJ6YnAxVXNoMGlXRUd2OU9GOEc2QXBQdnNUQkJSbERELWs3anhlV1JVblFzTDJXckk2TXhGcWZmeTFFTnF0SlJWd2RNMmtoUmc?oc=5",
-            "published": "Sun, 28 Jun 2026 00:30:17 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE55SDR2STg4UGxNSzVTZUJzUUpBZmNXVHRBWVdZbkp6Q0Y5QTVOQUFvdmZqN290RnJ6YnAxVXNoMGlXRUd2OU9GOEc2QXBQdnNUQkJSbERELWs3anhlV1JVblFzTDJXckk2TXhGcWZmeTFFTnF0SlJWd2RNMmtoUmc?oc=5\" target=\"_blank\">中国EV「リープモーター」、世界累計150万台突破 わずか8カ月で50万台上積み</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "id": 912861,
+            "title": "社用車市場低迷で新規登録台数減も、EV割合は拡大（ベルギー） | 地域・分析レポート - 海外ビジネス情報 - jetro.go.jp",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTOE5fX3I5alQ2N2lTdWF2SHJZcWNTX3VVQmdVc21ac0g3Y3Z6azdZZXZzY3lERm5zTURleElGWW10c3pwX0JMYWRCSEdXUklYZW5WMEUwVDJVT2xrdTUzamNsM2xaUkE4LXZTdExoaXZEaXha?oc=5",
+            "published": "Mon, 29 Jun 2026 08:32:55 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBTOE5fX3I5alQ2N2lTdWF2SHJZcWNTX3VVQmdVc21ac0g3Y3Z6azdZZXZzY3lERm5zTURleElGWW10c3pwX0JMYWRCSEdXUklYZW5WMEUwVDJVT2xrdTUzamNsM2xaUkE4LXZTdExoaXZEaXha?oc=5\" target=\"_blank\">社用車市場低迷で新規登録台数減も、EV割合は拡大（ベルギー） | 地域・分析レポート - 海外ビジネス情報</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jetro.go.jp</font>",
+            "site_name": "jetro.go.jp"
+        },
+        {
+            "id": 77391,
+            "title": "ネパール、EV普及率でアジア最高 新車販売比率7割 電動化けん引役はサウスに - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6RDM2Q2lETjN0UGpNZE8wdEdWNUZVYnlVSC1zUEhzdmtsY2t0NkJ6VFJsOHFfS0ZjLVlQcU9uWFRsMXlPcmZISlQ4bW5VNWlRbVkxOUxsWVhJR2FrWnNhaTRoTHNvSkFmU3JsaA?oc=5",
+            "published": "Mon, 29 Jun 2026 09:53:29 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFB6RDM2Q2lETjN0UGpNZE8wdEdWNUZVYnlVSC1zUEhzdmtsY2t0NkJ6VFJsOHFfS0ZjLVlQcU9uWFRsMXlPcmZISlQ4bW5VNWlRbVkxOUxsWVhJR2FrWnNhaTRoTHNvSkFmU3JsaA?oc=5\" target=\"_blank\">ネパール、EV普及率でアジア最高 新車販売比率7割 電動化けん引役はサウスに</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+            "site_name": "日本経済新聞"
+        },
+        {
+            "id": 495616,
+            "title": "吉利傘下のロータスＥＶ、7月中にカナダ到着見込み＝中国大 - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNVpBM1JZaHU0U2h2X0JmQVh2QzdNbVk2N2MxR0ktYmlUZFBBY1FTSGxuS21vdlJlUHVDZnVoMUZIN0FOS3Y1OTFTc19YQmV1Q3ZydmJqTVhWMzRtZnZhT2ptbkZOY0w4U1pnQzZGRjNROHpJV0JMeWtqRmwzX3BlZTlZUQ?oc=5",
+            "published": "Mon, 29 Jun 2026 02:19:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQNVpBM1JZaHU0U2h2X0JmQVh2QzdNbVk2N2MxR0ktYmlUZFBBY1FTSGxuS21vdlJlUHVDZnVoMUZIN0FOS3Y1OTFTc19YQmV1Q3ZydmJqTVhWMzRtZnZhT2ptbkZOY0w4U1pnQzZGRjNROHpJV0JMeWtqRmwzX3BlZTlZUQ?oc=5\" target=\"_blank\">吉利傘下のロータスＥＶ、7月中にカナダ到着見込み＝中国大</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+            "site_name": "Reuters"
+        },
+        {
+            "id": 627331,
+            "title": "「EV＝長距離は不安」は本当か テスラ・モデルYで東京～大阪を走破して分かったリアル（ITmedia Mobile） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uVzV2NDNfTHd3ZVdaT1ZZMFBVOE0wa2ZKcjBYQnN2dFdNcnQyZkktQnlZTW5EOUFOSWdqeGc5cjdYZ0lBdDN5c0Q1cmwyNHBrUzhWRkFENS1FcUlMZXdVeFBCV0ktS0lWLVBCenVHN1RIVHBodWZ1a0VmM0w3S28?oc=5",
+            "published": "Mon, 29 Jun 2026 10:30:12 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5uVzV2NDNfTHd3ZVdaT1ZZMFBVOE0wa2ZKcjBYQnN2dFdNcnQyZkktQnlZTW5EOUFOSWdqeGc5cjdYZ0lBdDN5c0Q1cmwyNHBrUzhWRkFENS1FcUlMZXdVeFBCV0ktS0lWLVBCenVHN1RIVHBodWZ1a0VmM0w3S28?oc=5\" target=\"_blank\">「EV＝長距離は不安」は本当か テスラ・モデルYで東京～大阪を走破して分かったリアル（ITmedia Mobile）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
             "site_name": "Yahoo!ニュース"
         },
         {
-            "id": 537651,
-            "title": "中電系「ミライズエネチェンジ」 EV充電補助金“水増し”疑惑 105億円受け取り実態は - ABEMA",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lc0pTSUN4d2RhRHg0ZnlGVkFDdnQxc0JrTlVmTHU2VkROZ3lmTFFfSmpDT3lkZXdFUERpTUNtWEVCNzcxZERqMFRCYURZZ2dyUHpubGx6YzhtaVk?oc=5",
-            "published": "Sun, 28 Jun 2026 07:46:49 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lc0pTSUN4d2RhRHg0ZnlGVkFDdnQxc0JrTlVmTHU2VkROZ3lmTFFfSmpDT3lkZXdFUERpTUNtWEVCNzcxZERqMFRCYURZZ2dyUHpubGx6YzhtaVk?oc=5\" target=\"_blank\">中電系「ミライズエネチェンジ」 EV充電補助金“水増し”疑惑 105億円受け取り実態は</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABEMA</font>",
-            "site_name": "ABEMA"
+            "id": 767961,
+            "title": "EV充電利便性向上へ、JICNがプラゴ支援 - LOGISTICS TODAY",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1OUWRXQTBtck5tQUcybkk3azlmV08xRjRfZ2RXVkhqejBLaHRRMFR4dXRnWVJUdXhULVo5aHNBVHIyRVBMTGFJdg?oc=5",
+            "published": "Mon, 29 Jun 2026 07:17:12 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1OUWRXQTBtck5tQUcybkk3azlmV08xRjRfZ2RXVkhqejBLaHRRMFR4dXRnWVJUdXhULVo5aHNBVHIyRVBMTGFJdg?oc=5\" target=\"_blank\">EV充電利便性向上へ、JICNがプラゴ支援</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
+            "site_name": "LOGISTICS TODAY"
         },
         {
-            "id": 256955,
-            "title": "フランスとドイツでDセグEVはこんなに違う「DS N°8」と「メルセデス・ベンツC400エレクトリック」比較 - Motor Fan",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zd2k0SFl0RE1fenhVRmR6czZ0WThzLWI0eFhOVkhjWUhUTmdDNFQ1b1g5dlNNT2N1ZzB4YkQ1VERYUnZZazdhZG9MZHUtdw?oc=5",
-            "published": "Sun, 28 Jun 2026 07:45:00 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zd2k0SFl0RE1fenhVRmR6czZ0WThzLWI0eFhOVkhjWUhUTmdDNFQ1b1g5dlNNT2N1ZzB4YkQ1VERYUnZZazdhZG9MZHUtdw?oc=5\" target=\"_blank\">フランスとドイツでDセグEVはこんなに違う「DS N°8」と「メルセデス・ベンツC400エレクトリック」比較</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
-            "site_name": "Motor Fan"
+            "id": 659796,
+            "title": "ヴァレオと日産、欧州市場におけるV2G（Vehicle-to-Grid）スマートEV充給電に関する契約を締結 - Car Watch",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hbExEeXdsdnVpU0ZoNzU5aVdSZ3gzZmN2c2ZLQlNCYjBwU1NBeUw1TmRxenZBVjNqVGstN0pqa1dCSmNyTGJTc01DUk9fSkhOSlMzZWw3ZGFHWnBleUF3LVR5M2Q?oc=5",
+            "published": "Mon, 29 Jun 2026 07:58:24 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hbExEeXdsdnVpU0ZoNzU5aVdSZ3gzZmN2c2ZLQlNCYjBwU1NBeUw1TmRxenZBVjNqVGstN0pqa1dCSmNyTGJTc01DUk9fSkhOSlMzZWw3ZGFHWnBleUF3LVR5M2Q?oc=5\" target=\"_blank\">ヴァレオと日産、欧州市場におけるV2G（Vehicle-to-Grid）スマートEV充給電に関する契約を締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Car Watch</font>",
+            "site_name": "Car Watch"
         },
         {
-            "id": 243669,
-            "title": "国内EVトラック初の「クレーン専用シャシー」を新規設定！ 三菱ふそうの小型EVトラック「eキャンター」が改良 - fullload.bestcarweb.jp",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14R0d5dGdrNGxrRWpYaFV6bXdHdktZQkNHNjhRQVhkUUJXdTdGd0RBLV9LOXFIN25aQVpEWmt3MWdVMWFiZy1BYmhOUGRXaGg1NUQwcQ?oc=5",
-            "published": "Sun, 28 Jun 2026 01:00:00 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE14R0d5dGdrNGxrRWpYaFV6bXdHdktZQkNHNjhRQVhkUUJXdTdGd0RBLV9LOXFIN25aQVpEWmt3MWdVMWFiZy1BYmhOUGRXaGg1NUQwcQ?oc=5\" target=\"_blank\">国内EVトラック初の「クレーン専用シャシー」を新規設定！ 三菱ふそうの小型EVトラック「eキャンター」が改良</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fullload.bestcarweb.jp</font>",
-            "site_name": "fullload.bestcarweb.jp"
+            "id": 663808,
+            "title": "「EV＝長距離は不安」は本当か　テスラ・モデルYで東京～大阪を走破して分かったリアル（1/3 ページ） - ITmedia Mobile - ITmedia",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zT1B5VVdGUWk1Tnl1OHhwdHk0YjA0c1ZkWlM0OVlqcUxBbDNHRnU0V3YwcVFwM1ZGeVpyczBxeThJaTdBQ0cxbHNwVVBtU2ZzRENBR2V6OGs4eUd4QkNVNEFtYVNfZnVC0gFoQVVfeXFMTnNPUHlVV0ZRaTVOeXU4eHB0eTRiMDRzVmRaUzQ5WWpxTEFsM0dGdTRXdjBxUXAzVkZ5WnJzMHF5OElpN0FDRzFsc3BVUG1TZnNEQ0FHZXo4azh5R3hCQ1U0QW1hU19mdUI?oc=5",
+            "published": "Mon, 29 Jun 2026 10:23:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zT1B5VVdGUWk1Tnl1OHhwdHk0YjA0c1ZkWlM0OVlqcUxBbDNHRnU0V3YwcVFwM1ZGeVpyczBxeThJaTdBQ0cxbHNwVVBtU2ZzRENBR2V6OGs4eUd4QkNVNEFtYVNfZnVC0gFoQVVfeXFMTnNPUHlVV0ZRaTVOeXU4eHB0eTRiMDRzVmRaUzQ5WWpxTEFsM0dGdTRXdjBxUXAzVkZ5WnJzMHF5OElpN0FDRzFsc3BVUG1TZnNEQ0FHZXo4azh5R3hCQ1U0QW1hU19mdUI?oc=5\" target=\"_blank\">「EV＝長距離は不安」は本当か　テスラ・モデルYで東京～大阪を走破して分かったリアル（1/3 ページ） - ITmedia Mobile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
+            "site_name": "ITmedia"
         },
         {
-            "id": 983802,
-            "title": "【ホンダ】SUPER ONE試乗 EV時代のホットハッチは“感じる楽しさ”で勝負する - オートプルーブ",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oTnpzNXJSX1A3YWEwZU1tSzBaUkpYNDhpMDdKUzVYekh4NFpkYWtpb2NmTlBnRk9BUGFhNDQzMVVkMjBVcjVHYUxDZV9JNDYyV0ZSV2Q1cmo4MGlUQ3lnNWhPRVA?oc=5",
-            "published": "Sun, 28 Jun 2026 00:01:44 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oTnpzNXJSX1A3YWEwZU1tSzBaUkpYNDhpMDdKUzVYekh4NFpkYWtpb2NmTlBnRk9BUGFhNDQzMVVkMjBVcjVHYUxDZV9JNDYyV0ZSV2Q1cmo4MGlUQ3lnNWhPRVA?oc=5\" target=\"_blank\">【ホンダ】SUPER ONE試乗 EV時代のホットハッチは“感じる楽しさ”で勝負する</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">オートプルーブ</font>",
-            "site_name": "オートプルーブ"
+            "id": 151182,
+            "title": "eMotion Fleet、中古EVの法人販売強化で日産自動車と協業 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JNUxaR1VFTWUydnAzWmlvT0JGNko2MGxmOGt4MUpmcmkyVEJJVTd6V2puYUlETUVjN1ZDNUdxWXNuOTJFUXJHZjR5d1UwOE96YnAtTnZKX3FvMHpWdFdrSkdYdnAzSVZyb3c?oc=5",
+            "published": "Mon, 29 Jun 2026 00:00:02 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1JNUxaR1VFTWUydnAzWmlvT0JGNko2MGxmOGt4MUpmcmkyVEJJVTd6V2puYUlETUVjN1ZDNUdxWXNuOTJFUXJHZjR5d1UwOE96YnAtTnZKX3FvMHpWdFdrSkdYdnAzSVZyb3c?oc=5\" target=\"_blank\">eMotion Fleet、中古EVの法人販売強化で日産自動車と協業</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+            "site_name": "PR TIMES"
         },
         {
-            "id": 76079,
-            "title": "商用EVの「運用課題」に対応する提案を行うEVolityが出展へ…物流DX展 2026 - CAR CARE PLUS",
-            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RWkFIanRjUnYtQ3FkNWgxWk1kSHM3elR3LVlMcy0yc2ZjWmRCMDF5Y2gwNzhhV2p2YnFpSk1nNHBoakhvU0lmV0VnM0NjbmN1SDZ3WHdQMnVyV3c3ZGYxM1NR?oc=5",
-            "published": "Sun, 28 Jun 2026 00:36:06 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RWkFIanRjUnYtQ3FkNWgxWk1kSHM3elR3LVlMcy0yc2ZjWmRCMDF5Y2gwNzhhV2p2YnFpSk1nNHBoakhvU0lmV0VnM0NjbmN1SDZ3WHdQMnVyV3c3ZGYxM1NR?oc=5\" target=\"_blank\">商用EVの「運用課題」に対応する提案を行うEVolityが出展へ…物流DX展 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CAR CARE PLUS</font>",
-            "site_name": "CAR CARE PLUS"
+            "id": 867778,
+            "title": "EVモーターズ・ジャパン、バス契約解除を求める大阪メトロに「法的根拠を欠く」と争う姿勢 運行停止も個別判断と主張 - netdenjd.com",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vVTBfa3BIT25VS0M5WVlpRmdNTVA2WkFsankwM01kbERfUG9FNlhzbFBwM3ptZkJYaVo0TnhlaXRfdGlRSlRaeUpORGlNVmYzLWc?oc=5",
+            "published": "Mon, 29 Jun 2026 09:43:26 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vVTBfa3BIT25VS0M5WVlpRmdNTVA2WkFsankwM01kbERfUG9FNlhzbFBwM3ptZkJYaVo0TnhlaXRfdGlRSlRaeUpORGlNVmYzLWc?oc=5\" target=\"_blank\">EVモーターズ・ジャパン、バス契約解除を求める大阪メトロに「法的根拠を欠く」と争う姿勢 運行停止も個別判断と主張</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">netdenjd.com</font>",
+            "site_name": "netdenjd.com"
         },
         {
-            "id": 614351,
-            "title": "Futa EV PowerとBYD Auto Vietnamは、電気自動車の充電インフラを開発している。 - Vietnam.vn",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd1Z1SVF6Ni1GTzltTkJ6UFotX3M2RkNWc1o3c2lZQjBpYi1tTERpT283UGI0ZDZoUU9ZYUpHM1V2NjRhRmppZjJkUkk2NTlVN1NXRV83ZXdvTXBJbzBsRG9Pd08yWWxBNWNFZlRkRVdXbUtZMXo2V3h1dXl6cmhjSFRZXzBra1pKSHdPajVKbTAxd0l2QkE?oc=5",
-            "published": "Sun, 28 Jun 2026 10:13:41 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNd1Z1SVF6Ni1GTzltTkJ6UFotX3M2RkNWc1o3c2lZQjBpYi1tTERpT283UGI0ZDZoUU9ZYUpHM1V2NjRhRmppZjJkUkk2NTlVN1NXRV83ZXdvTXBJbzBsRG9Pd08yWWxBNWNFZlRkRVdXbUtZMXo2V3h1dXl6cmhjSFRZXzBra1pKSHdPajVKbTAxd0l2QkE?oc=5\" target=\"_blank\">Futa EV PowerとBYD Auto Vietnamは、電気自動車の充電インフラを開発している。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
-            "site_name": "Vietnam.vn"
+            "id": 671010,
+            "title": "ソーラーカーポート導入に最大1億円補助、蓄電池・EVも対象 2次公募 - kankyo-business.jp",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wNXBjTl9iNHdzRlg4WWw1TV9iMW12SmdRanNsSXdnLXZ5TXpZRi0zcERON2Z3aXFuR2ZsQlNqeTlVNDl2SFI2V3AwaXFFaWM1TlhvWkVKQXFpb3h6VDFzbGl5LVNyaFJQZGl5ZU9vbzhEaHhjZDViMVN3TTY?oc=5",
+            "published": "Mon, 29 Jun 2026 09:20:43 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE8wNXBjTl9iNHdzRlg4WWw1TV9iMW12SmdRanNsSXdnLXZ5TXpZRi0zcERON2Z3aXFuR2ZsQlNqeTlVNDl2SFI2V3AwaXFFaWM1TlhvWkVKQXFpb3h6VDFzbGl5LVNyaFJQZGl5ZU9vbzhEaHhjZDViMVN3TTY?oc=5\" target=\"_blank\">ソーラーカーポート導入に最大1億円補助、蓄電池・EVも対象 2次公募</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kankyo-business.jp</font>",
+            "site_name": "kankyo-business.jp"
         },
         {
-            "id": 44888,
-            "title": "大阪メトロが使用断念した中国製ＥＶバス１００台以上、産廃処理場へ「出発」（読売新聞オンライン） - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pSjhRcU95RFQ5TnhIWVZlNmRCQTc1VWVMMHJ3RC1rcGJsWkJlYWJ1SmhLS3BjY1N0WlJPN0k4RXg1N3lsUDJFMHE2czl1aGRwMHRUMDNpS3hqa1JhUElqYXNHd0k4QkFhMk80THV5Z1FSLVJwc3FYSEtickU4Yk0?oc=5",
-            "published": "Sun, 28 Jun 2026 01:02:00 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9pSjhRcU95RFQ5TnhIWVZlNmRCQTc1VWVMMHJ3RC1rcGJsWkJlYWJ1SmhLS3BjY1N0WlJPN0k4RXg1N3lsUDJFMHE2czl1aGRwMHRUMDNpS3hqa1JhUElqYXNHd0k4QkFhMk80THV5Z1FSLVJwc3FYSEtickU4Yk0?oc=5\" target=\"_blank\">大阪メトロが使用断念した中国製ＥＶバス１００台以上、産廃処理場へ「出発」（読売新聞オンライン）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-            "site_name": "Yahoo!ニュース"
-        },
-        {
-            "id": 340982,
-            "title": "【動画あり】ルークス、デリカミニ、インスターを一般ユーザーが評価！ 軽＆最新EV体験試乗レポート【ル・ボラン カーズミート2026横浜】 - LE VOLANT WEB",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rQU9KZHdpd0xGNGRTOVVLcW45VE14ZlhoX0FIUDRXWHpnUzVIVHN5RnJlS2pDMGliT0ZucTlQT3A1Q1F4dGZJZ0xiRkhQWlNMLTl1QTYxXzlqMVdQ?oc=5",
-            "published": "Sun, 28 Jun 2026 07:59:35 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rQU9KZHdpd0xGNGRTOVVLcW45VE14ZlhoX0FIUDRXWHpnUzVIVHN5RnJlS2pDMGliT0ZucTlQT3A1Q1F4dGZJZ0xiRkhQWlNMLTl1QTYxXzlqMVdQ?oc=5\" target=\"_blank\">【動画あり】ルークス、デリカミニ、インスターを一般ユーザーが評価！ 軽＆最新EV体験試乗レポート【ル・ボラン カーズミート2026横浜】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LE VOLANT WEB</font>",
-            "site_name": "LE VOLANT WEB"
-        },
-        {
-            "id": 317497,
-            "title": "20260624_DS N°8_C-classEV - Motor Fan",
-            "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYnpjRjJPenEyUC0tV3lmWFk5NnZoaldIU3ZBMWFwOXVGZTUxRmhwdUoyWnJtNWlzQlFQWEJsR3F1dWFCNDBmd2pzMVQyR3hSQlpvd0FLTU9HbU92NERDY1F6ME9kd092TjhmMkIzMTB1SDBqTVNid3RNRmpGRndZaFVFZEtPZDVmOC1ucFRKVkc4bXlwd3QwVEVJOTkwZFIzY1NEdGpzWmliUFo1OWJzWkNDcFAzdWpseGxCeEhvMEtZODlLeWZhVExLVDk0UW9XQ1JVUlBlQTI2MENRR0R6YQ?oc=5",
-            "published": "Sun, 28 Jun 2026 08:53:00 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYnpjRjJPenEyUC0tV3lmWFk5NnZoaldIU3ZBMWFwOXVGZTUxRmhwdUoyWnJtNWlzQlFQWEJsR3F1dWFCNDBmd2pzMVQyR3hSQlpvd0FLTU9HbU92NERDY1F6ME9kd092TjhmMkIzMTB1SDBqTVNid3RNRmpGRndZaFVFZEtPZDVmOC1ucFRKVkc4bXlwd3QwVEVJOTkwZFIzY1NEdGpzWmliUFo1OWJzWkNDcFAzdWpseGxCeEhvMEtZODlLeWZhVExLVDk0UW9XQ1JVUlBlQTI2MENRR0R6YQ?oc=5\" target=\"_blank\">20260624_DS N°8_C-classEV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
-            "site_name": "Motor Fan"
-        },
-        {
-            "id": 345729,
-            "title": "万博で走った「EVモーターズジャパン」の100台以上のバス！ 問題発覚後のいま静かに解体を待っていた（WEB CARTOP） - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zZ2xkR1luZlZDUHhONUxkcGpLczQ3XzM2NTllcDF3R0I3Q3oyaGFYMnVUNU5MbllVRlhFVlRTSU11UHpnRU4xMXZHcV9lYTdUQ3EzbDFqaGE4M0xHN3BybWR5RDNaMUh3cFk1NVI2MTBhdC0zR3FiYXRocXp3aEE?oc=5",
-            "published": "Sat, 27 Jun 2026 22:10:43 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE4zZ2xkR1luZlZDUHhONUxkcGpLczQ3XzM2NTllcDF3R0I3Q3oyaGFYMnVUNU5MbllVRlhFVlRTSU11UHpnRU4xMXZHcV9lYTdUQ3EzbDFqaGE4M0xHN3BybWR5RDNaMUh3cFk1NVI2MTBhdC0zR3FiYXRocXp3aEE?oc=5\" target=\"_blank\">万博で走った「EVモーターズジャパン」の100台以上のバス！ 問題発覚後のいま静かに解体を待っていた（WEB CARTOP）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-            "site_name": "Yahoo!ニュース"
-        },
-        {
-            "id": 631431,
-            "title": "まるで商用軽のような「素うどん」EVトラック！ 安く手に入れてあとはお好きにカスタムを……な「スレートトラック」がバカウケする予感!!（THE EV TIMES） - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DQVJZOTVyU2cwVXhYNlpBNmJKOU14Ry16cl96UmZ2dHpMTkhSSGxESEZXN1VNY1dmWXJIdGNCNmdvbXhJTW1oVy1CT0VJVFhsbFZkc0l2TG51RWNLTWFlbWN4V3hhNGV0NFlHSXgxR0VvZkY2aUVGNUttbVl4Tnc?oc=5",
-            "published": "Sun, 28 Jun 2026 09:01:52 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9DQVJZOTVyU2cwVXhYNlpBNmJKOU14Ry16cl96UmZ2dHpMTkhSSGxESEZXN1VNY1dmWXJIdGNCNmdvbXhJTW1oVy1CT0VJVFhsbFZkc0l2TG51RWNLTWFlbWN4V3hhNGV0NFlHSXgxR0VvZkY2aUVGNUttbVl4Tnc?oc=5\" target=\"_blank\">まるで商用軽のような「素うどん」EVトラック！ 安く手に入れてあとはお好きにカスタムを……な「スレートトラック」がバカウケする予感!!（THE EV TIMES）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-            "site_name": "Yahoo!ニュース"
-        },
-        {
-            "id": 130594,
-            "title": "あのジムニーノマドより小回りが利く!? 街乗りに最適すぎるスズキのEV「eビターラ」 (アスキー) - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSXhXWUFQLVNHcWxZbHY1b2JCbjFteW5BTVl3cWVyelR5bDlEMS1HTXVjY2tzTDhHQVFjMk5aN2FhS3BEczZuV1FzQlVNQnhFY0I3SDBvN1VkUWJuWWdyWkR3blRfUTl2bzNVMl9qSnM5aHhuOHRlb1JCZzBvazQ0OV9NZUx3MFh5NmhLR2hB?oc=5",
-            "published": "Sun, 28 Jun 2026 06:32:17 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPSXhXWUFQLVNHcWxZbHY1b2JCbjFteW5BTVl3cWVyelR5bDlEMS1HTXVjY2tzTDhHQVFjMk5aN2FhS3BEczZuV1FzQlVNQnhFY0I3SDBvN1VkUWJuWWdyWkR3blRfUTl2bzNVMl9qSnM5aHhuOHRlb1JCZzBvazQ0OV9NZUx3MFh5NmhLR2hB?oc=5\" target=\"_blank\">あのジムニーノマドより小回りが利く!? 街乗りに最適すぎるスズキのEV「eビターラ」 (アスキー)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-            "site_name": "Yahoo!ニュース"
-        },
-        {
-            "id": 475912,
-            "title": "【試乗】乗り手も“笑顔でアホになる”ホンダ・スーパーワン。1万台受注も納得のEV×V8サウンドと低重心が魅せる極上の走り - carview!",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVkxGX3VZVDRsTk9maVp4aTJEYTRHcXZBYTFxQVBWakNYRFlhOE5yMEpjZUpvUEU0WS1FMFk4MG9sNE9sVS00ZVdzOTFnUFRCVWNybnhKNXpkMUFpeTREN1NyT3Y0SDBpbHdRUm8xcHM1aUpoaDdvTG1mWU41NUlhb21nZE9fS1ZMS0tFSUVCbHZaQWVF?oc=5",
-            "published": "Sun, 28 Jun 2026 08:00:50 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNVkxGX3VZVDRsTk9maVp4aTJEYTRHcXZBYTFxQVBWakNYRFlhOE5yMEpjZUpvUEU0WS1FMFk4MG9sNE9sVS00ZVdzOTFnUFRCVWNybnhKNXpkMUFpeTREN1NyT3Y0SDBpbHdRUm8xcHM1aUpoaDdvTG1mWU41NUlhb21nZE9fS1ZMS0tFSUVCbHZaQWVF?oc=5\" target=\"_blank\">【試乗】乗り手も“笑顔でアホになる”ホンダ・スーパーワン。1万台受注も納得のEV×V8サウンドと低重心が魅せる極上の走り</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carview!</font>",
+            "id": 905176,
+            "title": "中国とアメリカのEV販売は振るわないが全世界では伸びている！ メーカー別販売台数ランキング!! - carview!",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN0trSWI4aDktZmVac1Zwa2dmRWtMVXlTWGM2TlhYQTBjU3pscVVtczN2ZTFPU3drRDhiSTg0SmNTdFk5ektGZXF5cG5idXo0dnh6RF9ramFla3VmT05lSFJfdUZzOE1jZ05KaTNQalF5RTdrbi10djk4NEk3R0t1ajNTSjFZRzFh?oc=5",
+            "published": "Mon, 29 Jun 2026 09:40:39 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN0trSWI4aDktZmVac1Zwa2dmRWtMVXlTWGM2TlhYQTBjU3pscVVtczN2ZTFPU3drRDhiSTg0SmNTdFk5ektGZXF5cG5idXo0dnh6RF9ramFla3VmT05lSFJfdUZzOE1jZ05KaTNQalF5RTdrbi10djk4NEk3R0t1ajNTSjFZRzFh?oc=5\" target=\"_blank\">中国とアメリカのEV販売は振るわないが全世界では伸びている！ メーカー別販売台数ランキング!!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carview!</font>",
             "site_name": "carview!"
         },
         {
-            "id": 969704,
-            "title": "FUTA EV POWERとBYD AUTO Vietnamは、電気自動車充電インフラの開発で協力する。 - Vietnam.vn",
-            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUl9wQzZ6RG1MLTVfcmExbDFGUnBBQUttOFowSHo5RzN5bDc4RnlCdGQzXzBDSkppQ1hVNEwyR2t5bGRkd09WNjVIUXg3aERYaHNmSEMzcEdEUW9WUVR1V194cjFBX0VNTnduZ1hGRTNqc01uRlNocGE5eHRUY0x0czYyM1JGcVZ3eFY3b0dFNEpvSjF4RndEbUNjWjFyNDY4?oc=5",
-            "published": "Sun, 28 Jun 2026 06:35:47 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOUl9wQzZ6RG1MLTVfcmExbDFGUnBBQUttOFowSHo5RzN5bDc4RnlCdGQzXzBDSkppQ1hVNEwyR2t5bGRkd09WNjVIUXg3aERYaHNmSEMzcEdEUW9WUVR1V194cjFBX0VNTnduZ1hGRTNqc01uRlNocGE5eHRUY0x0czYyM1JGcVZ3eFY3b0dFNEpvSjF4RndEbUNjWjFyNDY4?oc=5\" target=\"_blank\">FUTA EV POWERとBYD AUTO Vietnamは、電気自動車充電インフラの開発で協力する。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
-            "site_name": "Vietnam.vn"
+            "id": 210953,
+            "title": "KGモーターズ、浪江でEV電力インフラ実証 - LOGISTICS TODAY",
+            "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE84dlpxeGxlVFF6elZ6em1ZWmQycm1TUFRWRVR5VFJyX2czOFJtYmxadmlBb2p4aWowUlItdC1RbUpsbmprc0tR?oc=5",
+            "published": "Mon, 29 Jun 2026 08:56:59 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE84dlpxeGxlVFF6elZ6em1ZWmQycm1TUFRWRVR5VFJyX2czOFJtYmxadmlBb2p4aWowUlItdC1RbUpsbmprc0tR?oc=5\" target=\"_blank\">KGモーターズ、浪江でEV電力インフラ実証</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
+            "site_name": "LOGISTICS TODAY"
         },
         {
-            "id": 544461,
-            "title": "ラグジュアリーミニバンもEVの時代「メルセデス・ベンツ VLE」が生産開始「航続距離700km超」【動画】 - Motor Fan",
-            "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxObHEtUDJ6X05ZVG91UDhMZmhrVEo4NF9GQklPMm5CYlFRZWNLdFlqSFh3UEhuRXh5ZzdLWDRTV3pRbS1MZS1nNkxyWGR1RGUzWk42R2hXdnYzQlpRVFhwdmdVVnBzS0IwTEJtVjNaUXNQVVh0Znpkd1JQUTdFTUM4UDBQQ1pHdkJGNEtXTE1XdUpSSk1WLWVnamtwSElUN1hIUXZQTTFxWXVhQTZDSDgxWkdqV3JIQXZvN1UxQTlMblpWSXRFUTVsYWJLTnRVS3NGdlFWR1oyWE9XM2ljSVNUZzBXM3dGQy1ZejlTQ0RFQkd1dXItQkpvdkoyQnBkakJOQVh6SUtNTjZBRkx5dUNUdVFNQjFEYmg4XzVITDJtZ1Q0OXotSk12RVBPSUF6WXNkbHlZNnc3MUpNdkFLemxRekpfTXlNVzd1YklQOGlCU0U4NW05d1ZR?oc=5",
-            "published": "Sun, 28 Jun 2026 00:55:32 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wJBVV95cUxObHEtUDJ6X05ZVG91UDhMZmhrVEo4NF9GQklPMm5CYlFRZWNLdFlqSFh3UEhuRXh5ZzdLWDRTV3pRbS1MZS1nNkxyWGR1RGUzWk42R2hXdnYzQlpRVFhwdmdVVnBzS0IwTEJtVjNaUXNQVVh0Znpkd1JQUTdFTUM4UDBQQ1pHdkJGNEtXTE1XdUpSSk1WLWVnamtwSElUN1hIUXZQTTFxWXVhQTZDSDgxWkdqV3JIQXZvN1UxQTlMblpWSXRFUTVsYWJLTnRVS3NGdlFWR1oyWE9XM2ljSVNUZzBXM3dGQy1ZejlTQ0RFQkd1dXItQkpvdkoyQnBkakJOQVh6SUtNTjZBRkx5dUNUdVFNQjFEYmg4XzVITDJtZ1Q0OXotSk12RVBPSUF6WXNkbHlZNnc3MUpNdkFLemxRekpfTXlNVzd1YklQOGlCU0U4NW05d1ZR?oc=5\" target=\"_blank\">ラグジュアリーミニバンもEVの時代「メルセデス・ベンツ VLE」が生産開始「航続距離700km超」【動画】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
-            "site_name": "Motor Fan"
+            "id": 156972,
+            "title": "「EV＝長距離は不安」は本当か　テスラ・モデルYで東京～大阪を走破して分かったリアル（3/3 ページ） - ITmedia Mobile - ITmedia",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Yekk0RWhCOXhyQk04WlprUWNIREY0MTVWT0FkakZTZ2Z1M1BpeC0zZEhiZC00Rmdwc0FieFlPV3I3WUJrbGFSRmFhUXBuYkxOTXJXcWtwZ2JCUE95dmUtcTZNc2RSWk5fSEJv0gFrQVVfeXFMTlh6STRFaEI5eHJCTThaWmtRY0hERjQxNVZPQWRqRlNnZnUzUGl4LTNkSGJkLTRGZ3BzQWJ4WU9XcjdZQmtsYVJGYWFRcG5iTE5Ncldxa3BnYkJQT3l2ZS1xNk1zZFJaTl9IQm8?oc=5",
+            "published": "Mon, 29 Jun 2026 10:23:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5Yekk0RWhCOXhyQk04WlprUWNIREY0MTVWT0FkakZTZ2Z1M1BpeC0zZEhiZC00Rmdwc0FieFlPV3I3WUJrbGFSRmFhUXBuYkxOTXJXcWtwZ2JCUE95dmUtcTZNc2RSWk5fSEJv0gFrQVVfeXFMTlh6STRFaEI5eHJCTThaWmtRY0hERjQxNVZPQWRqRlNnZnUzUGl4LTNkSGJkLTRGZ3BzQWJ4WU9XcjdZQmtsYVJGYWFRcG5iTE5Ncldxa3BnYkJQT3l2ZS1xNk1zZFJaTl9IQm8?oc=5\" target=\"_blank\">「EV＝長距離は不安」は本当か　テスラ・モデルYで東京～大阪を走破して分かったリアル（3/3 ページ） - ITmedia Mobile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
+            "site_name": "ITmedia"
         },
         {
-            "id": 797530,
-            "title": "「斬新」「伝説壊す」 フェラーリＥＶ 造形巡り論争 - 琉球新報デジタル",
-            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01Z0cwbmMtekNBR1ItS2lUR2hmOFduSTdhWDF0TndCczNvUlpiN3F2c0pFOHpUWmJkN3BsMlNaTkxfcFJpVjdHY0dmTW11SDZoRXNkSUxONW5WNXlnaXdSSUd3?oc=5",
-            "published": "Sat, 27 Jun 2026 20:00:00 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE01Z0cwbmMtekNBR1ItS2lUR2hmOFduSTdhWDF0TndCczNvUlpiN3F2c0pFOHpUWmJkN3BsMlNaTkxfcFJpVjdHY0dmTW11SDZoRXNkSUxONW5WNXlnaXdSSUd3?oc=5\" target=\"_blank\">「斬新」「伝説壊す」 フェラーリＥＶ 造形巡り論争</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">琉球新報デジタル</font>",
-            "site_name": "琉球新報デジタル"
-        },
-        {
-            "id": 117975,
-            "title": "【動画あり】ルークス、デリカミニ、インスターを一般ユーザーが評価！ 軽＆最新EV体験試乗レポート【ル・ボラン カーズミート2026横浜】（LEVOLANT） | 自動車情報・ニュース - carview!",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMkwwcV81WU5wSG5vb0wzYnJ1X1duU3JnVE9UNEtFQWNlZGt1d0tJUk1IT3ZfRV9SVXNoYXJRRzJHQ25vblJ0ZjNCZExvUlc2YTVmNklaSldPTFpJVlYySkE3ekhqZXgxQ1hNTW5SNnhrVUxjcjlmdzhRbzJPRFRpc1kxajZWcVVhcDRhcjN3YlR3UUpn?oc=5",
-            "published": "Sun, 28 Jun 2026 03:40:25 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPMkwwcV81WU5wSG5vb0wzYnJ1X1duU3JnVE9UNEtFQWNlZGt1d0tJUk1IT3ZfRV9SVXNoYXJRRzJHQ25vblJ0ZjNCZExvUlc2YTVmNklaSldPTFpJVlYySkE3ekhqZXgxQ1hNTW5SNnhrVUxjcjlmdzhRbzJPRFRpc1kxajZWcVVhcDRhcjN3YlR3UUpn?oc=5\" target=\"_blank\">【動画あり】ルークス、デリカミニ、インスターを一般ユーザーが評価！ 軽＆最新EV体験試乗レポート【ル・ボラン カーズミート2026横浜】（LEVOLANT） | 自動車情報・ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carview!</font>",
-            "site_name": "carview!"
-        },
-        {
-            "id": 789985,
-            "title": "起亜、新型EVバン「PV5」の新仕様を世界初公開　ドローン搭載のAIパトカーなど全16構成に拡大 - 財経新聞",
-            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1SZkRWTnZBNXRBeGNyRG5OQmR3Zkg4bmdsaTdHdFVYd2lFNmlNTGxUUHNLb2FSSmRtNTB0bHBQTWZkTGVKcDRmX0U2YmtSVnFnUERuMUJxaEpRX04tV1BabFZYY9IBaEFVX3lxTFBMWmpkTk9BVVUwSFpEWjV4QW9Yd1B3Y1lTeW5Ud2NRVTBlcnprdkZhQ0lyUk03bzVhNVFhYVZ4VXQ0bmZTWGM5QWg3Q25ZQi1jUmZJckpFUmlJN1ppT0pUcEhPcDdkZmps?oc=5",
-            "published": "Sun, 28 Jun 2026 07:13:27 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1SZkRWTnZBNXRBeGNyRG5OQmR3Zkg4bmdsaTdHdFVYd2lFNmlNTGxUUHNLb2FSSmRtNTB0bHBQTWZkTGVKcDRmX0U2YmtSVnFnUERuMUJxaEpRX04tV1BabFZYY9IBaEFVX3lxTFBMWmpkTk9BVVUwSFpEWjV4QW9Yd1B3Y1lTeW5Ud2NRVTBlcnprdkZhQ0lyUk03bzVhNVFhYVZ4VXQ0bmZTWGM5QWg3Q25ZQi1jUmZJckpFUmlJN1ppT0pUcEhPcDdkZmps?oc=5\" target=\"_blank\">起亜、新型EVバン「PV5」の新仕様を世界初公開　ドローン搭載のAIパトカーなど全16構成に拡大</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">財経新聞</font>",
-            "site_name": "財経新聞"
-        },
-        {
-            "id": 104492,
-            "title": "ここで冷静になって「中国車の現在地」を見てみましょう（1/2 ページ） - 乗りものニュース",
-            "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE80M3NvTXllU1RuN3E1bkJ2UWUwWng4S2xIWXZIZnZLajVHSmlHQVlhdnVuRjV0eXRVV2xWSjBqb08xd3p5Z29ub2ZR?oc=5",
-            "published": "Sun, 28 Jun 2026 07:37:40 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE80M3NvTXllU1RuN3E1bkJ2UWUwWng4S2xIWXZIZnZLajVHSmlHQVlhdnVuRjV0eXRVV2xWSjBqb08xd3p5Z29ub2ZR?oc=5\" target=\"_blank\">ここで冷静になって「中国車の現在地」を見てみましょう（1/2 ページ）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">乗りものニュース</font>",
-            "site_name": "乗りものニュース"
-        },
-        {
-            "id": 131629,
-            "title": "店舗配送サービス「マツキヨココカラQ」が本稼働 EV車両やエコな梱包材で環境へも配慮：commercezine - MarkeZine",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2VVRQaHBQdEhsR3NadnJtUXdJNnJQSFE4NlBFeFB4TlNTT29fVVFFYWh2Rk5vc051azFDNUpvdmVlUHJta2pzZDBFSDhUdmc?oc=5",
-            "published": "Sat, 27 Jun 2026 12:56:13 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2VVRQaHBQdEhsR3NadnJtUXdJNnJQSFE4NlBFeFB4TlNTT29fVVFFYWh2Rk5vc051azFDNUpvdmVlUHJta2pzZDBFSDhUdmc?oc=5\" target=\"_blank\">店舗配送サービス「マツキヨココカラQ」が本稼働 EV車両やエコな梱包材で環境へも配慮：commercezine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarkeZine</font>",
-            "site_name": "MarkeZine"
-        },
-        {
-            "id": 465432,
-            "title": "万博で走った「EVモーターズジャパン」の100台以上のバス！ 問題発覚後のいま静かに解体を待っていた (WEB CARTOP) - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQzlUMVNITjltdThvOWZlZnk0dTFuTzRycVVtTGc2WTdZX3lZNEpsODI0T3B5Sng2VXFQdjMwYzllSnZucGpjWXFXSWVPdEJMQ3ZnY2tCdXYzSTZ6SnFoTVk4X3hmRVdZWXZVdk9LYnlJYjhlT1phYXp5ZVlBUW1EeWJvRFpFbUttWnZiSUdn?oc=5",
-            "published": "Sat, 27 Jun 2026 22:10:43 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNQzlUMVNITjltdThvOWZlZnk0dTFuTzRycVVtTGc2WTdZX3lZNEpsODI0T3B5Sng2VXFQdjMwYzllSnZucGpjWXFXSWVPdEJMQ3ZnY2tCdXYzSTZ6SnFoTVk4X3hmRVdZWXZVdk9LYnlJYjhlT1phYXp5ZVlBUW1EeWJvRFpFbUttWnZiSUdn?oc=5\" target=\"_blank\">万博で走った「EVモーターズジャパン」の100台以上のバス！ 問題発覚後のいま静かに解体を待っていた (WEB CARTOP)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "id": 755194,
+            "title": "スマホで5分、EVバッテリー寿命を予測診断…エッチ・ケー・エスら3社が実証実験（レスポンス） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zOExEMHJ0WWdsVzFjVGtCYkwzQmNwTjh1SkJhOV8ya3BPTjNhSGlhZ1JVMGc3S3RjUlY4Zi1GUWtObUkzb1A5YXVDUUtRVUc3QTdqQTBtdVlJRVZqMG40T2FKYVhmWWJNNXAwb3U2eUhzRi14VnVRWlhZTl9GZlE?oc=5",
+            "published": "Mon, 29 Jun 2026 10:15:02 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE8zOExEMHJ0WWdsVzFjVGtCYkwzQmNwTjh1SkJhOV8ya3BPTjNhSGlhZ1JVMGc3S3RjUlY4Zi1GUWtObUkzb1A5YXVDUUtRVUc3QTdqQTBtdVlJRVZqMG40T2FKYVhmWWJNNXAwb3U2eUhzRi14VnVRWlhZTl9GZlE?oc=5\" target=\"_blank\">スマホで5分、EVバッテリー寿命を予測診断…エッチ・ケー・エスら3社が実証実験（レスポンス）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
             "site_name": "Yahoo!ニュース"
         },
         {
-            "id": 256927,
-            "title": "【e ビターラ】バッテリーEV世界戦略車第一弾「開発者」が語る“こだわり”のポイントは！？ Priyanka Chopra (E9pFA9RPbS) - Mshale",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xTDZvdnowSlNOMXBLR1o1a1VPX2xucVI0a0R2cTRJZVZSa0lUV0hxVm9rS3JhdDFOVjJJdXNIdWNGSlBsWnNSOTJNRURBNW1YdnppY21xbXpSUUk?oc=5",
-            "published": "Sun, 28 Jun 2026 03:02:41 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xTDZvdnowSlNOMXBLR1o1a1VPX2xucVI0a0R2cTRJZVZSa0lUV0hxVm9rS3JhdDFOVjJJdXNIdWNGSlBsWnNSOTJNRURBNW1YdnppY21xbXpSUUk?oc=5\" target=\"_blank\">【e ビターラ】バッテリーEV世界戦略車第一弾「開発者」が語る“こだわり”のポイントは！？ Priyanka Chopra (E9pFA9RPbS)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mshale</font>",
-            "site_name": "Mshale"
+            "id": 779620,
+            "title": "「EV＝長距離は不安」は本当か　テスラ・モデルYで東京～大阪を走破して分かったリアル（2/3 ページ） - ITmedia Mobile - ITmedia",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lY0dWMDRnRUIwSUJxZC1vNFdOTzZSbVYtMlp0emowbk5QZnVBazN1c2tlV0NmUTY1MEVjWV9RYW1YeWtQVV9weTI2NE9KQmRPbEZLb2ZjdXBUUUxaSmk3WUozYkM1bTFlNjZ30gFrQVVfeXFMTWVjR1YwNGdFQjBJQnFkLW80V05PNlJtVi0yWnR6ajBuTlBmdUFrM3Vza2VXQ2ZRNjUwRWNZX1FhbVh5a1BVX3B5MjY0T0pCZE9sRktvZmN1cFRRTFpKaTdZSjNiQzVtMWU2Nnc?oc=5",
+            "published": "Mon, 29 Jun 2026 10:23:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1lY0dWMDRnRUIwSUJxZC1vNFdOTzZSbVYtMlp0emowbk5QZnVBazN1c2tlV0NmUTY1MEVjWV9RYW1YeWtQVV9weTI2NE9KQmRPbEZLb2ZjdXBUUUxaSmk3WUozYkM1bTFlNjZ30gFrQVVfeXFMTWVjR1YwNGdFQjBJQnFkLW80V05PNlJtVi0yWnR6ajBuTlBmdUFrM3Vza2VXQ2ZRNjUwRWNZX1FhbVh5a1BVX3B5MjY0T0pCZE9sRktvZmN1cFRRTFpKaTdZSjNiQzVtMWU2Nnc?oc=5\" target=\"_blank\">「EV＝長距離は不安」は本当か　テスラ・モデルYで東京～大阪を走破して分かったリアル（2/3 ページ） - ITmedia Mobile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
+            "site_name": "ITmedia"
         },
         {
-            "id": 98287,
-            "title": "あのジムニーノマドより小回りが利く!? 街乗りに最適すぎるスズキのEV「eビターラ」 (1/2) - ASCII.jp",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CZFdPYU1NLUdDaXRpTkc1Y2F3X0JKalpYVW9CcndfbU9sMmxxQWVRelh5TnByaXNmN3pDNk5HOV9sbGZoRXR6SlZmcG5KN3ZLTFN1cA?oc=5",
-            "published": "Sun, 28 Jun 2026 03:00:00 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CZFdPYU1NLUdDaXRpTkc1Y2F3X0JKalpYVW9CcndfbU9sMmxxQWVRelh5TnByaXNmN3pDNk5HOV9sbGZoRXR6SlZmcG5KN3ZLTFN1cA?oc=5\" target=\"_blank\">あのジムニーノマドより小回りが利く!? 街乗りに最適すぎるスズキのEV「eビターラ」 (1/2)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ASCII.jp</font>",
-            "site_name": "ASCII.jp"
+            "id": 710411,
+            "title": "【GM】キャデラックのすべてのEV、シボレー・コルベットにGoogle Geminiを導入（Auto Prove） | 自動車情報・ニュース - carview!",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc2VmZG9pWFNGem8zbE5kMm5hdUFudXlPTXhQeFI5RDczWi1UNk5obmtqZGJpS0xhdU5CS19ENDYtUDJVQmVHZEZxaVk3MmN0RkpUbzNwMDVrM3djRG05SGZsc2RtTW1kRVlTMzh1UnczNm9UN0xSS2lBTGEtOG9yWEFLUmVJRUs4?oc=5",
+            "published": "Mon, 29 Jun 2026 07:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc2VmZG9pWFNGem8zbE5kMm5hdUFudXlPTXhQeFI5RDczWi1UNk5obmtqZGJpS0xhdU5CS19ENDYtUDJVQmVHZEZxaVk3MmN0RkpUbzNwMDVrM3djRG05SGZsc2RtTW1kRVlTMzh1UnczNm9UN0xSS2lBTGEtOG9yWEFLUmVJRUs4?oc=5\" target=\"_blank\">【GM】キャデラックのすべてのEV、シボレー・コルベットにGoogle Geminiを導入（Auto Prove） | 自動車情報・ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carview!</font>",
+            "site_name": "carview!"
         },
         {
-            "id": 158885,
-            "title": "補助金マジックで話題のホンダ「Super-ONE」は340万円払って買う価値はある！ (1/2) - ASCII.jp",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MMGJ0aHE1eXo1eVI3alNPTXIweGdBV0VuaDJMU0lvc0JoMHN5YkZpQnFNbGxWVnZla0J2N3p5NExBOXhCeFVzSU1QTzBWOFgyR2EwTA?oc=5",
-            "published": "Sun, 28 Jun 2026 06:00:00 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MMGJ0aHE1eXo1eVI3alNPTXIweGdBV0VuaDJMU0lvc0JoMHN5YkZpQnFNbGxWVnZla0J2N3p5NExBOXhCeFVzSU1QTzBWOFgyR2EwTA?oc=5\" target=\"_blank\">補助金マジックで話題のホンダ「Super-ONE」は340万円払って買う価値はある！ (1/2)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ASCII.jp</font>",
-            "site_name": "ASCII.jp"
+            "id": 873754,
+            "title": "ナルネット－急騰 ＮＴＴ系と中古EVリース事業で提携(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbFFDVXZvN0ZVTGdsTHFiNWh2MWY1TkUwaEJQRXh2ekFsYmVyQTNseVBiYzBjeGxBUU1vVk5HZWpfc0xrek5iZjdtX1FBc240OFNJSElhQlQwRUdfTzV5R1hLcWVyc0h2ZklzUjl4TGVOcnJsWEpBaHROWWFocldMSWY3RUM2U1U?oc=5",
+            "published": "Mon, 29 Jun 2026 02:06:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNbFFDVXZvN0ZVTGdsTHFiNWh2MWY1TkUwaEJQRXh2ekFsYmVyQTNseVBiYzBjeGxBUU1vVk5HZWpfc0xrek5iZjdtX1FBc240OFNJSElhQlQwRUdfTzV5R1hLcWVyc0h2ZklzUjl4TGVOcnJsWEpBaHROWWFocldMSWY3RUM2U1U?oc=5\" target=\"_blank\">ナルネット－急騰 ＮＴＴ系と中古EVリース事業で提携(トレーダーズ・ウェブ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ファイナンス</font>",
+            "site_name": "Yahoo!ファイナンス"
         },
         {
-            "id": 562891,
-            "title": "ホンダ（東証：7267）の強気材料は、三部CEOによるEV事業再編の再出発を受けて変化する可能性がある――その理由とは - simplywall.st",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZDROMmQtTWl0LUpwRmZ6YnFnSHVFMzVKZHZnNC1rZnlMSUl1QmpxX1JfckFZMEkwSl95b1dfOUhPcERjZzJKR3RkWFg1TzZhakxabmZkM1FfZ1R3V0t4clhVNkpkNU9oZVptcVZOZ2FxQmVGRWM0MUl3RHNHQzlmNkdaLUFva0RvRTZhcXU2dUpwMGhGUXNKQk9PRnIwM0JRS2fSAaIBQVVfeXFMUGQ0TjJkLU1pdC1KcEZmemJxZ0h1RTM1SmR2ZzQta2Z5TElJdUJqcV9SX3JBWTBJMEpfeW9XXzlIT3BEY2cySkd0ZFhYNU82YWpMWm5mZDNRX2dUd1dLeHJYVTZKZDVPaGVabXFWTmdhcUJlRkVjNDFJd0RzR0M5ZjZHWi1Bb2tEb0U2YXF1NnVKcDBoRlFzSkJPT0ZyMDNCUUtn?oc=5",
-            "published": "Sat, 27 Jun 2026 20:01:30 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQZDROMmQtTWl0LUpwRmZ6YnFnSHVFMzVKZHZnNC1rZnlMSUl1QmpxX1JfckFZMEkwSl95b1dfOUhPcERjZzJKR3RkWFg1TzZhakxabmZkM1FfZ1R3V0t4clhVNkpkNU9oZVptcVZOZ2FxQmVGRWM0MUl3RHNHQzlmNkdaLUFva0RvRTZhcXU2dUpwMGhGUXNKQk9PRnIwM0JRS2fSAaIBQVVfeXFMUGQ0TjJkLU1pdC1KcEZmemJxZ0h1RTM1SmR2ZzQta2Z5TElJdUJqcV9SX3JBWTBJMEpfeW9XXzlIT3BEY2cySkd0ZFhYNU82YWpMWm5mZDNRX2dUd1dLeHJYVTZKZDVPaGVabXFWTmdhcUJlRkVjNDFJd0RzR0M5ZjZHWi1Bb2tEb0U2YXF1NnVKcDBoRlFzSkJPT0ZyMDNCUUtn?oc=5\" target=\"_blank\">ホンダ（東証：7267）の強気材料は、三部CEOによるEV事業再編の再出発を受けて変化する可能性がある――その理由とは</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
-            "site_name": "simplywall.st"
+            "id": 564406,
+            "title": "「EVバイク整備環境推進委員会」設立 都内のEVバイク普及にむけて整備士など人材育成 - Webikeプラス",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEckQ5bE1ES2F1LUpwNUQzT2otSTdVMFRUMUlEM1FtcTExd3hWb0hQT0R5Snp4MGZVOWZONkJiR09HMmhiTkotNUJDZnNsaDRaZUE?oc=5",
+            "published": "Mon, 29 Jun 2026 10:35:42 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEckQ5bE1ES2F1LUpwNUQzT2otSTdVMFRUMUlEM1FtcTExd3hWb0hQT0R5Snp4MGZVOWZONkJiR09HMmhiTkotNUJDZnNsaDRaZUE?oc=5\" target=\"_blank\">「EVバイク整備環境推進委員会」設立 都内のEVバイク普及にむけて整備士など人材育成</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Webikeプラス</font>",
+            "site_name": "Webikeプラス"
         },
         {
-            "id": 817744,
-            "title": "グリーンスローモビリティで花の街を巡る、ヤマハ発動機が北海道・恵庭市の実証運行に協力 4枚目の写真・画像 - レスポンス（Response.jp）",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RTzVkTDFJSGl4MnBrRUtxVGhCWFdnTS1hWkVpZ04wVXZFMWw1YXIzSmVianA5WXZfbGFBem1qbS12Tm5TeHRoaUxhM3pZVHJRN3padnRnRUVja2huMHdKMktNandNdEpJbktWM3MtcDI2UQ?oc=5",
-            "published": "Sun, 28 Jun 2026 02:30:03 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5RTzVkTDFJSGl4MnBrRUtxVGhCWFdnTS1hWkVpZ04wVXZFMWw1YXIzSmVianA5WXZfbGFBem1qbS12Tm5TeHRoaUxhM3pZVHJRN3padnRnRUVja2huMHdKMktNandNdEpJbktWM3MtcDI2UQ?oc=5\" target=\"_blank\">グリーンスローモビリティで花の街を巡る、ヤマハ発動機が北海道・恵庭市の実証運行に協力 4枚目の写真・画像</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
+            "id": 45240,
+            "title": "三菱ふそう、新型電気小型トラック「eキャンター」に国内EVトラック初のクレーン専用シャシ設定を追加 - Car Watch",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lOG5mV1hTMUt3S3JBcXhKc0xtQ01WaDRXLTI4MllxMmtnRVpCYjAxRWRSX1doMk9OdjYzQVBxRWx5VDhLYXR0eUN1dkJrWV8tVG80SGdiRzdVdGxwSUpBUjFtZGQ?oc=5",
+            "published": "Mon, 29 Jun 2026 05:27:57 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lOG5mV1hTMUt3S3JBcXhKc0xtQ01WaDRXLTI4MllxMmtnRVpCYjAxRWRSX1doMk9OdjYzQVBxRWx5VDhLYXR0eUN1dkJrWV8tVG80SGdiRzdVdGxwSUpBUjFtZGQ?oc=5\" target=\"_blank\">三菱ふそう、新型電気小型トラック「eキャンター」に国内EVトラック初のクレーン専用シャシ設定を追加</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Car Watch</font>",
+            "site_name": "Car Watch"
+        },
+        {
+            "id": 123666,
+            "title": "EVバッテリー寿命予測診断の実証実験開始 - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oY3ByMllMM2dKOURXeHpYUVFGdkRjUnRTblhkZTlPY0tRUHFad1ZqYkpRNFpGQUJFLVZjTnRwN0U5R3ZReTAwc0NVeVdKVnRsaFE2OUU2THhCVjFWaDhkQjE1UmhRVDFJSVE?oc=5",
+            "published": "Mon, 29 Jun 2026 02:00:02 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1oY3ByMllMM2dKOURXeHpYUVFGdkRjUnRTblhkZTlPY0tRUHFad1ZqYkpRNFpGQUJFLVZjTnRwN0U5R3ZReTAwc0NVeVdKVnRsaFE2OUU2THhCVjFWaDhkQjE1UmhRVDFJSVE?oc=5\" target=\"_blank\">EVバッテリー寿命予測診断の実証実験開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+            "site_name": "PR TIMES"
+        },
+        {
+            "id": 145403,
+            "title": "ＮＴＴデータ、ＵＰＳ使い需給調整市場参入／ＥＶの電池活用 – - 電気新聞ウェブサイト",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fdVhOR2tLcnRxQUFsV2N3QUczSk1CUm1taXNjNkgwbUxRUUZlbU1mYjBaNjFHeUh5WTZOT0xfTjd5MXJ0X1BQbGNNMF9ZbzVrU0F4STBBNA?oc=5",
+            "published": "Mon, 29 Jun 2026 04:20:39 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fdVhOR2tLcnRxQUFsV2N3QUczSk1CUm1taXNjNkgwbUxRUUZlbU1mYjBaNjFHeUh5WTZOT0xfTjd5MXJ0X1BQbGNNMF9ZbzVrU0F4STBBNA?oc=5\" target=\"_blank\">ＮＴＴデータ、ＵＰＳ使い需給調整市場参入／ＥＶの電池活用 –</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">電気新聞ウェブサイト</font>",
+            "site_name": "電気新聞ウェブサイト"
+        },
+        {
+            "id": 540273,
+            "title": "道路を変えれば、エネルギーが変わる。走行中ワイヤレス充電で”地産地消型EV社会”を目指す2DCの構想 - 三菱地所",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtSy1Sem5adzhJMFpJaVpGZHczaVpIVzNLWmtjT0pvelkxbDlGUG1tbmg1Z1RCYjc3RnQxejlsZS01aDNqS3diSXgzQ2VMdVk?oc=5",
+            "published": "Mon, 29 Jun 2026 04:23:10 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtSy1Sem5adzhJMFpJaVpGZHczaVpIVzNLWmtjT0pvelkxbDlGUG1tbmg1Z1RCYjc3RnQxejlsZS01aDNqS3diSXgzQ2VMdVk?oc=5\" target=\"_blank\">道路を変えれば、エネルギーが変わる。走行中ワイヤレス充電で”地産地消型EV社会”を目指す2DCの構想</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">三菱地所</font>",
+            "site_name": "三菱地所"
+        },
+        {
+            "id": 159281,
+            "title": "中古EVのバッテリー不安を解消『バッテリー品質保証付きリユースEV』ソリューションの提供開始に向けて - PR TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hRGV4RE1DYWVzZllFYzdLNTVGWmdQalRORFYyTnJYR3dHNVQzMTZqN3RJZ3hNMmlmQjdEOEd4NzF6SUh6S1hBRXFtNlQyM18tTEl3VG53TXNleS0yejlSSkJyWDdoN2hZSFE?oc=5",
+            "published": "Mon, 29 Jun 2026 02:00:02 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5hRGV4RE1DYWVzZllFYzdLNTVGWmdQalRORFYyTnJYR3dHNVQzMTZqN3RJZ3hNMmlmQjdEOEd4NzF6SUh6S1hBRXFtNlQyM18tTEl3VG53TXNleS0yejlSSkJyWDdoN2hZSFE?oc=5\" target=\"_blank\">中古EVのバッテリー不安を解消『バッテリー品質保証付きリユースEV』ソリューションの提供開始に向けて</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+            "site_name": "PR TIMES"
+        },
+        {
+            "id": 852252,
+            "title": "大阪・関西万博を問う：なぜ大阪メトロは運行実績のない赤字会社からEVバス190台を買ったのか／24 木下功 - 週刊エコノミスト Online",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qNFlyQ1RWR1dWYXdvUzlVa3Qxa0VaZmY0cVZDa05MMEZBenRGTG5qV1hidWp0NTF6RWN2UXhXOUZvblJQYkU3QTA4SW5ETUFLSHR4TW1Zb0NKcHJBekpzWEhuRnQ4REZtZVR3X19RZk1HTC1ubTk0aEFUYmxtRDA?oc=5",
+            "published": "Mon, 29 Jun 2026 00:09:22 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9qNFlyQ1RWR1dWYXdvUzlVa3Qxa0VaZmY0cVZDa05MMEZBenRGTG5qV1hidWp0NTF6RWN2UXhXOUZvblJQYkU3QTA4SW5ETUFLSHR4TW1Zb0NKcHJBekpzWEhuRnQ4REZtZVR3X19RZk1HTC1ubTk0aEFUYmxtRDA?oc=5\" target=\"_blank\">大阪・関西万博を問う：なぜ大阪メトロは運行実績のない赤字会社からEVバス190台を買ったのか／24 木下功</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">週刊エコノミスト Online</font>",
+            "site_name": "週刊エコノミスト Online"
+        },
+        {
+            "id": 586879,
+            "title": "ホンダ株価が続伸…米EV電池工場をデータセンター向けに転換 - レスポンス（Response.jp）",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41MXJuellHT2RtZDdDa3VfUTBlMUZyMV9hbWlJQnFxRkh6aEtVUFlsaDFtZ19TcmNZQkxPdXNzY0dqd3dKUWQ3THJHeXIzd3FCZUp0TmlPRklXUjZkYjJZ?oc=5",
+            "published": "Mon, 29 Jun 2026 07:35:03 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE41MXJuellHT2RtZDdDa3VfUTBlMUZyMV9hbWlJQnFxRkh6aEtVUFlsaDFtZ19TcmNZQkxPdXNzY0dqd3dKUWQ3THJHeXIzd3FCZUp0TmlPRklXUjZkYjJZ?oc=5\" target=\"_blank\">ホンダ株価が続伸…米EV電池工場をデータセンター向けに転換</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
             "site_name": "レスポンス（Response.jp）"
         },
         {
-            "id": 632108,
-            "title": "イベントで展示されたポールスターのEV＝5月、英ハロゲート（ロイター＝共同） - 米、スウェーデンEV認めず 中国メーカーが主要株主 - 写真・画像(1/1) - 西日本新聞me",
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZbVpCRVl2MUpwaEZSR0ZkNzZfSHBTZm1UdC12TGV5LTFRazdmR3dGZDU1LURDUUV4UFZ0RUE1UWxhLTlvNXd3TkVBZzB5UVlLSUxEaGhMcw?oc=5",
-            "published": "Sat, 27 Jun 2026 18:47:11 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZbVpCRVl2MUpwaEZSR0ZkNzZfSHBTZm1UdC12TGV5LTFRazdmR3dGZDU1LURDUUV4UFZ0RUE1UWxhLTlvNXd3TkVBZzB5UVlLSUxEaGhMcw?oc=5\" target=\"_blank\">イベントで展示されたポールスターのEV＝5月、英ハロゲート（ロイター＝共同） - 米、スウェーデンEV認めず 中国メーカーが主要株主 - 写真・画像(1/1)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">西日本新聞me</font>",
-            "site_name": "西日本新聞me"
+            "id": 198763,
+            "title": "商用EVフォロフライ「F11シリーズ」、発売半年で累計納車100台…「F11VS」が初期ロット完売 5枚目の写真・画像 - レスポンス（Response.jp）",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vajNEUlFwaGgyd0dGVXJxcmo4OFUyUERMN3IyLUJvTXVOdS13OE1KOWt2RlBrRXB5TnBDdnlpZmt6UV9nNktTOWFOVlNxN3g5Tk5vdVZva1dNNFM5ZmdmaUVpTzdQZkRVNmZzVnBBOWhKZw?oc=5",
+            "published": "Mon, 29 Jun 2026 04:00:03 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9vajNEUlFwaGgyd0dGVXJxcmo4OFUyUERMN3IyLUJvTXVOdS13OE1KOWt2RlBrRXB5TnBDdnlpZmt6UV9nNktTOWFOVlNxN3g5Tk5vdVZva1dNNFM5ZmdmaUVpTzdQZkRVNmZzVnBBOWhKZw?oc=5\" target=\"_blank\">商用EVフォロフライ「F11シリーズ」、発売半年で累計納車100台…「F11VS」が初期ロット完売 5枚目の写真・画像</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
+            "site_name": "レスポンス（Response.jp）"
         },
         {
-            "id": 391530,
-            "title": "スズキ初EV国内1月発売 「eビターラ」399万円から Libano (yiAbRPy1Wk) - Mshale",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IMDJESTFQMWdUdWZUSzVhRlZUNGFNQlVtMTBScXpQTGZiQmxFaGo3dVNoUTFoNzh0V1UzZmgtLUZSYnBkQWpsLXRMUFBPMngwelc0cE91dWxCNXM?oc=5",
-            "published": "Sun, 28 Jun 2026 02:17:23 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IMDJESTFQMWdUdWZUSzVhRlZUNGFNQlVtMTBScXpQTGZiQmxFaGo3dVNoUTFoNzh0V1UzZmgtLUZSYnBkQWpsLXRMUFBPMngwelc0cE91dWxCNXM?oc=5\" target=\"_blank\">スズキ初EV国内1月発売 「eビターラ」399万円から Libano (yiAbRPy1Wk)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mshale</font>",
-            "site_name": "Mshale"
+            "id": 412417,
+            "title": "商用EVフォロフライ「F11シリーズ」、発売半年で累計納車100台…「F11VS」が初期ロット完売 - レスポンス（Response.jp）",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBManFqSE1vWFFmV3JWal84UVlmckU4U1g4SUs3Z2NNZjVsSnRBTkc4Z0FoY1RZVWV1WFFlNzhsc2ctWmdIOE0yRmdFNjBPRDJEUzYxOS1nblo5clZCeVdR?oc=5",
+            "published": "Mon, 29 Jun 2026 04:00:03 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBManFqSE1vWFFmV3JWal84UVlmckU4U1g4SUs3Z2NNZjVsSnRBTkc4Z0FoY1RZVWV1WFFlNzhsc2ctWmdIOE0yRmdFNjBPRDJEUzYxOS1nblo5clZCeVdR?oc=5\" target=\"_blank\">商用EVフォロフライ「F11シリーズ」、発売半年で累計納車100台…「F11VS」が初期ロット完売</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
+            "site_name": "レスポンス（Response.jp）"
         },
         {
-            "id": 408957,
-            "title": "免許不要で乗れる「気軽な\"チビ\"軽トラ」!? リアデフ構造＆284Lまで荷物が詰める！ 特定小型原付「エレキャリーシリーズ」先行予約開始 - バイクのニュース",
-            "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9tajI0R19NUktWWmJ3Z19Kd1I4V0V4UmJzcVBzNW9pRVBqS0x3VElsM2VIeDM0RUE0clRIak10SmJFcGp6dVpV?oc=5",
-            "published": "Sat, 27 Jun 2026 21:58:55 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE9tajI0R19NUktWWmJ3Z19Kd1I4V0V4UmJzcVBzNW9pRVBqS0x3VElsM2VIeDM0RUE0clRIak10SmJFcGp6dVpV?oc=5\" target=\"_blank\">免許不要で乗れる「気軽な\"チビ\"軽トラ」!? リアデフ構造＆284Lまで荷物が詰める！ 特定小型原付「エレキャリーシリーズ」先行予約開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">バイクのニュース</font>",
-            "site_name": "バイクのニュース"
-        },
-        {
-            "id": 313803,
-            "title": "全長5.1m超！ レクサス新型「上級セダン」発売！ 流麗ボディに「複数のパワトレ」設定！ 世界初の\"隠しスイッチ\"＆\"赤く光るロゴ\"が斬新な新型「ES」とは！ - くるまのニュース",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VdkplNkpkSmxLUHN3eDNoLVBmdk5MakhkTjRSY1lGWHpKbmYyMng5MEZBVTVGRVc4a1VUZDNseDRZakUya2x5MlRLMA?oc=5",
-            "published": "Sun, 28 Jun 2026 08:10:00 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VdkplNkpkSmxLUHN3eDNoLVBmdk5MakhkTjRSY1lGWHpKbmYyMng5MEZBVTVGRVc4a1VUZDNseDRZakUya2x5MlRLMA?oc=5\" target=\"_blank\">全長5.1m超！ レクサス新型「上級セダン」発売！ 流麗ボディに「複数のパワトレ」設定！ 世界初の\"隠しスイッチ\"＆\"赤く光るロゴ\"が斬新な新型「ES」とは！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">くるまのニュース</font>",
-            "site_name": "くるまのニュース"
-        },
-        {
-            "id": 257597,
-            "title": "BMW i3が目指した「小さなプレミアム」の未来 - Motor Fan",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43bHBva1pMN3YxejgwM0d1YlJGdUNhRjhFX2c3QzNRdndYbnRIM2hiNUVtVUl0R1A0bFhvOGVkQV9xQkRqM2ZTT0c1VGRLUQ?oc=5",
-            "published": "Sun, 28 Jun 2026 02:15:00 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE43bHBva1pMN3YxejgwM0d1YlJGdUNhRjhFX2c3QzNRdndYbnRIM2hiNUVtVUl0R1A0bFhvOGVkQV9xQkRqM2ZTT0c1VGRLUQ?oc=5\" target=\"_blank\">BMW i3が目指した「小さなプレミアム」の未来</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
-            "site_name": "Motor Fan"
-        },
-        {
-            "id": 94821,
-            "title": "【写真蔵】日常の移動を刺激的な体験へと進化させる、ホンダ スーパーワン（Webモーターマガジン） | 自動車情報・ニュース - carview!",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU3FkLUZNdlQzYkg0VFpSMF9uSE9jTUU1VU83ZGdNSm53TkVlX0RucFBuUkNfbHRZVEM3SkhfbjVFeWFSYTIyZXBjaXJGczBYMEtoaV9ia0xVNTBVZHI4ZlU0WEV3ZzRqMFNrZ2pLbEF2M0w0Mm1GS2piSGNSV01yWXVUczBpdXJk?oc=5",
-            "published": "Sun, 28 Jun 2026 03:00:00 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU3FkLUZNdlQzYkg0VFpSMF9uSE9jTUU1VU83ZGdNSm53TkVlX0RucFBuUkNfbHRZVEM3SkhfbjVFeWFSYTIyZXBjaXJGczBYMEtoaV9ia0xVNTBVZHI4ZlU0WEV3ZzRqMFNrZ2pLbEF2M0w0Mm1GS2piSGNSV01yWXVUczBpdXJk?oc=5\" target=\"_blank\">【写真蔵】日常の移動を刺激的な体験へと進化させる、ホンダ スーパーワン（Webモーターマガジン） | 自動車情報・ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carview!</font>",
-            "site_name": "carview!"
-        },
-        {
-            "id": 62074,
-            "title": "J5 EVは20,000台の出荷を突破し、Jaecooは2026年までに80のディーラーの拡大を目標に - VOI.id",
-            "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBUQjRzTEpzVC00RHlqdERrZjlYcEJPVHZ0cHdmTk5vLUdwR3FHbXFjcHhFWXN3bS1iLU5ta0h3STRHcUNT0gFCQVVfeXFMUFdqLTN1X0c1Y3E0MF9xcTBab0VvTE9QWk1Wb1VKcExHeUFEdDMwM1hSLWRHZ1BsSEFWM2tWbTM2VWx3?oc=5",
-            "published": "Sat, 27 Jun 2026 13:08:42 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTFBUQjRzTEpzVC00RHlqdERrZjlYcEJPVHZ0cHdmTk5vLUdwR3FHbXFjcHhFWXN3bS1iLU5ta0h3STRHcUNT0gFCQVVfeXFMUFdqLTN1X0c1Y3E0MF9xcTBab0VvTE9QWk1Wb1VKcExHeUFEdDMwM1hSLWRHZ1BsSEFWM2tWbTM2VWx3?oc=5\" target=\"_blank\">J5 EVは20,000台の出荷を突破し、Jaecooは2026年までに80のディーラーの拡大を目標に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VOI.id</font>",
-            "site_name": "VOI.id"
-        },
-        {
-            "id": 218972,
-            "title": "【テレ朝グッドモーニングでコメント】「中電系「ミライズエネチェンジ」EV充電補助金“水増し”疑... - 選挙ドットコム",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QYXVUMnBBMGt5cXVVb2VZN29URDhjbEtZSDUyQWVERkwzaXBlTVdqeG1xR2phZzdWdTBrU0dMNFM3RmZmMFcyQV9zMlNnRlFfRkd2LTFocDBocWZ6R1E?oc=5",
-            "published": "Sat, 27 Jun 2026 13:40:58 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QYXVUMnBBMGt5cXVVb2VZN29URDhjbEtZSDUyQWVERkwzaXBlTVdqeG1xR2phZzdWdTBrU0dMNFM3RmZmMFcyQV9zMlNnRlFfRkd2LTFocDBocWZ6R1E?oc=5\" target=\"_blank\">【テレ朝グッドモーニングでコメント】「中電系「ミライズエネチェンジ」EV充電補助金“水増し”疑...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">選挙ドットコム</font>",
-            "site_name": "選挙ドットコム"
-        },
-        {
-            "id": 724561,
-            "title": "零跑D99、発売直後に「予知された炎上」を狙うネガティブ記事が出現、朱江明CEOはコスト高でも値上げせずと明言 - finance.biggo.jp",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02X3dqSXN2S05tOW9QbkRZUEtpUlRJZ1hkWGtuUkxsb2h5bFo1QUlJc01sQ2FjZnEwNnRkUlNlZFpETndPT2l3bXJaSU4wcVF3cXp2cEJDUTJyYU5nMzA2OVA0bDZwTzQ2elJUUzZaSUdSTDZY?oc=5",
-            "published": "Sat, 27 Jun 2026 12:26:00 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE02X3dqSXN2S05tOW9QbkRZUEtpUlRJZ1hkWGtuUkxsb2h5bFo1QUlJc01sQ2FjZnEwNnRkUlNlZFpETndPT2l3bXJaSU4wcVF3cXp2cEJDUTJyYU5nMzA2OVA0bDZwTzQ2elJUUzZaSUdSTDZY?oc=5\" target=\"_blank\">零跑D99、発売直後に「予知された炎上」を狙うネガティブ記事が出現、朱江明CEOはコスト高でも値上げせずと明言</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.jp</font>",
-            "site_name": "finance.biggo.jp"
-        },
-        {
-            "id": 253769,
-            "title": "ケーニグセグCEOが断言「EVは野生の獣（アニマル）にはなれない」。この10年で生じたEVに対する心境の変化とは - intensive911.com",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10TWN3TEh4aE9zZVJYZHZDanRCOU13U1RvUHhlWUoxdWx0LVE3dHZZTWpEZVBoX3lMUkRMNlBzVGxXWnFBWUI3b3lCQkFPSXNacEk4UE00R1c0NVp5OUo1M3RyZzZnMkt2ZHB6NXVNTi1fZHE0?oc=5",
-            "published": "Sun, 28 Jun 2026 07:53:31 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE10TWN3TEh4aE9zZVJYZHZDanRCOU13U1RvUHhlWUoxdWx0LVE3dHZZTWpEZVBoX3lMUkRMNlBzVGxXWnFBWUI3b3lCQkFPSXNacEk4UE00R1c0NVp5OUo1M3RyZzZnMkt2ZHB6NXVNTi1fZHE0?oc=5\" target=\"_blank\">ケーニグセグCEOが断言「EVは野生の獣（アニマル）にはなれない」。この10年で生じたEVに対する心境の変化とは</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intensive911.com</font>",
-            "site_name": "intensive911.com"
-        },
-        {
-            "id": 608542,
-            "title": "これならEV懐疑論者も納得？フェラーリが「電気モーターをV8に配置」する前代未聞の特許「EV8」を出願。さすが自社でモーターを製造するだけのことはある - intensive911.com",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83dDJVUjM5SlNJQl9lTEVtZ2puV2VfNlJMa2RSeGFLMV93QlB0UnVXM0dmVjJ2a0xKOElkNWVvbVlPLXF5bXpzY2JfWmh6UThwQy02SEp5bGd4QWVpRTdLbVNBaDNMbWxy?oc=5",
-            "published": "Sun, 28 Jun 2026 02:27:39 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE83dDJVUjM5SlNJQl9lTEVtZ2puV2VfNlJMa2RSeGFLMV93QlB0UnVXM0dmVjJ2a0xKOElkNWVvbVlPLXF5bXpzY2JfWmh6UThwQy02SEp5bGd4QWVpRTdLbVNBaDNMbWxy?oc=5\" target=\"_blank\">これならEV懐疑論者も納得？フェラーリが「電気モーターをV8に配置」する前代未聞の特許「EV8」を出願。さすが自社でモーターを製造するだけのことはある</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intensive911.com</font>",
-            "site_name": "intensive911.com"
-        },
-        {
-            "id": 502524,
-            "title": "フェラーリ初のEV「ルーチェ」が中国上陸。約9500万円でも88台がその場で完売。「他の国とは異なる」その理由と中華ハイパーEVとの決定的な違いとは - intensive911.com",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJZFVpcUNXQnYzaHF4WndKUnNFdVBZaWEzWGFoM1VFT1J1ZnFmMmFMVXdQZGNOVGFIaUxGdjVmdGMtYWVRYkpuaDc2VjBMMFFfOXZxSUpVY0F6N0FfNzVsajVCdC1taC05?oc=5",
-            "published": "Sun, 28 Jun 2026 00:49:40 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJZFVpcUNXQnYzaHF4WndKUnNFdVBZaWEzWGFoM1VFT1J1ZnFmMmFMVXdQZGNOVGFIaUxGdjVmdGMtYWVRYkpuaDc2VjBMMFFfOXZxSUpVY0F6N0FfNzVsajVCdC1taC05?oc=5\" target=\"_blank\">フェラーリ初のEV「ルーチェ」が中国上陸。約9500万円でも88台がその場で完売。「他の国とは異なる」その理由と中華ハイパーEVとの決定的な違いとは</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intensive911.com</font>",
-            "site_name": "intensive911.com"
-        },
-        {
-            "id": 333579,
-            "title": "万博で走った「EVモーターズジャパン」の100台以上のバス！ 問題発覚後のいま静かに解体を待っていた (2026年6月28日掲載) - ライブドアニュース",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12Z1FWdWhFMksza3ZDcjluX3hkRzdpMG5DS1RPMmJlNVRsUnVoZEFvMk91ejBST2x0dW12Sm1TZUNvUXBjbm9YYjRkcDFDbDNrVGRBdk5ZdGp3aXBiZHc?oc=5",
-            "published": "Sat, 27 Jun 2026 22:00:40 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE12Z1FWdWhFMksza3ZDcjluX3hkRzdpMG5DS1RPMmJlNVRsUnVoZEFvMk91ejBST2x0dW12Sm1TZUNvUXBjbm9YYjRkcDFDbDNrVGRBdk5ZdGp3aXBiZHc?oc=5\" target=\"_blank\">万博で走った「EVモーターズジャパン」の100台以上のバス！ 問題発覚後のいま静かに解体を待っていた (2026年6月28日掲載)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ライブドアニュース</font>",
-            "site_name": "ライブドアニュース"
-        },
-        {
-            "id": 80480,
-            "title": "日産、EVの夏の暑さを和らげる機能を訴求──乗る前に車内を冷やせる - SpeedMe.ru",
-            "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxNWFFmR2FRU3hlM01xTlh1bUZONmViYlN0aGtvRzE2SFRRTjJmaHBMaEhfVUpGNFI0U2tlUVpDLUFyc2tScmhsbUd5Zmdkam8zQ3NkV3k1NWt4WXptZUlMb3djTUxuY0V0dng1NDVtLUZ2SGMwOHY3alBBVjF1cmJTajZVdXlHT3BhbkY0MGM4Z0F5Q2l6YTVTU1I0RVg4dExMdTlidHVpNUlJcEZfQU9hZTFxaEtLWFJwbV9VMGhyMW1oNy1TdGdYV2FUdU5SRUM1b09LUzhYRGVjMXVhV0xJZzlDTHhsZDRhNTFjdnA2Y01KU0ZBTnllV0hJWkp5OE1jTERGQTFSZDJibER1SnZQYWFqeWdqRERIRF9YdVNiOWp4UERGRVhqZUdtb21kLTc0UUJ0WDVjNmlpbnpNMzRsLVBya2MwYWRuUmRTeGRUZURiXzJmb2doSjdscHpuMTJSQl9ITnlNOG1LTThkcnNEYXFGTzFnRWEtdjNVRGpoaGRKWGtBc29jaXoySklFRzl5cWZFTjV1cFQ0Sm94ZzlEdkVn?oc=5",
-            "published": "Sat, 27 Jun 2026 16:36:02 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogNBVV95cUxNWFFmR2FRU3hlM01xTlh1bUZONmViYlN0aGtvRzE2SFRRTjJmaHBMaEhfVUpGNFI0U2tlUVpDLUFyc2tScmhsbUd5Zmdkam8zQ3NkV3k1NWt4WXptZUlMb3djTUxuY0V0dng1NDVtLUZ2SGMwOHY3alBBVjF1cmJTajZVdXlHT3BhbkY0MGM4Z0F5Q2l6YTVTU1I0RVg4dExMdTlidHVpNUlJcEZfQU9hZTFxaEtLWFJwbV9VMGhyMW1oNy1TdGdYV2FUdU5SRUM1b09LUzhYRGVjMXVhV0xJZzlDTHhsZDRhNTFjdnA2Y01KU0ZBTnllV0hJWkp5OE1jTERGQTFSZDJibER1SnZQYWFqeWdqRERIRF9YdVNiOWp4UERGRVhqZUdtb21kLTc0UUJ0WDVjNmlpbnpNMzRsLVBya2MwYWRuUmRTeGRUZURiXzJmb2doSjdscHpuMTJSQl9ITnlNOG1LTThkcnNEYXFGTzFnRWEtdjNVRGpoaGRKWGtBc29jaXoySklFRzl5cWZFTjV1cFQ0Sm94ZzlEdkVn?oc=5\" target=\"_blank\">日産、EVの夏の暑さを和らげる機能を訴求──乗る前に車内を冷やせる</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SpeedMe.ru</font>",
-            "site_name": "SpeedMe.ru"
-        },
-        {
-            "id": 942043,
-            "title": "カナダ産業相「少なくとも4社の中国自動車メーカーがカナダでの生産に意欲」―中国メディア - ライブドアニュース",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSdHlFUl9kYWdjbzZQSFdGRjBKSmNKQ09HYXdpSnBaS19iV2JyOXFSXzdldnQ0RER3N3Y4ZnhnRXc2X3pSeVJqdW1vOS1hRzFKRDdORDJ3cXB0RHhQUkln?oc=5",
-            "published": "Sun, 28 Jun 2026 00:00:01 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSdHlFUl9kYWdjbzZQSFdGRjBKSmNKQ09HYXdpSnBaS19iV2JyOXFSXzdldnQ0RER3N3Y4ZnhnRXc2X3pSeVJqdW1vOS1hRzFKRDdORDJ3cXB0RHhQUkln?oc=5\" target=\"_blank\">カナダ産業相「少なくとも4社の中国自動車メーカーがカナダでの生産に意欲」―中国メディア</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ライブドアニュース</font>",
-            "site_name": "ライブドアニュース"
-        },
-        {
-            "id": 74277,
-            "title": "ジープ・リーコン発売 — 価格と航続距離でいきなり期待を裏切る - Tarantas News",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUEYtREJMdlZmWFdPbUh4N0RHMUFwQm53ZUhmb1Jick9nOXA1NG5XdS1jZ0tvTU1QaXBjR3RmZThYS19pcHZtSGs1eV9LcFc1UXptX08wMGJXbHRtTWZGWjh5c01fbU9ZenlZeW5LOGZlS3hsWTNFVFp1cG4wUnA2aVhiUkRuNEU2eUxxeHl4bWxWYkJHOFlva2c0M1luOHJnVi1mS3hmYnZXbDIyVUHSAbIBQVVfeXFMTzFDbTM5WnFvYkdZNDI3bjdGMTF4b1FoM1RUQm9fblNfclNzSWdtR3VRTHFZUU5BVTVibFNPWjZVVXc4NVJPaUdqa0NjcW9teWNMYnkwR3ZFLW5wWTlqOE54U3VwanRNbS0xSU9VaEE2M01Sem4wMjM1LXkyWDExUFFrUC1WWFRFNVVfT1JYXy1Qam1BcjZMZy1JSTMwWXNfeWVwM3pWaWpfLTB4MmVjaUdCZw?oc=5",
-            "published": "Sun, 28 Jun 2026 04:29:02 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQUEYtREJMdlZmWFdPbUh4N0RHMUFwQm53ZUhmb1Jick9nOXA1NG5XdS1jZ0tvTU1QaXBjR3RmZThYS19pcHZtSGs1eV9LcFc1UXptX08wMGJXbHRtTWZGWjh5c01fbU9ZenlZeW5LOGZlS3hsWTNFVFp1cG4wUnA2aVhiUkRuNEU2eUxxeHl4bWxWYkJHOFlva2c0M1luOHJnVi1mS3hmYnZXbDIyVUHSAbIBQVVfeXFMTzFDbTM5WnFvYkdZNDI3bjdGMTF4b1FoM1RUQm9fblNfclNzSWdtR3VRTHFZUU5BVTVibFNPWjZVVXc4NVJPaUdqa0NjcW9teWNMYnkwR3ZFLW5wWTlqOE54U3VwanRNbS0xSU9VaEE2M01Sem4wMjM1LXkyWDExUFFrUC1WWFRFNVVfT1JYXy1Qam1BcjZMZy1JSTMwWXNfeWVwM3pWaWpfLTB4MmVjaUdCZw?oc=5\" target=\"_blank\">ジープ・リーコン発売 — 価格と航続距離でいきなり期待を裏切る</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tarantas News</font>",
-            "site_name": "Tarantas News"
-        },
-        {
-            "id": 802711,
-            "title": "ホンダ「4代目インサイト」に見える中国ユーザーの趣味嗜好。歴代インサイトとの共通性は感じられるか? - MSN",
-            "link": "https://news.google.com/rss/articles/CBMi9ARBVV95cUxPTzJHVnFZUjg5VVRidU1aazh1YUxjWWVyR1pmdk1OeHFSdUYtNFN6c3FyZlM5dE1Uck5qUC1UaTI0NnZiN2pvNUVQTlhSUzZVLTBySDdISUpjMFhvNDRoekx0VlJUaE1JUC1Na1ptd284cEo0aHRNa3RFVWlnV1B3aHJoc0lMYnRwV0k2MzZBdTdzT1VSOGN0MFdianNSTmRNdV9qOHd4bkdsV2YyRUpnWEVWb3o1bkpNRm80Q2dTdzBQekZtTTJBMktRUW1memw5WF9XUXJjUjBlZGhRSFVDWTlKMW9nbm5kZGFoOEVKaHFEU01hWGplZFEyZWlFNkR6VDJpZ00wdEptRmpKbi1ZaTAxcmlGYnJoeWRuakc5ZTQzeVJ4MUItT2NUT3FVTU5PdEY3a2Q3YkFOYXNodzJ6Y1lfb2JtNzgtV0MzeDBhMUNhY0dERlpuUWZGVUlGN0ZSZ2xsTWlnU3p4amV1VWY0Tlpua2x4STVwYl96dzBsTFFYdUpPbGtPTnN2X2ZjUkdRMEZCcjBROU5rM0RWMmZwMW1IQW42VkxOT1JVNUNaa2Y2T0tHNWxuM254dWxwYS14THFKekpydm9MNEZJdXdaMGNBSXJ3QXA5RlEycDhvRmFpeERDZVdPT09GMkRWN0ZJZGtka2FsSDZhRHgydXNVelBFYWxQVE1KdFdhTkdLYk14QlhIWUp0eWQ2RjdlRU02aV91ckVldThFcm9ra3BxM0QwZmRQWmVOTk5ha0ZXYnRHRGlPR2FsR2p0NzJvU3VORl9YcDJvRUJ1OW1Id1RwX3VRTlVVT2lWTkNlVjBrUFRTU1Ra?oc=5",
-            "published": "Sat, 27 Jun 2026 16:31:55 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9ARBVV95cUxPTzJHVnFZUjg5VVRidU1aazh1YUxjWWVyR1pmdk1OeHFSdUYtNFN6c3FyZlM5dE1Uck5qUC1UaTI0NnZiN2pvNUVQTlhSUzZVLTBySDdISUpjMFhvNDRoekx0VlJUaE1JUC1Na1ptd284cEo0aHRNa3RFVWlnV1B3aHJoc0lMYnRwV0k2MzZBdTdzT1VSOGN0MFdianNSTmRNdV9qOHd4bkdsV2YyRUpnWEVWb3o1bkpNRm80Q2dTdzBQekZtTTJBMktRUW1memw5WF9XUXJjUjBlZGhRSFVDWTlKMW9nbm5kZGFoOEVKaHFEU01hWGplZFEyZWlFNkR6VDJpZ00wdEptRmpKbi1ZaTAxcmlGYnJoeWRuakc5ZTQzeVJ4MUItT2NUT3FVTU5PdEY3a2Q3YkFOYXNodzJ6Y1lfb2JtNzgtV0MzeDBhMUNhY0dERlpuUWZGVUlGN0ZSZ2xsTWlnU3p4amV1VWY0Tlpua2x4STVwYl96dzBsTFFYdUpPbGtPTnN2X2ZjUkdRMEZCcjBROU5rM0RWMmZwMW1IQW42VkxOT1JVNUNaa2Y2T0tHNWxuM254dWxwYS14THFKekpydm9MNEZJdXdaMGNBSXJ3QXA5RlEycDhvRmFpeERDZVdPT09GMkRWN0ZJZGtka2FsSDZhRHgydXNVelBFYWxQVE1KdFdhTkdLYk14QlhIWUp0eWQ2RjdlRU02aV91ckVldThFcm9ra3BxM0QwZmRQWmVOTk5ha0ZXYnRHRGlPR2FsR2p0NzJvU3VORl9YcDJvRUJ1OW1Id1RwX3VRTlVVT2lWTkNlVjBrUFRTU1Ra?oc=5\" target=\"_blank\">ホンダ「4代目インサイト」に見える中国ユーザーの趣味嗜好。歴代インサイトとの共通性は感じられるか?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-            "site_name": "MSN"
-        },
-        {
-            "id": 916058,
-            "title": "ここで冷静になって「中国車の現在地」 を見てみましょう - MSN",
-            "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxORTBUMnBnd3NOSTdSbVQyUkZFcElNWS1pUHdINVEtWDJJb2NjcGJ6dXBTRFFwbWV1Y2VWZUxial95d2lQVE0zZWJzT3dzZ0lINWZJcGVHZjJZY0FraEZFc2RUVXpaTEJZOXg0b0d3WjUyZFFKdjdETHVJNC1oN2NXZnRUbTlRRWozckJzRGd0TVhQOVlVWV9XLUVBbGR6LWJvRmVMdTdHLVliODFXY3kyTC1ZY1hYNm1ZcURsejVfV00tTnVUQ1I2OXRMQms5ek9ySXZXSE1zUHJoeGg1eWpBMGhWQWFlak1uV01UeEdseVI1bzlZb1o2eVJGZ1B4c01XbUc4SUx0ZUJWZUt6VWRacV9OOXJnZHFwdV9zNnFwVk4walhxTmw1dXhHYjFzQ3AxM01zcVEtclYtR0xRTzRmc01Udm9USXNpMzI0YWd4N0VPUmp6TDJhRlU3U0pKUXo2M2hZcFpSUUN6S19iVGEyTC1UZllieVFaZnM0NVFnQmNhWGM?oc=5",
-            "published": "Sat, 27 Jun 2026 14:59:27 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwNBVV95cUxORTBUMnBnd3NOSTdSbVQyUkZFcElNWS1pUHdINVEtWDJJb2NjcGJ6dXBTRFFwbWV1Y2VWZUxial95d2lQVE0zZWJzT3dzZ0lINWZJcGVHZjJZY0FraEZFc2RUVXpaTEJZOXg0b0d3WjUyZFFKdjdETHVJNC1oN2NXZnRUbTlRRWozckJzRGd0TVhQOVlVWV9XLUVBbGR6LWJvRmVMdTdHLVliODFXY3kyTC1ZY1hYNm1ZcURsejVfV00tTnVUQ1I2OXRMQms5ek9ySXZXSE1zUHJoeGg1eWpBMGhWQWFlak1uV01UeEdseVI1bzlZb1o2eVJGZ1B4c01XbUc4SUx0ZUJWZUt6VWRacV9OOXJnZHFwdV9zNnFwVk4walhxTmw1dXhHYjFzQ3AxM01zcVEtclYtR0xRTzRmc01Udm9USXNpMzI0YWd4N0VPUmp6TDJhRlU3U0pKUXo2M2hZcFpSUUN6S19iVGEyTC1UZllieVFaZnM0NVFnQmNhWGM?oc=5\" target=\"_blank\">ここで冷静になって「中国車の現在地」 を見てみましょう</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-            "site_name": "MSN"
+            "id": 280417,
+            "title": "【マレーシア】スズキがＥＶ初投入、ｅビターラ発売（NNA） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnNVdKWnR0bnNkbkZEeVpZMUp5MUJhSy1yQXhJS040Y3lPWGliNUZ2c0JsSGRvRnpQc1hOdUhvUHVGMENyRHNmVXMxekRwVUJtTFhLNm80U1gzYlp2RlJDNVBVOTNSNnhNOUtwdE5nYU1OZS1fT09wM0ZUODlQSDA?oc=5",
+            "published": "Mon, 29 Jun 2026 02:30:41 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBnNVdKWnR0bnNkbkZEeVpZMUp5MUJhSy1yQXhJS040Y3lPWGliNUZ2c0JsSGRvRnpQc1hOdUhvUHVGMENyRHNmVXMxekRwVUJtTFhLNm80U1gzYlp2RlJDNVBVOTNSNnhNOUtwdE5nYU1OZS1fT09wM0ZUODlQSDA?oc=5\" target=\"_blank\">【マレーシア】スズキがＥＶ初投入、ｅビターラ発売（NNA）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
         },
         {
             "id": 93432,
@@ -371,20 +235,140 @@
             "site_name": "ニュースイッチ by 日刊工業新聞社"
         },
         {
-            "id": 803983,
-            "title": "手回し窓でラジオなしの格安EVトラック、誰が買うのか？ | WSJ PickUp - ダイヤモンド・オンライン",
-            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBfUkN0NzBlamJ3UzhJNWwzUEg2bXhidUFyN3JvcFNpZkpRZTR4OEN5U3ZqUHJnQTF4WHlNQTNoT0JYd0hiUlJQTlRNbG4?oc=5",
-            "published": "Sun, 28 Jun 2026 20:00:00 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBfUkN0NzBlamJ3UzhJNWwzUEg2bXhidUFyN3JvcFNpZkpRZTR4OEN5U3ZqUHJnQTF4WHlNQTNoT0JYd0hiUlJQTlRNbG4?oc=5\" target=\"_blank\">手回し窓でラジオなしの格安EVトラック、誰が買うのか？ | WSJ PickUp</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ダイヤモンド・オンライン</font>",
-            "site_name": "ダイヤモンド・オンライン"
+            "id": 204952,
+            "title": "いすゞ自動車／電動車開発の中核拠点「The EARTH lab.」稼働、EV・FCVトラックなど開発を推進 - トラックニュース",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPcmxuNnRoMWpKbEpOV21Jd2MtQ2REeFpIS3lBM1Jid0VncDYxc1IzZm5WM0VxS3RuamxzaEtNeUVTM2g1VndWMjl6QnNOMl9zYnFBRA?oc=5",
+            "published": "Mon, 29 Jun 2026 07:06:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPcmxuNnRoMWpKbEpOV21Jd2MtQ2REeFpIS3lBM1Jid0VncDYxc1IzZm5WM0VxS3RuamxzaEtNeUVTM2g1VndWMjl6QnNOMl9zYnFBRA?oc=5\" target=\"_blank\">いすゞ自動車／電動車開発の中核拠点「The EARTH lab.」稼働、EV・FCVトラックなど開発を推進</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">トラックニュース</font>",
+            "site_name": "トラックニュース"
         },
         {
-            "id": 727917,
-            "title": "NTT東日本系が中古EVリース参入 電池劣化で交換、丸紅とパナソニックHDが状態監視 - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hWWRUbjkyNEs0eV9RVnVvc0J2Tm9ocEdGS19qS29BLWpEZmhGSENtS2hCSzlJYUNJZUVEdEJFUEk0b25sUGl5dHpIdExyQmw1N1J0ZFdyaWF3X2RIcnhzVmZ1ZzdxVnI4ZElqaw?oc=5",
-            "published": "Sun, 28 Jun 2026 20:00:00 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1hWWRUbjkyNEs0eV9RVnVvc0J2Tm9ocEdGS19qS29BLWpEZmhGSENtS2hCSzlJYUNJZUVEdEJFUEk0b25sUGl5dHpIdExyQmw1N1J0ZFdyaWF3X2RIcnhzVmZ1ZzdxVnI4ZElqaw?oc=5\" target=\"_blank\">NTT東日本系が中古EVリース参入 電池劣化で交換、丸紅とパナソニックHDが状態監視</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+            "id": 223986,
+            "title": "波紋を呼ぶフェラーリ初のEV「ルーチェ」をイタリア大統領とローマ教皇に披露「後席にも乗車」【写真・6枚目】 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14bTg3QU5RaUlwdExlN3lOaE1PeWFIVjk5MS1fd29fSlJnekMtSGdvTnE5Ym5JcUgwQW1ISENPb1VaWEtvXzltM1NIeU9yUWg2WjFuZldiV2p3bkxuVzFRMFZUNA?oc=5",
+            "published": "Mon, 29 Jun 2026 00:29:11 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE14bTg3QU5RaUlwdExlN3lOaE1PeWFIVjk5MS1fd29fSlJnekMtSGdvTnE5Ym5JcUgwQW1ISENPb1VaWEtvXzltM1NIeU9yUWg2WjFuZldiV2p3bkxuVzFRMFZUNA?oc=5\" target=\"_blank\">波紋を呼ぶフェラーリ初のEV「ルーチェ」をイタリア大統領とローマ教皇に披露「後席にも乗車」【写真・6枚目】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 537651,
+            "title": "中電系「ミライズエネチェンジ」 EV充電補助金“水増し”疑惑 105億円受け取り実態は - ABEMA",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lc0pTSUN4d2RhRHg0ZnlGVkFDdnQxc0JrTlVmTHU2VkROZ3lmTFFfSmpDT3lkZXdFUERpTUNtWEVCNzcxZERqMFRCYURZZ2dyUHpubGx6YzhtaVk?oc=5",
+            "published": "Mon, 29 Jun 2026 01:44:13 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lc0pTSUN4d2RhRHg0ZnlGVkFDdnQxc0JrTlVmTHU2VkROZ3lmTFFfSmpDT3lkZXdFUERpTUNtWEVCNzcxZERqMFRCYURZZ2dyUHpubGx6YzhtaVk?oc=5\" target=\"_blank\">中電系「ミライズエネチェンジ」 EV充電補助金“水増し”疑惑 105億円受け取り実態は</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABEMA</font>",
+            "site_name": "ABEMA"
+        },
+        {
+            "id": 507206,
+            "title": "ＥＶ戦略見直し、損失約１２兆円 日米欧メーカー、中国と差拡大も - 山陽新聞",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fUXU0SjE1bGtpa3YwZVRvRHd3dEh4Wm1leHBhbFNNUHlHUEVMREwydVVXNHJlc3FQdWdWVFVWZjBUX0ZpWFdLdDRwTkpheFRfd3ktSHhNNkhDMXlXdzRWU1laUEpqSVVpV0NMREY4OTFYVzdyS2c?oc=5",
+            "published": "Mon, 29 Jun 2026 00:39:20 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1fUXU0SjE1bGtpa3YwZVRvRHd3dEh4Wm1leHBhbFNNUHlHUEVMREwydVVXNHJlc3FQdWdWVFVWZjBUX0ZpWFdLdDRwTkpheFRfd3ktSHhNNkhDMXlXdzRWU1laUEpqSVVpV0NMREY4OTFYVzdyS2c?oc=5\" target=\"_blank\">ＥＶ戦略見直し、損失約１２兆円 日米欧メーカー、中国と差拡大も</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
+            "site_name": "山陽新聞"
+        },
+        {
+            "id": 922909,
+            "title": "シェル（LSE:SHEL）がTriple 10 Challenge公開 EV事業をShell Rechargeに統合 - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYlhIZnByRFVRcU94cWxLSDVsdm1LaFJfZGcyUGFNaUVlWE9VSlFXUGh2R21DcTFsWkVpQTNNNDdPNVhSLWtjU0ZjRzFLalBEX09QX2s0QjdBRGxtVWkwT181Qk1acEhLRjYtbUk3dTdEY2EzdngxVTNhaUs3QlZpVVpFdnItOHV2NlpFbjRzbHg5ZjTSAZMBQVVfeXFMT2JYSGZwckRVUXFPeHFsS0g1bHZtS2hSX2RnMlBhTWlFZVhPVUpRV1BodkdtQ3ExbFpFaUEzTTQ3TzVYUi1rY1NGY0cxS2pQRF9PUF9rNEI3QURsbVVpME9fNUJNWnBIS0Y2LW1JN3U3RGNhM3Z4MVUzYWlLN0JWaVVaRXZyLTh1djZaRW40c2x4OWY0?oc=5",
+            "published": "Mon, 29 Jun 2026 05:35:01 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPYlhIZnByRFVRcU94cWxLSDVsdm1LaFJfZGcyUGFNaUVlWE9VSlFXUGh2R21DcTFsWkVpQTNNNDdPNVhSLWtjU0ZjRzFLalBEX09QX2s0QjdBRGxtVWkwT181Qk1acEhLRjYtbUk3dTdEY2EzdngxVTNhaUs3QlZpVVpFdnItOHV2NlpFbjRzbHg5ZjTSAZMBQVVfeXFMT2JYSGZwckRVUXFPeHFsS0g1bHZtS2hSX2RnMlBhTWlFZVhPVUpRV1BodkdtQ3ExbFpFaUEzTTQ3TzVYUi1rY1NGY0cxS2pQRF9PUF9rNEI3QURsbVVpME9fNUJNWnBIS0Y2LW1JN3U3RGNhM3Z4MVUzYWlLN0JWaVVaRXZyLTh1djZaRW40c2x4OWY0?oc=5\" target=\"_blank\">シェル（LSE:SHEL）がTriple 10 Challenge公開 EV事業をShell Rechargeに統合</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+            "site_name": "simplywall.st"
+        },
+        {
+            "id": 191779,
+            "title": "ナルネット - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xZThoTV9oaW5iTVhkTWhSTHhXeVNwMkdsQ3hQaEdLNTdSYm9tU3N0WC1fRWJ1UFRJZS0zRUFKbllPMnZENVJJWGJ4bTJEVzQ0eHVuci1yZjF4UWVwZEJlbGR1R1lLVW5JOVE?oc=5",
+            "published": "Mon, 29 Jun 2026 02:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE8xZThoTV9oaW5iTVhkTWhSTHhXeVNwMkdsQ3hQaEdLNTdSYm9tU3N0WC1fRWJ1UFRJZS0zRUFKbllPMnZENVJJWGJ4bTJEVzQ0eHVuci1yZjF4UWVwZEJlbGR1R1lLVW5JOVE?oc=5\" target=\"_blank\">ナルネット</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
             "site_name": "日本経済新聞"
+        },
+        {
+            "id": 751060,
+            "title": "吉利傘下のロータスＥＶ、7月中にカナダ到着見込み＝中国大 - ニューズウィーク日本版",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iSThkYV9oZ0JOV1JJUE9jOVpoLTBPNkp5V1ZUbjJrUlRXN0hwbnhOcmJHMWlNSXRHRkoyc3FJTndiYmNhYzlJQU92VzRpVE02M3pyV1ZYMFdLQQ?oc=5",
+            "published": "Mon, 29 Jun 2026 02:18:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iSThkYV9oZ0JOV1JJUE9jOVpoLTBPNkp5V1ZUbjJrUlRXN0hwbnhOcmJHMWlNSXRHRkoyc3FJTndiYmNhYzlJQU92VzRpVE02M3pyV1ZYMFdLQQ?oc=5\" target=\"_blank\">吉利傘下のロータスＥＶ、7月中にカナダ到着見込み＝中国大</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニューズウィーク日本版</font>",
+            "site_name": "ニューズウィーク日本版"
+        },
+        {
+            "id": 997450,
+            "title": "ホンダ株価が続伸…米EV電池工場をデータセンター向けに転換 1枚目の写真・画像 - レスポンス（Response.jp）",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa1drclBJMUhUYnVBWEhPNk1GQ0tKYTF6Q1o5WDV2d296MlhmWUREZVBLNVYzYzZXdW91NXdnNTZhcjA2MGdUNE5SeTFfMU5BRlpQX2hrcU8yQjB3endKOTF5cHlXZWxmaE1xdnJsM0Rrbk5HOTg5SC1fY29HTnBraXUtZW5NT2Vab05kS3RObmo?oc=5",
+            "published": "Mon, 29 Jun 2026 07:35:03 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNa1drclBJMUhUYnVBWEhPNk1GQ0tKYTF6Q1o5WDV2d296MlhmWUREZVBLNVYzYzZXdW91NXdnNTZhcjA2MGdUNE5SeTFfMU5BRlpQX2hrcU8yQjB3endKOTF5cHlXZWxmaE1xdnJsM0Rrbk5HOTg5SC1fY29HTnBraXUtZW5NT2Vab05kS3RObmo?oc=5\" target=\"_blank\">ホンダ株価が続伸…米EV電池工場をデータセンター向けに転換 1枚目の写真・画像</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
+            "site_name": "レスポンス（Response.jp）"
+        },
+        {
+            "id": 783487,
+            "title": "大分県内初、臼杵タクシーが軽EV導入 道幅が狭い場所でも大丈夫「気軽に呼んでもらえる地域の足に」 (大分合同新聞) - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaGNobHQxLUFWZ2VyR1NDZVRLMC0wTy12cWF2eTQ4QjBNZWtDQmtiSXctdEhNNVFzdVM0X0xKUFoxV241Q0NWYWFDN1pKOUJ6c1p6V1BiUDZ3QmR6bnlXRThVbndXOHdYQV9MU3RMQmdOeG5yZkc1R3l6MEdBMGZKNlNtcjJGUVhYVVpfTEhn?oc=5",
+            "published": "Mon, 29 Jun 2026 06:16:28 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOaGNobHQxLUFWZ2VyR1NDZVRLMC0wTy12cWF2eTQ4QjBNZWtDQmtiSXctdEhNNVFzdVM0X0xKUFoxV241Q0NWYWFDN1pKOUJ6c1p6V1BiUDZ3QmR6bnlXRThVbndXOHdYQV9MU3RMQmdOeG5yZkc1R3l6MEdBMGZKNlNtcjJGUVhYVVpfTEhn?oc=5\" target=\"_blank\">大分県内初、臼杵タクシーが軽EV導入 道幅が狭い場所でも大丈夫「気軽に呼んでもらえる地域の足に」 (大分合同新聞)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 431296,
+            "title": "デルタHFインテグラーレの熱狂が30年の刻を経て蘇る！ 爆速EVホットハッチ「イプシロンHF」の胸熱すぎる中身 - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oYlpSRGYwMUNXY1BoNlozV1AxM2tTems5aHlsWnM3bV9HXzJqb19uWmFQRVZrRDR3bUlKRWNGb3pjTVZ5aTFwMlJkZHNncFlJQUFoczJiM29XbHNIUlkxS2o0emlYUG1qZ0U0cXhXWVVtN3dNZ195TGt1SXNabmc?oc=5",
+            "published": "Mon, 29 Jun 2026 08:40:36 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5oYlpSRGYwMUNXY1BoNlozV1AxM2tTems5aHlsWnM3bV9HXzJqb19uWmFQRVZrRDR3bUlKRWNGb3pjTVZ5aTFwMlJkZHNncFlJQUFoczJiM29XbHNIUlkxS2o0emlYUG1qZ0U0cXhXWVVtN3dNZ195TGt1SXNabmc?oc=5\" target=\"_blank\">デルタHFインテグラーレの熱狂が30年の刻を経て蘇る！ 爆速EVホットハッチ「イプシロンHF」の胸熱すぎる中身</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 414880,
+            "title": "EVポールスター、米国市場から事実上撤退…コネクテッドビークル規則で2027年以降販売禁止へ 1枚目の写真・画像 - レスポンス（Response.jp）",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Fa1FGV0hwdUJEclNZZ0lwN193NTBXSE9xRjBQSkRyZ2F6U09JRThHMUNGcVpFZjdyQ19hdWd2TEh0T2x0WE9pSHFaWEJrZmtxWmh4SXJmN2xVemdiY1cyRlZTeWRHVlRPdlZvUVJDU0JlZw?oc=5",
+            "published": "Mon, 29 Jun 2026 02:45:02 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5Fa1FGV0hwdUJEclNZZ0lwN193NTBXSE9xRjBQSkRyZ2F6U09JRThHMUNGcVpFZjdyQ19hdWd2TEh0T2x0WE9pSHFaWEJrZmtxWmh4SXJmN2xVemdiY1cyRlZTeWRHVlRPdlZvUVJDU0JlZw?oc=5\" target=\"_blank\">EVポールスター、米国市場から事実上撤退…コネクテッドビークル規則で2027年以降販売禁止へ 1枚目の写真・画像</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
+            "site_name": "レスポンス（Response.jp）"
+        },
+        {
+            "id": 837241,
+            "title": "県内初、臼杵タクシーが軽EV導入 狭い路地も進入可「気軽に呼んでもらえる地域の足に」【大分県】 - 47NEWS",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoVkdfQ0t1c0RJdXlPbGxMc0NwMWxkdXE0eFFQTEUwd3B4VWVBMjJ0WWNheHFFWkoyVy0tc0VDN3haZ25qemtoWXFBUQ?oc=5",
+            "published": "Sun, 28 Jun 2026 23:20:25 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoVkdfQ0t1c0RJdXlPbGxMc0NwMWxkdXE0eFFQTEUwd3B4VWVBMjJ0WWNheHFFWkoyVy0tc0VDN3haZ25qemtoWXFBUQ?oc=5\" target=\"_blank\">県内初、臼杵タクシーが軽EV導入 狭い路地も進入可「気軽に呼んでもらえる地域の足に」【大分県】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
+            "site_name": "47NEWS"
+        },
+        {
+            "id": 764066,
+            "title": "EVバッテリー向け「接着ソリューション」とは？ テサテープが展示…人とくるまのテクノロジー展 2026 - CAR CARE PLUS",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PX1lsNS1GTU5MWWxSRkZ3Q0gtcTQ5SlNEd1hKWkg5ajZFT3VWYUhCaEc5NDFtOTNiUk9EQ0pXUl9FVjdOTGVaYnNjblg5aUlZYVB2YlMtQnJCWW12ODl0Vm9B?oc=5",
+            "published": "Mon, 29 Jun 2026 00:00:03 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PX1lsNS1GTU5MWWxSRkZ3Q0gtcTQ5SlNEd1hKWkg5ajZFT3VWYUhCaEc5NDFtOTNiUk9EQ0pXUl9FVjdOTGVaYnNjblg5aUlZYVB2YlMtQnJCWW12ODl0Vm9B?oc=5\" target=\"_blank\">EVバッテリー向け「接着ソリューション」とは？ テサテープが展示…人とくるまのテクノロジー展 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CAR CARE PLUS</font>",
+            "site_name": "CAR CARE PLUS"
+        },
+        {
+            "id": 811833,
+            "title": "欧州主要5カ国でEVが大幅増、HEVが減少 - 日経クロステック",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xQlc0TklpQ05KR3poY3NIUm11SFloWXVtNDFoc05fQW41cHZxQ3JNSTBtTldEXzRfdS1lSDJQNDdsTXlLbWFRMUVWZy13QmlYY0hoOFp4c3ludnBERmVuZ1RxcUItV1BnYU5IYQ?oc=5",
+            "published": "Sun, 28 Jun 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE4xQlc0TklpQ05KR3poY3NIUm11SFloWXVtNDFoc05fQW41cHZxQ3JNSTBtTldEXzRfdS1lSDJQNDdsTXlLbWFRMUVWZy13QmlYY0hoOFp4c3ludnBERmVuZ1RxcUItV1BnYU5IYQ?oc=5\" target=\"_blank\">欧州主要5カ国でEVが大幅増、HEVが減少</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経クロステック</font>",
+            "site_name": "日経クロステック"
+        },
+        {
+            "id": 310615,
+            "title": "「EV1時間エコランレース大会」初開催／初心者でもOKで表彰者には賞金も！ エントリー受付中 - EVsmart",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HYnRhbUplZVJBMEx2MFJxMEJEOG82NUtUY0pKLTFQVTUwd3MtdHoyMEJleUZ0bEZBOXFKT0pseFZESE9KUU8tUjNrcC1Ndzg?oc=5",
+            "published": "Sun, 28 Jun 2026 21:40:23 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HYnRhbUplZVJBMEx2MFJxMEJEOG82NUtUY0pKLTFQVTUwd3MtdHoyMEJleUZ0bEZBOXFKT0pseFZESE9KUU8tUjNrcC1Ndzg?oc=5\" target=\"_blank\">「EV1時間エコランレース大会」初開催／初心者でもOKで表彰者には賞金も！ エントリー受付中</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EVsmart</font>",
+            "site_name": "EVsmart"
+        },
+        {
+            "id": 390363,
+            "title": "県内初、臼杵タクシーが軽EV導入　狭い路地も進入可「気軽に呼んでもらえる地域の足に」 - oita-press.co.jp",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBNExJRjB5eUpfdkt1Y2I1d3ZvcVFUR3l6bGE2bzBlMU9uUExYME9qcDE0dC1JRDRMY2ktMkZKZWFiUHlUUGlSM3VXSzBHVHVWNEFfR2l1RFZrQ04tY3NOY2hUdGw1Z1J2TkhWT2RlQUJwMGRPZ3fSAYIBQVVfeXFMTWVzVFZvbm9PcDhVVHdqNU1wWG9zMXFKNnFaLWNscHRDbVIySzFzVE0waWpxcmtaNFZIUVRERGh6R09pdEg3WVdCS1NJT2dadDNNZDJjY01IS3pxZzdIV3lwaG1SeXVvRVlNSTBxc051ekFFUlY1aXFBQzBvVUlDalIwQQ?oc=5",
+            "published": "Sun, 28 Jun 2026 18:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBBNExJRjB5eUpfdkt1Y2I1d3ZvcVFUR3l6bGE2bzBlMU9uUExYME9qcDE0dC1JRDRMY2ktMkZKZWFiUHlUUGlSM3VXSzBHVHVWNEFfR2l1RFZrQ04tY3NOY2hUdGw1Z1J2TkhWT2RlQUJwMGRPZ3fSAYIBQVVfeXFMTWVzVFZvbm9PcDhVVHdqNU1wWG9zMXFKNnFaLWNscHRDbVIySzFzVE0waWpxcmtaNFZIUVRERGh6R09pdEg3WVdCS1NJT2dadDNNZDJjY01IS3pxZzdIV3lwaG1SeXVvRVlNSTBxc051ekFFUlY1aXFBQzBvVUlDalIwQQ?oc=5\" target=\"_blank\">県内初、臼杵タクシーが軽EV導入　狭い路地も進入可「気軽に呼んでもらえる地域の足に」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">oita-press.co.jp</font>",
+            "site_name": "oita-press.co.jp"
+        },
+        {
+            "id": 741099,
+            "title": "万博で走った「EVモーターズジャパン」の100台以上のバス！ 問題発覚後のいま静かに解体を待っていた - carview!",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUDJkblI2RHdTSWxLQXpmR3FMckVZOUR2TzZtNXZNRUY5TEVIUEhIT3hUWXVTT3E1WjNmcXlOYi16NlA2WlNpc3loMmVhMGJDajBYYXZTeUFEX1dZbHNUd3J1SWItRHFPZVVrdmRmNngwMl9hSkJrZms5Mm1YbDJGZjQ3X1VWa0cx?oc=5",
+            "published": "Sun, 28 Jun 2026 23:02:29 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUDJkblI2RHdTSWxLQXpmR3FMckVZOUR2TzZtNXZNRUY5TEVIUEhIT3hUWXVTT3E1WjNmcXlOYi16NlA2WlNpc3loMmVhMGJDajBYYXZTeUFEX1dZbHNUd3J1SWItRHFPZVVrdmRmNngwMl9hSkJrZms5Mm1YbDJGZjQ3X1VWa0cx?oc=5\" target=\"_blank\">万博で走った「EVモーターズジャパン」の100台以上のバス！ 問題発覚後のいま静かに解体を待っていた</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carview!</font>",
+            "site_name": "carview!"
         },
         {
             "id": 108389,
@@ -395,6 +379,230 @@
             "site_name": "CAR CARE PLUS"
         },
         {
+            "id": 560294,
+            "title": "駐カナダ中国大使「ロータスのEVが7月にカナダに到着」―中国メディア - ｄメニューニュース",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSTFVN3VSa2dvUjMyUVhHdzRLQmdDem1IMHhieDdrN1QxVjdZSjVUR21fU3FMOWRhWk01eWxvRDdIcjBkNF9RS1paa1BXdTlhaVY5QVM1Q0ttaF90c0E0WWo2d3h3eEhyTDhwYWZaVzBoRUNxcEp6Rm96TThvRHZpX3FPbGJpZmNxcXdr0gGLAUFVX3lxTE5JMVU3dVJrZ29SMzJRWEd3NEtCZ0N6bUgweGJ4N2s3VDFWN1lKNVRHbV9TcUw5ZGFaTTV5bG9EN0hyMGQ0X1FLWlprUFd1OWFpVjlBUzVDS21oX3RzQTRZajZ3eHd4SHJMOHBhZlpXMGhFQ3FwSnpGb3pNOG9EdmlfcU9sYmlmY3Fxd2s?oc=5",
+            "published": "Sun, 28 Jun 2026 23:30:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSTFVN3VSa2dvUjMyUVhHdzRLQmdDem1IMHhieDdrN1QxVjdZSjVUR21fU3FMOWRhWk01eWxvRDdIcjBkNF9RS1paa1BXdTlhaVY5QVM1Q0ttaF90c0E0WWo2d3h3eEhyTDhwYWZaVzBoRUNxcEp6Rm96TThvRHZpX3FPbGJpZmNxcXdr0gGLAUFVX3lxTE5JMVU3dVJrZ29SMzJRWEd3NEtCZ0N6bUgweGJ4N2s3VDFWN1lKNVRHbV9TcUw5ZGFaTTV5bG9EN0hyMGQ0X1FLWlprUFd1OWFpVjlBUzVDS21oX3RzQTRZajZ3eHd4SHJMOHBhZlpXMGhFQ3FwSnpGb3pNOG9EdmlfcU9sYmlmY3Fxd2s?oc=5\" target=\"_blank\">駐カナダ中国大使「ロータスのEVが7月にカナダに到着」―中国メディア</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
+            "site_name": "ｄメニューニュース"
+        },
+        {
+            "id": 828368,
+            "title": "EVポールスター、米国市場から事実上撤退…コネクテッドビークル規則で2027年以降販売禁止へ - レスポンス（Response.jp）",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYcDRPbThGeVFodEMwc3VHdF9aT3JOeUhaZXQzLTMteVhrSUdTYktUR0wyd0xhT0hiSzRwdEhoWDVhWWRMZldNeHpUeEhReC02eExIR1JpaUMxWE1kanVJ?oc=5",
+            "published": "Mon, 29 Jun 2026 02:45:02 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYcDRPbThGeVFodEMwc3VHdF9aT3JOeUhaZXQzLTMteVhrSUdTYktUR0wyd0xhT0hiSzRwdEhoWDVhWWRMZldNeHpUeEhReC02eExIR1JpaUMxWE1kanVJ?oc=5\" target=\"_blank\">EVポールスター、米国市場から事実上撤退…コネクテッドビークル規則で2027年以降販売禁止へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
+            "site_name": "レスポンス（Response.jp）"
+        },
+        {
+            "id": 497605,
+            "title": "波紋を呼ぶフェラーリ初のEV「ルーチェ」をイタリア大統領とローマ教皇に披露「後席にも乗車」【写真・3枚目】 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZdzcyZWVmS0ZnbzBSbmxJcm50akJIX2VnZ1gtaDNmd1BScldsVVlZMWxlNk1xYUo2ZUtDVUp2ejF6bmI3R1ZseUJENFRYbnBILVJhcjdUaG1QSHcxMFlOeXhZWXc3YlJ5eHg3TQ?oc=5",
+            "published": "Mon, 29 Jun 2026 00:45:49 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZdzcyZWVmS0ZnbzBSbmxJcm50akJIX2VnZ1gtaDNmd1BScldsVVlZMWxlNk1xYUo2ZUtDVUp2ejF6bmI3R1ZseUJENFRYbnBILVJhcjdUaG1QSHcxMFlOeXhZWXc3YlJ5eHg3TQ?oc=5\" target=\"_blank\">波紋を呼ぶフェラーリ初のEV「ルーチェ」をイタリア大統領とローマ教皇に披露「後席にも乗車」【写真・3枚目】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 727917,
+            "title": "NTT東日本系が中古EVリース参入 電池劣化で交換、丸紅とパナソニックHDが状態監視 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hWWRUbjkyNEs0eV9RVnVvc0J2Tm9ocEdGS19qS29BLWpEZmhGSENtS2hCSzlJYUNJZUVEdEJFUEk0b25sUGl5dHpIdExyQmw1N1J0ZFdyaWF3X2RIcnhzVmZ1ZzdxVnI4ZElqaw?oc=5",
+            "published": "Sun, 28 Jun 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1hWWRUbjkyNEs0eV9RVnVvc0J2Tm9ocEdGS19qS29BLWpEZmhGSENtS2hCSzlJYUNJZUVEdEJFUEk0b25sUGl5dHpIdExyQmw1N1J0ZFdyaWF3X2RIcnhzVmZ1ZzdxVnI4ZElqaw?oc=5\" target=\"_blank\">NTT東日本系が中古EVリース参入 電池劣化で交換、丸紅とパナソニックHDが状態監視</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+            "site_name": "日本経済新聞"
+        },
+        {
+            "id": 747682,
+            "title": "再生エネルギーとEV、高性能を組み合わせた住宅「スタンダード・ZERO」 - 千葉テレビ放送株式会社",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RS3pYMGtwcjE2UHdWd1VXOWxqUDd2UkE4LUlPNHdjZm01S3ZTSTlQelRTQWZjUWt1ZnN4cmhWZEM0WDBzZjVtbk5BNFRDNGtsZ2prbzFlTEJqT0N1WTNv?oc=5",
+            "published": "Mon, 29 Jun 2026 05:16:21 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RS3pYMGtwcjE2UHdWd1VXOWxqUDd2UkE4LUlPNHdjZm01S3ZTSTlQelRTQWZjUWt1ZnN4cmhWZEM0WDBzZjVtbk5BNFRDNGtsZ2prbzFlTEJqT0N1WTNv?oc=5\" target=\"_blank\">再生エネルギーとEV、高性能を組み合わせた住宅「スタンダード・ZERO」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">千葉テレビ放送株式会社</font>",
+            "site_name": "千葉テレビ放送株式会社"
+        },
+        {
+            "id": 248937,
+            "title": "運転の楽しさは本物 ホンダ・スーパーワン（2） 英国仕様はもっと高馬力で良かった 価格競争力は低くない - AUTOCAR JAPAN",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91eWhRSXpTLURKVUg2TGhkZHVUbkppR29WM3k3RXlnN0tQNWxBTVBXMjRrN2I4ZkJzU3N3TXhOZ0pBalpfNDM4LWJ5bw?oc=5",
+            "published": "Mon, 29 Jun 2026 09:10:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE91eWhRSXpTLURKVUg2TGhkZHVUbkppR29WM3k3RXlnN0tQNWxBTVBXMjRrN2I4ZkJzU3N3TXhOZ0pBalpfNDM4LWJ5bw?oc=5\" target=\"_blank\">運転の楽しさは本物 ホンダ・スーパーワン（2） 英国仕様はもっと高馬力で良かった 価格競争力は低くない</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AUTOCAR JAPAN</font>",
+            "site_name": "AUTOCAR JAPAN"
+        },
+        {
+            "id": 803983,
+            "title": "手回し窓でラジオなしの格安EVトラック、誰が買うのか？ - ダイヤモンド・オンライン",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBfUkN0NzBlamJ3UzhJNWwzUEg2bXhidUFyN3JvcFNpZkpRZTR4OEN5U3ZqUHJnQTF4WHlNQTNoT0JYd0hiUlJQTlRNbG4?oc=5",
+            "published": "Sun, 28 Jun 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBfUkN0NzBlamJ3UzhJNWwzUEg2bXhidUFyN3JvcFNpZkpRZTR4OEN5U3ZqUHJnQTF4WHlNQTNoT0JYd0hiUlJQTlRNbG4?oc=5\" target=\"_blank\">手回し窓でラジオなしの格安EVトラック、誰が買うのか？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ダイヤモンド・オンライン</font>",
+            "site_name": "ダイヤモンド・オンライン"
+        },
+        {
+            "id": 752517,
+            "title": "NTT東日本グループであるNTT-MEとナルネットコミュニケーションズ、中古EVリース事業で提携 - ニコニコニュース",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVOVVSZW5iOTgtbk5PZEo4U3pvVE9VNlA5SDlJQTdlX2Y5OGNiYUxmYkVlX1Atdkgwc0JuUnpQYTRHOWxWNUR3ZnpEX2szbXlzSWNMR2hmTXl1WVN2ZTdtOFpKdEo4MU9RTnpjMW00M1BIZGI2REhiOS13WQ?oc=5",
+            "published": "Mon, 29 Jun 2026 07:45:34 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBVOVVSZW5iOTgtbk5PZEo4U3pvVE9VNlA5SDlJQTdlX2Y5OGNiYUxmYkVlX1Atdkgwc0JuUnpQYTRHOWxWNUR3ZnpEX2szbXlzSWNMR2hmTXl1WVN2ZTdtOFpKdEo4MU9RTnpjMW00M1BIZGI2REhiOS13WQ?oc=5\" target=\"_blank\">NTT東日本グループであるNTT-MEとナルネットコミュニケーションズ、中古EVリース事業で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+            "site_name": "ニコニコニュース"
+        },
+        {
+            "id": 485179,
+            "title": "ラグジュアリーミニバンもEVの時代「メルセデス・ベンツ VLE」が生産開始「航続距離700km超」【動画】 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQOWpfYzFLbmtxY1ZPenYwZjBmbVNjc0RrOEl4RV9kbU5FZHpYZVhZUzUybEo0Wk5RbEVaYmVsZ0ZUaDl3ZS1ud2d0UHdNeFZJeUp6dnhKbXQ0YjFpUmloZG16cThRTW9neUwwcmdaUkVUcVpWYjlBRHhZaXhQcWo5NnFBcEEzZWFFckFPQ1U0M3cxV05uTldiMU02NnBtcFozNFhRbkRra3g4cndHVmN1RXJSTmdMVHVpMmkwMkVVV0tMc2dkVm9IMHZzM0RuRG1ObEpKbmhUR2M3LVozWVlGdWYwOGpEZnNWRFZRNGZJTlIxaGhvOHBuNjdpR2tPekdQMl93Q3h3aUFlUU0wQ05GN1BnSmtfXzN2dE1Oa3lkV1pfbkI2aHEtdTk2bzNoS0I5V0EwNFFmb3ZDZEU2SEN6cHdlWHZoeUZMU1QyU3lXNndFM0w5SHdjYw?oc=5",
+            "published": "Mon, 29 Jun 2026 01:01:33 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AJBVV95cUxQOWpfYzFLbmtxY1ZPenYwZjBmbVNjc0RrOEl4RV9kbU5FZHpYZVhZUzUybEo0Wk5RbEVaYmVsZ0ZUaDl3ZS1ud2d0UHdNeFZJeUp6dnhKbXQ0YjFpUmloZG16cThRTW9neUwwcmdaUkVUcVpWYjlBRHhZaXhQcWo5NnFBcEEzZWFFckFPQ1U0M3cxV05uTldiMU02NnBtcFozNFhRbkRra3g4cndHVmN1RXJSTmdMVHVpMmkwMkVVV0tMc2dkVm9IMHZzM0RuRG1ObEpKbmhUR2M3LVozWVlGdWYwOGpEZnNWRFZRNGZJTlIxaGhvOHBuNjdpR2tPekdQMl93Q3h3aUFlUU0wQ05GN1BnSmtfXzN2dE1Oa3lkV1pfbkI2aHEtdTk2bzNoS0I5V0EwNFFmb3ZDZEU2SEN6cHdlWHZoeUZMU1QyU3lXNndFM0w5SHdjYw?oc=5\" target=\"_blank\">ラグジュアリーミニバンもEVの時代「メルセデス・ベンツ VLE」が生産開始「航続距離700km超」【動画】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 233028,
+            "title": "ラグジュアリーミニバンもEVの時代「メルセデス・ベンツ VLE」が生産開始「航続距離700km超」【動画】 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQTFJ0bXFPQms2OC1Nb3VVUzQyQVlSN2dURzJzUldDN2gxNUpBbXpOYWV3NkdhaXIyZzZKZnRCMUcyR3NGMTcxMXJyY1FVSXhHXzN4ZzRMRUlURVZZQWNuQnlLZDkzUXFBOE1qSEhHZlc4eHNpOFRRN2tSa3NmbGplbU1tV3FpUk9oNHl1UlVlbVdsS2stUGg0ODlxSnNFTGRpX1lVd05iVUY1MWhWVVFidDdPejAwTUZuVnItejJNbWV4Q09ISkl2MlBiRU5rZXlqclVfbVMxZ3BtNEhhWDdxUVA0MXVPRUZXQjdOZVduOFJVS2o2S21pVFVTVFJkN1ZEWS1SbkNTNFZYNS1VWlVuUlJYWlhhM0FhV1VrYW92SkpOeUhiX0M1OWdraEFZbldIUGxFVkhDTjFtRlB1YmgwakV4NDBVT3RRWkxaSklCWEJ6WXhjaFVMWQ?oc=5",
+            "published": "Mon, 29 Jun 2026 01:03:36 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AJBVV95cUxQTFJ0bXFPQms2OC1Nb3VVUzQyQVlSN2dURzJzUldDN2gxNUpBbXpOYWV3NkdhaXIyZzZKZnRCMUcyR3NGMTcxMXJyY1FVSXhHXzN4ZzRMRUlURVZZQWNuQnlLZDkzUXFBOE1qSEhHZlc4eHNpOFRRN2tSa3NmbGplbU1tV3FpUk9oNHl1UlVlbVdsS2stUGg0ODlxSnNFTGRpX1lVd05iVUY1MWhWVVFidDdPejAwTUZuVnItejJNbWV4Q09ISkl2MlBiRU5rZXlqclVfbVMxZ3BtNEhhWDdxUVA0MXVPRUZXQjdOZVduOFJVS2o2S21pVFVTVFJkN1ZEWS1SbkNTNFZYNS1VWlVuUlJYWlhhM0FhV1VrYW92SkpOeUhiX0M1OWdraEFZbldIUGxFVkhDTjFtRlB1YmgwakV4NDBVT3RRWkxaSklCWEJ6WXhjaFVMWQ?oc=5\" target=\"_blank\">ラグジュアリーミニバンもEVの時代「メルセデス・ベンツ VLE」が生産開始「航続距離700km超」【動画】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 304025,
+            "title": "グリッドと車両を双方向で結ぶメガワット級EV充電 - マイナビニュース",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ma002NXZaNkJTOTdxcTVJVDNveVdSbHMxT0Q1WERsd3JkXzFrZndaODF5YUtGM2EtUkx0R3F3YS1zVVdzVGdNcldqN253NlBNX0JiQmNkZXdXUHU1Y0V1TDZLZVJtNk5M?oc=5",
+            "published": "Sun, 28 Jun 2026 21:45:44 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ma002NXZaNkJTOTdxcTVJVDNveVdSbHMxT0Q1WERsd3JkXzFrZndaODF5YUtGM2EtUkx0R3F3YS1zVVdzVGdNcldqN253NlBNX0JiQmNkZXdXUHU1Y0V1TDZLZVJtNk5M?oc=5\" target=\"_blank\">グリッドと車両を双方向で結ぶメガワット級EV充電</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">マイナビニュース</font>",
+            "site_name": "マイナビニュース"
+        },
+        {
+            "id": 480617,
+            "title": "ラグジュアリーミニバンもEVの時代「メルセデス・ベンツ VLE」が生産開始「航続距離700km超」【動画】 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQUFptbWZXQWZlWXdfNXowcG5zT0x5dVcwYlBsdDljazVLTnpwYWd6UVlsVDNOLVZzejhXd0xuWHhzeV95Z09rWTkxOHRQWkZxTHlHaURXYnIxSzZ0Rm0tbVh1dkU0Y3FleVZMY3JCSHVDbjY5azRKdXBOaVVZbXdtTWswUEFaaUpSUGotOWkyTXU1WDJTaGZZMkFjWk5EUXVNZURiU2d6UUZ2MmFkaTByLWZLZDJUNlpXTkYwWjJVVnVoNjkySXRqSTB2dGZBVjJUZ1A2NzZvaU55R3lJMGJHNEw3cXhjVTRsemxXSXZwaG1qdEhZVlpRT1F3Rlpwa3Q5dVpLV0NsekJPbFNyUHpnV2xYRWlXZzBfVWdtMmZwSjJidTVzTFU0Z0pwaGk4YjJEbVhMNG1yNXR6Mktham9vZFBXeTljdnlNRFE1SUpBNkxYb2E5YURndw?oc=5",
+            "published": "Mon, 29 Jun 2026 00:10:47 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AJBVV95cUxQUFptbWZXQWZlWXdfNXowcG5zT0x5dVcwYlBsdDljazVLTnpwYWd6UVlsVDNOLVZzejhXd0xuWHhzeV95Z09rWTkxOHRQWkZxTHlHaURXYnIxSzZ0Rm0tbVh1dkU0Y3FleVZMY3JCSHVDbjY5azRKdXBOaVVZbXdtTWswUEFaaUpSUGotOWkyTXU1WDJTaGZZMkFjWk5EUXVNZURiU2d6UUZ2MmFkaTByLWZLZDJUNlpXTkYwWjJVVnVoNjkySXRqSTB2dGZBVjJUZ1A2NzZvaU55R3lJMGJHNEw3cXhjVTRsemxXSXZwaG1qdEhZVlpRT1F3Rlpwa3Q5dVpLV0NsekJPbFNyUHpnV2xYRWlXZzBfVWdtMmZwSjJidTVzTFU0Z0pwaGk4YjJEbVhMNG1yNXR6Mktham9vZFBXeTljdnlNRFE1SUpBNkxYb2E5YURndw?oc=5\" target=\"_blank\">ラグジュアリーミニバンもEVの時代「メルセデス・ベンツ VLE」が生産開始「航続距離700km超」【動画】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 543929,
+            "title": "ラグジュアリーミニバンもEVの時代「メルセデス・ベンツ VLE」が生産開始「航続距離700km超」【動画】 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQdVVqQndHeV9wQjE3TTFBUUllU0hHOVlCSGpXSFMydVRQWERVZ1VZYmItMWR1dmRQdUd1OWVnM2xQcW1SOUozV1ZOOFF5Tk52TnNFd2NocE9BX0RPSGNaeFh0eEZ2Q2RDZzFSOEFpd0JrT2ktSklja3JPNEtVdWJYeExlNTdQWnkxbDFnUTQxREprSUNCQ3lIVWNCZzUwbHpxZUI0SUJEMFk2VE40Q3dtcjJJd2Z3MklxUmNTSzU3eWNXdU5Xc0I5TjUxTVc3Ym9nWkNGcm1EWHBoMERiRmpHNjJkOS1tbWRRVV8zRjgweGRfMm9ObmVpOElwdmE2WVByX3lnV3lfRDFRU0pLQ3ZJQ2pEVTQtcm9ua1FnTmlmZzNJTTBKbjdiWVkzbWdLclhJc3pzVFp1Z0MxbXhkTjFWZENoX0tGZW5BVWZqUjNpWkY0MVBzTUNjYg?oc=5",
+            "published": "Mon, 29 Jun 2026 00:19:08 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AJBVV95cUxQdVVqQndHeV9wQjE3TTFBUUllU0hHOVlCSGpXSFMydVRQWERVZ1VZYmItMWR1dmRQdUd1OWVnM2xQcW1SOUozV1ZOOFF5Tk52TnNFd2NocE9BX0RPSGNaeFh0eEZ2Q2RDZzFSOEFpd0JrT2ktSklja3JPNEtVdWJYeExlNTdQWnkxbDFnUTQxREprSUNCQ3lIVWNCZzUwbHpxZUI0SUJEMFk2VE40Q3dtcjJJd2Z3MklxUmNTSzU3eWNXdU5Xc0I5TjUxTVc3Ym9nWkNGcm1EWHBoMERiRmpHNjJkOS1tbWRRVV8zRjgweGRfMm9ObmVpOElwdmE2WVByX3lnV3lfRDFRU0pLQ3ZJQ2pEVTQtcm9ua1FnTmlmZzNJTTBKbjdiWVkzbWdLclhJc3pzVFp1Z0MxbXhkTjFWZENoX0tGZW5BVWZqUjNpWkY0MVBzTUNjYg?oc=5\" target=\"_blank\">ラグジュアリーミニバンもEVの時代「メルセデス・ベンツ VLE」が生産開始「航続距離700km超」【動画】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 887395,
+            "title": "20260624_DS N°8_C-classEV - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMFg3NktPbFVaWGtBcVdmb29zLXJFbGhpYnBZX0p1Zkd4ZmJsOVplTExBZksyVFBoSTdJeEZSelRYRlF2MzROYnBtVzNjd1lSMzIzamd0bkduMTVCcXZVOVpaTjJWZS1aQkxkWUY0b0kyeDNpbUZoVTlvR05qMXdidGRkOGZ6SWMyUUhodDREOURQZTdVd21nSUFLdWtWVXFPbTJSZExSM25fNEROcmJIRmxxa1dwdVdfa19PN2U1Qmw3d2tfdFpiV29ORVFMRDlCV21PS0MtMkNPcks5ZUZzVw?oc=5",
+            "published": "Mon, 29 Jun 2026 00:58:23 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMFg3NktPbFVaWGtBcVdmb29zLXJFbGhpYnBZX0p1Zkd4ZmJsOVplTExBZksyVFBoSTdJeEZSelRYRlF2MzROYnBtVzNjd1lSMzIzamd0bkduMTVCcXZVOVpaTjJWZS1aQkxkWUY0b0kyeDNpbUZoVTlvR05qMXdidGRkOGZ6SWMyUUhodDREOURQZTdVd21nSUFLdWtWVXFPbTJSZExSM25fNEROcmJIRmxxa1dwdVdfa19PN2U1Qmw3d2tfdFpiV29ORVFMRDlCV21PS0MtMkNPcks5ZUZzVw?oc=5\" target=\"_blank\">20260624_DS N°8_C-classEV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 384543,
+            "title": "なぜ中国電池大手は56億ドルを「モロッコ」へ投じるのか？ 欧州EV産業の拠点再編、世界の供給網が変わり始める - Merkmal",
+            "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1HY3h3UWVObG52bThvUDRKMGdPSzBxTmFsa05VWEZtQ25pTmRfaDhYZUpiU0NqckFTSVFsaDV3WUc0eEJpWnZaM2xn?oc=5",
+            "published": "Sun, 28 Jun 2026 22:44:18 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE1HY3h3UWVObG52bThvUDRKMGdPSzBxTmFsa05VWEZtQ25pTmRfaDhYZUpiU0NqckFTSVFsaDV3WUc0eEJpWnZaM2xn?oc=5\" target=\"_blank\">なぜ中国電池大手は56億ドルを「モロッコ」へ投じるのか？ 欧州EV産業の拠点再編、世界の供給網が変わり始める</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Merkmal</font>",
+            "site_name": "Merkmal"
+        },
+        {
+            "id": 15632,
+            "title": "EVバッテリー寿命予測診断実証実験開始 - ニコニコニュース",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCdWphSks0Ukt3X09yODBSRk9MRGktTjgxRlFDd05fc2NPbTdyZ3JhSXZvUVpqdkpmdzlrM1draTg1bFZiUXVia0tULUtoaXFJcWZtc3pjNHVCQVB2OWtDa2RJcXNGZ0l3?oc=5",
+            "published": "Mon, 29 Jun 2026 06:15:19 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCdWphSks0Ukt3X09yODBSRk9MRGktTjgxRlFDd05fc2NPbTdyZ3JhSXZvUVpqdkpmdzlrM1draTg1bFZiUXVia0tULUtoaXFJcWZtc3pjNHVCQVB2OWtDa2RJcXNGZ0l3?oc=5\" target=\"_blank\">EVバッテリー寿命予測診断実証実験開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+            "site_name": "ニコニコニュース"
+        },
+        {
+            "id": 721986,
+            "title": "「制度のバグとしか思えない…」東京都が補助金をさらに上乗せ、総額220万に！【ホンダ・スーパーワンなら実質負担は120万切りへ】 (月刊自家用車WEB) - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX1lwQ2pVV3N0UnI1OWliOWhhYmstbkJ1bnlFVjlfX1JTcG9lZXJCc0p3b1NqZ3RUS0E0WnhYU2ZuQk5nRlpHS3pZQWFuZmhybHlKM2t4MDAzaUo3WHNXOW0yZjZqaV9YUWptVk1sRHFCU19GS3FjS1JoUVA2ZkE3VHVKYXl2MzA3SzBnNl9n?oc=5",
+            "published": "Mon, 29 Jun 2026 05:50:44 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOX1lwQ2pVV3N0UnI1OWliOWhhYmstbkJ1bnlFVjlfX1JTcG9lZXJCc0p3b1NqZ3RUS0E0WnhYU2ZuQk5nRlpHS3pZQWFuZmhybHlKM2t4MDAzaUo3WHNXOW0yZjZqaV9YUWptVk1sRHFCU19GS3FjS1JoUVA2ZkE3VHVKYXl2MzA3SzBnNl9n?oc=5\" target=\"_blank\">「制度のバグとしか思えない…」東京都が補助金をさらに上乗せ、総額220万に！【ホンダ・スーパーワンなら実質負担は120万切りへ】 (月刊自家用車WEB)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 832836,
+            "title": "新自動車戦略2026-27 トヨタ・ホンダ・VW・現代・Tesla・BYDのゆくえ - 日経BP",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zS1RQT0s0b1RxaDdVMFE1V1ZDOW5LdFB0WU9abXdDOWF2MGJfS1FrenJLdGxDOHVDeWcybTlDTzRvU1R0dU5NNkw4bHE0Mm5lQXN0WUt1MklMWGV2QWUwQVljOEc?oc=5",
+            "published": "Mon, 29 Jun 2026 00:02:16 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zS1RQT0s0b1RxaDdVMFE1V1ZDOW5LdFB0WU9abXdDOWF2MGJfS1FrenJLdGxDOHVDeWcybTlDTzRvU1R0dU5NNkw4bHE0Mm5lQXN0WUt1MklMWGV2QWUwQVljOEc?oc=5\" target=\"_blank\">新自動車戦略2026-27 トヨタ・ホンダ・VW・現代・Tesla・BYDのゆくえ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経BP</font>",
+            "site_name": "日経BP"
+        },
+        {
+            "id": 649478,
+            "title": "〈Leader's Voice〉車プラグ、EVシフトでも減らない 日本特殊陶業 鈴木啓司社長 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mT1ZTVnhlV0VzOFVyeGw0a0ZVOHVEeWRpOTBLUmxic21DYnRuTUJyV1RqU0E3X2Z1aE5DZ2RTWEVFOVNlNXdub3dlVkhjRXo4cWkwVl9odXJIVEpoeUtKcUlUVWg2eE1IOWZoUA?oc=5",
+            "published": "Sun, 28 Jun 2026 17:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5mT1ZTVnhlV0VzOFVyeGw0a0ZVOHVEeWRpOTBLUmxic21DYnRuTUJyV1RqU0E3X2Z1aE5DZ2RTWEVFOVNlNXdub3dlVkhjRXo4cWkwVl9odXJIVEpoeUtKcUlUVWg2eE1IOWZoUA?oc=5\" target=\"_blank\">〈Leader's Voice〉車プラグ、EVシフトでも減らない 日本特殊陶業 鈴木啓司社長</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+            "site_name": "日本経済新聞"
+        },
+        {
+            "id": 295158,
+            "title": "いすゞと横浜市、バッテリー交換式「EVごみ収集車」実証実験…約3分でバッテリー交換完了 1枚目の写真・画像 - CAR CARE PLUS",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnUlBiUzVyZWc1Vk9IcUhZbzdHckQ1SjFTTXpDQ3Z6emQ0QXEzVTN4b2VSY2lUbGQ3VllaTG11TndOaENhdG95eXB4ZDlhT002N3dXX3pXNENpM3VVVjRpNnJEby1hTnFQb3YwYktKaDA?oc=5",
+            "published": "Sun, 28 Jun 2026 21:00:03 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBnUlBiUzVyZWc1Vk9IcUhZbzdHckQ1SjFTTXpDQ3Z6emQ0QXEzVTN4b2VSY2lUbGQ3VllaTG11TndOaENhdG95eXB4ZDlhT002N3dXX3pXNENpM3VVVjRpNnJEby1hTnFQb3YwYktKaDA?oc=5\" target=\"_blank\">いすゞと横浜市、バッテリー交換式「EVごみ収集車」実証実験…約3分でバッテリー交換完了 1枚目の写真・画像</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CAR CARE PLUS</font>",
+            "site_name": "CAR CARE PLUS"
+        },
+        {
+            "id": 29984,
+            "title": "シェル、新たな熱管理設計のコンセプトカー公開 - Economic Media Bulletin Limited (EMB)",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLMGdYSWhIeFZYNWY1OWhDSmFheDh2OHp0RnFDSWhFSER6TkhZWThtQnZnbEtJeHE5TTJBMUhMSmxBM2IwTXNfZWJrWmJVUTgzWW9TY0xsYU1mYlJISWc?oc=5",
+            "published": "Mon, 29 Jun 2026 06:17:16 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLMGdYSWhIeFZYNWY1OWhDSmFheDh2OHp0RnFDSWhFSER6TkhZWThtQnZnbEtJeHE5TTJBMUhMSmxBM2IwTXNfZWJrWmJVUTgzWW9TY0xsYU1mYlJISWc?oc=5\" target=\"_blank\">シェル、新たな熱管理設計のコンセプトカー公開</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Economic Media Bulletin Limited (EMB)</font>",
+            "site_name": "Economic Media Bulletin Limited (EMB)"
+        },
+        {
+            "id": 966992,
+            "title": "準備、現代自動車がPnC充電ネットワークを導入し「EV充電の利便性が向上」 - starnewskorea.com",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdERGVURQdWp4QnFjTlI0NGNmNlh0SXNiSUFsWjJQOE1DMXRTV1NDWS1aUmgwZnFoSFVzTFNXQXV3WldCUTJfOU5hOWtKOTBkYXc2bktrZEhyTHBoYnpvR29hc21aenlsT1VUdEY5WEhTV3lHRnNXRzlqZHAtUm5xOVNqZw?oc=5",
+            "published": "Mon, 29 Jun 2026 00:47:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNdERGVURQdWp4QnFjTlI0NGNmNlh0SXNiSUFsWjJQOE1DMXRTV1NDWS1aUmgwZnFoSFVzTFNXQXV3WldCUTJfOU5hOWtKOTBkYXc2bktrZEhyTHBoYnpvR29hc21aenlsT1VUdEY5WEhTV3lHRnNXRzlqZHAtUm5xOVNqZw?oc=5\" target=\"_blank\">準備、現代自動車がPnC充電ネットワークを導入し「EV充電の利便性が向上」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">starnewskorea.com</font>",
+            "site_name": "starnewskorea.com"
+        },
+        {
+            "id": 787031,
+            "title": "【山形イベント情報 7/4-5】「YAMAGATA EV CAR FAIR 2026」開催！メーカー最新モデルの展示・試乗会も - やまがたぐらし",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lb19zRXFqUzFRc3FQSnhuR1pBMl9aMGM4bk9IbU1KQVNqVWt4V2oxbllwb01IYjRlN04tR0NCV1U2ZDNIYTZhUENOOWhoUWJlNTY4dXpPdnE3RHJWMldtdUhCc1hVNU41a3c?oc=5",
+            "published": "Sun, 28 Jun 2026 22:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5lb19zRXFqUzFRc3FQSnhuR1pBMl9aMGM4bk9IbU1KQVNqVWt4V2oxbllwb01IYjRlN04tR0NCV1U2ZDNIYTZhUENOOWhoUWJlNTY4dXpPdnE3RHJWMldtdUhCc1hVNU41a3c?oc=5\" target=\"_blank\">【山形イベント情報 7/4-5】「YAMAGATA EV CAR FAIR 2026」開催！メーカー最新モデルの展示・試乗会も</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">やまがたぐらし</font>",
+            "site_name": "やまがたぐらし"
+        },
+        {
+            "id": 90966,
+            "title": "“免許返納後の移動問題”これで解決!? 「免許なし」「車検なし」「新車54万円」で荷物も運べる！ “クルマを手放した親世代”に教えたい4輪EV「ブレイズ イーカーゴ」福井で体験試乗会（月刊自家用車WEB） | 自動車情報・ニュース - carview!",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWGQzYjNyNFJxY1dlZzNwaDBaWFA2VU1FNTNOTi1jWUhiYzVLRkhpaFVXTTRMTFJBa1Jrd0hPZ2VZM3E2dWpmenJkZnBTak9TMWlYVFRUVGRaNkUxTHVwU3lyQmV5NHRZaDVIeGJOQmN1U3pxY1ZJNFdwbTM1OVNuZ09LcXJta3Nr?oc=5",
+            "published": "Mon, 29 Jun 2026 02:40:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWGQzYjNyNFJxY1dlZzNwaDBaWFA2VU1FNTNOTi1jWUhiYzVLRkhpaFVXTTRMTFJBa1Jrd0hPZ2VZM3E2dWpmenJkZnBTak9TMWlYVFRUVGRaNkUxTHVwU3lyQmV5NHRZaDVIeGJOQmN1U3pxY1ZJNFdwbTM1OVNuZ09LcXJta3Nr?oc=5\" target=\"_blank\">“免許返納後の移動問題”これで解決!? 「免許なし」「車検なし」「新車54万円」で荷物も運べる！ “クルマを手放した親世代”に教えたい4輪EV「ブレイズ イーカーゴ」福井で体験試乗会（月刊自家用車WEB） | 自動車情報・ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carview!</font>",
+            "site_name": "carview!"
+        },
+        {
+            "id": 741700,
+            "title": "「制度のバグとしか思えない…」東京都が補助金をさらに上乗せ、総額220万に！【ホンダ・スーパーワンなら実質負担は120万切りへ】（月刊自家用車WEB） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmM2YkdIZllZOGZPUkpRbVZjQkJETjRPVDRKcEJBTlhhUFFESm1tWTJoSjJEbG5XalFqbXVZN2xPTjNFczdINllTV2F0ek9HclN4WnRjSkhVdTQzRHNqNzJfNi1iQ2UzdjFZSGRWaW9HenJwVTFUS2w0QzY1ME0?oc=5",
+            "published": "Mon, 29 Jun 2026 05:50:44 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9nWmM2YkdIZllZOGZPUkpRbVZjQkJETjRPVDRKcEJBTlhhUFFESm1tWTJoSjJEbG5XalFqbXVZN2xPTjNFczdINllTV2F0ek9HclN4WnRjSkhVdTQzRHNqNzJfNi1iQ2UzdjFZSGRWaW9HenJwVTFUS2w0QzY1ME0?oc=5\" target=\"_blank\">「制度のバグとしか思えない…」東京都が補助金をさらに上乗せ、総額220万に！【ホンダ・スーパーワンなら実質負担は120万切りへ】（月刊自家用車WEB）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 350347,
+            "title": "FUTA EV PowerとBYD Auto Vietnamは、ベトナムにおける環境に優しい交通手段の促進を目指し、電気自動車充電インフラの開発に関する協力協定を締結した。 - Vietnam.vn",
+            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObm5QVWE5eHVXemkxZHFGLTI5NGd1WlQ2NTFDZi10Q1lvWVFDb0E4UUt5OEZkNUVBanBlckIwQXNndjNVZ2ZDeTEwbkRaVmVDTXdrS0JwNlVHdEN3aVRZcDRfeWctN3lVaG5uby1DNkZTcGZVb1B1c0tTX0RnWmtZY2paQjMxYUFPR2Z2MllFMDlqblhQUl9wNm1vOXd1a1E1Rnl5dllNdVBTek1vMmVWLUF6TXRWcEFMZFVwUUNRRlNZSVZDdS1pcU1ZaURZMUFuMV9McHlGYzhYS3Zz?oc=5",
+            "published": "Mon, 29 Jun 2026 04:58:35 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxObm5QVWE5eHVXemkxZHFGLTI5NGd1WlQ2NTFDZi10Q1lvWVFDb0E4UUt5OEZkNUVBanBlckIwQXNndjNVZ2ZDeTEwbkRaVmVDTXdrS0JwNlVHdEN3aVRZcDRfeWctN3lVaG5uby1DNkZTcGZVb1B1c0tTX0RnWmtZY2paQjMxYUFPR2Z2MllFMDlqblhQUl9wNm1vOXd1a1E1Rnl5dllNdVBTek1vMmVWLUF6TXRWcEFMZFVwUUNRRlNZSVZDdS1pcU1ZaURZMUFuMV9McHlGYzhYS3Zz?oc=5\" target=\"_blank\">FUTA EV PowerとBYD Auto Vietnamは、ベトナムにおける環境に優しい交通手段の促進を目指し、電気自動車充電インフラの開発に関する協力協定を締結した。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+            "site_name": "Vietnam.vn"
+        },
+        {
+            "id": 19026,
+            "title": "EVバッテリー寿命予測診断の実証実験開始 - ニコニコニュース",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XbXpsaXBJQ0JtSWNfMnEyU0F1STR4eGJTU0JjVXJtLVJ3Ukx1VjVZWEFVdTZSNkFHMlJxVDB3STFoUTNpa3hDc1lxenBWVHV4T09HMlFCMWtHYW41d2xnQVoxVFR4M3kwbVBiQTR6enNIN1p3R1R4M09FOA?oc=5",
+            "published": "Mon, 29 Jun 2026 06:30:34 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1XbXpsaXBJQ0JtSWNfMnEyU0F1STR4eGJTU0JjVXJtLVJ3Ukx1VjVZWEFVdTZSNkFHMlJxVDB3STFoUTNpa3hDc1lxenBWVHV4T09HMlFCMWtHYW41d2xnQVoxVFR4M3kwbVBiQTR6enNIN1p3R1R4M09FOA?oc=5\" target=\"_blank\">EVバッテリー寿命予測診断の実証実験開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+            "site_name": "ニコニコニュース"
+        },
+        {
+            "id": 760565,
+            "title": "吉利傘下のロータスＥＶ、7月中にカナダ到着見込み＝中国大 - ｄメニューニュース",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYnV4ZXFWUmIzd0dsQWpScGtoM2lGdy1aRHl3cnE1TUZNcGRWNW0wU09rZUNvbzNNNWp2SW1MUEs5OE9JNlZ6Uk1nYWZVR2JGRFFuODZqcjZyYTNjaFIzSFJyd25Hc2JsMG9rWUtUQTVPa29qM0pnUU1RNFFlVG9yVkl2WVlkWUdrOUx30gGHAUFVX3lxTE9zbXo5dGFmbXAzZzRnMk5zdUJXN1duakdRS1N1T3AtQy1OYW5vbE1tbk1FNVJ6N1RpYm1senJsOWZFcDFPV0ZrUEl6aDc1UUJlUTlZYk1NSGEwdkJueEgtejN4SWlsQ1hYS2NCeGNwZEU2VURFek5ucnpWajlRVnM3VW5kQ2czQQ?oc=5",
+            "published": "Mon, 29 Jun 2026 02:18:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYnV4ZXFWUmIzd0dsQWpScGtoM2lGdy1aRHl3cnE1TUZNcGRWNW0wU09rZUNvbzNNNWp2SW1MUEs5OE9JNlZ6Uk1nYWZVR2JGRFFuODZqcjZyYTNjaFIzSFJyd25Hc2JsMG9rWUtUQTVPa29qM0pnUU1RNFFlVG9yVkl2WVlkWUdrOUx30gGHAUFVX3lxTE9zbXo5dGFmbXAzZzRnMk5zdUJXN1duakdRS1N1T3AtQy1OYW5vbE1tbk1FNVJ6N1RpYm1senJsOWZFcDFPV0ZrUEl6aDc1UUJlUTlZYk1NSGEwdkJueEgtejN4SWlsQ1hYS2NCeGNwZEU2VURFek5ucnpWajlRVnM3VW5kQ2czQQ?oc=5\" target=\"_blank\">吉利傘下のロータスＥＶ、7月中にカナダ到着見込み＝中国大</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
+            "site_name": "ｄメニューニュース"
+        },
+        {
             "id": 227726,
             "title": "福岡や愛媛がＥＶ電池再生後押し レアメタル確保へ - 化学工業日報 電子版",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5abFhPNzQ2SGloMmdfSURYcGNSR1BBaDAyNFJ1TDE0S2ZOcG42cG12TGhNRGhFMHRtSGU1bzFmakJheUc2ZWZYZjB4Zk82SXQ1T2U0?oc=5",
@@ -403,12 +611,140 @@
             "site_name": "化学工業日報 電子版"
         },
         {
-            "id": 370158,
-            "title": "スズキがＥＶ初投入、ｅビターラ発売 - nna.jp",
-            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4zU0xyU0NqNFNLQ3l0YmJ6ZTNOeHI1VlFPWHQ1elFpai1LdXpMREZtelppNl9wSS1aekFLSkszQkd1T2dMdlE?oc=5",
-            "published": "Sun, 28 Jun 2026 15:00:00 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE4zU0xyU0NqNFNLQ3l0YmJ6ZTNOeHI1VlFPWHQ1elFpai1LdXpMREZtelppNl9wSS1aekFLSkszQkd1T2dMdlE?oc=5\" target=\"_blank\">スズキがＥＶ初投入、ｅビターラ発売</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nna.jp</font>",
-            "site_name": "nna.jp"
+            "id": 392866,
+            "title": "モバイル市場で磨き上げた小型化・高信頼性技術をベースにした次世代FPCコネクターが、EV設計における課題の解決に貢献 - マイナビニュース",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUZXliTDF0Si1BSm9XamNpYUx2OG96VlptWHpzd1lpY2tuNFZRLV9FT29odmFZUHpHSkU2YUlTZjlCRDNQWjVvQjFTWFBiMHhkTWdYR2pnVDdGRHUwMVA4c1RBNmFfZFU?oc=5",
+            "published": "Mon, 29 Jun 2026 01:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUZXliTDF0Si1BSm9XamNpYUx2OG96VlptWHpzd1lpY2tuNFZRLV9FT29odmFZUHpHSkU2YUlTZjlCRDNQWjVvQjFTWFBiMHhkTWdYR2pnVDdGRHUwMVA4c1RBNmFfZFU?oc=5\" target=\"_blank\">モバイル市場で磨き上げた小型化・高信頼性技術をベースにした次世代FPCコネクターが、EV設計における課題の解決に貢献</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">マイナビニュース</font>",
+            "site_name": "マイナビニュース"
+        },
+        {
+            "id": 831703,
+            "title": "レクサス「新型ラージセダン」発売に反響殺到！ 初の「BEV」設定＆\"驚きの価格\"に「LS消える!?」の声も 8年ぶり全面刷新の新型「ES」登場に寄せられた\"熱視線\"とは - くるまのニュース",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9la19sV0I0SW9sRWE3UDZudUNmQ2RPeEhZQUljUmlLNUtWbG9nQlRqMXFTaDdNZF8wbk1HUWdCaEVoZ0dmTFlrYlpLVQ?oc=5",
+            "published": "Mon, 29 Jun 2026 08:10:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE9la19sV0I0SW9sRWE3UDZudUNmQ2RPeEhZQUljUmlLNUtWbG9nQlRqMXFTaDdNZF8wbk1HUWdCaEVoZ0dmTFlrYlpLVQ?oc=5\" target=\"_blank\">レクサス「新型ラージセダン」発売に反響殺到！ 初の「BEV」設定＆\"驚きの価格\"に「LS消える!?」の声も 8年ぶり全面刷新の新型「ES」登場に寄せられた\"熱視線\"とは</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">くるまのニュース</font>",
+            "site_name": "くるまのニュース"
+        },
+        {
+            "id": 594821,
+            "title": "駐カナダ中国大使「ロータスのEVが7月にカナダに到着」―中国メディア - Record China",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZY3Z6N1pQbEpjOGZYdUhqelFYRTJkSzdXU1RjVkliRmVGR01JU3lqZ2kyZ0w5REpJNW9PckUzTG9qZXRYam4yc2J0TVZEbUZ4RFZMRmRyLUoydFhRMEMtLTJyNDY1cGtXT1lj?oc=5",
+            "published": "Sun, 28 Jun 2026 23:30:01 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZY3Z6N1pQbEpjOGZYdUhqelFYRTJkSzdXU1RjVkliRmVGR01JU3lqZ2kyZ0w5REpJNW9PckUzTG9qZXRYam4yc2J0TVZEbUZ4RFZMRmRyLUoydFhRMEMtLTJyNDY1cGtXT1lj?oc=5\" target=\"_blank\">駐カナダ中国大使「ロータスのEVが7月にカナダに到着」―中国メディア</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Record China</font>",
+            "site_name": "Record China"
+        },
+        {
+            "id": 625159,
+            "title": "“免許返納後の移動問題”これで解決!? 「免許なし」「車検なし」「新車54万円」で荷物も運べる！ “クルマを手放した親世代”に教えたい4輪EV「ブレイズ イーカーゴ」福井で体験試乗会 - 月刊自家用車WEB",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XNmdIY0ZtVk1RbXd0bFRzTUlmQkxUVlBEZ0R5WmRzTzFDWnZOcFRwSzR0VXZha2NBYXAzZjN6b1c3djE3UGFnbkRaOUNCSzd2?oc=5",
+            "published": "Mon, 29 Jun 2026 02:30:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XNmdIY0ZtVk1RbXd0bFRzTUlmQkxUVlBEZ0R5WmRzTzFDWnZOcFRwSzR0VXZha2NBYXAzZjN6b1c3djE3UGFnbkRaOUNCSzd2?oc=5\" target=\"_blank\">“免許返納後の移動問題”これで解決!? 「免許なし」「車検なし」「新車54万円」で荷物も運べる！ “クルマを手放した親世代”に教えたい4輪EV「ブレイズ イーカーゴ」福井で体験試乗会</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">月刊自家用車WEB</font>",
+            "site_name": "月刊自家用車WEB"
+        },
+        {
+            "id": 413191,
+            "title": "日産「e-POWER」搭載車約60万台がリコール、「ノート」「エクストレイル」など：電動化 - MONOist",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkUTF2ZG9vZEJMUWs5WU40WUt1c05EWjFDOFdDZmNGakhFU2lUTWZyTlBrQTQwclNmbkJSN2FfcldsTUFTbnJEUUV4TEVLdFVrQ2lmQ1poT1VJQjU4NXBhbkFSWVc0WHgxUE9BRkJnQQ?oc=5",
+            "published": "Sun, 28 Jun 2026 21:45:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBkUTF2ZG9vZEJMUWs5WU40WUt1c05EWjFDOFdDZmNGakhFU2lUTWZyTlBrQTQwclNmbkJSN2FfcldsTUFTbnJEUUV4TEVLdFVrQ2lmQ1poT1VJQjU4NXBhbkFSWVc0WHgxUE9BRkJnQQ?oc=5\" target=\"_blank\">日産「e-POWER」搭載車約60万台がリコール、「ノート」「エクストレイル」など：電動化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MONOist</font>",
+            "site_name": "MONOist"
+        },
+        {
+            "id": 115578,
+            "title": "日本車の十八番を奪われた!? BYDの最新EV「シーライオン7」に宿る「気遣い」の精神【Key’s note】 - Auto Messe Web",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yOGRlbHYwSzlaUHNUdnVXb0FObUFHQjNfTzlrZXV3bExnMk5QWDRHckRMOFlfdTFLSGpEbTQtMzE3bFpnQWdyT3R3VDRVOGtRRHpYQVo0RVRBUdIBX0FVX3lxTFA4Z3lpeXczWjM4NEtnb3dIM2JFSGtkRUo5MU1SbHhjQXJWc2QzbWJScUhvMjNYMXZueGZoSDk1cUVuTnJVTDVkcWFsNkdVVnZIZmY1Rkg3amZGcHphZmhN?oc=5",
+            "published": "Sun, 28 Jun 2026 13:19:54 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yOGRlbHYwSzlaUHNUdnVXb0FObUFHQjNfTzlrZXV3bExnMk5QWDRHckRMOFlfdTFLSGpEbTQtMzE3bFpnQWdyT3R3VDRVOGtRRHpYQVo0RVRBUdIBX0FVX3lxTFA4Z3lpeXczWjM4NEtnb3dIM2JFSGtkRUo5MU1SbHhjQXJWc2QzbWJScUhvMjNYMXZueGZoSDk1cUVuTnJVTDVkcWFsNkdVVnZIZmY1Rkg3amZGcHphZmhN?oc=5\" target=\"_blank\">日本車の十八番を奪われた!? BYDの最新EV「シーライオン7」に宿る「気遣い」の精神【Key’s note】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Auto Messe Web</font>",
+            "site_name": "Auto Messe Web"
+        },
+        {
+            "id": 282860,
+            "title": "EVバッテリー寿命予測診断の実証実験開始 - Excite エキサイト",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZdnhNVE94QmFDWDRKOEl0SnBSOXNFdzBIQjh3N1RENWVCRDQzcnZuRnVUc2ptTzZnQ25Ka0wwQ0oyMlZyaWxkQkI2eUVmQjRULXNBXzc1MWZ6a1hFa1BSVmNXLWVwQ0QzeENrRHFn?oc=5",
+            "published": "Mon, 29 Jun 2026 02:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZdnhNVE94QmFDWDRKOEl0SnBSOXNFdzBIQjh3N1RENWVCRDQzcnZuRnVUc2ptTzZnQ25Ka0wwQ0oyMlZyaWxkQkI2eUVmQjRULXNBXzc1MWZ6a1hFa1BSVmNXLWVwQ0QzeENrRHFn?oc=5\" target=\"_blank\">EVバッテリー寿命予測診断の実証実験開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Excite エキサイト</font>",
+            "site_name": "Excite エキサイト"
+        },
+        {
+            "id": 337317,
+            "title": "編集者の視点 ｢ステランティスと日産､マレリの資産買収｣ - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBMDBrV2FPTWV3Q0ZYYVpxQUxaVkdwS01EQ2o0MndpRDQ1NWpvZEpBNGt2ZnFiQmVqajFVcUd3aTI5alhqemhFM3hmQU9CLWQ4T1JDTlF2clQyV3pBT3pyQzhSY21jaFJsRElUS0dvaDdQcHJ4RVlFOTZlLWtTWFE?oc=5",
+            "published": "Sun, 28 Jun 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBBMDBrV2FPTWV3Q0ZYYVpxQUxaVkdwS01EQ2o0MndpRDQ1NWpvZEpBNGt2ZnFiQmVqajFVcUd3aTI5alhqemhFM3hmQU9CLWQ4T1JDTlF2clQyV3pBT3pyQzhSY21jaFJsRElUS0dvaDdQcHJ4RVlFOTZlLWtTWFE?oc=5\" target=\"_blank\">編集者の視点 ｢ステランティスと日産､マレリの資産買収｣</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+            "site_name": "日本経済新聞"
+        },
+        {
+            "id": 847911,
+            "title": "なぜ中国電池大手は56億ドルを「モロッコ」へ投じるのか？ 欧州EV産業の拠点再編、世界の供給網が変わり始める - carview!",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ0JmTEtRNUlydGdOS1pIWkN0Mm9hTmN4LWpTQmp2anItem5qZjlJMGNNVV9SbGt0TmFwdHNma1BKMHZlbmp1MWZ6ZVhoUklyYWE0bndaTGRXMEx5RmxBN0FMQmZUdDJmQnk5c1lzRVFsV3N5TlctSjB3TEpfSlI0Vzd0RHpocm5FNzE5UC1UdXFBNUhN?oc=5",
+            "published": "Sun, 28 Jun 2026 22:20:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ0JmTEtRNUlydGdOS1pIWkN0Mm9hTmN4LWpTQmp2anItem5qZjlJMGNNVV9SbGt0TmFwdHNma1BKMHZlbmp1MWZ6ZVhoUklyYWE0bndaTGRXMEx5RmxBN0FMQmZUdDJmQnk5c1lzRVFsV3N5TlctSjB3TEpfSlI0Vzd0RHpocm5FNzE5UC1UdXFBNUhN?oc=5\" target=\"_blank\">なぜ中国電池大手は56億ドルを「モロッコ」へ投じるのか？ 欧州EV産業の拠点再編、世界の供給網が変わり始める</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carview!</font>",
+            "site_name": "carview!"
+        },
+        {
+            "id": 131746,
+            "title": "なぜ中国電池大手は56億ドルを「モロッコ」へ投じるのか？ 欧州EV産業の拠点再編、世界の供給網が変わり始める (Merkmal) - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNmt1UkpQVjJoYlU4ZloyQnNMN2lqdkVJTWR1QjVhNk5qcG1QeXVKa3Rmc0tFcDhiZUIxc3ctcWJQTHFoVVpMSjdWaGRqNEtWWndoOURsR3praXZqTnhsWVo2LUk5RFh6ODRySzhGbXlCSTB3U21URm8yUlB2ZjA3ZGtQaDBPZ2ZSdklNVzV3?oc=5",
+            "published": "Sun, 28 Jun 2026 22:20:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQNmt1UkpQVjJoYlU4ZloyQnNMN2lqdkVJTWR1QjVhNk5qcG1QeXVKa3Rmc0tFcDhiZUIxc3ctcWJQTHFoVVpMSjdWaGRqNEtWWndoOURsR3praXZqTnhsWVo2LUk5RFh6ODRySzhGbXlCSTB3U21URm8yUlB2ZjA3ZGtQaDBPZ2ZSdklNVzV3?oc=5\" target=\"_blank\">なぜ中国電池大手は56億ドルを「モロッコ」へ投じるのか？ 欧州EV産業の拠点再編、世界の供給網が変わり始める (Merkmal)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 9489,
+            "title": "eMotion Fleetが日産自動車と協業し、中古EVの法人向け販売を強化する取り組み - ニュースメディアVOIX",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tS09oZUZOQnprY2Y2Yy1JOC13OUtSQ2x4d2psNWxYMXk4clJUcWZCaE1EekFORm1QalFCX3dFengxcGIwLWhXc1BjOFVDN3dlTlE0YnZWdHExRF8tUllfLVZDZjFPLWRwbHczeGxCQlk3N2VD?oc=5",
+            "published": "Mon, 29 Jun 2026 04:26:01 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9tS09oZUZOQnprY2Y2Yy1JOC13OUtSQ2x4d2psNWxYMXk4clJUcWZCaE1EekFORm1QalFCX3dFengxcGIwLWhXc1BjOFVDN3dlTlE0YnZWdHExRF8tUllfLVZDZjFPLWRwbHczeGxCQlk3N2VD?oc=5\" target=\"_blank\">eMotion Fleetが日産自動車と協業し、中古EVの法人向け販売を強化する取り組み</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースメディアVOIX</font>",
+            "site_name": "ニュースメディアVOIX"
+        },
+        {
+            "id": 331084,
+            "title": "EVバッテリー寿命予測診断の実証実験開始 - Excite エキサイト",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ocm05ZllOV25WM1FOUWp1d3VncWN1UTJ4THVEVWUwWnpXeUhEMXUyeEhTbC1mQVp0M3pMaHl0S3M4OEViTmdNZllidXBMc1J1dXplOXl3RDlsZmVIbzVzSF9CQ0NsZk1MNGMtdnR3?oc=5",
+            "published": "Mon, 29 Jun 2026 02:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5ocm05ZllOV25WM1FOUWp1d3VncWN1UTJ4THVEVWUwWnpXeUhEMXUyeEhTbC1mQVp0M3pMaHl0S3M4OEViTmdNZllidXBMc1J1dXplOXl3RDlsZmVIbzVzSF9CQ0NsZk1MNGMtdnR3?oc=5\" target=\"_blank\">EVバッテリー寿命予測診断の実証実験開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Excite エキサイト</font>",
+            "site_name": "Excite エキサイト"
+        },
+        {
+            "id": 806941,
+            "title": "高級電気自動車の世界市場（2026年～2032年）、市場規模（セダン、SUV）・分析レポートを発表 - アットプレス",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfMWFaSHEzRzdpSjg2VFZlcUc2WGphUUg4QXBadUYyeF9Qd3VSZldhTkt3RkcyRUJnVU00RlJRY0xxcm1TdERkQThsV21ZekE?oc=5",
+            "published": "Mon, 29 Jun 2026 00:30:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfMWFaSHEzRzdpSjg2VFZlcUc2WGphUUg4QXBadUYyeF9Qd3VSZldhTkt3RkcyRUJnVU00RlJRY0xxcm1TdERkQThsV21ZekE?oc=5\" target=\"_blank\">高級電気自動車の世界市場（2026年～2032年）、市場規模（セダン、SUV）・分析レポートを発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">アットプレス</font>",
+            "site_name": "アットプレス"
+        },
+        {
+            "id": 323624,
+            "title": "イケオジ熱視線。ガチ買い候補の新型アウディQ3に乗ってみた結果…… - FORZA STYLE",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUeDFXdU1ja2Q1cjF3Z2NSWklXT18zLXI3NDlsRldIbzJwcGZLcGdpR1k2MFgtbC1GekxFUld5cnJzTnhZMGEtdDhkSXQxdWVi?oc=5",
+            "published": "Mon, 29 Jun 2026 11:03:45 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUeDFXdU1ja2Q1cjF3Z2NSWklXT18zLXI3NDlsRldIbzJwcGZLcGdpR1k2MFgtbC1GekxFUld5cnJzTnhZMGEtdDhkSXQxdWVi?oc=5\" target=\"_blank\">イケオジ熱視線。ガチ買い候補の新型アウディQ3に乗ってみた結果……</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FORZA STYLE</font>",
+            "site_name": "FORZA STYLE"
+        },
+        {
+            "id": 288039,
+            "title": "災害時電力供給で連携協定 境港市と「ＢＹＤ ＡＵＴＯ山陰」 - nnn.co.jp",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kWXYxZDlidEFCMGt5cDdtbUVhVjdLeWZELVdhVF9HV1BWRVVMU2lKU1lfaXN3Z2VrTmhoZ1lYR21PZzJtQTNoZnV0aW0zUVk5?oc=5",
+            "published": "Mon, 29 Jun 2026 05:52:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kWXYxZDlidEFCMGt5cDdtbUVhVjdLeWZELVdhVF9HV1BWRVVMU2lKU1lfaXN3Z2VrTmhoZ1lYR21PZzJtQTNoZnV0aW0zUVk5?oc=5\" target=\"_blank\">災害時電力供給で連携協定 境港市と「ＢＹＤ ＡＵＴＯ山陰」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nnn.co.jp</font>",
+            "site_name": "nnn.co.jp"
+        },
+        {
+            "id": 386309,
+            "title": "トヨタの新ハイラックスはインドネシアで多くの変更で正式に走行し、EVバージョンがあります - VOI.id",
+            "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1EM3FWdnhGazRwR1F2SXY1TTQzN09Pend5Nk5EUXp3clQtaU9BRTlJcjB1NXo2SUdPTjByeHYtVURYQQ?oc=5",
+            "published": "Mon, 29 Jun 2026 07:26:42 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE1EM3FWdnhGazRwR1F2SXY1TTQzN09Pend5Nk5EUXp3clQtaU9BRTlJcjB1NXo2SUdPTjByeHYtVURYQQ?oc=5\" target=\"_blank\">トヨタの新ハイラックスはインドネシアで多くの変更で正式に走行し、EVバージョンがあります</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VOI.id</font>",
+            "site_name": "VOI.id"
+        },
+        {
+            "id": 636409,
+            "title": "ドーガンMGXファンド「AZAPA株式会社」に投資実行および業務提携契約を締結 - ニコニコニュース",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vQzh5bWRscGNtQnhtZm5TcTV0dU93WXFOX2wwYnZwc3NpbTB3eXlOMXZXTWJWM2lMeno5UURIcGVCb3BjdExjNXNhQW14Y09DeGoyWWRpbnE4X1VSa084SmJOZXc5dUdx?oc=5",
+            "published": "Mon, 29 Jun 2026 07:15:25 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vQzh5bWRscGNtQnhtZm5TcTV0dU93WXFOX2wwYnZwc3NpbTB3eXlOMXZXTWJWM2lMeno5UURIcGVCb3BjdExjNXNhQW14Y09DeGoyWWRpbnE4X1VSa084SmJOZXc5dUdx?oc=5\" target=\"_blank\">ドーガンMGXファンド「AZAPA株式会社」に投資実行および業務提携契約を締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
+            "site_name": "ニコニコニュース"
         },
         {
             "id": 12015,
@@ -416,6 +752,38 @@
             "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNTGZUQnJzRUx3aWJPbFhhQWhVVlI5bVBCbEtJVFA1Sk5FNm92UVl6ZDVqUGlkV0YtLWE1ejc5WWh3WkU3UnNSYzB6QkdFRmE5Smd0QnBHTGVndWtUWjUwN0x1MGRVekJ4N3E0SGw5TTN4NG13TF9rQjBsaDR3anZxa3FabVMtbXZ6TEttTl9aUl96Vlo5ZFI5Nk00NVdXd0l1dkgxUG4wRE93bkVkUHNqVG1ZQ0ZCazBGc29IMVlzSjRTdFV4TG9VNHNVMDVwZm54aWtIY3R4Wl9sUWdUaVpuRXNXaXc1Qkl5cW9UbGVfYzZkV2ZEaVIxMDNiTG9kMmxfbDhOSDZlaTdsTzVZX1FSUXJUR2EzaEU4cldGY2IwVTlmNXZQZE1yVW9rRmw4LUF6dE9vSW1YU2NXaGdsblFpQ2FFdVh2VTBpZ1JvWDJoV0MtT2hnMVozcg?oc=5",
             "published": "Sun, 28 Jun 2026 15:02:14 GMT",
             "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AJBVV95cUxNTGZUQnJzRUx3aWJPbFhhQWhVVlI5bVBCbEtJVFA1Sk5FNm92UVl6ZDVqUGlkV0YtLWE1ejc5WWh3WkU3UnNSYzB6QkdFRmE5Smd0QnBHTGVndWtUWjUwN0x1MGRVekJ4N3E0SGw5TTN4NG13TF9rQjBsaDR3anZxa3FabVMtbXZ6TEttTl9aUl96Vlo5ZFI5Nk00NVdXd0l1dkgxUG4wRE93bkVkUHNqVG1ZQ0ZCazBGc29IMVlzSjRTdFV4TG9VNHNVMDVwZm54aWtIY3R4Wl9sUWdUaVpuRXNXaXc1Qkl5cW9UbGVfYzZkV2ZEaVIxMDNiTG9kMmxfbDhOSDZlaTdsTzVZX1FSUXJUR2EzaEU4cldGY2IwVTlmNXZQZE1yVW9rRmw4LUF6dE9vSW1YU2NXaGdsblFpQ2FFdVh2VTBpZ1JvWDJoV0MtT2hnMVozcg?oc=5\" target=\"_blank\">ラグジュアリーミニバンもEVの時代「メルセデス・ベンツ VLE」が生産開始「航続距離700km超」【動画】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 930414,
+            "title": "ベトナムでは、充電ステーション網の拡大を目指し、複数の電気自動車ブランドが提携を結んでいる。 - Vietnam.vn",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc08yZnlTX0ttZWM3Z2ZGUURlMVBaa0FOeVdhZlE4MXd6V3I5NUtpWHVxTFhJVlFfdVVCZWx0MEo2SVhrTDZVYXRxaVFITXJiWlJMbVJ0Slh1T0l5dGc2NlF5M2hRNWZtMTJuVy1jYk5HbXNJVWNySVBjcGRWWWZ2T1VaNV9GcUxEVjBPZjRXWkwxM2M3SkFxb1MwQ28xVHM?oc=5",
+            "published": "Mon, 29 Jun 2026 07:52:27 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNc08yZnlTX0ttZWM3Z2ZGUURlMVBaa0FOeVdhZlE4MXd6V3I5NUtpWHVxTFhJVlFfdVVCZWx0MEo2SVhrTDZVYXRxaVFITXJiWlJMbVJ0Slh1T0l5dGc2NlF5M2hRNWZtMTJuVy1jYk5HbXNJVWNySVBjcGRWWWZ2T1VaNV9GcUxEVjBPZjRXWkwxM2M3SkFxb1MwQ28xVHM?oc=5\" target=\"_blank\">ベトナムでは、充電ステーション網の拡大を目指し、複数の電気自動車ブランドが提携を結んでいる。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+            "site_name": "Vietnam.vn"
+        },
+        {
+            "id": 211860,
+            "title": "“免許返納後の移動問題”これで解決!? 「免許なし」「車検なし」「新車54万円」で荷物も運べる！ “クルマを手放した親世代”に教えたい4輪EV「ブレイズ イーカーゴ」福井で体験試乗会 - 月刊自家用車WEB",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iaWdSdGJnVWhKV2hsaTZZakFuZjVoLTZYS3dJd2EteUpZZGJ3bXY4VGRSenVHNTBaVEhmS0xlSWNmSTRjWC1Da3gwRVZWdHJKajRRalZTOE4zNV90UXZ0aDJB?oc=5",
+            "published": "Mon, 29 Jun 2026 02:30:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iaWdSdGJnVWhKV2hsaTZZakFuZjVoLTZYS3dJd2EteUpZZGJ3bXY4VGRSenVHNTBaVEhmS0xlSWNmSTRjWC1Da3gwRVZWdHJKajRRalZTOE4zNV90UXZ0aDJB?oc=5\" target=\"_blank\">“免許返納後の移動問題”これで解決!? 「免許なし」「車検なし」「新車54万円」で荷物も運べる！ “クルマを手放した親世代”に教えたい4輪EV「ブレイズ イーカーゴ」福井で体験試乗会</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">月刊自家用車WEB</font>",
+            "site_name": "月刊自家用車WEB"
+        },
+        {
+            "id": 167234,
+            "title": "“免許返納後の移動問題”これで解決!? 「免許なし」「車検なし」「新車54万円」で荷物も運べる！ “クルマを手放した親世代”に教えたい4輪EV「ブレイズ イーカーゴ」福井で体験試乗会 - 月刊自家用車WEB",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91UUQwVW5VRkNuUmNHZjNsSHljMWZ5bFB4TXhzRVJPVXgzeVpmX2UyVDc0TnlEYmFHR0ZocGRlb2VEdG5HMG5rNkZJSDV2ME5Od1ZCWHZ2Q1lBNnVqYlJ2TzJn?oc=5",
+            "published": "Mon, 29 Jun 2026 02:30:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE91UUQwVW5VRkNuUmNHZjNsSHljMWZ5bFB4TXhzRVJPVXgzeVpmX2UyVDc0TnlEYmFHR0ZocGRlb2VEdG5HMG5rNkZJSDV2ME5Od1ZCWHZ2Q1lBNnVqYlJ2TzJn?oc=5\" target=\"_blank\">“免許返納後の移動問題”これで解決!? 「免許なし」「車検なし」「新車54万円」で荷物も運べる！ “クルマを手放した親世代”に教えたい4輪EV「ブレイズ イーカーゴ」福井で体験試乗会</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">月刊自家用車WEB</font>",
+            "site_name": "月刊自家用車WEB"
+        },
+        {
+            "id": 387147,
+            "title": "HONDA_SUPER ONE_EXTERIOR_1 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BUlpDdF9EUS1FMnlQNUtRVmVaSHM2b1BONHF4SGpHS05hODVTcmZOYjlURWRGSUZQa0hJZHZTNlI3bWNkVE9MWVpOS2F1bTZHaVZYQ1N4TWwxSDZXd045UFFvY0dnWlNUcGt1OHMzQ2IxUQ?oc=5",
+            "published": "Mon, 29 Jun 2026 00:33:47 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9BUlpDdF9EUS1FMnlQNUtRVmVaSHM2b1BONHF4SGpHS05hODVTcmZOYjlURWRGSUZQa0hJZHZTNlI3bWNkVE9MWVpOS2F1bTZHaVZYQ1N4TWwxSDZXd045UFFvY0dnWlNUcGt1OHMzQ2IxUQ?oc=5\" target=\"_blank\">HONDA_SUPER ONE_EXTERIOR_1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
             "site_name": "Motor Fan"
         },
         {
@@ -427,244 +795,12 @@
             "site_name": "佐賀新聞"
         },
         {
-            "id": 811833,
-            "title": "欧州主要5カ国でEVが大幅増、HEVが減少 - 日経クロステック",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xQlc0TklpQ05KR3poY3NIUm11SFloWXVtNDFoc05fQW41cHZxQ3JNSTBtTldEXzRfdS1lSDJQNDdsTXlLbWFRMUVWZy13QmlYY0hoOFp4c3ludnBERmVuZ1RxcUItV1BnYU5IYQ?oc=5",
-            "published": "Sun, 28 Jun 2026 20:00:00 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE4xQlc0TklpQ05KR3poY3NIUm11SFloWXVtNDFoc05fQW41cHZxQ3JNSTBtTldEXzRfdS1lSDJQNDdsTXlLbWFRMUVWZy13QmlYY0hoOFp4c3ludnBERmVuZ1RxcUItV1BnYU5IYQ?oc=5\" target=\"_blank\">欧州主要5カ国でEVが大幅増、HEVが減少</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経クロステック</font>",
-            "site_name": "日経クロステック"
-        },
-        {
-            "id": 500185,
-            "title": "日本車の十八番を奪われた!? BYDの最新EV「シーライオン7」に宿る「気遣い」の精神【Key’s note】（Auto Messe Web） - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoempaLVZCZUZmNFFfNGpnbnYxWXpoQWZzQmZGNGtOMXViR2pGYUR6Z0tWRlFrWWZwUnZzcGxHcU5UZTR1VTYxMUJXSHV1TXRpZ2hKMnhmZUhDRmVwR3RmcHk5NTNfRVhYLVoxdTd6UHlTZnFQVmFWMklkQURvTjg?oc=5",
-            "published": "Sun, 28 Jun 2026 12:10:56 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBoempaLVZCZUZmNFFfNGpnbnYxWXpoQWZzQmZGNGtOMXViR2pGYUR6Z0tWRlFrWWZwUnZzcGxHcU5UZTR1VTYxMUJXSHV1TXRpZ2hKMnhmZUhDRmVwR3RmcHk5NTNfRVhYLVoxdTd6UHlTZnFQVmFWMklkQURvTjg?oc=5\" target=\"_blank\">日本車の十八番を奪われた!? BYDの最新EV「シーライオン7」に宿る「気遣い」の精神【Key’s note】（Auto Messe Web）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-            "site_name": "Yahoo!ニュース"
-        },
-        {
-            "id": 337317,
-            "title": "編集者の視点 ｢ステランティスと日産､マレリの資産買収｣ - 日本経済新聞",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBMDBrV2FPTWV3Q0ZYYVpxQUxaVkdwS01EQ2o0MndpRDQ1NWpvZEpBNGt2ZnFiQmVqajFVcUd3aTI5alhqemhFM3hmQU9CLWQ4T1JDTlF2clQyV3pBT3pyQzhSY21jaFJsRElUS0dvaDdQcHJ4RVlFOTZlLWtTWFE?oc=5",
-            "published": "Sun, 28 Jun 2026 20:00:00 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBBMDBrV2FPTWV3Q0ZYYVpxQUxaVkdwS01EQ2o0MndpRDQ1NWpvZEpBNGt2ZnFiQmVqajFVcUd3aTI5alhqemhFM3hmQU9CLWQ4T1JDTlF2clQyV3pBT3pyQzhSY21jaFJsRElUS0dvaDdQcHJ4RVlFOTZlLWtTWFE?oc=5\" target=\"_blank\">編集者の視点 ｢ステランティスと日産､マレリの資産買収｣</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-            "site_name": "日本経済新聞"
-        },
-        {
-            "id": 550787,
-            "title": "日本車の十八番を奪われた!? BYDの最新EV「シーライオン7」に宿る「気遣い」の精神【Key’s note】 (Auto Messe Web) - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNE1FemdyU204Z2IzbVVXX0RvZ2tzbHdPbzZiRkp1Z1hEVldJS1NJa05kR0dGdF8xUUhMbFh1NXFWUFRfYk1hR1R5R0pBUlZUUEFVRkhxRG9hTG9GZVlqLVlsMmNBLU5QM3JlQUNNaThWcDF4cXZ0LVdPSUFDbXFxNWRIanpERDh3RWUxdkFR?oc=5",
-            "published": "Sun, 28 Jun 2026 12:10:56 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNNE1FemdyU204Z2IzbVVXX0RvZ2tzbHdPbzZiRkp1Z1hEVldJS1NJa05kR0dGdF8xUUhMbFh1NXFWUFRfYk1hR1R5R0pBUlZUUEFVRkhxRG9hTG9GZVlqLVlsMmNBLU5QM3JlQUNNaThWcDF4cXZ0LVdPSUFDbXFxNWRIanpERDh3RWUxdkFR?oc=5\" target=\"_blank\">日本車の十八番を奪われた!? BYDの最新EV「シーライオン7」に宿る「気遣い」の精神【Key’s note】 (Auto Messe Web)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-            "site_name": "Yahoo!ニュース"
-        },
-        {
-            "id": 159618,
-            "title": "日本車の十八番を奪われた!? BYDの最新EV「シーライオン7」に宿る「気遣い」の精神【Key’s note】 - carview!",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOWR5cWV6djZlOThhMUUtV00xX2VvaFpHdU5zeVV5M2QtZ0xJSGlLQWZpdHBwc1VMeHUyT0FmTHNkaHBkQXVjVzdjT2ZPaUlweG91Y2d4TF93SHZ6MkhKMFBtVVhEVXY0UWpqczljTVhybEZBcnBYbzJ1dF9KanlKTmxzQ3d6WW1RNmgxNEh2eDZxNDB2?oc=5",
-            "published": "Sun, 28 Jun 2026 12:02:40 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNOWR5cWV6djZlOThhMUUtV00xX2VvaFpHdU5zeVV5M2QtZ0xJSGlLQWZpdHBwc1VMeHUyT0FmTHNkaHBkQXVjVzdjT2ZPaUlweG91Y2d4TF93SHZ6MkhKMFBtVVhEVXY0UWpqczljTVhybEZBcnBYbzJ1dF9KanlKTmxzQ3d6WW1RNmgxNEh2eDZxNDB2?oc=5\" target=\"_blank\">日本車の十八番を奪われた!? BYDの最新EV「シーライオン7」に宿る「気遣い」の精神【Key’s note】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carview!</font>",
-            "site_name": "carview!"
-        },
-        {
-            "id": 516514,
-            "title": "【写真・画像】ＥＶ戦略見直し、損失約１２兆円 日米欧メーカー、中国と差拡大も | | 全国のニュース - 佐賀新聞",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5yQ010OXZJZUdKd0dnSXY1cGNubDY2ZmdESXhNcjZNQWY4US1PWkVzWmFFdWlpVGR3RjQ3eVBvb1pONnhJak03NTYzTWczRDg0Q2NSUDRpRDFoeExGblE?oc=5",
-            "published": "Sun, 28 Jun 2026 15:56:46 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5yQ010OXZJZUdKd0dnSXY1cGNubDY2ZmdESXhNcjZNQWY4US1PWkVzWmFFdWlpVGR3RjQ3eVBvb1pONnhJak03NTYzTWczRDg0Q2NSUDRpRDFoeExGblE?oc=5\" target=\"_blank\">【写真・画像】ＥＶ戦略見直し、損失約１２兆円 日米欧メーカー、中国と差拡大も | | 全国のニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">佐賀新聞</font>",
-            "site_name": "佐賀新聞"
-        },
-        {
-            "id": 413191,
-            "title": "日産「e-POWER」搭載車約60万台がリコール、「ノート」「エクストレイル」など：電動化 - MONOist",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkUTF2ZG9vZEJMUWs5WU40WUt1c05EWjFDOFdDZmNGakhFU2lUTWZyTlBrQTQwclNmbkJSN2FfcldsTUFTbnJEUUV4TEVLdFVrQ2lmQ1poT1VJQjU4NXBhbkFSWVc0WHgxUE9BRkJnQQ?oc=5",
-            "published": "Sun, 28 Jun 2026 21:45:00 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBkUTF2ZG9vZEJMUWs5WU40WUt1c05EWjFDOFdDZmNGakhFU2lUTWZyTlBrQTQwclNmbkJSN2FfcldsTUFTbnJEUUV4TEVLdFVrQ2lmQ1poT1VJQjU4NXBhbkFSWVc0WHgxUE9BRkJnQQ?oc=5\" target=\"_blank\">日産「e-POWER」搭載車約60万台がリコール、「ノート」「エクストレイル」など：電動化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MONOist</font>",
-            "site_name": "MONOist"
-        },
-        {
-            "id": 967997,
-            "title": "＜画像2 / 8＞新時代のEVクロスオーバーSUV「日産 アリア」、その魅力を3つの切り口から深掘り！ - ウォーカープラス",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zdmFTVWt2YUV5aGpYN1RQOG1JV2tqSW1LYW1mdHpQQmxDV0xCTFJscG1RX1laZUxkUGZhVzlXR01FenFFMnNGeC1GQ2REeFhBZVlPRVltOTY1c2dUM1RRTlNocUtYR29qTUNRQkh3?oc=5",
-            "published": "Sun, 28 Jun 2026 18:33:17 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE8zdmFTVWt2YUV5aGpYN1RQOG1JV2tqSW1LYW1mdHpQQmxDV0xCTFJscG1RX1laZUxkUGZhVzlXR01FenFFMnNGeC1GQ2REeFhBZVlPRVltOTY1c2dUM1RRTlNocUtYR29qTUNRQkh3?oc=5\" target=\"_blank\">＜画像2 / 8＞新時代のEVクロスオーバーSUV「日産 アリア」、その魅力を3つの切り口から深掘り！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ウォーカープラス</font>",
-            "site_name": "ウォーカープラス"
-        },
-        {
-            "id": 187136,
-            "title": "【独自】欧州製のＥＶ優遇、修正要請へ 政府、日本車に不利と懸念 - 山陽新聞",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLW9YMVJPUXlHOWU0WVlwaE5kNy1mMVdMQkpoSHdCeWcxUHFQa0Q2OVpkVXR4VjhVdXRhUEZhRVN1c285ZTlxR3NuZmhVeG1YQzRoSTBCVGh0d0hMM3IxODJpRUZUVXg5SS1qbnZVd09Pcm52cVoxMmo4VjhDLV9QQXM3Z0RiRG5i?oc=5",
-            "published": "Sun, 28 Jun 2026 01:18:47 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLW9YMVJPUXlHOWU0WVlwaE5kNy1mMVdMQkpoSHdCeWcxUHFQa0Q2OVpkVXR4VjhVdXRhUEZhRVN1c285ZTlxR3NuZmhVeG1YQzRoSTBCVGh0d0hMM3IxODJpRUZUVXg5SS1qbnZVd09Pcm52cVoxMmo4VjhDLV9QQXM3Z0RiRG5i?oc=5\" target=\"_blank\">【独自】欧州製のＥＶ優遇、修正要請へ 政府、日本車に不利と懸念</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
-            "site_name": "山陽新聞"
-        },
-        {
-            "id": 270372,
-            "title": "東京都のEV補助が最大130万円に テスラModel 3は実質300万円切りも (アスキー) - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNX2pnVUoxSVhkOWJ2OTNoSWFiVEpMd0ZQQWhkdTVwOHRrV19sUlZPdnhvQXRZcVpiS2gtSGs0SzJJSEZsb3BLLW53NXBEYXdOeGl3UjZVQWJ3M0RRN25aYWtzeDBNczZXcnhDb1NXWkRDZjJMbE1zVnFGallLTzhQU0NWM25MbkNyS0NQQ1Z3?oc=5",
-            "published": "Sun, 28 Jun 2026 05:15:08 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNX2pnVUoxSVhkOWJ2OTNoSWFiVEpMd0ZQQWhkdTVwOHRrV19sUlZPdnhvQXRZcVpiS2gtSGs0SzJJSEZsb3BLLW53NXBEYXdOeGl3UjZVQWJ3M0RRN25aYWtzeDBNczZXcnhDb1NXWkRDZjJMbE1zVnFGallLTzhQU0NWM25MbkNyS0NQQ1Z3?oc=5\" target=\"_blank\">東京都のEV補助が最大130万円に テスラModel 3は実質300万円切りも (アスキー)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-            "site_name": "Yahoo!ニュース"
-        },
-        {
-            "id": 604185,
-            "title": "【マレーシア】スズキがＥＶ初投入、ｅビターラ発売［車両］ | チバテレ＋プラス - 千葉テレビ放送",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUaXRoX0RmZlg2SWlQM051aGtiZUJjTm4yUlF2MmJXSDVOV2taaTNBWjF3dV9hbDhCQm8zazJkQjBmQ1h3eHFzX0VDOXVGVFZKaUNDSDFxdGQtc3hvekVoYklFY0nSAWRBVV95cUxQVGl0aF9EZmZYNklpUDNOdWhrYmVCY05uMlJRdjJiV0g1TldrWmkzQVoxd3VfYWw4QkJvM2syZEIwZkNYd3hxc19FQzl1RlRWSmlDQ0gxcXRkLXN4b3pFaGJJRWNJ?oc=5",
-            "published": "Sun, 28 Jun 2026 17:01:52 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUaXRoX0RmZlg2SWlQM051aGtiZUJjTm4yUlF2MmJXSDVOV2taaTNBWjF3dV9hbDhCQm8zazJkQjBmQ1h3eHFzX0VDOXVGVFZKaUNDSDFxdGQtc3hvekVoYklFY0nSAWRBVV95cUxQVGl0aF9EZmZYNklpUDNOdWhrYmVCY05uMlJRdjJiV0g1TldrWmkzQVoxd3VfYWw4QkJvM2syZEIwZkNYd3hxc19FQzl1RlRWSmlDQ0gxcXRkLXN4b3pFaGJJRWNJ?oc=5\" target=\"_blank\">【マレーシア】スズキがＥＶ初投入、ｅビターラ発売［車両］ | チバテレ＋プラス</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">千葉テレビ放送</font>",
-            "site_name": "千葉テレビ放送"
-        },
-        {
-            "id": 443829,
-            "title": "フランスとドイツでDセグEVはこんなに違う「DS N°8」と「メルセデス・ベンツC400エレクトリック」比較 (MotorFan) - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY3dLTk0tUkRWRlBDYnNRZHNHR3AwWnp1U3pxV1ZOeWp0R2FXb3pVZE11ZzJpX3pHanNMMlBzYnlTekhDTjJ3a3I3M3JfQklQa3IwSUlTektJZXFYS0loTFlBMDlQMl9NQi1GeVhqSWtlYXZhZi1UMHBIYTE0RUdwNER4LUZWaVVuZXZ0YjVn?oc=5",
-            "published": "Sun, 28 Jun 2026 07:45:00 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQY3dLTk0tUkRWRlBDYnNRZHNHR3AwWnp1U3pxV1ZOeWp0R2FXb3pVZE11ZzJpX3pHanNMMlBzYnlTekhDTjJ3a3I3M3JfQklQa3IwSUlTektJZXFYS0loTFlBMDlQMl9NQi1GeVhqSWtlYXZhZi1UMHBIYTE0RUdwNER4LUZWaVVuZXZ0YjVn?oc=5\" target=\"_blank\">フランスとドイツでDセグEVはこんなに違う「DS N°8」と「メルセデス・ベンツC400エレクトリック」比較 (MotorFan)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-            "site_name": "Yahoo!ニュース"
-        },
-        {
-            "id": 815177,
-            "title": "フランスとドイツでDセグEVはこんなに違う「DS N°8」と「メルセデス・ベンツC400エレクトリック」比較（MotorFan） - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdmFROHR3Y3NBd2RVOUFBMFhjaWNRVzNuemp5NzFsMjMxWWEyMUZzY0VpV3dEc1dWcUxkamd4Ny1wdnB1c3J6dy01YkJmUFBLcDU4VFQ2c0tqa1A3MEVPRjJUcjNYV09WVjNXeHBDcEJNcGV6bXFuLWZmb0lnbXg3WXhQdEZUUEU5?oc=5",
-            "published": "Sun, 28 Jun 2026 07:45:00 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdmFROHR3Y3NBd2RVOUFBMFhjaWNRVzNuemp5NzFsMjMxWWEyMUZzY0VpV3dEc1dWcUxkamd4Ny1wdnB1c3J6dy01YkJmUFBLcDU4VFQ2c0tqa1A3MEVPRjJUcjNYV09WVjNXeHBDcEJNcGV6bXFuLWZmb0lnbXg3WXhQdEZUUEU5?oc=5\" target=\"_blank\">フランスとドイツでDセグEVはこんなに違う「DS N°8」と「メルセデス・ベンツC400エレクトリック」比較（MotorFan）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-            "site_name": "Yahoo!ニュース"
-        },
-        {
-            "id": 484808,
-            "title": "HONDA_SUPER ONE_ACCESSORY_2 - Motor Fan",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iM01VZVRQSVdiZTZ5YUdOdDR0Qk9MZlNHOXpXUFJ5b1p5NTA1M2RqaXUzNUZ2WENtejB3aTQ0RXhMY2dKeXNlRW05dFk3dnA0QXcyQWlCNEU1ZF9UQ0FoTl9YaHJIWmoxd2UzRmFRX0VLRXc?oc=5",
-            "published": "Sun, 28 Jun 2026 12:52:54 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9iM01VZVRQSVdiZTZ5YUdOdDR0Qk9MZlNHOXpXUFJ5b1p5NTA1M2RqaXUzNUZ2WENtejB3aTQ0RXhMY2dKeXNlRW05dFk3dnA0QXcyQWlCNEU1ZF9UQ0FoTl9YaHJIWmoxd2UzRmFRX0VLRXc?oc=5\" target=\"_blank\">HONDA_SUPER ONE_ACCESSORY_2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
-            "site_name": "Motor Fan"
-        },
-        {
-            "id": 739720,
-            "title": "中国EV「リープモーター」、世界累計150万台突破 わずか8カ月で50万台上積み - Yahoo!ニュース",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSVNLSE1MUFYxeTFBUF9zVFBRTDRmbU04b0JQZFp5amV5Y3FXdVBMSFR1RmxZOVE3ZEhPX0FicE1XenAyMjdxZC04eDFfVXRDVk9JeTh4Q285NTU1MVc0ejJzNHZGMGlrak5PUHJsSEhUUENMenVTSEcySk1fczhvZmgzNjdZVmNPZGpEbDhR?oc=5",
-            "published": "Sun, 28 Jun 2026 00:30:17 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPSVNLSE1MUFYxeTFBUF9zVFBRTDRmbU04b0JQZFp5amV5Y3FXdVBMSFR1RmxZOVE3ZEhPX0FicE1XenAyMjdxZC04eDFfVXRDVk9JeTh4Q285NTU1MVc0ejJzNHZGMGlrak5PUHJsSEhUUENMenVTSEcySk1fczhvZmgzNjdZVmNPZGpEbDhR?oc=5\" target=\"_blank\">中国EV「リープモーター」、世界累計150万台突破 わずか8カ月で50万台上積み</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-            "site_name": "Yahoo!ニュース"
-        },
-        {
-            "id": 216975,
-            "title": "ＥＶ戦略見直し、損失約１２兆円 日米欧メーカー、中国と差拡大も | 全国のニュース - 福井新聞社",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CSnpYdGJydjVyN0FiQ29DY0dCZFBmQ3pHQ2hOWmRjaDNvMUJJcXV2MHBrazYtcV9ac0hTem9yMHVJYklXaktnSmVFWnhJaHJHXzZNX3FUVFVuNkJacnBIVEREcnpJS0dCdFdSdQ?oc=5",
-            "published": "Sun, 28 Jun 2026 01:54:32 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1CSnpYdGJydjVyN0FiQ29DY0dCZFBmQ3pHQ2hOWmRjaDNvMUJJcXV2MHBrazYtcV9ac0hTem9yMHVJYklXaktnSmVFWnhJaHJHXzZNX3FUVFVuNkJacnBIVEREcnpJS0dCdFdSdQ?oc=5\" target=\"_blank\">ＥＶ戦略見直し、損失約１２兆円 日米欧メーカー、中国と差拡大も | 全国のニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">福井新聞社</font>",
-            "site_name": "福井新聞社"
-        },
-        {
-            "id": 305723,
-            "title": "日本車の十八番を奪われた!? BYDの最新EV「シーライオン7」に宿る「気遣い」の精神【Key’s note】 - ニコニコニュース",
-            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1V3F2N2JQMDV0RklyZUtnUFQzd3JudDFsQTE2NGdaWFNoZHFuV1ltZnB1QkdNcmFMbENvQ25FczNLd0dxT0g2OTJoTGhYYU9DaHdlZUNwMEV6WmhjTlNwdGhpaFQxX3ZfM09xbnRJSm9faVlDd25sNlU5Zw?oc=5",
-            "published": "Sun, 28 Jun 2026 12:03:15 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFA1V3F2N2JQMDV0RklyZUtnUFQzd3JudDFsQTE2NGdaWFNoZHFuV1ltZnB1QkdNcmFMbENvQ25FczNLd0dxT0g2OTJoTGhYYU9DaHdlZUNwMEV6WmhjTlNwdGhpaFQxX3ZfM09xbnRJSm9faVlDd25sNlU5Zw?oc=5\" target=\"_blank\">日本車の十八番を奪われた!? BYDの最新EV「シーライオン7」に宿る「気遣い」の精神【Key’s note】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
-            "site_name": "ニコニコニュース"
-        },
-        {
-            "id": 512962,
-            "title": "8月29日～30日、xEVモーターショーEAST2026がイオンモールむさし村山で開催。試乗会あり。 - caranddriver.co.jp",
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NTl9paThJSnRqRHM5ZVgxSDVac01OcTdNU29oNTE1M01KSk5qbGk0UXdJcXBFVEFHbnhPd2pnb0Q3c0R4cFAzdC1XNzJQaTlId09kY3UyOA?oc=5",
-            "published": "Sun, 28 Jun 2026 08:17:53 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NTl9paThJSnRqRHM5ZVgxSDVac01OcTdNU29oNTE1M01KSk5qbGk0UXdJcXBFVEFHbnhPd2pnb0Q3c0R4cFAzdC1XNzJQaTlId09kY3UyOA?oc=5\" target=\"_blank\">8月29日～30日、xEVモーターショーEAST2026がイオンモールむさし村山で開催。試乗会あり。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">caranddriver.co.jp</font>",
-            "site_name": "caranddriver.co.jp"
-        },
-        {
-            "id": 970117,
-            "title": "【百田尚樹】EV補助金の80%が外国車という異常事態を猛追及！言い訳する経産省が大慌てで… - YouTube",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14NlpTak5EOXVLV3EwNnF2UE41dHNnVlI0NGkxVnZfcEdjTndJZzJCaEI5Qk0zdWF2NjBCVk9leEcxMU0yOGVzMW5kTFJRckxmdU9fRC1CdmFuWXZ5?oc=5",
-            "published": "Sun, 28 Jun 2026 10:49:52 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE14NlpTak5EOXVLV3EwNnF2UE41dHNnVlI0NGkxVnZfcEdjTndJZzJCaEI5Qk0zdWF2NjBCVk9leEcxMU0yOGVzMW5kTFJRckxmdU9fRC1CdmFuWXZ5?oc=5\" target=\"_blank\">【百田尚樹】EV補助金の80%が外国車という異常事態を猛追及！言い訳する経産省が大慌てで…</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YouTube</font>",
-            "site_name": "YouTube"
-        },
-        {
-            "id": 492869,
-            "title": "マツダが「既存モデルとは異なるモメンタリ式シフトスイッチ」の特許を出願（電気自動車向け？） - つらつらとMAZDA",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KX19PVmVnVFZTNDFmdkxYMlY5QVJELVJIX3pYbHpTcmhwYVJ6T1lBY2UwV2xkczhObWdOcENDTHdaQk9FTHlYVTFlMFk5UW0yVTRvbXBYV05kMWMtWHJyR2pyWnVUdmVk?oc=5",
-            "published": "Sun, 28 Jun 2026 13:01:16 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KX19PVmVnVFZTNDFmdkxYMlY5QVJELVJIX3pYbHpTcmhwYVJ6T1lBY2UwV2xkczhObWdOcENDTHdaQk9FTHlYVTFlMFk5UW0yVTRvbXBYV05kMWMtWHJyR2pyWnVUdmVk?oc=5\" target=\"_blank\">マツダが「既存モデルとは異なるモメンタリ式シフトスイッチ」の特許を出願（電気自動車向け？）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">つらつらとMAZDA</font>",
-            "site_name": "つらつらとMAZDA"
-        },
-        {
-            "id": 800693,
-            "title": "世界の巨大自動車メーカーたちもなぜか手を組む！　中国市場では地元メーカーとみんな協業するワケ - WEB CARTOP",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lbk9ZeVRpb0dWMVBNZzdmdkVkZV9GNndzaDFZRGlWV0c3Z1luaHFVVUhUZUFDcTI5LW0wQm4yR1RWSlIzRWtuVTlwcDFLVklzZV9r0gFYQVVfeXFMTUF5bWRXdGRfbTZBYUFMM0JMQllhNXdid2x6YW1NODdhSVlSa0dyci1obHBJVzhLVlhHNDd2YnROeGtxOEJkMXVVSnotdUlKOWVqcm1NcTNZdg?oc=5",
-            "published": "Sun, 28 Jun 2026 02:40:47 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lbk9ZeVRpb0dWMVBNZzdmdkVkZV9GNndzaDFZRGlWV0c3Z1luaHFVVUhUZUFDcTI5LW0wQm4yR1RWSlIzRWtuVTlwcDFLVklzZV9r0gFYQVVfeXFMTUF5bWRXdGRfbTZBYUFMM0JMQllhNXdid2x6YW1NODdhSVlSa0dyci1obHBJVzhLVlhHNDd2YnROeGtxOEJkMXVVSnotdUlKOWVqcm1NcTNZdg?oc=5\" target=\"_blank\">世界の巨大自動車メーカーたちもなぜか手を組む！　中国市場では地元メーカーとみんな協業するワケ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEB CARTOP</font>",
-            "site_name": "WEB CARTOP"
-        },
-        {
-            "id": 795487,
-            "title": "BYDはPhuong Trangグループと提携し、電気自動車充電インフラ向けの新たなソリューションを提供するのか？ - Vietnam.vn",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc0xIaG9qWTF1cDJSUm1kaWlDQjZwWVNGMlhXaGVvOVBRUVhCWEVqNnVCTm5UQTVfVENVUGdVRXBrVG1DTTVlcmtncDh2cFE1VTRtUUNITWR6R29tM3A5WVVxQUFQQnRGalFMU3Y1enBWRURCZ1U0cnhteGNIV3pCVjlnQmFCZVd6ZlpZVEQtWmVyZGVuNFEtWDAzTENNQQ?oc=5",
-            "published": "Sun, 28 Jun 2026 13:58:32 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNc0xIaG9qWTF1cDJSUm1kaWlDQjZwWVNGMlhXaGVvOVBRUVhCWEVqNnVCTm5UQTVfVENVUGdVRXBrVG1DTTVlcmtncDh2cFE1VTRtUUNITWR6R29tM3A5WVVxQUFQQnRGalFMU3Y1enBWRURCZ1U0cnhteGNIV3pCVjlnQmFCZVd6ZlpZVEQtWmVyZGVuNFEtWDAzTENNQQ?oc=5\" target=\"_blank\">BYDはPhuong Trangグループと提携し、電気自動車充電インフラ向けの新たなソリューションを提供するのか？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
-            "site_name": "Vietnam.vn"
-        },
-        {
-            "id": 412424,
-            "title": "万博で走った「EVモーターズジャパン」の100台以上のバス！ 問題発覚後のいま静かに解体を待っていた - ニコニコニュース",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FQ0w2dURLUUNnNklzSUJBcmhKZE1DZDZOU1I4bHRLT0xMR3VRUVJMal9oQzU2NFd5ZzlubHFMa01lWG9GZ1lGX0xUVERCY3NFT04xWg?oc=5",
-            "published": "Sun, 28 Jun 2026 01:03:12 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FQ0w2dURLUUNnNklzSUJBcmhKZE1DZDZOU1I4bHRLT0xMR3VRUVJMal9oQzU2NFd5ZzlubHFMa01lWG9GZ1lGX0xUVERCY3NFT04xWg?oc=5\" target=\"_blank\">万博で走った「EVモーターズジャパン」の100台以上のバス！ 問題発覚後のいま静かに解体を待っていた</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニコニコニュース</font>",
-            "site_name": "ニコニコニュース"
-        },
-        {
-            "id": 207060,
-            "title": "[写真]起亜、新型EVバン「PV5」の新仕様を世界初公開 ドローン搭載のAIパトカーなど全16構成に拡大 - 財経新聞",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2NEo0bXNLX2lKQWdlc21DdUduVERuU0JNM0l5QUFfbGgyMDVfMWNBcnVZVVZhb1R4VDhHSmwyS1I1RW1sa2hjQXdkR2VBUUpvN0ZMNg?oc=5",
-            "published": "Sun, 28 Jun 2026 07:13:00 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2NEo0bXNLX2lKQWdlc21DdUduVERuU0JNM0l5QUFfbGgyMDVfMWNBcnVZVVZhb1R4VDhHSmwyS1I1RW1sa2hjQXdkR2VBUUpvN0ZMNg?oc=5\" target=\"_blank\">[写真]起亜、新型EVバン「PV5」の新仕様を世界初公開 ドローン搭載のAIパトカーなど全16構成に拡大</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">財経新聞</font>",
-            "site_name": "財経新聞"
-        },
-        {
-            "id": 833529,
-            "title": "スズキの「小さい高級SUV」がスゴい！ 全長4.2mのちょうどいいサイズに「ジムニー」譲りの高性能4WD搭載！ 斬新ディスプレイも注目される「eビターラ」とは！ - くるまのニュース",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KSDFjUkFIVU1rUktsd2xvTG84cUdaTjJVWEowMDZPZFBoY1BMbDRVZ21pSHR5OElOMzA4WWZIM0dyMHZ4dV9oVzF0dw?oc=5",
-            "published": "Sat, 27 Jun 2026 23:30:00 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KSDFjUkFIVU1rUktsd2xvTG84cUdaTjJVWEowMDZPZFBoY1BMbDRVZ21pSHR5OElOMzA4WWZIM0dyMHZ4dV9oVzF0dw?oc=5\" target=\"_blank\">スズキの「小さい高級SUV」がスゴい！ 全長4.2mのちょうどいいサイズに「ジムニー」譲りの高性能4WD搭載！ 斬新ディスプレイも注目される「eビターラ」とは！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">くるまのニュース</font>",
-            "site_name": "くるまのニュース"
-        },
-        {
-            "id": 958476,
-            "title": "【写真蔵】日常の移動を刺激的な体験へと進化させる、ホンダ スーパーワン - 株式会社モーターマガジン社",
-            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU3doalltdmNsVUh3OUdKTlZJMkNjSGg1V3h3M2dWVnd3NVVCNVRUdXFyWFZ2SEhfb01WM3pGMzI0THJrLUN5UXNyeVJJaXVEM1lxb0tDQXlsRWpFS0JuVXFIaDZSX1FVYjBpN0VTTUk4cmxfcnRVU19QNVpWU0lGUU4wUW9Zdw?oc=5",
-            "published": "Sun, 28 Jun 2026 03:00:00 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPU3doalltdmNsVUh3OUdKTlZJMkNjSGg1V3h3M2dWVnd3NVVCNVRUdXFyWFZ2SEhfb01WM3pGMzI0THJrLUN5UXNyeVJJaXVEM1lxb0tDQXlsRWpFS0JuVXFIaDZSX1FVYjBpN0VTTUk4cmxfcnRVU19QNVpWU0lGUU4wUW9Zdw?oc=5\" target=\"_blank\">【写真蔵】日常の移動を刺激的な体験へと進化させる、ホンダ スーパーワン</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">株式会社モーターマガジン社</font>",
-            "site_name": "株式会社モーターマガジン社"
-        },
-        {
-            "id": 655258,
-            "title": "ＥＶ販売「目覚ましい」、エンジン車禁止の見直し圧力後退＝ 欧州委員 - MSN",
-            "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxOUUVobUxmNmcwb3VMVjFYWWxzWmVnME9zUDZOVjJvbnFtbEdtaGkxZ3E3MTBlaTBsUE1YYksySEJtTVphWlkzNzMtd1M1Y2RlR20yNEstVVR6cHhlZjZ0N2JRVTNSWWJHbjZKWkxzN1o2LVZHYnhqNmc4QlZyRlRxaDM5T2xRMGdIbDBKYlVOVU1sMmdOd3ZIYzM0YTM4bHJ2cGRQQUh0cnI5M29hcTJqNWFuNnA5aGtTOEtneG1zb2VqeWFfWDIzdEROZWpUVmVZMU9KbzBxQWoyTzE1aG1HTkx5UEJNWk0yTHFyaE9vdmJDcFZtMVdiQlpCWUx0M2p3SkJyY3Y1TFAwSDlDV2lvYTJldlhyYkVibEJSMk0zcTU0VXJsaks4c3JyY1FpeUpKX1MyTjF2dXZUVFVCY3VES0dkbnB6c0s5WVNwdkpDcVNGSnpwakdoV0ptN2VSS29wVDE1UGswV1I4RVhIMENqRW1NbExGN1FUcXVTQWU3MXlUVVJtOWNiUkw5Qkh5RTVmSkxqRTdDLTEzWWFMY2QwNWZmUUhrSTI2OER4WlZtZ1Vlei0yeXc?oc=5",
-            "published": "Sun, 28 Jun 2026 07:30:19 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgNBVV95cUxOUUVobUxmNmcwb3VMVjFYWWxzWmVnME9zUDZOVjJvbnFtbEdtaGkxZ3E3MTBlaTBsUE1YYksySEJtTVphWlkzNzMtd1M1Y2RlR20yNEstVVR6cHhlZjZ0N2JRVTNSWWJHbjZKWkxzN1o2LVZHYnhqNmc4QlZyRlRxaDM5T2xRMGdIbDBKYlVOVU1sMmdOd3ZIYzM0YTM4bHJ2cGRQQUh0cnI5M29hcTJqNWFuNnA5aGtTOEtneG1zb2VqeWFfWDIzdEROZWpUVmVZMU9KbzBxQWoyTzE1aG1HTkx5UEJNWk0yTHFyaE9vdmJDcFZtMVdiQlpCWUx0M2p3SkJyY3Y1TFAwSDlDV2lvYTJldlhyYkVibEJSMk0zcTU0VXJsaks4c3JyY1FpeUpKX1MyTjF2dXZUVFVCY3VES0dkbnB6c0s5WVNwdkpDcVNGSnpwakdoV0ptN2VSS29wVDE1UGswV1I4RVhIMENqRW1NbExGN1FUcXVTQWU3MXlUVVJtOWNiUkw5Qkh5RTVmSkxqRTdDLTEzWWFMY2QwNWZmUUhrSTI2OER4WlZtZ1Vlei0yeXc?oc=5\" target=\"_blank\">ＥＶ販売「目覚ましい」、エンジン車禁止の見直し圧力後退＝ 欧州委員</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-            "site_name": "MSN"
-        },
-        {
-            "id": 236577,
-            "title": "「充電設備あり」と聞いて500万円のEVを購入→納車直前に発覚した“月3万円”の痛い出費 - TRILL",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrZkVkMF9wSDZVaWFwbWs4OTQ4dkZWa1RxSUlvMVc1UFd5eElJeHhjSWpJQXBYS3Q4R0JzWjVXTzczSk5qb1B0d1NkTWdTX2c?oc=5",
-            "published": "Sun, 28 Jun 2026 13:20:00 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrZkVkMF9wSDZVaWFwbWs4OTQ4dkZWa1RxSUlvMVc1UFd5eElJeHhjSWpJQXBYS3Q4R0JzWjVXTzczSk5qb1B0d1NkTWdTX2c?oc=5\" target=\"_blank\">「充電設備あり」と聞いて500万円のEVを購入→納車直前に発覚した“月3万円”の痛い出費</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TRILL</font>",
-            "site_name": "TRILL"
-        },
-        {
-            "id": 943490,
-            "title": "中国製ハイブリッドが熱効率でトヨタを上回る - 32CARS",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSzRDVWI1OUY0ZXlIaFB4ZmdyYVA4TDBmbG5FWE1nSVdmenMwc1R4ODdWWTdraUZ3czUwWkZxMFJPenlld0xOWFVBU1JGYU5aVHEwRk9rQXJ4UW5ZRG5adXJucS1tMzFxNVJBR1hWeWF1aU9SQlhiMUdQLWlzdkRaaC03Y1ZtTlhkaTVKUDRoUXVBTmc5T2JEdTRqMExRMkNDM3fSAaYBQVVfeXFMTW9Vek1fUmgxWXV1U2FOdlFfd0hSSE1jMXVoTldhSEhYRi1SQkFmc3JOV1UyWllRMGpWd0RMSDJLNDlkMldsQUpyWEY5Uk9qZUMwYW10bkN1eDhQV00zenB5UzRPYlRWSGNrWnE2YkFpMWJ1YTAzYVpTQndQZXpwaFkxU0VuaUFISTdsVEJPVWxjMnctQnE5UVVkdzB0cWlFY2hrQkh1dw?oc=5",
-            "published": "Sun, 28 Jun 2026 15:30:02 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOSzRDVWI1OUY0ZXlIaFB4ZmdyYVA4TDBmbG5FWE1nSVdmenMwc1R4ODdWWTdraUZ3czUwWkZxMFJPenlld0xOWFVBU1JGYU5aVHEwRk9rQXJ4UW5ZRG5adXJucS1tMzFxNVJBR1hWeWF1aU9SQlhiMUdQLWlzdkRaaC03Y1ZtTlhkaTVKUDRoUXVBTmc5T2JEdTRqMExRMkNDM3fSAaYBQVVfeXFMTW9Vek1fUmgxWXV1U2FOdlFfd0hSSE1jMXVoTldhSEhYRi1SQkFmc3JOV1UyWllRMGpWd0RMSDJLNDlkMldsQUpyWEY5Uk9qZUMwYW10bkN1eDhQV00zenB5UzRPYlRWSGNrWnE2YkFpMWJ1YTAzYVpTQndQZXpwaFkxU0VuaUFISTdsVEJPVWxjMnctQnE5UVVkdzB0cWlFY2hrQkh1dw?oc=5\" target=\"_blank\">中国製ハイブリッドが熱効率でトヨタを上回る</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">32CARS</font>",
-            "site_name": "32CARS"
-        },
-        {
-            "id": 803324,
-            "title": "あのジムニーノマドより小回りが利く?街乗りに最適すぎるスズキのEV「eビターラ」 - MSN",
-            "link": "https://news.google.com/rss/articles/CBMingVBVV95cUxNQ0FvbXlTZ09TWnVrMjFteURwTURIb1lLcDVKUVVwbVM4bmdEVVJfMXdfNzQ0Z1VJYWh6SzJ2YmdJZ2ZhY09FZkg2dkxrTEtrekhWOUl5ZWdYbFZxOW53cTdhYjh1d3ZVaGlpdFRaRzhyVWNiY3FJSF9tb09UaURrck5CLTVnNDdqNG9JN3EybWJQTUpZYTB0UDMzR2FaNGliRm9iSjFzRUY1WFZ1SnhuSDhtaVVDQnEyNUpTVlhDdHFzcE1sQUZnQjQ0TFNpYTZKRTdSX3JTSW1PODZLRTJoakZZT1ZEYW1ueG9fNnZpMFlFbXk4NTdUaGtBUmRFTkludl8wamtmQ2JVSV82cmdsVW1JWWtvYS1oSkZYWjhWTmJOaHZsZmxmYTBGVXllWlBHUVVVNGZ0bW9pVGw1T3BkYWFPLUpIQW9ZNWE3Qm82Sl9xY25CM3V3S3BHZnN0X1pmRWduOG12aDR4TzNzVGNDY0lPWUxOOW55RGtvMXVPWEpDUjFxUVBPOTI3X1doZ1E4bmJXX0lPV056TTk1b2xBQVFwaC12bXlTTzFfVldvTkw1VDJqU2VSTU9aWHQtOWRDV3R0d1p1cUNITDlwZ0ZxSkJpeTYyZ1dVZEdRNk1jMThqRWdNckQtTE91aWYzVDNLOUtTUEFtdEhSRkdnZDRyV3J3UnViMEVwcXQ2cjl4N0E0LTI4UWpNMkpVcFZEblhpLURISlhGYXNKckRIdHExdTBEUDlmR1dkbFY1TW5OTWtWQVFaT2JqbmU5eEtxd21xX09YNVN1aW5HWUxaTjQyRWhnMkpfNWJYSkp4ZUZqYTJSTlAyWG5Ra2pyVlBNSnJkVkRTLTdOMzhqeGl4SWNjRnZIc3JPTHlIZ3J2VFNn?oc=5",
-            "published": "Sun, 28 Jun 2026 08:34:33 GMT",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMingVBVV95cUxNQ0FvbXlTZ09TWnVrMjFteURwTURIb1lLcDVKUVVwbVM4bmdEVVJfMXdfNzQ0Z1VJYWh6SzJ2YmdJZ2ZhY09FZkg2dkxrTEtrekhWOUl5ZWdYbFZxOW53cTdhYjh1d3ZVaGlpdFRaRzhyVWNiY3FJSF9tb09UaURrck5CLTVnNDdqNG9JN3EybWJQTUpZYTB0UDMzR2FaNGliRm9iSjFzRUY1WFZ1SnhuSDhtaVVDQnEyNUpTVlhDdHFzcE1sQUZnQjQ0TFNpYTZKRTdSX3JTSW1PODZLRTJoakZZT1ZEYW1ueG9fNnZpMFlFbXk4NTdUaGtBUmRFTkludl8wamtmQ2JVSV82cmdsVW1JWWtvYS1oSkZYWjhWTmJOaHZsZmxmYTBGVXllWlBHUVVVNGZ0bW9pVGw1T3BkYWFPLUpIQW9ZNWE3Qm82Sl9xY25CM3V3S3BHZnN0X1pmRWduOG12aDR4TzNzVGNDY0lPWUxOOW55RGtvMXVPWEpDUjFxUVBPOTI3X1doZ1E4bmJXX0lPV056TTk1b2xBQVFwaC12bXlTTzFfVldvTkw1VDJqU2VSTU9aWHQtOWRDV3R0d1p1cUNITDlwZ0ZxSkJpeTYyZ1dVZEdRNk1jMThqRWdNckQtTE91aWYzVDNLOUtTUEFtdEhSRkdnZDRyV3J3UnViMEVwcXQ2cjl4N0E0LTI4UWpNMkpVcFZEblhpLURISlhGYXNKckRIdHExdTBEUDlmR1dkbFY1TW5OTWtWQVFaT2JqbmU5eEtxd21xX09YNVN1aW5HWUxaTjQyRWhnMkpfNWJYSkp4ZUZqYTJSTlAyWG5Ra2pyVlBNSnJkVkRTLTdOMzhqeGl4SWNjRnZIc3JPTHlIZ3J2VFNn?oc=5\" target=\"_blank\">あのジムニーノマドより小回りが利く?街乗りに最適すぎるスズキのEV「eビターラ」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-            "site_name": "MSN"
+            "id": 236846,
+            "title": "駐カナダ中国大使「ロータスのEVが7月にカナダに到着」―中国メディア - Record China",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRaXRPRTF0b2NtU0F1enpwbVh6bWQzbDB1dWJuV3h1LU9JRGw2M25feDg2enoxUGlHOWtKQkJSWFl3NU81ZXQ2RWtfWGRmQnJSUkVFdGgtdmFoRDBE?oc=5",
+            "published": "Sun, 28 Jun 2026 23:32:45 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRaXRPRTF0b2NtU0F1enpwbVh6bWQzbDB1dWJuV3h1LU9JRGw2M25feDg2enoxUGlHOWtKQkJSWFl3NU81ZXQ2RWtfWGRmQnJSUkVFdGgtdmFoRDBE?oc=5\" target=\"_blank\">駐カナダ中国大使「ロータスのEVが7月にカナダに到着」―中国メディア</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Record China</font>",
+            "site_name": "Record China"
         }
     ]
 }
