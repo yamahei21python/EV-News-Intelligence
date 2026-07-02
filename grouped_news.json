@@ -1,0 +1,94 @@
+[
+    {
+        "topic_name": "トヨタ次世代EV開発中止に伴うサプライヤーへの損失補償",
+        "article_ids": [
+            212916,
+            53884,
+            429104,
+            409247,
+            196006
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "テスラ2026年4-6月期の世界納車台数と販売動向",
+        "article_ids": [
+            448297,
+            779093,
+            241172,
+            727580,
+            621333
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "BYDのEV販売動向および関連市場のニュース",
+        "article_ids": [
+            228168,
+            715724,
+            633826,
+            312655,
+            80603,
+            15460
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "日野自動車の北米向け中型EVトラック生産",
+        "article_ids": [
+            679687,
+            714371
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "CATLのEV電池原料確保とインドネシア事業提携",
+        "article_ids": [
+            932602,
+            752343
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "英EVメーカーへの関税",
+        "article_ids": [
+            963919
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "ニューデリーのEV買い替え補助金",
+        "article_ids": [
+            112563
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "フォードの第2四半期米販売およびEV販売減少",
+        "article_ids": [
+            916116
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "マツダの脱炭素戦略における内燃機関重視の表明",
+        "article_ids": [
+            759896
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "スズキのインドにおける次世代EV促進と交通網整備",
+        "article_ids": [
+            161123
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "日本車6社の米国販売におけるHV増加",
+        "article_ids": [
+            232088
+        ],
+        "is_grouped": false
+    }
+]
