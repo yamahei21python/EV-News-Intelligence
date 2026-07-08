@@ -1,0 +1,33 @@
+[
+    {
+        "topic_name": "BYDの販売動向と韓国・日本での市場環境",
+        "article_ids": [
+            669017,
+            617961,
+            70049,
+            781749
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "スバルのEV戦略転換と工場混流生産",
+        "article_ids": [
+            42401
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "AESCによるBMW新型EVへの車載電池供給",
+        "article_ids": [
+            886105
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "日産とEaselinkによるV2G自動充電技術の共同研究",
+        "article_ids": [
+            723349
+        ],
+        "is_grouped": false
+    }
+]
