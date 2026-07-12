@@ -1,0 +1,106 @@
+[
+    {
+        "topic_name": "BYDの軽EV「ラッコ」日本投入",
+        "article_ids": [
+            629006,
+            363059,
+            221307,
+            181764
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "トヨタ新型EV「ハイランダー」生産延期",
+        "article_ids": [
+            76662,
+            469912
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "北九州市におけるEVバスの運行再開",
+        "article_ids": [
+            229968,
+            244321
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "ヤナセによるBYDディーラー開業",
+        "article_ids": [
+            709621,
+            927257
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "レンジエクステンダーEVの技術的動向",
+        "article_ids": [
+            56892
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "AESCの大型円筒形バッテリー量産",
+        "article_ids": [
+            624285
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "環境省による空港用EV・FCV導入支援",
+        "article_ids": [
+            632785
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "EVバイク整備環境推進委員会の設立",
+        "article_ids": [
+            542680
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "BMW次世代EV「ノイエ・クラッセ」の業績",
+        "article_ids": [
+            150270
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "ボルボEVフラッグシップ投入",
+        "article_ids": [
+            330822
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "BYD「シーガル」の次世代モデル開発",
+        "article_ids": [
+            728330
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "JX金属のリチウムリサイクル事業",
+        "article_ids": [
+            605240
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "ニデックの車載用eアクスル事業再編",
+        "article_ids": [
+            753596
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "商用車市場におけるバッテリーと水素の技術競争",
+        "article_ids": [
+            515736
+        ],
+        "is_grouped": false
+    }
+]
