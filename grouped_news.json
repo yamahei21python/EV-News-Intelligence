@@ -1,0 +1,38 @@
+[
+    {
+        "topic_name": "ホンダのEV開発中止に伴う部品メーカーへの補償問題",
+        "article_ids": [
+            34684
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "EV関連企業の株価変動および経営動向",
+        "article_ids": [
+            904350
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "リチウム関連企業の業績と蓄電需要の拡大",
+        "article_ids": [
+            988401
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "EV充電ネットワークの連携と拡充",
+        "article_ids": [
+            920820,
+            816013
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "自動車産業の構造変化と部品サプライヤーの協業",
+        "article_ids": [
+            386810
+        ],
+        "is_grouped": false
+    }
+]
