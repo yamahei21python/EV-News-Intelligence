@@ -1,0 +1,67 @@
+[
+    {
+        "topic_name": "大阪メトロ万博EVバス不具合による会長引責辞任",
+        "article_ids": [
+            584821,
+            438458,
+            282272,
+            763148,
+            91591,
+            133097,
+            61907,
+            831828,
+            675035,
+            624142,
+            942275,
+            994285
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "JFEエンジニアリングと住友三井オートサービスのバッテリー交換式EV提携",
+        "article_ids": [
+            443667,
+            655163
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "ホンダのEV戦略見直しと経営責任",
+        "article_ids": [
+            474031,
+            272259
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "トヨタの車載OSにおけるファーウェイ採用",
+        "article_ids": [
+            33927,
+            797786
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "カリフォルニア州のEV購入補助金制度",
+        "article_ids": [
+            315814,
+            908354
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "鴻海精密工業による日本でのEV披露",
+        "article_ids": [
+            913640
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "BYDの日本市場向けEV展開",
+        "article_ids": [
+            924743,
+            493467
+        ],
+        "is_grouped": true
+    }
+]
