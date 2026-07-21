@@ -1,0 +1,69 @@
+[
+    {
+        "topic_name": "住友化学による全固体電池用部材の量産化計画",
+        "article_ids": [
+            875574,
+            178729
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "BYDの日本軽自動車市場への参入と影響",
+        "article_ids": [
+            208321,
+            234698
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "ソニー・ホンダによるEV「AFEELA」の開発・販売中止",
+        "article_ids": [
+            284763
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "大阪・関西万博EVバスのトラブル問題",
+        "article_ids": [
+            436800
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "日米欧メーカーのEV戦略見直しによる巨額損失",
+        "article_ids": [
+            586898
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "米GMの第2四半期決算とEV事業の損失",
+        "article_ids": [
+            423964
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "カリフォルニア州におけるハイブリッド車販売のEV上回り",
+        "article_ids": [
+            443891
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "鴻海（FOXCONN）のEV自動運転技術戦略",
+        "article_ids": [
+            98459,
+            56616
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "中国EVメーカーの欧州進出動向",
+        "article_ids": [
+            947,
+            637430
+        ],
+        "is_grouped": true
+    }
+]
