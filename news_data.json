@@ -1,6 +1,6 @@
 {
-    "updated_at": "2026-07-28 11:10:51",
-    "total_count": 100,
+    "updated_at": "2026-07-28 22:04:36",
+    "total_count": 151,
     "articles": [
         {
             "id": 344793,
@@ -801,6 +801,414 @@
             "published": "Tue, 28 Jul 2026 04:58:18 GMT",
             "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xeDZkN0xPQmJRTzlKWXNJNjc5TFRNOGtURHZadlRJaVMwdHlyWmM2cVN6SVR6Z2haNFNXNVdEalNCUjRaZ2tsRjgxb0R5OGVY?oc=5\" target=\"_blank\">ＢＹＤが軽ＥＶを発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ヨコハマ経済新聞</font>",
             "site_name": "ヨコハマ経済新聞"
+        },
+        {
+            "id": 225284,
+            "title": "中国ＢＹＤ、日本で軽ＥＶ発売 実質１９９万円台 - 朝日新聞",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0tVWY5UFkwblZjb0UzQlU0aGVZcEhwcGZSQktQYzN0UkRNeFpTeHNjclJENEFmVktfQ0hIc3I3cDRfVXk5aDlhdXloOTJwRm1qQkhteWxsWnFqZXZR?oc=5",
+            "published": "Tue, 28 Jul 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE0tVWY5UFkwblZjb0UzQlU0aGVZcEhwcGZSQktQYzN0UkRNeFpTeHNjclJENEFmVktfQ0hIc3I3cDRfVXk5aDlhdXloOTJwRm1qQkhteWxsWnFqZXZR?oc=5\" target=\"_blank\">中国ＢＹＤ、日本で軽ＥＶ発売 実質１９９万円台</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
+            "site_name": "朝日新聞"
+        },
+        {
+            "id": 548168,
+            "title": "湾岸ナイト、ＥＶで疾走／都内で「フォーミュラＥ」 – - 電気新聞ウェブサイト",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2SXRKNGFqY291WFM2OVZDVWw5R0lqTnpoZmYzcFIyeXhTeGhOQWxEMDZDR1VOQnlrM0h5R005N3hsV1k4U05TYnRDaEc5Zmk2ZjQ1VWx6Zw?oc=5",
+            "published": "Tue, 28 Jul 2026 21:05:23 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2SXRKNGFqY291WFM2OVZDVWw5R0lqTnpoZmYzcFIyeXhTeGhOQWxEMDZDR1VOQnlrM0h5R005N3hsV1k4U05TYnRDaEc5Zmk2ZjQ1VWx6Zw?oc=5\" target=\"_blank\">湾岸ナイト、ＥＶで疾走／都内で「フォーミュラＥ」 –</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">電気新聞ウェブサイト</font>",
+            "site_name": "電気新聞ウェブサイト"
+        },
+        {
+            "id": 178423,
+            "title": "「RACCO」は日本市場を変えるのか…EV普及へBYDが語る「責任」 日系メーカーはどう迎え撃つ？ - 東京新聞デジタル",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PeUg2ZWR4dnBSV2R5Qi0zcVRYQWtBWjd5Y1JRbnBaUE1xVEJzbnVzbGZ0OFlFY2ppZklXNUo2MllFVElRZDRHYTZSZHZhbXI4QTdr?oc=5",
+            "published": "Tue, 28 Jul 2026 21:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PeUg2ZWR4dnBSV2R5Qi0zcVRYQWtBWjd5Y1JRbnBaUE1xVEJzbnVzbGZ0OFlFY2ppZklXNUo2MllFVElRZDRHYTZSZHZhbXI4QTdr?oc=5\" target=\"_blank\">「RACCO」は日本市場を変えるのか…EV普及へBYDが語る「責任」 日系メーカーはどう迎え撃つ？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東京新聞デジタル</font>",
+            "site_name": "東京新聞デジタル"
+        },
+        {
+            "id": 241701,
+            "title": "ＢＹＤ：中国BYD、軽EV発売 「ラッコ」 日本市場に参入、普及狙う - 毎日新聞",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12bGZQMlg2SEk3bk53M3dKUEdpeUxYWXhwVURvSEtPV09vb0luejRmQzFONzhiWHdtUExWTFpLYUNsekJYV3BxelMxam9TZXoyMldGYUpZbVh3Vll6MENVNVRIOXRDT3N2?oc=5",
+            "published": "Tue, 28 Jul 2026 17:01:31 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE12bGZQMlg2SEk3bk53M3dKUEdpeUxYWXhwVURvSEtPV09vb0luejRmQzFONzhiWHdtUExWTFpLYUNsekJYV3BxelMxam9TZXoyMldGYUpZbVh3Vll6MENVNVRIOXRDT3N2?oc=5\" target=\"_blank\">ＢＹＤ：中国BYD、軽EV発売 「ラッコ」 日本市場に参入、普及狙う</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">毎日新聞</font>",
+            "site_name": "毎日新聞"
+        },
+        {
+            "id": 76900,
+            "title": "BYDの軽EV「ラッコ」は世界初の軽SDV、新開発の「X-PACK」に電動システムを統合：電動化（1/2 ページ） - MONOist",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOVGMxNDdZcTFVLWVkTWJWQVdtaXpTN0UzX0tGdXdoQ1hKYkxpQ25IZTZvdzdfZkk3cm5sM21YZ3UwMzZTcVJtQjQ5OXN3ZXdodm1IamZRRWZnMlVTSTRzSXhMMEFaYXBaVFpEZkk5Zw?oc=5",
+            "published": "Tue, 28 Jul 2026 21:30:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBOVGMxNDdZcTFVLWVkTWJWQVdtaXpTN0UzX0tGdXdoQ1hKYkxpQ25IZTZvdzdfZkk3cm5sM21YZ3UwMzZTcVJtQjQ5OXN3ZXdodm1IamZRRWZnMlVTSTRzSXhMMEFaYXBaVFpEZkk5Zw?oc=5\" target=\"_blank\">BYDの軽EV「ラッコ」は世界初の軽SDV、新開発の「X-PACK」に電動システムを統合：電動化（1/2 ページ）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MONOist</font>",
+            "site_name": "MONOist"
+        },
+        {
+            "id": 116161,
+            "title": "いすゞが「エルガ」一部改良、大型EV路線バスで新たに設定した寒冷地仕様の機能 - ニュースイッチ by 日刊工業新聞社",
+            "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1tQ1ZCOGp2UTZXdGVHTUUzRDZCUkhqOTNUSjNRS1JOX3VUblg5VmRrd0MyUFZDaHFZRTl4am9zdl9xQQ?oc=5",
+            "published": "Tue, 28 Jul 2026 21:01:59 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE1tQ1ZCOGp2UTZXdGVHTUUzRDZCUkhqOTNUSjNRS1JOX3VUblg5VmRrd0MyUFZDaHFZRTl4am9zdl9xQQ?oc=5\" target=\"_blank\">いすゞが「エルガ」一部改良、大型EV路線バスで新たに設定した寒冷地仕様の機能</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースイッチ by 日刊工業新聞社</font>",
+            "site_name": "ニュースイッチ by 日刊工業新聞社"
+        },
+        {
+            "id": 470400,
+            "title": "ＢＹＤ 軽ＥＶ発売 「ＲＡＣＣＯ」 日本勢の牙城に挑む - 福井新聞社",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10bWFtSU8tQ2U1bFhqTHdsM21oMXZSR3k5b0JuTlFFRFpyWWxkZzBBLU5aXzBWX1FjMEQwcVQ5UkJfNHd2ekxuNVZtRU96a185cDBkdkw3ak1PblBXOWc?oc=5",
+            "published": "Tue, 28 Jul 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE10bWFtSU8tQ2U1bFhqTHdsM21oMXZSR3k5b0JuTlFFRFpyWWxkZzBBLU5aXzBWX1FjMEQwcVQ5UkJfNHd2ekxuNVZtRU96a185cDBkdkw3ak1PblBXOWc?oc=5\" target=\"_blank\">ＢＹＤ 軽ＥＶ発売 「ＲＡＣＣＯ」 日本勢の牙城に挑む</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">福井新聞社</font>",
+            "site_name": "福井新聞社"
+        },
+        {
+            "id": 740660,
+            "title": "中国市場に激震？ 1000万円超「レクサスEV」が挑む高級SUV戦線！ 台数勝負を離れたトヨタが描く次世代EV戦略とは - carview!",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOWlSVlh4SGJ3VDhrMzJoNkdFR2F1ekxMVHhOZHM3NWoxdmZBWVJLX0VRYUJCdlVBaW1mNWF0aTgtQldxdjctVUlZeEplZEJReU9NWDgweFF3LXdCODRacDRIeVNNMS01VE9kMllnX3N6QmhHNjFESWlwRVhJdXlWVloyTDQwV1pNaW9ZYUNSM0V3OVZ5?oc=5",
+            "published": "Tue, 28 Jul 2026 21:21:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQOWlSVlh4SGJ3VDhrMzJoNkdFR2F1ekxMVHhOZHM3NWoxdmZBWVJLX0VRYUJCdlVBaW1mNWF0aTgtQldxdjctVUlZeEplZEJReU9NWDgweFF3LXdCODRacDRIeVNNMS01VE9kMllnX3N6QmhHNjFESWlwRVhJdXlWVloyTDQwV1pNaW9ZYUNSM0V3OVZ5?oc=5\" target=\"_blank\">中国市場に激震？ 1000万円超「レクサスEV」が挑む高級SUV戦線！ 台数勝負を離れたトヨタが描く次世代EV戦略とは</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carview!</font>",
+            "site_name": "carview!"
+        },
+        {
+            "id": 229783,
+            "title": "豊田通商、配送・営業向け3輪EVを展開 - LOGISTICS TODAY",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9xRHNwNDAxTHVoVTVRT0pmWHJfLWVSTzMtSmNGRE9ERWJmaWtMbEpNY1dBajBoM05RSjFac1dtRVZ2dlhzRDgyZg?oc=5",
+            "published": "Tue, 28 Jul 2026 18:43:31 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE9xRHNwNDAxTHVoVTVRT0pmWHJfLWVSTzMtSmNGRE9ERWJmaWtMbEpNY1dBajBoM05RSjFac1dtRVZ2dlhzRDgyZg?oc=5\" target=\"_blank\">豊田通商、配送・営業向け3輪EVを展開</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
+            "site_name": "LOGISTICS TODAY"
+        },
+        {
+            "id": 83795,
+            "title": "「ラッコ」日本の“新定番”に BYD、軽EV市場開拓 - 日刊工業新聞",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5neXVKVTZKQlB1X3hUamNxT3E2dURITmdNU3lQdmtULUZYWTJ6UnMzbEQ1ZTdRV2J5ZW50N1pUaUtkR2doek41cHNKcmhDRHpxZzBMdmlmWjhoTEU?oc=5",
+            "published": "Tue, 28 Jul 2026 20:00:04 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5neXVKVTZKQlB1X3hUamNxT3E2dURITmdNU3lQdmtULUZYWTJ6UnMzbEQ1ZTdRV2J5ZW50N1pUaUtkR2doek41cHNKcmhDRHpxZzBMdmlmWjhoTEU?oc=5\" target=\"_blank\">「ラッコ」日本の“新定番”に BYD、軽EV市場開拓</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日刊工業新聞</font>",
+            "site_name": "日刊工業新聞"
+        },
+        {
+            "id": 648708,
+            "title": "BYD 軽EV発売 199万円から 日本市場狙う - 沖縄タイムス社",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84aTBpQWVhZHBoSkpncVdUeHpjQkJHTTFRUFZPMk5iUTNXSHQza29QRk9kXzFTNUFFYUpPLURCbEFITEhwdVdlY1dScDkwbm1jT1EydEZjRXZFUXdtUEE?oc=5",
+            "published": "Tue, 28 Jul 2026 18:57:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE84aTBpQWVhZHBoSkpncVdUeHpjQkJHTTFRUFZPMk5iUTNXSHQza29QRk9kXzFTNUFFYUpPLURCbEFITEhwdVdlY1dScDkwbm1jT1EydEZjRXZFUXdtUEE?oc=5\" target=\"_blank\">BYD 軽EV発売 199万円から 日本市場狙う</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">沖縄タイムス社</font>",
+            "site_name": "沖縄タイムス社"
+        },
+        {
+            "id": 421953,
+            "title": "中国軽ＥＶ １９９万円から 日本勢切り崩しへ - 琉球新報デジタル",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FanRVd1l3NFB2NHlJdHJTQzdFVUNVUTU2ajd1Qm5DTXZDTHdZTFhxRnFjWVlzV3dhdEhxdGtPazhNQUU1d1hPM2gyWGhRTWZZVm9KeWlqYzVsTm9mcV9idUpR?oc=5",
+            "published": "Tue, 28 Jul 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FanRVd1l3NFB2NHlJdHJTQzdFVUNVUTU2ajd1Qm5DTXZDTHdZTFhxRnFjWVlzV3dhdEhxdGtPazhNQUU1d1hPM2gyWGhRTWZZVm9KeWlqYzVsTm9mcV9idUpR?oc=5\" target=\"_blank\">中国軽ＥＶ １９９万円から 日本勢切り崩しへ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">琉球新報デジタル</font>",
+            "site_name": "琉球新報デジタル"
+        },
+        {
+            "id": 200156,
+            "title": "磐田発 ＥＶ向け製品続々 電食対策、小型・軽量化、低摩擦化 ニーズ即応 競争力強化 ＮＴＮが開発加速 - 静岡新聞DIGITAL",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kQ0xnUE5UQ3JDV3EzcHdMY1hQNUlvM09jSkwxS01LSnVlWXVLTWtkZ3pid3NQMkxVNF8yS09iSUlyd3UxWUw4RmdkUVZPZw?oc=5",
+            "published": "Tue, 28 Jul 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kQ0xnUE5UQ3JDV3EzcHdMY1hQNUlvM09jSkwxS01LSnVlWXVLTWtkZ3pid3NQMkxVNF8yS09iSUlyd3UxWUw4RmdkUVZPZw?oc=5\" target=\"_blank\">磐田発 ＥＶ向け製品続々 電食対策、小型・軽量化、低摩擦化 ニーズ即応 競争力強化 ＮＴＮが開発加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">静岡新聞DIGITAL</font>",
+            "site_name": "静岡新聞DIGITAL"
+        },
+        {
+            "id": 269305,
+            "title": "EV充電器「テラチャージ」、沖縄県石垣市の八重泉酒造に設置 - レスポンス（Response.jp）",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DTXpvUEgyY205SWFmWUlXUUpBQVNLQk9LVVlha0dHZnVvbnJjQV9XSXFELWdfOGNmUnJ5WUhfX2FYMmZTNFVmQ0N2d2VCQXNDWm01M3pDTkk3NTJLelpMNTB3?oc=5",
+            "published": "Tue, 28 Jul 2026 21:30:03 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DTXpvUEgyY205SWFmWUlXUUpBQVNLQk9LVVlha0dHZnVvbnJjQV9XSXFELWdfOGNmUnJ5WUhfX2FYMmZTNFVmQ0N2d2VCQXNDWm01M3pDTkk3NTJLelpMNTB3?oc=5\" target=\"_blank\">EV充電器「テラチャージ」、沖縄県石垣市の八重泉酒造に設置</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
+            "site_name": "レスポンス（Response.jp）"
+        },
+        {
+            "id": 417893,
+            "title": "BYDの軽EV「RACCO（ラッコ）」、実質199万5000円から－補助金格差で競合車よりも割高に - TBS NEWS DIG",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOUh1U3pFcW1MNi12WEZIX0dkQ2FzRTNiZUpDNjlNbzZZcjBQUUNaUHhZbnZYX2FFYU1JRTdCTDFDTGp5MnB6OEFmUm80ekN3ZmpMUnVVVXIwekdUbW5CdjlNaGk2d0xCV1NXLUZvaFFtSFVfUDdYY0xsMGQ0QnM2REJCQVAxY3c?oc=5",
+            "published": "Tue, 28 Jul 2026 18:16:26 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOOUh1U3pFcW1MNi12WEZIX0dkQ2FzRTNiZUpDNjlNbzZZcjBQUUNaUHhZbnZYX2FFYU1JRTdCTDFDTGp5MnB6OEFmUm80ekN3ZmpMUnVVVXIwekdUbW5CdjlNaGk2d0xCV1NXLUZvaFFtSFVfUDdYY0xsMGQ0QnM2REJCQVAxY3c?oc=5\" target=\"_blank\">BYDの軽EV「RACCO（ラッコ）」、実質199万5000円から－補助金格差で競合車よりも割高に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBS NEWS DIG</font>",
+            "site_name": "TBS NEWS DIG"
+        },
+        {
+            "id": 303033,
+            "title": "中国BYD、EV「ラッコ」発売 海外メーカーの国内軽市場参入は初（毎日新聞） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45SWpPNDBSTThYTS1JSEtyeXhueHU3SGR1RFNxOWtoVG5BdlVUTW1yZ09FQzJIUmJ6MWFIUHVVcmNYeUh1dE56dkc0X0V5ZlAxOUZLRVJPa2V3dnBQaGRZdXVmOF9qR0VRZXJIRkFjbmVFODFiS3c2eTB6ZVVSZVE?oc=5",
+            "published": "Tue, 28 Jul 2026 12:20:04 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE45SWpPNDBSTThYTS1JSEtyeXhueHU3SGR1RFNxOWtoVG5BdlVUTW1yZ09FQzJIUmJ6MWFIUHVVcmNYeUh1dE56dkc0X0V5ZlAxOUZLRVJPa2V3dnBQaGRZdXVmOF9qR0VRZXJIRkFjbmVFODFiS3c2eTB6ZVVSZVE?oc=5\" target=\"_blank\">中国BYD、EV「ラッコ」発売 海外メーカーの国内軽市場参入は初（毎日新聞）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 675663,
+            "title": "中国・電気自動車大手BYD 日本規格の“軽EV”を発売 - khb東日本放送",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rU1h4TkQzb0xkVG81NVNOMDlWcm1QYnNYZWFMUGo3Z216eFd0RmVVRlE3TlpaRzdDc0doZ1VkSTBOYjFiQWcyXzF1X0tJSEk?oc=5",
+            "published": "Tue, 28 Jul 2026 05:33:32 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rU1h4TkQzb0xkVG81NVNOMDlWcm1QYnNYZWFMUGo3Z216eFd0RmVVRlE3TlpaRzdDc0doZ1VkSTBOYjFiQWcyXzF1X0tJSEk?oc=5\" target=\"_blank\">中国・電気自動車大手BYD 日本規格の“軽EV”を発売</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">khb東日本放送</font>",
+            "site_name": "khb東日本放送"
+        },
+        {
+            "id": 721464,
+            "title": "中国EV「第2波」が欧州へ 小米など高級車市場に照準 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zczV2NDRyTXI0T2gtZ2NIZDRfeDlOTnhqX2kwd2hkMFFZS0pQSTZrVXR2Qjdxem9HWEw5Y3hYWHNwVHp1SHhxWXVrR2JyNll3dW92RkdJLURwcFVTbFl0MXVXVlhzYV9yR2htVjExTmR5WC03WjVV?oc=5",
+            "published": "Tue, 28 Jul 2026 15:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9zczV2NDRyTXI0T2gtZ2NIZDRfeDlOTnhqX2kwd2hkMFFZS0pQSTZrVXR2Qjdxem9HWEw5Y3hYWHNwVHp1SHhxWXVrR2JyNll3dW92RkdJLURwcFVTbFl0MXVXVlhzYV9yR2htVjExTmR5WC03WjVV?oc=5\" target=\"_blank\">中国EV「第2波」が欧州へ 小米など高級車市場に照準</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+            "site_name": "日本経済新聞"
+        },
+        {
+            "id": 142034,
+            "title": "BYD 新型「ラッコ」遂に市場へ！ 初の軽スーパーハイトEV 価格は214万5000円から（グーネット） | 自動車情報・ニュース - carview!",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUTRoUndaX0lZMEFOMFFQWVFrUkUxYXJmakx1ZzZGbVBMVTRpWWxCbF94cjBCdEJ4Q2kyVjJELXNubWU2dmZZbnhQcjJkZTZrWHVhdWNIMWctb25tQnFVQmJvYUVzc1JFNndYZVlSNVVBTVdCRkF1ck5WUlVCUzc0d19TZktQWVFu?oc=5",
+            "published": "Tue, 28 Jul 2026 12:02:09 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUTRoUndaX0lZMEFOMFFQWVFrUkUxYXJmakx1ZzZGbVBMVTRpWWxCbF94cjBCdEJ4Q2kyVjJELXNubWU2dmZZbnhQcjJkZTZrWHVhdWNIMWctb25tQnFVQmJvYUVzc1JFNndYZVlSNVVBTVdCRkF1ck5WUlVCUzc0d19TZktQWVFu?oc=5\" target=\"_blank\">BYD 新型「ラッコ」遂に市場へ！ 初の軽スーパーハイトEV 価格は214万5000円から（グーネット） | 自動車情報・ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carview!</font>",
+            "site_name": "carview!"
+        },
+        {
+            "id": 701787,
+            "title": "「大は小を兼ねる」はEV選びには当てはまらない！ 適切なバッテリー容量＆種類を見極めることが重要だった（THE EV TIMES） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yRjlfcWtGQUVmNENLeUdmRGVvcVdhWW1ZTFRhWGJvekQxbHJ6Y2dMNFZocWFrSnMzbGpBM1RHcTNWT21FMFM3d25GVmp4TFR2Q01jUzY0a3RWU3lDVTEzRkx2YWV1MndibXVwTXExNU9xUUtQU1B2UjdWVjM5MUk?oc=5",
+            "published": "Tue, 28 Jul 2026 10:00:30 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9yRjlfcWtGQUVmNENLeUdmRGVvcVdhWW1ZTFRhWGJvekQxbHJ6Y2dMNFZocWFrSnMzbGpBM1RHcTNWT21FMFM3d25GVmp4TFR2Q01jUzY0a3RWU3lDVTEzRkx2YWV1MndibXVwTXExNU9xUUtQU1B2UjdWVjM5MUk?oc=5\" target=\"_blank\">「大は小を兼ねる」はEV選びには当てはまらない！ 適切なバッテリー容量＆種類を見極めることが重要だった（THE EV TIMES）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 410136,
+            "title": "［福岡県］中国BYD久留米進出 EV大手が販売店、日本初の小型店舗 「新しい移動の手段広めたい」 - 西日本新聞me",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ycVRRWW5SamhWYXp5S0oxUVJRNGhDSWtWQ3B1VzBidFZvSncxNVQ5RGg4SzNqbGtIOHN2dG5IeDNfWmtkcFQ3eU9JUGhTWlRpczAwbnhn?oc=5",
+            "published": "Tue, 28 Jul 2026 21:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ycVRRWW5SamhWYXp5S0oxUVJRNGhDSWtWQ3B1VzBidFZvSncxNVQ5RGg4SzNqbGtIOHN2dG5IeDNfWmtkcFQ3eU9JUGhTWlRpczAwbnhn?oc=5\" target=\"_blank\">［福岡県］中国BYD久留米進出 EV大手が販売店、日本初の小型店舗 「新しい移動の手段広めたい」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">西日本新聞me</font>",
+            "site_name": "西日本新聞me"
+        },
+        {
+            "id": 844623,
+            "title": "中国BYD、EV「ラッコ」発売 海外メーカーの国内軽市場参入は初 [写真特集2/5] - 毎日新聞",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTkR5QTM4V3F3bkNfYWFoUEZ6S0tlOXhIdUVvNk5qUnc3Yzd1cVBQZC14cThuTjBLbDdwekEwcWdMaWttXzhjTWRxOEZOSTRrVUVURW93SjhNd1RTVy1na1hGenRNOEU1blZBdXNxeVJaalJ5blZnelI0WW5FSGF0V0VnS2pXaGc?oc=5",
+            "published": "Tue, 28 Jul 2026 12:25:27 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQTkR5QTM4V3F3bkNfYWFoUEZ6S0tlOXhIdUVvNk5qUnc3Yzd1cVBQZC14cThuTjBLbDdwekEwcWdMaWttXzhjTWRxOEZOSTRrVUVURW93SjhNd1RTVy1na1hGenRNOEU1blZBdXNxeVJaalJ5blZnelI0WW5FSGF0V0VnS2pXaGc?oc=5\" target=\"_blank\">中国BYD、EV「ラッコ」発売 海外メーカーの国内軽市場参入は初 [写真特集2/5]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">毎日新聞</font>",
+            "site_name": "毎日新聞"
+        },
+        {
+            "id": 166628,
+            "title": "ベトナムEV大手VinFast、独akf-Bankと提携しドイツ販売網を加速 - BigGo ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Ea1NUQVNIdk9hODIxd3dUNmpSekRSZWdNWUlDUUtMZ0Nnd2FjckowUFpRZkNPNC1KdE43S3B6ckQ3bjFFai1oSHdNc1hmS05rd24yWFNWVVhEeG1UVHNIaGRtVXFYcWVyM052ZkNmSGJDZlk4?oc=5",
+            "published": "Tue, 28 Jul 2026 15:05:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1Ea1NUQVNIdk9hODIxd3dUNmpSekRSZWdNWUlDUUtMZ0Nnd2FjckowUFpRZkNPNC1KdE43S3B6ckQ3bjFFai1oSHdNc1hmS05rd24yWFNWVVhEeG1UVHNIaGRtVXFYcWVyM052ZkNmSGJDZlk4?oc=5\" target=\"_blank\">ベトナムEV大手VinFast、独akf-Bankと提携しドイツ販売網を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+            "site_name": "BigGo ファイナンス"
+        },
+        {
+            "id": 94097,
+            "title": "WTO、トルコの中国EV規制は違反と裁定 中国商務部「速やかな是正を」 - BigGo ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zNFJMUThyb3RyNlJsWGZ2YzVCRFNySWpzT1FjVDhDTG1heW1fZUlqUkNiX2dFbmVIRlB4MExhZnM4Z0pETVFub05vLWRHQVl3RVpKcHBUcjRZdkFnaGJ4dy1BWlNaanU2XzZJNUcyN2dmSFB0?oc=5",
+            "published": "Tue, 28 Jul 2026 15:05:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE8zNFJMUThyb3RyNlJsWGZ2YzVCRFNySWpzT1FjVDhDTG1heW1fZUlqUkNiX2dFbmVIRlB4MExhZnM4Z0pETVFub05vLWRHQVl3RVpKcHBUcjRZdkFnaGJ4dy1BWlNaanU2XzZJNUcyN2dmSFB0?oc=5\" target=\"_blank\">WTO、トルコの中国EV規制は違反と裁定 中国商務部「速やかな是正を」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+            "site_name": "BigGo ファイナンス"
+        },
+        {
+            "id": 768417,
+            "title": "ＪＦＥエンジニアリングとＳＭＡＳが提携 バッテリー交換式ＥＶの社会実装 - 物流ウィークリー",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5iNXB5OExmOGZNRUc2RlZNR29fcFczcHdJNGFlZTVBTHUzaHBCcFFpdkFSVXNOOVJlSGJROUktWjhTcUtVVG5kQUNydzJXQQ?oc=5",
+            "published": "Tue, 28 Jul 2026 14:03:13 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5iNXB5OExmOGZNRUc2RlZNR29fcFczcHdJNGFlZTVBTHUzaHBCcFFpdkFSVXNOOVJlSGJROUktWjhTcUtVVG5kQUNydzJXQQ?oc=5\" target=\"_blank\">ＪＦＥエンジニアリングとＳＭＡＳが提携 バッテリー交換式ＥＶの社会実装</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">物流ウィークリー</font>",
+            "site_name": "物流ウィークリー"
+        },
+        {
+            "id": 253485,
+            "title": "【動画】中国ＢＹＤ、軽ＥＶ発売 初の日本専用設計車で攻勢 - 時事通信ニュース",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sQWRaT3UyVjlsZUwzS3NuMFdZODBYWnhtcTJFY3ZGajZUb3dQT1hQV3FLNkZBaVhOdUFIRUVGM1pfbEdfT0V5SGpTa1VuT1E?oc=5",
+            "published": "Tue, 28 Jul 2026 11:34:40 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sQWRaT3UyVjlsZUwzS3NuMFdZODBYWnhtcTJFY3ZGajZUb3dQT1hQV3FLNkZBaVhOdUFIRUVGM1pfbEdfT0V5SGpTa1VuT1E?oc=5\" target=\"_blank\">【動画】中国ＢＹＤ、軽ＥＶ発売 初の日本専用設計車で攻勢</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事通信ニュース</font>",
+            "site_name": "時事通信ニュース"
+        },
+        {
+            "id": 43209,
+            "title": "中国ＢＹＤ、軽ＥＶ発売 ２１４万円から、年間販売１万台目指す - 時事ドットコム",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYUhvZ1BlTk5Ydlk0RTgwN1UzUG45cEwzcjZHNVFaQWFoN2dkUHRWalU3VGZmYnVldzZ3SW5DbFJhd092MWxIZ005VVJQaFRwQi12QVgwaUotcHZKNnNEWE41RUIzY1I2RU1wdUMzYmx0bXh2QUluempOQmlnQmt0akhn?oc=5",
+            "published": "Tue, 28 Jul 2026 12:38:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPYUhvZ1BlTk5Ydlk0RTgwN1UzUG45cEwzcjZHNVFaQWFoN2dkUHRWalU3VGZmYnVldzZ3SW5DbFJhd092MWxIZ005VVJQaFRwQi12QVgwaUotcHZKNnNEWE41RUIzY1I2RU1wdUMzYmx0bXh2QUluempOQmlnQmt0akhn?oc=5\" target=\"_blank\">中国ＢＹＤ、軽ＥＶ発売 ２１４万円から、年間販売１万台目指す</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事ドットコム</font>",
+            "site_name": "時事ドットコム"
+        },
+        {
+            "id": 340161,
+            "title": "価格は214万5000円から…BYDが日本向け軽EV「RACCO」発売 年内に1万台の受注を目指す - 東京新聞デジタル",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OelBCNS1GWm9WVmx5MVFMMTRWaDZwcjdBbUNsTDhCSEJ5VEVzMGFsOGZINlNGODJDWXk3eHhkc21WRFZoczd0WHZpZkJ6VTdkME1R?oc=5",
+            "published": "Tue, 28 Jul 2026 09:39:33 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OelBCNS1GWm9WVmx5MVFMMTRWaDZwcjdBbUNsTDhCSEJ5VEVzMGFsOGZINlNGODJDWXk3eHhkc21WRFZoczd0WHZpZkJ6VTdkME1R?oc=5\" target=\"_blank\">価格は214万5000円から…BYDが日本向け軽EV「RACCO」発売 年内に1万台の受注を目指す</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東京新聞デジタル</font>",
+            "site_name": "東京新聞デジタル"
+        },
+        {
+            "id": 302639,
+            "title": "都市型小型EV『Lean3』、豊田通商が法人向け販売代理店に…リーンモビリティと契約締結（レスポンス） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12dURtMW1YTUhWLThBQ29qbW5GQ25xQ2VXeW5KOE9pNzRBU1NoblZQUE5TOGZHQlJsYWJhVTBkNlctbG9pbV9ac0xoeURVWU5rbldyZmJReHU5amFHRkhybE9rZnpGQzhQRXlmZGtmT1BUTUpJR1NNS0FoZXpkcms?oc=5",
+            "published": "Tue, 28 Jul 2026 08:00:03 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE12dURtMW1YTUhWLThBQ29qbW5GQ25xQ2VXeW5KOE9pNzRBU1NoblZQUE5TOGZHQlJsYWJhVTBkNlctbG9pbV9ac0xoeURVWU5rbldyZmJReHU5amFHRkhybE9rZnpGQzhQRXlmZGtmT1BUTUpJR1NNS0FoZXpkcms?oc=5\" target=\"_blank\">都市型小型EV『Lean3』、豊田通商が法人向け販売代理店に…リーンモビリティと契約締結（レスポンス）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 583110,
+            "title": "中国ＢＹＤ、軽ＥＶ「ラッコ」を発売 実質価格は200万円切る - MSN",
+            "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNeDY5QTlRSHhLeG1MbW12YU0wNXZoUGhMQkNielppc2VHYmE5QkZ6djN0cTZWeHFjdzRfajJRRmd5VHlXOGxVVTJBQ2lCS0xseWRFb0VSM2JPMGpoOG81RTcwbTRkV29IRk1KUzlzNlJrWnJVUHB1UzhScmFXc0lMVlhpY05sSmJndkFrUXlTVVoyOVpNQ1kwVXBDYVlqVEh4eVFIQlg0S0JHdmw4VUE5YkU0bVYxWlVuM3o1SHhPNkVFdGJlV1B1cmlhNmxiaUdUUmtEbkc3NXgyUjRsZndya1l2UUd4c2M1c3k2eXdmUXREQm9TRWtqdkVMOVU3aVktUVRwT0tEWkZfdkxHT1BHVXJKZV9NT2ExQlVYa3Nxb2xKZXBpNE1KcVVPWHZuVjdPNFR5anZGZlRPOVV6Wm82ZEFFLTVyMVFHMlZ5RzNPQk5FMVNkYXBDT2hGY1JhUG9Nd29WUVVPUW54MUpFZVp6d0t6TGdrVDVIUmpyam5RNHFPN050LVJpcDV1X0JLQQ?oc=5",
+            "published": "Tue, 28 Jul 2026 10:40:39 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgNBVV95cUxNeDY5QTlRSHhLeG1MbW12YU0wNXZoUGhMQkNielppc2VHYmE5QkZ6djN0cTZWeHFjdzRfajJRRmd5VHlXOGxVVTJBQ2lCS0xseWRFb0VSM2JPMGpoOG81RTcwbTRkV29IRk1KUzlzNlJrWnJVUHB1UzhScmFXc0lMVlhpY05sSmJndkFrUXlTVVoyOVpNQ1kwVXBDYVlqVEh4eVFIQlg0S0JHdmw4VUE5YkU0bVYxWlVuM3o1SHhPNkVFdGJlV1B1cmlhNmxiaUdUUmtEbkc3NXgyUjRsZndya1l2UUd4c2M1c3k2eXdmUXREQm9TRWtqdkVMOVU3aVktUVRwT0tEWkZfdkxHT1BHVXJKZV9NT2ExQlVYa3Nxb2xKZXBpNE1KcVVPWHZuVjdPNFR5anZGZlRPOVV6Wm82ZEFFLTVyMVFHMlZ5RzNPQk5FMVNkYXBDT2hGY1JhUG9Nd29WUVVPUW54MUpFZVp6d0t6TGdrVDVIUmpyam5RNHFPN050LVJpcDV1X0JLQQ?oc=5\" target=\"_blank\">中国ＢＹＤ、軽ＥＶ「ラッコ」を発売 実質価格は200万円切る</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+            "site_name": "MSN"
+        },
+        {
+            "id": 792908,
+            "title": "「大は小を兼ねる」はEV選びには当てはまらない！ 適切なバッテリー容量＆種類を見極めることが重要だった - THE EV TIMES",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYVDg4MERYc0FDZEZEdGh0MHRidFZrREtLVUxYaDJJTF9JTGozVFhQVUdhT1dKNVB0SFJLOXVwNGRQYzA2RWozRWJwbXNBVHAxM3c?oc=5",
+            "published": "Tue, 28 Jul 2026 13:01:05 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYVDg4MERYc0FDZEZEdGh0MHRidFZrREtLVUxYaDJJTF9JTGozVFhQVUdhT1dKNVB0SFJLOXVwNGRQYzA2RWozRWJwbXNBVHAxM3c?oc=5\" target=\"_blank\">「大は小を兼ねる」はEV選びには当てはまらない！ 適切なバッテリー容量＆種類を見極めることが重要だった</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">THE EV TIMES</font>",
+            "site_name": "THE EV TIMES"
+        },
+        {
+            "id": 4315,
+            "title": "海外メーカー初 中国BYDが日本規格の軽EVを発売（ABEMA TIMES） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mbHN2RFBPQk0wNWp4UWIwekw1WU5iZzV0Qk5lTVQtWThnMUJBZU5NV1FjUUpjbXMzenFBd3R6Y3pKaVBieElBTXAxTFVQcENkdUtzc080NGhKbURrSVhkVXRPd0RjVGZvQnUxM1RqWE1xMUhiUGRKQThSa0U2TUU?oc=5",
+            "published": "Tue, 28 Jul 2026 06:27:15 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5mbHN2RFBPQk0wNWp4UWIwekw1WU5iZzV0Qk5lTVQtWThnMUJBZU5NV1FjUUpjbXMzenFBd3R6Y3pKaVBieElBTXAxTFVQcENkdUtzc080NGhKbURrSVhkVXRPd0RjVGZvQnUxM1RqWE1xMUhiUGRKQThSa0U2TUU?oc=5\" target=\"_blank\">海外メーカー初 中国BYDが日本規格の軽EVを発売（ABEMA TIMES）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 208022,
+            "title": "ＢＹＤ 軽ＥＶ投入 日本専用車「ラッコ」 「牙城」切り崩し狙う - 読売新聞",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zX1F1cFBIQVkwVnI2aUM0VFdpMlMyOTFyT19LSjJ6MXczaGNFeHo4VG03MjZCdWpiRWlOX0kyY1k2aWwzZFdTdU9NeVJfSjZmTWpCaHY2cFFsd1JnaWYwTHNxWQ?oc=5",
+            "published": "Tue, 28 Jul 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zX1F1cFBIQVkwVnI2aUM0VFdpMlMyOTFyT19LSjJ6MXczaGNFeHo4VG03MjZCdWpiRWlOX0kyY1k2aWwzZFdTdU9NeVJfSjZmTWpCaHY2cFFsd1JnaWYwTHNxWQ?oc=5\" target=\"_blank\">ＢＹＤ 軽ＥＶ投入 日本専用車「ラッコ」 「牙城」切り崩し狙う</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">読売新聞</font>",
+            "site_name": "読売新聞"
+        },
+        {
+            "id": 882760,
+            "title": "中国・電気自動車大手BYD 日本規格の“軽EV”を発売 - HOME広島ホームテレビ",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lQWFVNkN0VnFsNTRoLUc4T2hwZ2lsSG1FNzF4R0c2SlI4MmU3bGNkMG44cFNkZ3FpdHdaV2dNaWdHdUYydUVaczFwa19GNW5PWnJFNklZUDg4bXhoRDJaZTNhX2x3akJT?oc=5",
+            "published": "Tue, 28 Jul 2026 05:33:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lQWFVNkN0VnFsNTRoLUc4T2hwZ2lsSG1FNzF4R0c2SlI4MmU3bGNkMG44cFNkZ3FpdHdaV2dNaWdHdUYydUVaczFwa19GNW5PWnJFNklZUDg4bXhoRDJaZTNhX2x3akJT?oc=5\" target=\"_blank\">中国・電気自動車大手BYD 日本規格の“軽EV”を発売</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HOME広島ホームテレビ</font>",
+            "site_name": "HOME広島ホームテレビ"
+        },
+        {
+            "id": 286935,
+            "title": "中国BYD、軽EV発売 日本の牙城切り崩しへ - 47NEWS",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SeTV4RTlTUVdTaThCTjVCbGs2S0U0X1I4RHdSQlcxazQzOFZ4ZlQzT1lyMUU4UDQ3aWtOTmowRGlBaVpHS2pSVUJScw?oc=5",
+            "published": "Tue, 28 Jul 2026 04:51:18 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SeTV4RTlTUVdTaThCTjVCbGs2S0U0X1I4RHdSQlcxazQzOFZ4ZlQzT1lyMUU4UDQ3aWtOTmowRGlBaVpHS2pSVUJScw?oc=5\" target=\"_blank\">中国BYD、軽EV発売 日本の牙城切り崩しへ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
+            "site_name": "47NEWS"
+        },
+        {
+            "id": 90103,
+            "title": "次世代EV向け800-48V降圧ユニットを小サイズで Vicor展示：小型モジュールはロボでも活躍 - EE Times Japan",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9va1UxaTNlWGlTNHVUYmhOem1OTlBFNVRkY2N1Sy1GRTRoZklKcUFicUhmdEg2RmJlQlNQNDQxNHg3V0tzNU1uNGx1eUZPeks3amgtM3VpOWM4RmxlTWJENzJmVzlvOG05Z0sxVS1YSQ?oc=5",
+            "published": "Tue, 28 Jul 2026 03:30:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9va1UxaTNlWGlTNHVUYmhOem1OTlBFNVRkY2N1Sy1GRTRoZklKcUFicUhmdEg2RmJlQlNQNDQxNHg3V0tzNU1uNGx1eUZPeks3amgtM3VpOWM4RmxlTWJENzJmVzlvOG05Z0sxVS1YSQ?oc=5\" target=\"_blank\">次世代EV向け800-48V降圧ユニットを小サイズで Vicor展示：小型モジュールはロボでも活躍</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EE Times Japan</font>",
+            "site_name": "EE Times Japan"
+        },
+        {
+            "id": 407832,
+            "title": "BYD、広瀬アリスさんも登場した新型軽EV「ラッコ」発表会 (Car Watch) - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVjNoTVdPNFBlZ05kT2FXZGZZbEZPTXBWM0VlWERkVFVTeURtU0hNdzdXOWdNb25MMXZVUDBEYVI0TGhyUHZLLWpKQThpTXZHS2Q1eU8yT29QTVE1emRualczcDRzMkkyRHlsd1RfMWhpWVZtWFp2MXVfdXh6NEpBaHpMcEFycUxPZm9xT2pB?oc=5",
+            "published": "Tue, 28 Jul 2026 11:43:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPVjNoTVdPNFBlZ05kT2FXZGZZbEZPTXBWM0VlWERkVFVTeURtU0hNdzdXOWdNb25MMXZVUDBEYVI0TGhyUHZLLWpKQThpTXZHS2Q1eU8yT29QTVE1emRualczcDRzMkkyRHlsd1RfMWhpWVZtWFp2MXVfdXh6NEpBaHpMcEFycUxPZm9xT2pB?oc=5\" target=\"_blank\">BYD、広瀬アリスさんも登場した新型軽EV「ラッコ」発表会 (Car Watch)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 237078,
+            "title": "BYDが日本専用設計の軽EV「ラッコ」を発表「目標は年間販売台数1万台」（MotorFan） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdG1kUlBMdHBBQW9CTDJsWkhTTUtYd0xfLXZLeC16cGdwdHI0WVljV0xMdU5sM0loM2NZOTRxU0N1ZjVkdzFpYVpFYV93ZUZuWi1zUVdpRnlNbEh3YkpjMEtmLUN1N3dMc0duamFLS1kxcWpoNGZ6a2lMR3B6WGZUSVMxd0MwX25K?oc=5",
+            "published": "Tue, 28 Jul 2026 07:45:44 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdG1kUlBMdHBBQW9CTDJsWkhTTUtYd0xfLXZLeC16cGdwdHI0WVljV0xMdU5sM0loM2NZOTRxU0N1ZjVkdzFpYVpFYV93ZUZuWi1zUVdpRnlNbEh3YkpjMEtmLUN1N3dMc0duamFLS1kxcWpoNGZ6a2lMR3B6WGZUSVMxd0MwX25K?oc=5\" target=\"_blank\">BYDが日本専用設計の軽EV「ラッコ」を発表「目標は年間販売台数1万台」（MotorFan）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 156202,
+            "title": "補助金込みでまさかの200万円切り！　BYDの軽ＥＶ「ラッコ」はN-BOXやサクラの牙城を崩せるのか - WEB CARTOP",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqTVdHdTRJdG1mZmlnVDBleEJ0NFhiUGp0SjdMUWlhSUFyZFVxOXJ4Y1NONmJVNzZMSGR1amJBRmh2dkpKVmlGMjB1cnd4czZScUZOb0dR0gFbQVVfeXFMUG5ZZ2U2STVDMlJZRlozYjNkeUttTmtucWM5THNXelo1OUd2V2ZiN3o4b0QyblY3Mmpka1M3QnVNakVEZ2dzTXJjSHRsNFdJZWtNaFVVd0RNMEpYVQ?oc=5",
+            "published": "Tue, 28 Jul 2026 11:30:35 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqTVdHdTRJdG1mZmlnVDBleEJ0NFhiUGp0SjdMUWlhSUFyZFVxOXJ4Y1NONmJVNzZMSGR1amJBRmh2dkpKVmlGMjB1cnd4czZScUZOb0dR0gFbQVVfeXFMUG5ZZ2U2STVDMlJZRlozYjNkeUttTmtucWM5THNXelo1OUd2V2ZiN3o4b0QyblY3Mmpka1M3QnVNakVEZ2dzTXJjSHRsNFdJZWtNaFVVd0RNMEpYVQ?oc=5\" target=\"_blank\">補助金込みでまさかの200万円切り！　BYDの軽ＥＶ「ラッコ」はN-BOXやサクラの牙城を崩せるのか</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEB CARTOP</font>",
+            "site_name": "WEB CARTOP"
+        },
+        {
+            "id": 85109,
+            "title": "BMW「M3」初のEVが姿を現す！これが「M コンセプト・ノイエ・クラッセ」の市販版なのか!?【写真・14枚目】 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mR1paVFBiTW5kQ3ZpUlpKdExUM1RzUjJFUGpXckNabV9HcGFhYzJoblAzZUdqWWpsS2stRWdwUnUxVTBtZ3IyaDVXdl96NWxGRzBmWHJ2R2FZSklIcUV3?oc=5",
+            "published": "Tue, 28 Jul 2026 09:39:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mR1paVFBiTW5kQ3ZpUlpKdExUM1RzUjJFUGpXckNabV9HcGFhYzJoblAzZUdqWWpsS2stRWdwUnUxVTBtZ3IyaDVXdl96NWxGRzBmWHJ2R2FZSklIcUV3?oc=5\" target=\"_blank\">BMW「M3」初のEVが姿を現す！これが「M コンセプト・ノイエ・クラッセ」の市販版なのか!?【写真・14枚目】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 633949,
+            "title": "補助金込みでまさかの200万円切り！ BYDの軽EV「ラッコ」はN-BOXやサクラの牙城を崩せるのか（WEB CARTOP） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGUjQyOU5zMGpfbV9aTXVRUGQyZHFjcG9wVU5GWURUaDdFX1VKX1VzWl91bDBEVmhOQnpPUHdkeTliV3VZMk5VZXZuSVJEemZLTVpDclBULWJCZk52ZkZiUFFtZWlORjBMVFExWmRrQzJkSDlHekIxY3hBR1J3ZEE?oc=5",
+            "published": "Tue, 28 Jul 2026 11:33:53 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBGUjQyOU5zMGpfbV9aTXVRUGQyZHFjcG9wVU5GWURUaDdFX1VKX1VzWl91bDBEVmhOQnpPUHdkeTliV3VZMk5VZXZuSVJEemZLTVpDclBULWJCZk52ZkZiUFFtZWlORjBMVFExWmRrQzJkSDlHekIxY3hBR1J3ZEE?oc=5\" target=\"_blank\">補助金込みでまさかの200万円切り！ BYDの軽EV「ラッコ」はN-BOXやサクラの牙城を崩せるのか（WEB CARTOP）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 999955,
+            "title": "現代自動車EV失速 KIAとテスラに後退 - CHOSUNBIZ - Chosunbiz",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV1YtY0hnd0YxR0JueXhQakoybnR3dDhRMHliUkZOWk5QcmxQbHAxZXJ0NXFIam1HMlRmb2kzUU9kdWlwT0NrTUhVQXFHUHItckxRVmxLYllNUUpKTDQtNkdsbTdZSkZTTTM3bnpyRm8xS1c5X0xxSGJIc3k0cld0Wk5B0gGWAUFVX3lxTE1VSDVSVGNSSnJ6UV9keU9FLWVJRW1DYjdySUY1bUNBUEZEMk9YTUtEaERyOTBHemhVWnY1TjYxbG5qUkpKd0RjbGF0UnR0UjJGWXNKNmN3Z2tyNXJqWDFVOTlQVzc1U041WUZ1UGsxbFFHV0FKbmczREcwT3NLaGVoUXo0T0J4VnIzUGhYd0wzRU5LcmRWdw?oc=5",
+            "published": "Tue, 28 Jul 2026 21:02:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOV1YtY0hnd0YxR0JueXhQakoybnR3dDhRMHliUkZOWk5QcmxQbHAxZXJ0NXFIam1HMlRmb2kzUU9kdWlwT0NrTUhVQXFHUHItckxRVmxLYllNUUpKTDQtNkdsbTdZSkZTTTM3bnpyRm8xS1c5X0xxSGJIc3k0cld0Wk5B0gGWAUFVX3lxTE1VSDVSVGNSSnJ6UV9keU9FLWVJRW1DYjdySUY1bUNBUEZEMk9YTUtEaERyOTBHemhVWnY1TjYxbG5qUkpKd0RjbGF0UnR0UjJGWXNKNmN3Z2tyNXJqWDFVOTlQVzc1U041WUZ1UGsxbFFHV0FKbmczREcwT3NLaGVoUXo0T0J4VnIzUGhYd0wzRU5LcmRWdw?oc=5\" target=\"_blank\">現代自動車EV失速 KIAとテスラに後退 - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+            "site_name": "Chosunbiz"
+        },
+        {
+            "id": 682930,
+            "title": "【EV専用化撤回は本当か？】10年越しの新型レクサス「IS」がBEVだけでなくハイブリッドも用意する方向転換の背景とは - carview!",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWV9ITW8zSHFkS0g5b0sxcUZ4WmhXNGhUcmE1Z183TFZFaHRCQ3d6bDFyQ1VQNFZyZFA1ZnZMMF94bWNTZEVocENDXzZURkdNZDFrQXdNbnhZa1dRTnpoYjVkYXVFZW1TTU5oVHUwTmxyOWduaXNKbVdtUXpHU3kyVjNBbnlTTDQzOUpEOA?oc=5",
+            "published": "Mon, 27 Jul 2026 23:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPWV9ITW8zSHFkS0g5b0sxcUZ4WmhXNGhUcmE1Z183TFZFaHRCQ3d6bDFyQ1VQNFZyZFA1ZnZMMF94bWNTZEVocENDXzZURkdNZDFrQXdNbnhZa1dRTnpoYjVkYXVFZW1TTU5oVHUwTmxyOWduaXNKbVdtUXpHU3kyVjNBbnlTTDQzOUpEOA?oc=5\" target=\"_blank\">【EV専用化撤回は本当か？】10年越しの新型レクサス「IS」がBEVだけでなくハイブリッドも用意する方向転換の背景とは</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carview!</font>",
+            "site_name": "carview!"
+        },
+        {
+            "id": 295665,
+            "title": "中国BYD 海外メーカー初 日本規格の軽EVを発売 最新の経済ニュース【随時更新】 - ABEMA",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xa1liVFl6UEZ0eE42QVdTendJOUZkUmU0ZFkyVlp1WVltSkZ2MFhmbU5hQ2Nlc2sxWlJ6RndEdVBOWGMzRl9XaktsbzlIQ2tZR0hlWVZmSVlCXzg?oc=5",
+            "published": "Tue, 28 Jul 2026 06:26:52 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xa1liVFl6UEZ0eE42QVdTendJOUZkUmU0ZFkyVlp1WVltSkZ2MFhmbU5hQ2Nlc2sxWlJ6RndEdVBOWGMzRl9XaktsbzlIQ2tZR0hlWVZmSVlCXzg?oc=5\" target=\"_blank\">中国BYD 海外メーカー初 日本規格の軽EVを発売 最新の経済ニュース【随時更新】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABEMA</font>",
+            "site_name": "ABEMA"
+        },
+        {
+            "id": 444141,
+            "title": "BYDの軽EV「RACCO（ラッコ）」、実質199万5000円から－補助金格差で競合車よりも割高に - TBS NEWS DIG",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYMlpCMkFGZEFvM2QyMERfZE0zaWJVbzNRSi14c0w0RTBFRzVEYnlQbkR6Sm9aZ3E0N0twV0JUQy1IYU1jSzQxNDlUZzBDY3RTakd3eVV2VV9QRWtBSWZDWmV1MlJTYUk?oc=5",
+            "published": "Tue, 28 Jul 2026 02:07:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYMlpCMkFGZEFvM2QyMERfZE0zaWJVbzNRSi14c0w0RTBFRzVEYnlQbkR6Sm9aZ3E0N0twV0JUQy1IYU1jSzQxNDlUZzBDY3RTakd3eVV2VV9QRWtBSWZDWmV1MlJTYUk?oc=5\" target=\"_blank\">BYDの軽EV「RACCO（ラッコ）」、実質199万5000円から－補助金格差で競合車よりも割高に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBS NEWS DIG</font>",
+            "site_name": "TBS NEWS DIG"
+        },
+        {
+            "id": 254355,
+            "title": "ヒョンデ、次世代EVキャンパーコンセプトを実車公開 愛知の老舗ビルダーが提案する「ST1」の可能性 - carview!",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDdta3dPVWg1V2h4Njk2UUJXOUlTLXk4NHpxUzdUVXFOWjdkR3BZMHhwdFRvMHJfb3JWaXU1TTBXSHJUdTZkaXRFczF0Q1B4S3NwVnEtYXFTanAyVER2MFpiQmNCaTU2ekx4MVZxdDJLeUYwOFFXRVZIcmhhNXh2dUM4aTZuUkE3?oc=5",
+            "published": "Tue, 28 Jul 2026 04:10:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDdta3dPVWg1V2h4Njk2UUJXOUlTLXk4NHpxUzdUVXFOWjdkR3BZMHhwdFRvMHJfb3JWaXU1TTBXSHJUdTZkaXRFczF0Q1B4S3NwVnEtYXFTanAyVER2MFpiQmNCaTU2ekx4MVZxdDJLeUYwOFFXRVZIcmhhNXh2dUM4aTZuUkE3?oc=5\" target=\"_blank\">ヒョンデ、次世代EVキャンパーコンセプトを実車公開 愛知の老舗ビルダーが提案する「ST1」の可能性</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carview!</font>",
+            "site_name": "carview!"
+        },
+        {
+            "id": 483959,
+            "title": "BYDが日本専用設計の軽EV「ラッコ」を発表「目標は年間販売台数1万台」 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ycXNXMVJQQ29Pa19NSDl5REZ0SGNNRUlYbUJGc2UtWWh6bzlqeTlOVjI5anZzVkFwZ0tEdm9rZjNzUFFNUG85ZjhBdnZ0QQ?oc=5",
+            "published": "Tue, 28 Jul 2026 07:45:44 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ycXNXMVJQQ29Pa19NSDl5REZ0SGNNRUlYbUJGc2UtWWh6bzlqeTlOVjI5anZzVkFwZ0tEdm9rZjNzUFFNUG85ZjhBdnZ0QQ?oc=5\" target=\"_blank\">BYDが日本専用設計の軽EV「ラッコ」を発表「目標は年間販売台数1万台」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 687460,
+            "title": "中国BYDが軽のEV「ラッコ」発売 広瀬アリスさんPR、価格は？（朝日新聞） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PMWt1b3RTV1RoYkpFd244aDBRRXptSnMzYk81Skl3RDJIZHpqUXl3LWt3YWV5VEN1Rm43WUtuMU1Vekx2aVUwWFpBVUNlV0xZakNuSkxOY3BScWdSMU45RnVFSFgxdGNULV9LQUVXcmg4S1V6Qnh5cDdiSFhHQUE?oc=5",
+            "published": "Tue, 28 Jul 2026 02:04:34 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1PMWt1b3RTV1RoYkpFd244aDBRRXptSnMzYk81Skl3RDJIZHpqUXl3LWt3YWV5VEN1Rm43WUtuMU1Vekx2aVUwWFpBVUNlV0xZakNuSkxOY3BScWdSMU45RnVFSFgxdGNULV9LQUVXcmg4S1V6Qnh5cDdiSFhHQUE?oc=5\" target=\"_blank\">中国BYDが軽のEV「ラッコ」発売 広瀬アリスさんPR、価格は？（朝日新聞）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 935513,
+            "title": "広瀬アリス「想像以上に広い！」 BYD新型軽EV「ラッコ」発表、年間1万台販売を目指す（MotorFan） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRk5BWWRCby1XcHVnTUg0Umlndlpfc19CdHNHdURwZFBqWllzMFlqT3pZR0txeXA3YnFxajFTLVNtT19pY2dZNUx4cnctQ1RkS29aVE0zZzRyVExsTUhlbE5xLWpRYmNEa1U0TmJwZHE4MUpjNzNaMHQ4S1VSU2Uxd3dYc3plb05h?oc=5",
+            "published": "Tue, 28 Jul 2026 06:58:02 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRk5BWWRCby1XcHVnTUg0Umlndlpfc19CdHNHdURwZFBqWllzMFlqT3pZR0txeXA3YnFxajFTLVNtT19pY2dZNUx4cnctQ1RkS29aVE0zZzRyVExsTUhlbE5xLWpRYmNEa1U0TmJwZHE4MUpjNzNaMHQ4S1VSU2Uxd3dYc3plb05h?oc=5\" target=\"_blank\">広瀬アリス「想像以上に広い！」 BYD新型軽EV「ラッコ」発表、年間1万台販売を目指す（MotorFan）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 197647,
+            "title": "中国ＢＹＤ、軽ＥＶ発売 ２１４万円から、年間販売１万台目指す - 時事ドットコム",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWXBMQVZOSjF0VHdON1ZRVnBveFMxQkxiX0x1NWpxNHptdU1oU2ZPTHlkWnpKWXpiNmlIaWxSUjl0VU5jS2VlY3h3TmpxQzZQcnlBUkhIUWtwNVhwZGZrRXRUUzFWVXBxT1RneHhPNThBZXdyQkRkUlV0ZzFQdUpnaUY1ekhDTEE?oc=5",
+            "published": "Tue, 28 Jul 2026 12:38:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNWXBMQVZOSjF0VHdON1ZRVnBveFMxQkxiX0x1NWpxNHptdU1oU2ZPTHlkWnpKWXpiNmlIaWxSUjl0VU5jS2VlY3h3TmpxQzZQcnlBUkhIUWtwNVhwZGZrRXRUUzFWVXBxT1RneHhPNThBZXdyQkRkUlV0ZzFQdUpnaUY1ekhDTEE?oc=5\" target=\"_blank\">中国ＢＹＤ、軽ＥＶ発売 ２１４万円から、年間販売１万台目指す</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事ドットコム</font>",
+            "site_name": "時事ドットコム"
+        },
+        {
+            "id": 219518,
+            "title": "BYDが日本専用設計の軽EV「ラッコ」発表！ N-BOX同等サイズ＆後席スライドドア装備！ 海外メーカーが軽市場5割の“主力激戦区”へ参入 - ｄメニューニュース",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZEtiUy1wSmMwa1hTYTZ5Wm50cHh4RnZLSVR4VVdaY2s0bmhiOWk5dVdQdVN2X2VFNVc3dmNmYVFBeXJVVVZnS2Z3OU1kemRsNXgyVlpkZFM5Y3czcHFkMEtJckpyWHczSm1mRnFDRzhaUHBpVDNnaWlEaHdqeVphZW9DbW1zcHV2aFHSAYYBQVVfeXFMUEtELTZjS0lXVW90MTJQa3VpSVJrYmE5a05JMDdMWXppUmNXTkZwMTlndll1OTQ2c1NRU3BBNldsMVBwN2VYTmdsYmtqbm8xTUlIZm1mQmY5V2EzbmFlcmlxbF8yNDBfMUtLR3BZcm1tUnlUZ2N5c2hQM19OQU1ZV2ZTZVRUalE?oc=5",
+            "published": "Tue, 28 Jul 2026 16:05:28 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQZEtiUy1wSmMwa1hTYTZ5Wm50cHh4RnZLSVR4VVdaY2s0bmhiOWk5dVdQdVN2X2VFNVc3dmNmYVFBeXJVVVZnS2Z3OU1kemRsNXgyVlpkZFM5Y3czcHFkMEtJckpyWHczSm1mRnFDRzhaUHBpVDNnaWlEaHdqeVphZW9DbW1zcHV2aFHSAYYBQVVfeXFMUEtELTZjS0lXVW90MTJQa3VpSVJrYmE5a05JMDdMWXppUmNXTkZwMTlndll1OTQ2c1NRU3BBNldsMVBwN2VYTmdsYmtqbm8xTUlIZm1mQmY5V2EzbmFlcmlxbF8yNDBfMUtLR3BZcm1tUnlUZ2N5c2hQM19OQU1ZV2ZTZVRUalE?oc=5\" target=\"_blank\">BYDが日本専用設計の軽EV「ラッコ」発表！ N-BOX同等サイズ＆後席スライドドア装備！ 海外メーカーが軽市場5割の“主力激戦区”へ参入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
+            "site_name": "ｄメニューニュース"
         }
     ]
 }
