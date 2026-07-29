@@ -8,18 +8,18 @@ import { Target, TrendingUp, Zap, Sparkles } from "lucide-react";
  * LP上で表示される「実際のダッシュボード画面」の中身をここで簡単に書き換えられます。
  */
 const DEMO_DATA = {
-  topic_id: "3",
-  title: "ホンダEV開発中止で赤字転落",
+  topic_id: "1",
+  title: "LEXUS急速充電サービス開始、PCA連携で全国1000基",
   summary_points: [
-    "ホンダは2026年3月期に最大6900億円の最終赤字転落を見込み、米国でのEV需要減退を理由に予定していた3車種のEV開発を中止してHV強化へと戦略転換した。",
-    "同社の撤退はエンジンの成功体験に固執する「日本病」やイノベーションのジレンマと批判される一方、無理なEV一極化から脱却し現場の実情に合わせた柔軟な戦略（マルチパスウェイ）への回帰とする再建シナリオの対立軸がある。",
-    "中長期的な復活の鍵は、北米でのHV販売によるキャッシュ創出とインド市場での地盤固め、そしてソニー・ホンダモビリティとの協業で得た知見を量産車へ還元できるかにかかっている。"
+    "LEXUSは新急速充電サービス「LEXUS Charging」を開始。ポルシェ・アウディ・VWの「Premium Charging Alliance（PCA）」とローミング連携し、利用可能な急速充電器が全国約1000基に拡大した。",
+    "ブランド横断で充電網を相互接続する日本初の取り組み。LEXUSユーザーはPCA加盟ブランドの充電器もシームレスに利用可能となり、充電インフラ不足というBEV最大の課題を直接解決する。",
+    "プレミアムセグメントからのインフラ相互開放が、日本全体のEVシフトを加速する起爆剤となる。業界横断連携の第一歩として、他ブランドの追随も予想される。"
   ],
-  insight: "ホンダの巨額赤字とEV戦略縮小は、EV減速期における日系メーカーの戦略的後退を象徴する。中国EV勢の猛追に対し、ホンダは得意なHVで利鞘を稼ぐ「時間稼ぎ」を選択した。しかし、一部で指摘される「エンジンへの固執」がソフトウェア定義車両（SDV）開発の遅れを招いたのは事実だ。インド市場での立て直しやソニーとの協業が成功の鍵を握るが、単なるHV回帰で満足すれば、米中の次世代モビリティ覇権争いから完全に脱落する致命傷になり得る。",
+  insight: "LEXUSのPCA参画は、日本におけるEV充電インフラ「相互運用時代」の幕開けだ。これまで各社が個別に充電網を張ってきたが、ブランド横断連携が進めばユーザーの充電不安は劇的に減る。欧州プレミアム勢とのアライアンスでインフラ投資の好循環が生まれ、日本のEV普及を根本から押し上げる。レクサスがこの動きを主導したことは象徴的であり、日本のEV戦略にとって極めて前向きなシグナルである。",
   sources: [
-    { title: "ホンダがアメリカ市場からEV完全撤退：ホンダの敗北...", link: "#" },
-    { title: "ホンダ、EV減で巨額赤字転落へ 最大6900億円、2...", link: "#" },
-    { title: "「技術の魂を取り戻せ」ホンダ、最大2.5兆円損失から...", link: "#" }
+    { title: "トヨタ公式: LEXUS、新急速充電サービス「LEXUS Charging」を開始", link: "https://global.toyota/jp/newsroom/lexus/44152328.html" },
+    { title: "Impress Watch: レクサス、ポルシェやアウディの急速充電器も使えるプレミアム充電サービス", link: "https://www.watch.impress.co.jp/docs/news/2098337.html" },
+    { title: "PR TIMES: VWグループ、PCAとLEXUS Chargingの相互利用を開始", link: "https://prtimes.jp/main/html/rd/p/000000159.000058804.html" }
   ]
 };
 
@@ -84,15 +84,18 @@ export default function DashboardPreview() {
               <div className="mt-auto pt-8 border-t border-white/10">
                 <div className="flex flex-col gap-3">
                   {DEMO_DATA.sources.map((source, idx) => (
-                    <div
+                    <a
                       key={idx}
+                      href={source.link}
+                      target="_blank"
+                      rel="noopener noreferrer"
                       className="group/link flex items-center justify-between gap-4 text-[11px] text-ui-muted hover:text-brand-emerald transition-all bg-white/[0.01] hover:bg-white/[0.04] p-3 rounded-md border border-white/5"
                     >
                       <span className="truncate flex-1 font-medium italic">
                         {source.title}
                       </span>
                       <Zap size={10} strokeWidth={1.5} className="shrink-0 text-brand-emerald/40 group-hover/link:text-brand-emerald" />
-                    </div>
+                    </a>
                   ))}
                 </div>
               </div>

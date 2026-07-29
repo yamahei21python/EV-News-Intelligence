@@ -28,3 +28,4 @@ test_*.py
 test_*.json
 test_*.md
 resolve_links.py
+.vercel
