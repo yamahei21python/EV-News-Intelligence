@@ -1,0 +1,53 @@
+[
+    {
+        "topic_name": "令和8年熊本地震に伴うEV充電器の無償開放",
+        "article_ids": [
+            244171,
+            179816,
+            45293,
+            446907,
+            90769,
+            627619,
+            612110,
+            899559,
+            592631,
+            458418,
+            623754
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "BYDの軽EV「ラッコ（RACCO）」日本発売",
+        "article_ids": [
+            459838,
+            106800,
+            320879,
+            4946,
+            292147,
+            56198,
+            155403
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "北海道ニセコにおける自動運転EVバスの実証運行",
+        "article_ids": [
+            8274
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "JFEエンジニアリングと住友三井オートサービスのバッテリー交換式EV社会実装に向けた提携",
+        "article_ids": [
+            768417
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "IEAによる中国EV市場の動向に関する警鐘",
+        "article_ids": [
+            801338
+        ],
+        "is_grouped": false
+    }
+]
