@@ -1,0 +1,43 @@
+[
+    {
+        "topic_name": "BYDの軽EV「ラッコ」日本投入と受注",
+        "article_ids": [
+            25853,
+            944110,
+            188744,
+            273566,
+            7100
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "EV補助金の必要性とBYDの見解",
+        "article_ids": [
+            240307,
+            53230
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "大阪市住之江区でのEVバス火災",
+        "article_ids": [
+            68069,
+            675029
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "ヒョンデ「Inster」のリコール",
+        "article_ids": [
+            13792
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "ヒョンデ「Ioniq 3」欧州予約開始",
+        "article_ids": [
+            502096
+        ],
+        "is_grouped": false
+    }
+]
