@@ -1,0 +1,70 @@
+[
+    {
+        "topic_name": "EVモーターズ・ジャパンのEVバス事業のイクヨへの譲渡",
+        "article_ids": [
+            776079,
+            601765,
+            931282,
+            950558,
+            205471
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "BYDの日本国内向け軽EV「RACCO（ラッコ）」の販売",
+        "article_ids": [
+            497263,
+            655530,
+            916579,
+            352375,
+            200086
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "韓国市場における中国製EV販売の急増",
+        "article_ids": [
+            77,
+            869981,
+            291017
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "ホンダの2026年3月期決算と中国事業の苦境",
+        "article_ids": [
+            421073,
+            990001
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "トヨタの純利益上方修正とEV販売目標の下方修正",
+        "article_ids": [
+            745001
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "EVバスのトラブルと万博使用中止問題",
+        "article_ids": [
+            931325
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "中国のEV電池性能表示義務化",
+        "article_ids": [
+            221556
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "スズキのEV生産増強と欧州テスト",
+        "article_ids": [
+            562257,
+            791661
+        ],
+        "is_grouped": true
+    }
+]

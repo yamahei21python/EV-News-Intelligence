@@ -1,6 +1,6 @@
 {
-    "updated_at": "2026-08-05 11:14:10",
-    "total_count": 100,
+    "updated_at": "2026-08-05 22:22:32",
+    "total_count": 154,
     "articles": [
         {
             "id": 687221,
@@ -801,6 +801,438 @@
             "published": "Tue, 04 Aug 2026 22:19:11 GMT",
             "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9jRWVpRzhoTlU1ZGZJbnRKYWIyRE95Q2FnQnpORlBCOXdMSFNMVl9jaVd6YVBEQWxUdlNhaUpkR0tXUEVBdXJVbFJJUHloR2xqa2EtUHRENUducWJaTC13Qm1xNjFLN0ZGeVlxQS1ZeTdCUQ?oc=5\" target=\"_blank\">【次世代自動車・充電器】DMM・松屋フーズ：東京都内の松屋5店舗に急速・超急速EV充電器、食事中の充電需要に対応</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">みんなの広報宣伝部</font>",
             "site_name": "みんなの広報宣伝部"
+        },
+        {
+            "id": 931325,
+            "title": "万博「負の遺産」EVバスは今 大阪メトロ報告書の「常とう句」と、曖昧なまま終わらせた「核心」 - 東京新聞デジタル",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jODdzTTgtYlo3TzBvYnB0TnhKcVY2OG5qZnNwZXR3U01lMXBKbzNMMVlqekg4ckQ1aFFTb2szTlFJYUtnZHVpWllWQXBXeUZqWGVR?oc=5",
+            "published": "Wed, 05 Aug 2026 21:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jODdzTTgtYlo3TzBvYnB0TnhKcVY2OG5qZnNwZXR3U01lMXBKbzNMMVlqekg4ckQ1aFFTb2szTlFJYUtnZHVpWllWQXBXeUZqWGVR?oc=5\" target=\"_blank\">万博「負の遺産」EVバスは今 大阪メトロ報告書の「常とう句」と、曖昧なまま終わらせた「核心」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東京新聞デジタル</font>",
+            "site_name": "東京新聞デジタル"
+        },
+        {
+            "id": 869981,
+            "title": "韓国、上半期のEV販売は3台に1台以上が中国製―韓国メディア - ｄメニューニュース",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRDljX2VOWW5iOFYySTNCQ3NnQTN2RXhHM19aUnp6QkxyRDY4bHJiYkF6eWEyMnpFUTY0a3BGeXZtZGdsOU5XTTI3YnZWVEFZMzlIeF93V1lBdVhncWlSZkYtUk9MVkludUhLWEJlUjFlMDJwNURCU1N3MkFNNE9rdHJqd1Y5aE1WUDIw0gGLAUFVX3lxTE9EOWNfZU5ZbmI4VjJJM0JDc2dBM3ZFeEczX1pSenpCTHJENjhscmJiQXp5YTIyekVRNjRrcEZ5dm1kZ2w5TldNMjdidlZUQVkzOUh4X3dXWUF1WGdxaVJmRi1ST0xWSW51SEtYQmVSMWUwMnA1REJTU3cyQU00T2t0cmp3VjloTVZQMjA?oc=5",
+            "published": "Wed, 05 Aug 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRDljX2VOWW5iOFYySTNCQ3NnQTN2RXhHM19aUnp6QkxyRDY4bHJiYkF6eWEyMnpFUTY0a3BGeXZtZGdsOU5XTTI3YnZWVEFZMzlIeF93V1lBdVhncWlSZkYtUk9MVkludUhLWEJlUjFlMDJwNURCU1N3MkFNNE9rdHJqd1Y5aE1WUDIw0gGLAUFVX3lxTE9EOWNfZU5ZbmI4VjJJM0JDc2dBM3ZFeEczX1pSenpCTHJENjhscmJiQXp5YTIyekVRNjRrcEZ5dm1kZ2w5TldNMjdidlZUQVkzOUh4X3dXWUF1WGdxaVJmRi1ST0xWSW51SEtYQmVSMWUwMnA1REJTU3cyQU00T2t0cmp3VjloTVZQMjA?oc=5\" target=\"_blank\">韓国、上半期のEV販売は3台に1台以上が中国製―韓国メディア</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
+            "site_name": "ｄメニューニュース"
+        },
+        {
+            "id": 916579,
+            "title": "BYD日本社長｢軽EV､ママ目線徹底｣ 早くも新モデル念頭 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ieklDYkxKUnNiQkYwOGd2bGFJOGFuZkk1X3IyMWtuVE5zeGF1Z0RwQi0zSWlyZUh3SW9VeFpzaDFNRVpKeldiSUt4TWNEdWt1c09VeXJ2N3RrWFp5Z0dVeHpZZnhLa3dvcU4tZV9QYzE3Z3RBMmwwakhLbjFDaU0?oc=5",
+            "published": "Wed, 05 Aug 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1ieklDYkxKUnNiQkYwOGd2bGFJOGFuZkk1X3IyMWtuVE5zeGF1Z0RwQi0zSWlyZUh3SW9VeFpzaDFNRVpKeldiSUt4TWNEdWt1c09VeXJ2N3RrWFp5Z0dVeHpZZnhLa3dvcU4tZV9QYzE3Z3RBMmwwakhLbjFDaU0?oc=5\" target=\"_blank\">BYD日本社長｢軽EV､ママ目線徹底｣ 早くも新モデル念頭</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+            "site_name": "日本経済新聞"
+        },
+        {
+            "id": 527119,
+            "title": "中国製EVをめぐる言説はどこまでが本当なのか？ - WIRED.jp",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQWtuWVExakprVGJOQmZiMUxuQkstZEplX1FNUnB3bFZTb2FKcGl4NWxUSFFpSE5wVXB1X3BzcVBscmtEekVwTzhtUU44Z0pEZExPbTJVU3N1Q2RlcWtUTWxNaGJ5RVBXU3I1ay13eThma3UzRVFnWlhuQkNvam9pZUFTVFhEaERST0FiQTlB?oc=5",
+            "published": "Wed, 05 Aug 2026 22:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNQWtuWVExakprVGJOQmZiMUxuQkstZEplX1FNUnB3bFZTb2FKcGl4NWxUSFFpSE5wVXB1X3BzcVBscmtEekVwTzhtUU44Z0pEZExPbTJVU3N1Q2RlcWtUTWxNaGJ5RVBXU3I1ay13eThma3UzRVFnWlhuQkNvam9pZUFTVFhEaERST0FiQTlB?oc=5\" target=\"_blank\">中国製EVをめぐる言説はどこまでが本当なのか？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED.jp</font>",
+            "site_name": "WIRED.jp"
+        },
+        {
+            "id": 205471,
+            "title": "万博で不具合連発「EVMJ」の事業を譲受、経営者が語る狙い - 現代ビジネス",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBETm13T1BKNVl1WS15WVIyQ2pna1R4WHZGc1p5RnFXYVBjNXJKMkhsQWNfVkpBSmVTNHJxekhTM0VteWNqUk5JRDEzZTBSd0E?oc=5",
+            "published": "Wed, 05 Aug 2026 21:01:37 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBETm13T1BKNVl1WS15WVIyQ2pna1R4WHZGc1p5RnFXYVBjNXJKMkhsQWNfVkpBSmVTNHJxekhTM0VteWNqUk5JRDEzZTBSd0E?oc=5\" target=\"_blank\">万博で不具合連発「EVMJ」の事業を譲受、経営者が語る狙い</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">現代ビジネス</font>",
+            "site_name": "現代ビジネス"
+        },
+        {
+            "id": 882867,
+            "title": "「エンジンなんて要りません」 1980台限定「EV」が動かす自動車構造の大転換！タイヤの中で始まる革命的な変化とは - merkmal-biz.jp",
+            "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9vT29MQW1aVUVnZjlHYWRhbmxIN2h5c2RuTGVYRU5OQXMycHItaEozVFkzbzV1eEhvY3hRQnEzYVktWjR4ejRiQTNn?oc=5",
+            "published": "Wed, 05 Aug 2026 20:50:04 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE9vT29MQW1aVUVnZjlHYWRhbmxIN2h5c2RuTGVYRU5OQXMycHItaEozVFkzbzV1eEhvY3hRQnEzYVktWjR4ejRiQTNn?oc=5\" target=\"_blank\">「エンジンなんて要りません」 1980台限定「EV」が動かす自動車構造の大転換！タイヤの中で始まる革命的な変化とは</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">merkmal-biz.jp</font>",
+            "site_name": "merkmal-biz.jp"
+        },
+        {
+            "id": 819871,
+            "title": "英デボン州、ＥＶ充電設備を３千基整備へ - Economic Media Bulletin Limited (EMB)",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sZGN1YTd0bm5hLXVfZ2ozckEzOUZFdmlHdFMtU1pkTENhNV80UFhTVXdrVUdneFNGcDREWDRCYW5JRTVmbHFZZXJVd2cwLU85NTA5VElfR0ZqSGNwa1E?oc=5",
+            "published": "Wed, 05 Aug 2026 12:34:23 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sZGN1YTd0bm5hLXVfZ2ozckEzOUZFdmlHdFMtU1pkTENhNV80UFhTVXdrVUdneFNGcDREWDRCYW5JRTVmbHFZZXJVd2cwLU85NTA5VElfR0ZqSGNwa1E?oc=5\" target=\"_blank\">英デボン州、ＥＶ充電設備を３千基整備へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Economic Media Bulletin Limited (EMB)</font>",
+            "site_name": "Economic Media Bulletin Limited (EMB)"
+        },
+        {
+            "id": 47241,
+            "title": "スズキ、EV生産増強 - ニュースイッチ by 日刊工業新聞社",
+            "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB1ZHpOUEdCT2RaOE9NNFc2cFIzWmtsWDVxcDZOcW5YajN2amxWaEctZlpwUTFMX2FzYTR3VThUd1FlQQ?oc=5",
+            "published": "Wed, 05 Aug 2026 03:03:18 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTFB1ZHpOUEdCT2RaOE9NNFc2cFIzWmtsWDVxcDZOcW5YajN2amxWaEctZlpwUTFMX2FzYTR3VThUd1FlQQ?oc=5\" target=\"_blank\">スズキ、EV生産増強</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースイッチ by 日刊工業新聞社</font>",
+            "site_name": "ニュースイッチ by 日刊工業新聞社"
+        },
+        {
+            "id": 412316,
+            "title": "EV販売時の課徴金を検討、充電網整備基金の創設視野に - asia infonet.com",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WbFpVY0Z2V2Ntd2lZU1llWFdxZENzc1lhR2tBbl9pblZpVGVtSFBuX3ZYUzNNVlFfdzg2a1huLTYya29FY21rNV9XSm9NQW0ybS1iSzY0aG00bkdTRC1uRNIBYEFVX3lxTE5WbFpVY0Z2V2Ntd2lZU1llWFdxZENzc1lhR2tBbl9pblZpVGVtSFBuX3ZYUzNNVlFfdzg2a1huLTYya29FY21rNV9XSm9NQW0ybS1iSzY0aG00bkdTRC1uRA?oc=5",
+            "published": "Wed, 05 Aug 2026 09:56:58 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WbFpVY0Z2V2Ntd2lZU1llWFdxZENzc1lhR2tBbl9pblZpVGVtSFBuX3ZYUzNNVlFfdzg2a1huLTYya29FY21rNV9XSm9NQW0ybS1iSzY0aG00bkdTRC1uRNIBYEFVX3lxTE5WbFpVY0Z2V2Ntd2lZU1llWFdxZENzc1lhR2tBbl9pblZpVGVtSFBuX3ZYUzNNVlFfdzg2a1huLTYya29FY21rNV9XSm9NQW0ybS1iSzY0aG00bkdTRC1uRA?oc=5\" target=\"_blank\">EV販売時の課徴金を検討、充電網整備基金の創設視野に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">asia infonet.com</font>",
+            "site_name": "asia infonet.com"
+        },
+        {
+            "id": 188852,
+            "title": "EV充電の課題を解決するか。量子バッテリー実現に向け着々 - Gizmodo",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX1lPQTdGV3VRVC1xa0s4U1hUZGhIZnBMdGRvb0RFZTdKLW5Bc25xUVo2S0xpeFliMHZwb09MLVZ3TXBlSThIdHBXMjYwcEZySms4bmNXbmZQWVBLb2doOTBTT3hFN0tETDA3TTlmVWdqcGJfV0YtbDZWYkxwQXYwdGNoRTcyei1faTJHMg?oc=5",
+            "published": "Wed, 05 Aug 2026 14:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNX1lPQTdGV3VRVC1xa0s4U1hUZGhIZnBMdGRvb0RFZTdKLW5Bc25xUVo2S0xpeFliMHZwb09MLVZ3TXBlSThIdHBXMjYwcEZySms4bmNXbmZQWVBLb2doOTBTT3hFN0tETDA3TTlmVWdqcGJfV0YtbDZWYkxwQXYwdGNoRTcyei1faTJHMg?oc=5\" target=\"_blank\">EV充電の課題を解決するか。量子バッテリー実現に向け着々</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font>",
+            "site_name": "Gizmodo"
+        },
+        {
+            "id": 791661,
+            "title": "スズキが目指す「世界共通EV戦略」は軽EV？ 新型コンパクトEVの欧州公道テストをスクープ【写真・4枚目】 - モーターファン",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8taHItNU9ZYVVmakF4dlNRdk53bXVQOVBEeDEtX1YtLWRIMzlGSzROeGFrX2R6QjZvakMwLXFtSkg5cmg0TTF0X3Zja2lHV0dKTmk5MHgtZHRhSWRsNGc?oc=5",
+            "published": "Wed, 05 Aug 2026 09:50:45 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE8taHItNU9ZYVVmakF4dlNRdk53bXVQOVBEeDEtX1YtLWRIMzlGSzROeGFrX2R6QjZvakMwLXFtSkg5cmg0TTF0X3Zja2lHV0dKTmk5MHgtZHRhSWRsNGc?oc=5\" target=\"_blank\">スズキが目指す「世界共通EV戦略」は軽EV？ 新型コンパクトEVの欧州公道テストをスクープ【写真・4枚目】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">モーターファン</font>",
+            "site_name": "モーターファン"
+        },
+        {
+            "id": 491990,
+            "title": "7月新車販売、ホンダ4カ月連続増 N-BOXなど新型効果 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wenhucnRfYU5oTFZORm4taXBDMEE2R3ZQUHNsWVFuVW1pdE5DYm5OTkZVOUlaMDg0Q1NwT2VyVjdxdlc5ZHhYZ1RlMkt4dFR3UUNGdnVMOTRZalFtX05JQUZraGM1WU53Y3pNZ01FdHpibm45TG4wd2pFLTgzd3c?oc=5",
+            "published": "Wed, 05 Aug 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9wenhucnRfYU5oTFZORm4taXBDMEE2R3ZQUHNsWVFuVW1pdE5DYm5OTkZVOUlaMDg0Q1NwT2VyVjdxdlc5ZHhYZ1RlMkt4dFR3UUNGdnVMOTRZalFtX05JQUZraGM1WU53Y3pNZ01FdHpibm45TG4wd2pFLTgzd3c?oc=5\" target=\"_blank\">7月新車販売、ホンダ4カ月連続増 N-BOXなど新型効果</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+            "site_name": "日本経済新聞"
+        },
+        {
+            "id": 308156,
+            "title": "日産『アトラス』のEVコンバージョン、1000km走行確認を完了…8月量産開始へ（レスポンス） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UeWoxZzRKamtxX1ZHVkJrYjVVZzV2SVRGUWhKbjVMQlFwVURvRDQxbF8xTUxnbHdlblhzRU16MFZKdlNpRVE4WEExTUd0YWJiY1NWYnI1Uno1ZklrN3QyRE9JUkwxdVMyM3k3cGNTYjBaQkhnZDdJelB3ZkJNOWM?oc=5",
+            "published": "Wed, 05 Aug 2026 09:00:03 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9UeWoxZzRKamtxX1ZHVkJrYjVVZzV2SVRGUWhKbjVMQlFwVURvRDQxbF8xTUxnbHdlblhzRU16MFZKdlNpRVE4WEExTUd0YWJiY1NWYnI1Uno1ZklrN3QyRE9JUkwxdVMyM3k3cGNTYjBaQkhnZDdJelB3ZkJNOWM?oc=5\" target=\"_blank\">日産『アトラス』のEVコンバージョン、1000km走行確認を完了…8月量産開始へ（レスポンス）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 409179,
+            "title": "ホンダ二輪、ＥＶ普及なお先 - nna.jp",
+            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBnMDE5b1VaZzFsdHhTRmlyV095ZGtzdmtkcGVYWW01WGRnYlNxYkRyOWRsRkdaREdKeFhNTXFFVkJEMGlkX0E?oc=5",
+            "published": "Wed, 05 Aug 2026 15:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTFBnMDE5b1VaZzFsdHhTRmlyV095ZGtzdmtkcGVYWW01WGRnYlNxYkRyOWRsRkdaREdKeFhNTXFFVkJEMGlkX0E?oc=5\" target=\"_blank\">ホンダ二輪、ＥＶ普及なお先</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nna.jp</font>",
+            "site_name": "nna.jp"
+        },
+        {
+            "id": 871410,
+            "title": "民事再生中のEVモーターズ・ジャパン、EVバス事業をイクヨに譲渡 (レスポンス) - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcVRCYW9jbGc1S2R3VkhxbFNWY2VSbl9nR1QtWmkwQ1BDdTVpR2gzczJGUVI2RHVKNmZVeldhN25oWGFZa0h4UUtGOTBRN0E5cGxVek1UWUVXX2ZkYzU1UkhlVG9LQW8zREVnVnZWRUMtbXFDeDBCejBEbnBBSm04X2h0LWphTWRZZUNYZnNB?oc=5",
+            "published": "Wed, 05 Aug 2026 08:58:13 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNcVRCYW9jbGc1S2R3VkhxbFNWY2VSbl9nR1QtWmkwQ1BDdTVpR2gzczJGUVI2RHVKNmZVeldhN25oWGFZa0h4UUtGOTBRN0E5cGxVek1UWUVXX2ZkYzU1UkhlVG9LQW8zREVnVnZWRUMtbXFDeDBCejBEbnBBSm04X2h0LWphTWRZZUNYZnNB?oc=5\" target=\"_blank\">民事再生中のEVモーターズ・ジャパン、EVバス事業をイクヨに譲渡 (レスポンス)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 828533,
+            "title": "インドのリバー・モビリティ、EVスクーター増産と販売網拡大へ1.2億ドル調達 - BigGo ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYVTJqcWtKR0k4MWFTaWw5em53VXUwQk1faWZiWWNQblIzaEF4UFVicFJpamZLZTZkYy1OSnhaM0lpS191Z0ZnQk1qMklkbkxRLVRFcl9vSWhTRGNfT1RqRUtjSWZ5dGVCVXd3dXBLVkkzekEy?oc=5",
+            "published": "Wed, 05 Aug 2026 11:55:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBYVTJqcWtKR0k4MWFTaWw5em53VXUwQk1faWZiWWNQblIzaEF4UFVicFJpamZLZTZkYy1OSnhaM0lpS191Z0ZnQk1qMklkbkxRLVRFcl9vSWhTRGNfT1RqRUtjSWZ5dGVCVXd3dXBLVkkzekEy?oc=5\" target=\"_blank\">インドのリバー・モビリティ、EVスクーター増産と販売網拡大へ1.2億ドル調達</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+            "site_name": "BigGo ファイナンス"
+        },
+        {
+            "id": 446050,
+            "title": "中国安徽のEV産業　電池から完成車まで一貫した産業チェーン - AFPBB News",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8ybmZHejR2S1V4V2VhYUwwT0VFbGEyVG1iZHl6SDMtYkZCZThqWHFPMGVZS1lLRmtLYmZGbVBEZHdrc1htbkNnVVBHTmdrV1ZERzYySmRfYWxDTzVQ0gFUQVVfeXFMUDB1QlpGcG5sZ18wT19XMThsOHRSX2lkVGd2VkotbjNvU0RnVzRIUE9wcjlob19FOENxSld2WEdISnItaXZSTGZhXzlwQlN1OW5ibUpH?oc=5",
+            "published": "Wed, 05 Aug 2026 07:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE8ybmZHejR2S1V4V2VhYUwwT0VFbGEyVG1iZHl6SDMtYkZCZThqWHFPMGVZS1lLRmtLYmZGbVBEZHdrc1htbkNnVVBHTmdrV1ZERzYySmRfYWxDTzVQ0gFUQVVfeXFMUDB1QlpGcG5sZ18wT19XMThsOHRSX2lkVGd2VkotbjNvU0RnVzRIUE9wcjlob19FOENxSld2WEdISnItaXZSTGZhXzlwQlN1OW5ibUpH?oc=5\" target=\"_blank\">中国安徽のEV産業　電池から完成車まで一貫した産業チェーン</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AFPBB News</font>",
+            "site_name": "AFPBB News"
+        },
+        {
+            "id": 915011,
+            "title": "EV電池市場20%成長も…韓国勢シェア後退、中国勢が72%掌握 - BigGo ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iYWNPaGVBT1RCd1RMNnRzRUdUSmhhMm5LTm51MGhwVlJMQURXa3RudVdOQTZDQk40WXFZWGpQdElrUlNaTnBQMUZ5a3MxNXZudmZmU3JGdV9pemxzYjBaU2U2Vnk3cFh1dGxvd0NsMVRhX0RB?oc=5",
+            "published": "Wed, 05 Aug 2026 06:27:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1iYWNPaGVBT1RCd1RMNnRzRUdUSmhhMm5LTm51MGhwVlJMQURXa3RudVdOQTZDQk40WXFZWGpQdElrUlNaTnBQMUZ5a3MxNXZudmZmU3JGdV9pemxzYjBaU2U2Vnk3cFh1dGxvd0NsMVRhX0RB?oc=5\" target=\"_blank\">EV電池市場20%成長も…韓国勢シェア後退、中国勢が72%掌握</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+            "site_name": "BigGo ファイナンス"
+        },
+        {
+            "id": 421073,
+            "title": "ホンダ純利益4千億円に上方修正、3月期 円安効果、中国は苦境続く - 朝日新聞",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0cTNQenA1Q1VQaGxHRWVNUjNlRGJNXzZTTUQxNXA0U29PY2JXY281YnlJOXRBWmNyM1AwcTlQRjBKUHl4NmxmY21vRXNZTFcwanZBaTlDMll6OFdkSzNsY1J1QmdIdm8?oc=5",
+            "published": "Wed, 05 Aug 2026 11:10:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0cTNQenA1Q1VQaGxHRWVNUjNlRGJNXzZTTUQxNXA0U29PY2JXY281YnlJOXRBWmNyM1AwcTlQRjBKUHl4NmxmY21vRXNZTFcwanZBaTlDMll6OFdkSzNsY1J1QmdIdm8?oc=5\" target=\"_blank\">ホンダ純利益4千億円に上方修正、3月期 円安効果、中国は苦境続く</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
+            "site_name": "朝日新聞"
+        },
+        {
+            "id": 895328,
+            "title": "日産『アトラス』のEVコンバージョン、1000km走行確認を完了…8月量産開始へ 4枚目の写真・画像 - レスポンス（Response.jp）",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5USkpKcF9yT3hOeDluUW00SlZwcDJmV2t0TWQ4R3FkdG9oWnpyR1JFUGpSTER2SS1VOHZRM1pkOFJvb3daQUZQdHVjX1lKNWRGZm5qaXI0YzRhWVMwYnVWLVNCbEZoOTZCRDJqeUktM0NHdw?oc=5",
+            "published": "Wed, 05 Aug 2026 09:00:03 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5USkpKcF9yT3hOeDluUW00SlZwcDJmV2t0TWQ4R3FkdG9oWnpyR1JFUGpSTER2SS1VOHZRM1pkOFJvb3daQUZQdHVjX1lKNWRGZm5qaXI0YzRhWVMwYnVWLVNCbEZoOTZCRDJqeUktM0NHdw?oc=5\" target=\"_blank\">日産『アトラス』のEVコンバージョン、1000km走行確認を完了…8月量産開始へ 4枚目の写真・画像</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
+            "site_name": "レスポンス（Response.jp）"
+        },
+        {
+            "id": 221159,
+            "title": "Nissan-Micra_EV-2026-Front_Three-Quarter.2bd9c6af - モーターファン",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSzBIcDAwS1RGbW9KNDIxM0YyY2duVnRseDlCdmNYQjk4SUlwWjNLVUw3NXZuYjdyRmlJazJDRFlpMDQ3SVRxUHVxeHplaXk4Vnp5V0FKTEoyTmRNUXpNYlhEdXpsaHRnWC1mUVJpN1F2NEozLXZvSlVSc3JHZVctbjFCZWhia1Z6Wm9CS0pQa0I?oc=5",
+            "published": "Wed, 05 Aug 2026 11:42:30 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNSzBIcDAwS1RGbW9KNDIxM0YyY2duVnRseDlCdmNYQjk4SUlwWjNLVUw3NXZuYjdyRmlJazJDRFlpMDQ3SVRxUHVxeHplaXk4Vnp5V0FKTEoyTmRNUXpNYlhEdXpsaHRnWC1mUVJpN1F2NEozLXZvSlVSc3JHZVctbjFCZWhia1Z6Wm9CS0pQa0I?oc=5\" target=\"_blank\">Nissan-Micra_EV-2026-Front_Three-Quarter.2bd9c6af</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">モーターファン</font>",
+            "site_name": "モーターファン"
+        },
+        {
+            "id": 803791,
+            "title": "３１年度までに新型軽２車種投入 三菱自水島、日産と協業でＥＶとガソリン車 - 山陽新聞",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rUURGV1BGZTNibHllNWNsQXlZTFhNcFlyQzN6Q1J2ZEhpS09hZXhfeDBOamF1clRSZHQzVmZEbWNDcWlsS2dGbFRveUFlRXNDRGc?oc=5",
+            "published": "Wed, 05 Aug 2026 08:05:28 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rUURGV1BGZTNibHllNWNsQXlZTFhNcFlyQzN6Q1J2ZEhpS09hZXhfeDBOamF1clRSZHQzVmZEbWNDcWlsS2dGbFRveUFlRXNDRGc?oc=5\" target=\"_blank\">３１年度までに新型軽２車種投入 三菱自水島、日産と協業でＥＶとガソリン車</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
+            "site_name": "山陽新聞"
+        },
+        {
+            "id": 549359,
+            "title": "「注目の軽EV」販売好調な『日産サクラ』はすべてが上質！ 日産らしい快適な走りも好印象な人気モノ! - モーターファン",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xbUMwamh2TVUwSXYzSEpBZlF6b2tqQV9Kakp6M3dHOHh6aERtNlQwbGQ3MGl1SVVKZmxZWVFXcGVFX3RCeWJ6MDEyLWdCWXN5T25jUWJBdDJpU3ZRODRDaXR4SUtuTWs?oc=5",
+            "published": "Wed, 05 Aug 2026 00:21:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xbUMwamh2TVUwSXYzSEpBZlF6b2tqQV9Kakp6M3dHOHh6aERtNlQwbGQ3MGl1SVVKZmxZWVFXcGVFX3RCeWJ6MDEyLWdCWXN5T25jUWJBdDJpU3ZRODRDaXR4SUtuTWs?oc=5\" target=\"_blank\">「注目の軽EV」販売好調な『日産サクラ』はすべてが上質！ 日産らしい快適な走りも好印象な人気モノ!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">モーターファン</font>",
+            "site_name": "モーターファン"
+        },
+        {
+            "id": 352375,
+            "title": "画像 | 日本人技術者を介さず､中国メーカーとして軽自動車市場に参入…新型EV｢RACCO｣投入でBYDの存在感を示せるか - 東洋経済オンライン",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wRVUxbWJTS3g1NDZyaUR1RmVQa2NMSjVwOVF3Sk1hc3p6Qk5wOXZqdTZ1S0J5U3FMZXpRaHVBLXVENFhfMnlsSS01UWZ5STNObG56aExGUnprcEJrS1E?oc=5",
+            "published": "Wed, 05 Aug 2026 20:30:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wRVUxbWJTS3g1NDZyaUR1RmVQa2NMSjVwOVF3Sk1hc3p6Qk5wOXZqdTZ1S0J5U3FMZXpRaHVBLXVENFhfMnlsSS01UWZ5STNObG56aExGUnprcEJrS1E?oc=5\" target=\"_blank\">画像 | 日本人技術者を介さず､中国メーカーとして軽自動車市場に参入…新型EV｢RACCO｣投入でBYDの存在感を示せるか</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東洋経済オンライン</font>",
+            "site_name": "東洋経済オンライン"
+        },
+        {
+            "id": 216812,
+            "title": "アウディ『A2』がEVで復活へ！…“早すぎた名車”は電動化時代に成功できるか？ - au Webポータル",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwXzBwWkoxTlJ1dWdFeWlENmdtZzhnS2VaZ2VjYzRFUEE0QWQ1VWwyR2d4TmxYZnd0N3RUQ1V5VmVZTEttdkRJNktJSlNfRG5lcDZ5UDRDVjBWUDlRZ3pOd2o3UWFMVjZEYjRoYnlObklaSV9hYnpjVA?oc=5",
+            "published": "Wed, 05 Aug 2026 13:05:40 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFAwXzBwWkoxTlJ1dWdFeWlENmdtZzhnS2VaZ2VjYzRFUEE0QWQ1VWwyR2d4TmxYZnd0N3RUQ1V5VmVZTEttdkRJNktJSlNfRG5lcDZ5UDRDVjBWUDlRZ3pOd2o3UWFMVjZEYjRoYnlObklaSV9hYnpjVA?oc=5\" target=\"_blank\">アウディ『A2』がEVで復活へ！…“早すぎた名車”は電動化時代に成功できるか？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">au Webポータル</font>",
+            "site_name": "au Webポータル"
+        },
+        {
+            "id": 609411,
+            "title": "テスラ、累計生産台数が1000万台達成 - Economic Media Bulletin Limited (EMB)",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UVVZ2M0lRdk1qa1UzOEM4bXo0YWxIMUo1VVBadHktWHBRejNWZFNEVTFpWU9KTVEwRDVENmtJV1RjRE9qUDJ5NFMzR2JzZ0hKRktHRVpOZkdtd3BELXc?oc=5",
+            "published": "Wed, 05 Aug 2026 12:34:24 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UVVZ2M0lRdk1qa1UzOEM4bXo0YWxIMUo1VVBadHktWHBRejNWZFNEVTFpWU9KTVEwRDVENmtJV1RjRE9qUDJ5NFMzR2JzZ0hKRktHRVpOZkdtd3BELXc?oc=5\" target=\"_blank\">テスラ、累計生産台数が1000万台達成</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Economic Media Bulletin Limited (EMB)</font>",
+            "site_name": "Economic Media Bulletin Limited (EMB)"
+        },
+        {
+            "id": 818065,
+            "title": "Honda eはなぜ売れなかったのか？アーバンEVコンセプトが示した理想と現実【写真・7枚目】 - モーターファン",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16eWF6bWhmdkV2ek9oSUhTbldIajVmeFlyQm1hdVI5LXhVSU01UllBdVVjaEVDUmJZZnZXWG9zdXdLUEQyR0FqZXhIdDVlMkYtRnZ1N1dESWFZZTNYelFmb05fTEdlQzhFWnc?oc=5",
+            "published": "Wed, 05 Aug 2026 05:09:37 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE16eWF6bWhmdkV2ek9oSUhTbldIajVmeFlyQm1hdVI5LXhVSU01UllBdVVjaEVDUmJZZnZXWG9zdXdLUEQyR0FqZXhIdDVlMkYtRnZ1N1dESWFZZTNYelFmb05fTEdlQzhFWnc?oc=5\" target=\"_blank\">Honda eはなぜ売れなかったのか？アーバンEVコンセプトが示した理想と現実【写真・7枚目】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">モーターファン</font>",
+            "site_name": "モーターファン"
+        },
+        {
+            "id": 3506,
+            "title": "ホンダの痛快EVは英国の街並みにどう映る？ 新型「スーパーN（スーパーワン）」おもちゃ箱ツアーの全貌 - carview!",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYTQyY3pSWm1fblV2V25yRnh5VUdlY2FEb2g5Z216aFlLTVRkczdrUmw3WS11andaYmZBX28xZ0M4aU05bVl4Ukh2RzQ2QzFzTWdKZ2RCbHZTdGlGclV2Wnl4RGJ1Y0Nja2k4UFpZOGQ1NWlPYVN1RWJ4amxVSlItTlp1ek9LVzRU?oc=5",
+            "published": "Wed, 05 Aug 2026 02:00:02 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYTQyY3pSWm1fblV2V25yRnh5VUdlY2FEb2g5Z216aFlLTVRkczdrUmw3WS11andaYmZBX28xZ0M4aU05bVl4Ukh2RzQ2QzFzTWdKZ2RCbHZTdGlGclV2Wnl4RGJ1Y0Nja2k4UFpZOGQ1NWlPYVN1RWJ4amxVSlItTlp1ek9LVzRU?oc=5\" target=\"_blank\">ホンダの痛快EVは英国の街並みにどう映る？ 新型「スーパーN（スーパーワン）」おもちゃ箱ツアーの全貌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carview!</font>",
+            "site_name": "carview!"
+        },
+        {
+            "id": 937566,
+            "title": "Honda eはなぜ売れなかったのか？アーバンEVコンセプトが示した理想と現実【写真・26枚目】 - モーターファン",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GR3NoYzZPNU9McV9SbldvUkRSRGtCT3hIQlBvUjZlWkVZZnpWWV9RV3pDV0tweGhhenpQTzJhT3hWd09PNWN3eWxBU245TUFZMlduZ0xNTmM2OFRJRnptU2xSSUxfU01r?oc=5",
+            "published": "Wed, 05 Aug 2026 04:49:53 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GR3NoYzZPNU9McV9SbldvUkRSRGtCT3hIQlBvUjZlWkVZZnpWWV9RV3pDV0tweGhhenpQTzJhT3hWd09PNWN3eWxBU245TUFZMlduZ0xNTmM2OFRJRnptU2xSSUxfU01r?oc=5\" target=\"_blank\">Honda eはなぜ売れなかったのか？アーバンEVコンセプトが示した理想と現実【写真・26枚目】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">モーターファン</font>",
+            "site_name": "モーターファン"
+        },
+        {
+            "id": 772879,
+            "title": "Honda Urban EV Concept - Design Story - モーターファン",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMFZaYXZoSXVvQnd2MFlOdEEwa3RIQ3lSc3VFNkxsOXRMY2dMcWU2YkEzT2FWZ3hJWkJ5QWpYaHVCMWVQY3Jidmx0NFg5SkhzS1ZfY01OZlM3YU1VX2J4TGNhZFZKWVVhbUJXbGpodDNEdkxETVFFRDZkTmdPbDQzc3RB?oc=5",
+            "published": "Wed, 05 Aug 2026 04:54:10 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPMFZaYXZoSXVvQnd2MFlOdEEwa3RIQ3lSc3VFNkxsOXRMY2dMcWU2YkEzT2FWZ3hJWkJ5QWpYaHVCMWVQY3Jidmx0NFg5SkhzS1ZfY01OZlM3YU1VX2J4TGNhZFZKWVVhbUJXbGpodDNEdkxETVFFRDZkTmdPbDQzc3RB?oc=5\" target=\"_blank\">Honda Urban EV Concept - Design Story</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">モーターファン</font>",
+            "site_name": "モーターファン"
+        },
+        {
+            "id": 85289,
+            "title": "Honda Urban EV Concept unveiled at the Frankfurt Motor Show - モーターファン",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbTlicks1ODNPNTl2eURsVU1yQWt6NWJ4QzZrZDJsZjFmSXdmamFHODhEWXgtOEpCcDY1Q20wcXlNYWVMWGFNU2E1aW9Eb19EUHhNeVRibUJoVWNCcDNRaVk3ajFrYWNDNV9oeEdmd19OVDFfNlRlN0JHbXNMZ09tcEp0bWhNdnhSMENnRnNpVHlVTUlxeGRwNnlfUG0xSW9Q?oc=5",
+            "published": "Wed, 05 Aug 2026 04:51:43 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNbTlicks1ODNPNTl2eURsVU1yQWt6NWJ4QzZrZDJsZjFmSXdmamFHODhEWXgtOEpCcDY1Q20wcXlNYWVMWGFNU2E1aW9Eb19EUHhNeVRibUJoVWNCcDNRaVk3ajFrYWNDNV9oeEdmd19OVDFfNlRlN0JHbXNMZ09tcEp0bWhNdnhSMENnRnNpVHlVTUlxeGRwNnlfUG0xSW9Q?oc=5\" target=\"_blank\">Honda Urban EV Concept unveiled at the Frankfurt Motor Show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">モーターファン</font>",
+            "site_name": "モーターファン"
+        },
+        {
+            "id": 367109,
+            "title": "Honda eはなぜ売れなかったのか？アーバンEVコンセプトが示した理想と現実【写真・5枚目】 - モーターファン",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxakhLX0Q3ZUNQREJiYTFsdzlzclZqaG90R18yTUlsUF9oNDlnQ0pEXzhSRkx2ZWZFR211Y19VeG5hNDZ2OWdzWWZFbnlzM3hWWlFyb3JFbGprbDRfWUozNUJn?oc=5",
+            "published": "Wed, 05 Aug 2026 04:49:54 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxakhLX0Q3ZUNQREJiYTFsdzlzclZqaG90R18yTUlsUF9oNDlnQ0pEXzhSRkx2ZWZFR211Y19VeG5hNDZ2OWdzWWZFbnlzM3hWWlFyb3JFbGprbDRfWUozNUJn?oc=5\" target=\"_blank\">Honda eはなぜ売れなかったのか？アーバンEVコンセプトが示した理想と現実【写真・5枚目】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">モーターファン</font>",
+            "site_name": "モーターファン"
+        },
+        {
+            "id": 301512,
+            "title": "Honda eはなぜ売れなかったのか？アーバンEVコンセプトが示した理想と現実【写真・14枚目】 - モーターファン",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6TGFoWlY4T1MzQ3A1R0RlTHd1R19xMWJvWnluaDAtWWdWaFdyd29EQjFhaXlXdEdiVEV3SFZmVTMxM09NNnBjT0Fvb3NzNnI3SFVIYVE1cFJFbVY2d05kaXN5YUptSkwzcWc?oc=5",
+            "published": "Wed, 05 Aug 2026 04:49:15 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB6TGFoWlY4T1MzQ3A1R0RlTHd1R19xMWJvWnluaDAtWWdWaFdyd29EQjFhaXlXdEdiVEV3SFZmVTMxM09NNnBjT0Fvb3NzNnI3SFVIYVE1cFJFbVY2d05kaXN5YUptSkwzcWc?oc=5\" target=\"_blank\">Honda eはなぜ売れなかったのか？アーバンEVコンセプトが示した理想と現実【写真・14枚目】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">モーターファン</font>",
+            "site_name": "モーターファン"
+        },
+        {
+            "id": 155884,
+            "title": "Honda eはなぜ売れなかったのか？アーバンEVコンセプトが示した理想と現実【写真・6枚目】 - モーターファン",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tWVIyZWk2aC1KLUprUnJodVoxQXZhR0ZqUmdYczBJOVd5YUxQTVpnY0VubHdldlNnMG42UVEtSUUxbjZfXy0xaUZ1TVZ6OG81X19HSG9vU2J3elE5Z0I1M1dR?oc=5",
+            "published": "Wed, 05 Aug 2026 04:50:06 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tWVIyZWk2aC1KLUprUnJodVoxQXZhR0ZqUmdYczBJOVd5YUxQTVpnY0VubHdldlNnMG42UVEtSUUxbjZfXy0xaUZ1TVZ6OG81X19HSG9vU2J3elE5Z0I1M1dR?oc=5\" target=\"_blank\">Honda eはなぜ売れなかったのか？アーバンEVコンセプトが示した理想と現実【写真・6枚目】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">モーターファン</font>",
+            "site_name": "モーターファン"
+        },
+        {
+            "id": 587665,
+            "title": "「畳も平置きOK＆1500W電源付き！」EVになっても使い勝手抜群な『e-アトレー／e-ハイゼットカーゴ』は想像以上の出来だった - モーターファン",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2LWgzR2JjYzdvQlMtNGh4N2ZnZmNnSFVQRlZtMDJOWHhIUm5yR190dEJ0V3hfRjRzak4tQnAwNWxGTklTdXJvZFdwMldsVW10REFQdHVWMA?oc=5",
+            "published": "Wed, 05 Aug 2026 04:30:42 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2LWgzR2JjYzdvQlMtNGh4N2ZnZmNnSFVQRlZtMDJOWHhIUm5yR190dEJ0V3hfRjRzak4tQnAwNWxGTklTdXJvZFdwMldsVW10REFQdHVWMA?oc=5\" target=\"_blank\">「畳も平置きOK＆1500W電源付き！」EVになっても使い勝手抜群な『e-アトレー／e-ハイゼットカーゴ』は想像以上の出来だった</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">モーターファン</font>",
+            "site_name": "モーターファン"
+        },
+        {
+            "id": 990001,
+            "title": "ホンダ再建、中国がブレーキ 今期4000億円黒字、円安で上振れ EV含め四輪落ち込む - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rV3B5UUt6Qk5LSkw2ODRSUjVud2FZZWpKZzJweGo0TElxcGtKMjQ1WHpudFNoVXVnOGtUSW8yOW9ybVJNZkhtUDgzZmdSNmVNWUxHa29pNlNMSnpCN29ua1FLWVdxV09HVmdlag?oc=5",
+            "published": "Wed, 05 Aug 2026 17:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9rV3B5UUt6Qk5LSkw2ODRSUjVud2FZZWpKZzJweGo0TElxcGtKMjQ1WHpudFNoVXVnOGtUSW8yOW9ybVJNZkhtUDgzZmdSNmVNWUxHa29pNlNMSnpCN29ua1FLWVdxV09HVmdlag?oc=5\" target=\"_blank\">ホンダ再建、中国がブレーキ 今期4000億円黒字、円安で上振れ EV含め四輪落ち込む</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+            "site_name": "日本経済新聞"
+        },
+        {
+            "id": 490094,
+            "title": "マツダは新型CX-5好調で1Q売上過去最高、協業EV投入も通期達成予想（MONOist） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWkxUTDk4Rk5YQlIyNkNDdUYxNmZqQjJfcE1WVzNFT2NQU25CczI5bUJZNUU3eGhibF9zZGY0RzFUSHVISFZCU2xKc2VMaFg3aEpCSW9tWjRWVWFyWGZRS0I1bDFjbnBrSm4xMFVxcWs5cEdkUURSVVJPdUlqUm5NYlNaUzM1TG5j?oc=5",
+            "published": "Wed, 05 Aug 2026 10:00:12 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWkxUTDk4Rk5YQlIyNkNDdUYxNmZqQjJfcE1WVzNFT2NQU25CczI5bUJZNUU3eGhibF9zZGY0RzFUSHVISFZCU2xKc2VMaFg3aEpCSW9tWjRWVWFyWGZRS0I1bDFjbnBrSm4xMFVxcWs5cEdkUURSVVJPdUlqUm5NYlNaUzM1TG5j?oc=5\" target=\"_blank\">マツダは新型CX-5好調で1Q売上過去最高、協業EV投入も通期達成予想（MONOist）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 291017,
+            "title": "韓国で販売されたEVの3分の1が中国製＝上半期実績 - Record China",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DOFlIRXJxMzk1TmVsVkR5b0IxTHVSVHRMbXBiQVBWWjBSUDI3S05BRGtablQxQlVVd1hQSzJia1ZleHcyYmp1MnZLZ3p1TGJVUGpkNVRlZDlUSjMz?oc=5",
+            "published": "Wed, 05 Aug 2026 13:20:01 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DOFlIRXJxMzk1TmVsVkR5b0IxTHVSVHRMbXBiQVBWWjBSUDI3S05BRGtablQxQlVVd1hQSzJia1ZleHcyYmp1MnZLZ3p1TGJVUGpkNVRlZDlUSjMz?oc=5\" target=\"_blank\">韓国で販売されたEVの3分の1が中国製＝上半期実績</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Record China</font>",
+            "site_name": "Record China"
+        },
+        {
+            "id": 967997,
+            "title": "＜画像2 / 8＞新時代のEVクロスオーバーSUV「日産 アリア」、その魅力を3つの切り口から深掘り！ - ウォーカープラス",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zdmFTVWt2YUV5aGpYN1RQOG1JV2tqSW1LYW1mdHpQQmxDV0xCTFJscG1RX1laZUxkUGZhVzlXR01FenFFMnNGeC1GQ2REeFhBZVlPRVltOTY1c2dUM1RRTlNocUtYR29qTUNRQkh3?oc=5",
+            "published": "Wed, 05 Aug 2026 18:14:23 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE8zdmFTVWt2YUV5aGpYN1RQOG1JV2tqSW1LYW1mdHpQQmxDV0xCTFJscG1RX1laZUxkUGZhVzlXR01FenFFMnNGeC1GQ2REeFhBZVlPRVltOTY1c2dUM1RRTlNocUtYR29qTUNRQkh3?oc=5\" target=\"_blank\">＜画像2 / 8＞新時代のEVクロスオーバーSUV「日産 アリア」、その魅力を3つの切り口から深掘り！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ウォーカープラス</font>",
+            "site_name": "ウォーカープラス"
+        },
+        {
+            "id": 68121,
+            "title": "Honda eはなぜ売れなかったのか？アーバンEVコンセプトが示した理想と現実【写真・4枚目】 - モーターファン",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByM0VmUC1xd2NTRXNOWWdMQlBnem5pOUpjZGhlUllWUXhlTEU2VTJRd3c2VVp2NUZfbTNsdjFwRk5vQ2tCaUtRTlEtdU9oazBUWHlxaE05by1YaUp4d1hNOA?oc=5",
+            "published": "Wed, 05 Aug 2026 04:21:49 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFByM0VmUC1xd2NTRXNOWWdMQlBnem5pOUpjZGhlUllWUXhlTEU2VTJRd3c2VVp2NUZfbTNsdjFwRk5vQ2tCaUtRTlEtdU9oazBUWHlxaE05by1YaUp4d1hNOA?oc=5\" target=\"_blank\">Honda eはなぜ売れなかったのか？アーバンEVコンセプトが示した理想と現実【写真・4枚目】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">モーターファン</font>",
+            "site_name": "モーターファン"
+        },
+        {
+            "id": 458989,
+            "title": "スズキが目指す「世界共通EV戦略」は軽EV？ 新型コンパクトEVの欧州公道テストをスクープ【写真・2枚目】 - モーターファン",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uRU1WRUF6UkpIM29pVDFFRjZuZWxQVTlXV1g2MVZjemwyc3d6RjhNenNKb3lrQzhhLThKNHQtVFNRX1FCRlZ5dXhFRlZRTzZyZkJ2LW45SFRvT1ZwdXc?oc=5",
+            "published": "Wed, 05 Aug 2026 01:06:29 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uRU1WRUF6UkpIM29pVDFFRjZuZWxQVTlXV1g2MVZjemwyc3d6RjhNenNKb3lrQzhhLThKNHQtVFNRX1FCRlZ5dXhFRlZRTzZyZkJ2LW45SFRvT1ZwdXc?oc=5\" target=\"_blank\">スズキが目指す「世界共通EV戦略」は軽EV？ 新型コンパクトEVの欧州公道テストをスクープ【写真・2枚目】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">モーターファン</font>",
+            "site_name": "モーターファン"
+        },
+        {
+            "id": 49483,
+            "title": "「単一の技術に賭けるのはギャンブルだ」――“全方位”で勝つ日本の自動車メーカー！ 7兆円投資に変えた大手の判断、EV時代に残る企業の条件とは - merkmal-biz.jp",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pakoyOUNmNWpPR0tiRDh3eHFFUURjZHRHYjJmaFdPVGl4RXNTb0pBbHhlSURMQWt2NFZzSjYyQWtoemVqQ2lXN2x3NTc?oc=5",
+            "published": "Wed, 05 Aug 2026 10:16:10 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pakoyOUNmNWpPR0tiRDh3eHFFUURjZHRHYjJmaFdPVGl4RXNTb0pBbHhlSURMQWt2NFZzSjYyQWtoemVqQ2lXN2x3NTc?oc=5\" target=\"_blank\">「単一の技術に賭けるのはギャンブルだ」――“全方位”で勝つ日本の自動車メーカー！ 7兆円投資に変えた大手の判断、EV時代に残る企業の条件とは</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">merkmal-biz.jp</font>",
+            "site_name": "merkmal-biz.jp"
+        },
+        {
+            "id": 574756,
+            "title": "「畳も平置きOK＆1500W電源付き！」EVになっても使い勝手抜群な『e-アトレー／e-ハイゼットカーゴ』は想像以上の出来だった - モーターファン",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TcXYyT2N2MVBNa2dZWGdiLUppczBNTFJMVlo2ZGR3RTF5RDY2TWpfWGxSdVEwVDBkczZNU3BDQWJIZmlMd25XVmtUX05TWDllYk9HTVNqMA?oc=5",
+            "published": "Wed, 05 Aug 2026 05:12:30 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TcXYyT2N2MVBNa2dZWGdiLUppczBNTFJMVlo2ZGR3RTF5RDY2TWpfWGxSdVEwVDBkczZNU3BDQWJIZmlMd25XVmtUX05TWDllYk9HTVNqMA?oc=5\" target=\"_blank\">「畳も平置きOK＆1500W電源付き！」EVになっても使い勝手抜群な『e-アトレー／e-ハイゼットカーゴ』は想像以上の出来だった</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">モーターファン</font>",
+            "site_name": "モーターファン"
+        },
+        {
+            "id": 723395,
+            "title": "「畳も平置きOK＆1500W電源付き！」EVになっても使い勝手抜群な『e-アトレー／e-ハイゼットカーゴ』は想像以上の出来だった - モーターファン",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xdWpjYWtEbEdvd0ZNM2RLY1BGLTNPcjVtaVNDMFAyZVEwREpoRFhLd2U3MTBuMU1hYlVXaF9wcWVrZ0FPcGdNM01qaVhyVk9KMFVFUFphdw?oc=5",
+            "published": "Wed, 05 Aug 2026 04:55:55 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xdWpjYWtEbEdvd0ZNM2RLY1BGLTNPcjVtaVNDMFAyZVEwREpoRFhLd2U3MTBuMU1hYlVXaF9wcWVrZ0FPcGdNM01qaVhyVk9KMFVFUFphdw?oc=5\" target=\"_blank\">「畳も平置きOK＆1500W電源付き！」EVになっても使い勝手抜群な『e-アトレー／e-ハイゼットカーゴ』は想像以上の出来だった</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">モーターファン</font>",
+            "site_name": "モーターファン"
+        },
+        {
+            "id": 751671,
+            "title": "「畳も平置きOK＆1500W電源付き！」EVになっても使い勝手抜群な『e-アトレー／e-ハイゼットカーゴ』は想像以上の出来だった - モーターファン",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XRjR0OTRYdnNMeTJub3B5ckJicDJXcElhMDY5M2VTU1N0Nk5kT2x6NDl6VHRCNlQ2ZWxYTXR2MGExd1g0SnJzM1oxTU1JemtROHBUcFVCYw?oc=5",
+            "published": "Wed, 05 Aug 2026 04:49:05 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XRjR0OTRYdnNMeTJub3B5ckJicDJXcElhMDY5M2VTU1N0Nk5kT2x6NDl6VHRCNlQ2ZWxYTXR2MGExd1g0SnJzM1oxTU1JemtROHBUcFVCYw?oc=5\" target=\"_blank\">「畳も平置きOK＆1500W電源付き！」EVになっても使い勝手抜群な『e-アトレー／e-ハイゼットカーゴ』は想像以上の出来だった</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">モーターファン</font>",
+            "site_name": "モーターファン"
+        },
+        {
+            "id": 855793,
+            "title": "「畳も平置きOK＆1500W電源付き！」EVになっても使い勝手抜群な『e-アトレー／e-ハイゼットカーゴ』は想像以上の出来だった - モーターファン",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QRXdPQWgycC1TN0t3S01FVlozYVFLY0x2VEc1Szhpa0toaGpmejZOMl90ZF93aHk2ZUR5ZzA4WG9pN1BkVGJiZGM4OEhTNnFPWUZOUm1nTQ?oc=5",
+            "published": "Wed, 05 Aug 2026 04:43:34 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QRXdPQWgycC1TN0t3S01FVlozYVFLY0x2VEc1Szhpa0toaGpmejZOMl90ZF93aHk2ZUR5ZzA4WG9pN1BkVGJiZGM4OEhTNnFPWUZOUm1nTQ?oc=5\" target=\"_blank\">「畳も平置きOK＆1500W電源付き！」EVになっても使い勝手抜群な『e-アトレー／e-ハイゼットカーゴ』は想像以上の出来だった</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">モーターファン</font>",
+            "site_name": "モーターファン"
+        },
+        {
+            "id": 359428,
+            "title": "「藻で金を回収」「走りながらEV充電」「待ち時間ゼロでレアメタル抽出」…日本発の神技術：アンパラレルド - ｄメニューニュース",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcjB4YWVjeENRQjhGdkFGQ2pINl9wWHlYdUhfeXQ3a2tDRGx2cmxja0JrQVl2U1o2R052ODVvbGlqOFNYSXUtWFh3OEVVR04tZVhtSHphRUR5bUQ1cmYwdk9JT3pFOW1QbjYyREJqVFl2MmdldU90Qmo5em9teHl0SFF4SdIBf0FVX3lxTE9ZNVVNd1VDWGM0TXFoWlprRVdhMnpndWl0d3VrNmpKbHFpaWRlcDVoNzY2WHFQeFc5UVBWaEg0RE50Mm5VNEE0ZmVkR0hMUkZPeFhIckVBcU82d0ExLVc4NHNQeC1UN01zN0hiZzd5YS10N0V6UUJ3UWZQRlZHclU?oc=5",
+            "published": "Wed, 05 Aug 2026 02:58:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOcjB4YWVjeENRQjhGdkFGQ2pINl9wWHlYdUhfeXQ3a2tDRGx2cmxja0JrQVl2U1o2R052ODVvbGlqOFNYSXUtWFh3OEVVR04tZVhtSHphRUR5bUQ1cmYwdk9JT3pFOW1QbjYyREJqVFl2MmdldU90Qmo5em9teHl0SFF4SdIBf0FVX3lxTE9ZNVVNd1VDWGM0TXFoWlprRVdhMnpndWl0d3VrNmpKbHFpaWRlcDVoNzY2WHFQeFc5UVBWaEg0RE50Mm5VNEE0ZmVkR0hMUkZPeFhIckVBcU82d0ExLVc4NHNQeC1UN01zN0hiZzd5YS10N0V6UUJ3UWZQRlZHclU?oc=5\" target=\"_blank\">「藻で金を回収」「走りながらEV充電」「待ち時間ゼロでレアメタル抽出」…日本発の神技術：アンパラレルド</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
+            "site_name": "ｄメニューニュース"
+        },
+        {
+            "id": 200086,
+            "title": "BYDラッコと対峙 軽自動車史70年、アルトやタントが磨いた実用性 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SZ1RTVGpYdEV1ZHFwd3hzN3N0WGNKS3lGUWE3YzBydTFYRUJkZkVMM3N6ZzF4dVhjUFZzQ3gwak1RdnA4ME02ZFBXSjE5VkxhSW1CRHhrTlpSTm5JaDV3dnpSeTBTdEVTS1dHMw?oc=5",
+            "published": "Wed, 05 Aug 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9SZ1RTVGpYdEV1ZHFwd3hzN3N0WGNKS3lGUWE3YzBydTFYRUJkZkVMM3N6ZzF4dVhjUFZzQ3gwak1RdnA4ME02ZFBXSjE5VkxhSW1CRHhrTlpSTm5JaDV3dnpSeTBTdEVTS1dHMw?oc=5\" target=\"_blank\">BYDラッコと対峙 軽自動車史70年、アルトやタントが磨いた実用性</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+            "site_name": "日本経済新聞"
+        },
+        {
+            "id": 764558,
+            "title": "EV航続距離1100kmの騰勢Z9Sが予約販売を開始、価格は31万9800元からとなります。 - Moomoo",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5TS3FlT19WTlppcTd1MzZqQnVXUmZhb1Z0Nk9CQjN4ODBvaEU5U2VSVWNHVU03eTgzd1R2MVJVb0JqelFRd240TFd4UERZMkxrc2hObm1jZw?oc=5",
+            "published": "Wed, 05 Aug 2026 10:54:38 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5TS3FlT19WTlppcTd1MzZqQnVXUmZhb1Z0Nk9CQjN4ODBvaEU5U2VSVWNHVU03eTgzd1R2MVJVb0JqelFRd240TFd4UERZMkxrc2hObm1jZw?oc=5\" target=\"_blank\">EV航続距離1100kmの騰勢Z9Sが予約販売を開始、価格は31万9800元からとなります。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+            "site_name": "Moomoo"
+        },
+        {
+            "id": 865577,
+            "title": "Honda eはなぜ売れなかったのか？アーバンEVコンセプトが示した理想と現実【写真・11枚目】 - モーターファン",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51QTU4aVVnM0wtTGVKWk1JZm1zUjIzVzJONWRYaHhLaktHSlJuNjZOSURnNU5NM09uWHRIc0tWc19ZMGFfRm9yR3VaME9fcXhvTGNBMG5Cd2JqSnlmUzlkZHYxS1dZaEdIN2c?oc=5",
+            "published": "Wed, 05 Aug 2026 00:37:49 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE51QTU4aVVnM0wtTGVKWk1JZm1zUjIzVzJONWRYaHhLaktHSlJuNjZOSURnNU5NM09uWHRIc0tWc19ZMGFfRm9yR3VaME9fcXhvTGNBMG5Cd2JqSnlmUzlkZHYxS1dZaEdIN2c?oc=5\" target=\"_blank\">Honda eはなぜ売れなかったのか？アーバンEVコンセプトが示した理想と現実【写真・11枚目】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">モーターファン</font>",
+            "site_name": "モーターファン"
+        },
+        {
+            "id": 977675,
+            "title": "パワートレイン別の欧州新車登録台数＝６月 - Economic Media Bulletin Limited (EMB)",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WRk1KQmUwY05HcW1MaWVWeFdWWE1tLUo5RjR3c0s0eU5WS1hmSTMyT1NpOFFjZmZFN2psQXk2MjdJSFNVSzNFM3dCNk8walAtNFdkTXpmdkNXSDVKVEE?oc=5",
+            "published": "Wed, 05 Aug 2026 12:34:24 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WRk1KQmUwY05HcW1MaWVWeFdWWE1tLUo5RjR3c0s0eU5WS1hmSTMyT1NpOFFjZmZFN2psQXk2MjdJSFNVSzNFM3dCNk8walAtNFdkTXpmdkNXSDVKVEE?oc=5\" target=\"_blank\">パワートレイン別の欧州新車登録台数＝６月</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Economic Media Bulletin Limited (EMB)</font>",
+            "site_name": "Economic Media Bulletin Limited (EMB)"
+        },
+        {
+            "id": 534651,
+            "title": "日産「NV200ロンドンタクシー」を公開、発表！…が、ロンドンでの運用は実現できず(涙)【今日は何の日？8月6日】 - モーターファン",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NU0dGT0RIX1haRGtzS0FjbUtPdXk0QWUxcGNBdzZUcDJhQkx6b0drN0NRdWItc2p0NndxYnBsWm0tRzhXM3F5WFpLTEFPQQ?oc=5",
+            "published": "Wed, 05 Aug 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NU0dGT0RIX1haRGtzS0FjbUtPdXk0QWUxcGNBdzZUcDJhQkx6b0drN0NRdWItc2p0NndxYnBsWm0tRzhXM3F5WFpLTEFPQQ?oc=5\" target=\"_blank\">日産「NV200ロンドンタクシー」を公開、発表！…が、ロンドンでの運用は実現できず(涙)【今日は何の日？8月6日】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">モーターファン</font>",
+            "site_name": "モーターファン"
+        },
+        {
+            "id": 512518,
+            "title": "理想汽車、3カ月連続販売減でL6を生中継分解、「価格競争より素材勝負」と李想CEO - BigGo ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VMldWdF9kWnJBaUtzQzU5Q1hzUWtuYVYtMmp2aTVtbEh0clZONTBJUnJYTjFIUnU4UGhYQWdqUzdSYWxIUFF1WTFJQ0tnazBQNkpWTDZvODBtZGVDZkx2dThwcnVubUNEd1Vrd1J5N2hPMTJ2?oc=5",
+            "published": "Wed, 05 Aug 2026 15:26:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9VMldWdF9kWnJBaUtzQzU5Q1hzUWtuYVYtMmp2aTVtbEh0clZONTBJUnJYTjFIUnU4UGhYQWdqUzdSYWxIUFF1WTFJQ0tnazBQNkpWTDZvODBtZGVDZkx2dThwcnVubUNEd1Vrd1J5N2hPMTJ2?oc=5\" target=\"_blank\">理想汽車、3カ月連続販売減でL6を生中継分解、「価格競争より素材勝負」と李想CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+            "site_name": "BigGo ファイナンス"
+        },
+        {
+            "id": 112379,
+            "title": "新型インサイト、4代目はハイブリッド廃止、EV専用クロスオーバーSUVとして再発進！ 限定3000台で4月17日（金）発売！ - モーターファン",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PdzQwTVVNMFV6ejVyWXRDdi1kWkYyOTBuTWVUQlZuSnl6aGQ3M3c2T1FWTFRMYWVfanN2ekYyQjdKYW5hdXRJcGZpTVVqQQ?oc=5",
+            "published": "Wed, 05 Aug 2026 01:07:29 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PdzQwTVVNMFV6ejVyWXRDdi1kWkYyOTBuTWVUQlZuSnl6aGQ3M3c2T1FWTFRMYWVfanN2ekYyQjdKYW5hdXRJcGZpTVVqQQ?oc=5\" target=\"_blank\">新型インサイト、4代目はハイブリッド廃止、EV専用クロスオーバーSUVとして再発進！ 限定3000台で4月17日（金）発売！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">モーターファン</font>",
+            "site_name": "モーターファン"
         }
     ]
 }
