@@ -1,85 +1,77 @@
 [
     {
-        "topic_name": "BYDの軽EV「ラッコ（RACCO）」発売と日本市場への影響",
+        "topic_name": "コジマとBYDのEV関連サービス事業拡大",
         "article_ids": [
-            450244,
-            263065,
-            916579,
-            464155,
-            534774,
-            994504,
-            586214
+            340340,
+            25654,
+            996410
         ],
         "articles": [
             {
-                "id": 450244,
-                "title": "話題の軽EV「BYD ラッコ」のさまざまな「なぜ？」を紐解く。年間1万台の日本専用車を導入する意義 (東洋経済オンライン) - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOREQ4UEF5eC10bXplZk1mTEh6UThlbWFTX0d6WE9sWFJ2XzdXUDNMRFZHT1ZxbnBZUUpUNzdBTV9jWkFwdTdUS3pTSWllNk1UTkFybkN0T0pVZ09jTERGczUzemZ3YkVULW1maC11TGVqbk5qTTVSU1lCd1pySC1OeDZXbVltQkR0SjdkblJn?oc=5",
-                "published": "Thu, 06 Aug 2026 02:58:50 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOREQ4UEF5eC10bXplZk1mTEh6UThlbWFTX0d6WE9sWFJ2XzdXUDNMRFZHT1ZxbnBZUUpUNzdBTV9jWkFwdTdUS3pTSWllNk1UTkFybkN0T0pVZ09jTERGczUzemZ3YkVULW1maC11TGVqbk5qTTVSU1lCd1pySC1OeDZXbVltQkR0SjdkblJn?oc=5\" target=\"_blank\">話題の軽EV「BYD ラッコ」のさまざまな「なぜ？」を紐解く。年間1万台の日本専用車を導入する意義 (東洋経済オンライン)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "id": 340340,
+                "title": "コジマ[7513]：BYD Auto Japanとの協業によるEV関連サービス事業を拡大 ～EV充電設備施工サービスを開始、店舗でのBYD車の展示・試乗イベントを強化～ 2026年8月7日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xcjBqdnF0SVRTZE40dXlNOTB5SUZzeTZacmMyQ3VrS19GRzhYT2tjVXo0Um53Z1A5cGlqYld3M1c4anlrYWVibHcwVEpCRFk5ZWt6VHJ5UlpzNEd3SE5lbm5IdTNoSVZsZGc?oc=5",
+                "published": "Fri, 07 Aug 2026 05:30:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5xcjBqdnF0SVRTZE40dXlNOTB5SUZzeTZacmMyQ3VrS19GRzhYT2tjVXo0Um53Z1A5cGlqYld3M1c4anlrYWVibHcwVEpCRFk5ZWt6VHJ5UlpzNEd3SE5lbm5IdTNoSVZsZGc?oc=5\" target=\"_blank\">コジマ[7513]：BYD Auto Japanとの協業によるEV関連サービス事業を拡大 ～EV充電設備施工サービスを開始、店舗でのBYD車の展示・試乗イベントを強化～ 2026年8月7日(適時開示) ：日経会社情報DIGITAL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "site_name": "日本経済新聞",
+                "primary_category": "Strategy/Partnership",
+                "reason": "家電量販店とEVメーカーの販路・充電網拡大はEV普及モデルとして重要。",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 25654,
+                "title": "コジマ、BYD購入者向けに充電設備施工 EVきっかけに太陽光提案 - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CY3hGT2p4NkNESm1acVdwcVZzWjlvc3BZVWl3d3htTjJvMFJYTkdxRV95LWpzLXRxdkw1WTVLVHBNU2g3eERmNXYyQWtpSTlrSVdmZzJGNUYtbXVtYlp2bTh3VkNkNmduM2VlSg?oc=5",
+                "published": "Fri, 07 Aug 2026 07:09:41 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1CY3hGT2p4NkNESm1acVdwcVZzWjlvc3BZVWl3d3htTjJvMFJYTkdxRV95LWpzLXRxdkw1WTVLVHBNU2g3eERmNXYyQWtpSTlrSVdmZzJGNUYtbXVtYlp2bTh3VkNkNmduM2VlSg?oc=5\" target=\"_blank\">コジマ、BYD購入者向けに充電設備施工 EVきっかけに太陽光提案</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "site_name": "日本経済新聞",
+                "primary_category": "Strategy/Partnership",
+                "reason": "340340の重複記事だが、ビジネス連携の重要性を示す。",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 996410,
+                "title": "BYDとコジマ、EV関連サービス事業を拡大 EV充電設備施工サービス開始、コジマ店舗でBYD車の展示・試乗イベントを強化 - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNWFhQVlXNEVhdEg2YmZjRG1XV0NoSjNHbVN6OEtRUEpvZE8zOXBHeVJWWFBRWVVXS2h5QkRSTElCcVpfb0hacVZqUmt6eHhLTWpfbkdabklEY2NuY1RlMGVXeThkbkhfZUd4Zk96REptYUp0VmM5VFZuMkhnOEY3UFFSc2gtTXhLSFA3QzNn?oc=5",
+                "published": "Fri, 07 Aug 2026 09:58:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPNWFhQVlXNEVhdEg2YmZjRG1XV0NoSjNHbVN6OEtRUEpvZE8zOXBHeVJWWFBRWVVXS2h5QkRSTElCcVpfb0hacVZqUmt6eHhLTWpfbkdabklEY2NuY1RlMGVXeThkbkhfZUd4Zk96REptYUp0VmM5VFZuMkhnOEY3UFFSc2gtTXhLSFA3QzNn?oc=5\" target=\"_blank\">BYDとコジマ、EV関連サービス事業を拡大 EV充電設備施工サービス開始、コジマ店舗でBYD車の展示・試乗イベントを強化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
                 "site_name": "Yahoo!ニュース",
-                "primary_category": "Strategy",
-                "reason": "BYDの日本市場戦略の分析。",
-                "score": 75,
+                "primary_category": "Strategy/Partnership",
+                "reason": "BYDとコジマの協業報じ直し。",
+                "score": 85,
                 "is_highly_important": true
-            },
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "コジマがBYD正規ディーラー経由のEV充電設備設置工事を全国規模で受託し、新たな収益源を確保",
+                "店舗でのBYD車両展示・試乗機会を増やし、家電量販店の集客力を活用したEV販売促進のハブとして機能",
+                "EV充電器の設置をフックに、太陽光発電・蓄電池・V2Hなどの住宅設備（リフォーム）事業へのクロスセルを画策"
+            ],
+            "insight": "家電量販店がEVの「販売店」ではなく「充電・エネルギーインフラの施工パートナー」へと立ち位置をシフトした点は戦略的です。コジマは単なる工事受託に留まらず、自宅をエネルギーマネジメントの拠点と見なすことで、既存の住宅設備部門とのシナジーを最大化させようとしています。これはEVユーザーという新たな顧客層を囲い込み、高単価なリフォームや再エネ商材への誘導を狙う、非常に合理的なLTV最大化戦略です。"
+        }
+    },
+    {
+        "topic_name": "BYDの軽EV「RACCO」の発売と市場評価",
+        "article_ids": [
+            568134,
+            586214,
+            994504,
+            355025
+        ],
+        "articles": [
             {
-                "id": 263065,
-                "title": "BYDの軽EV『ラッコ』、発売1週間で741台を販売 東福寺社長「12月末までに1万台に」 (レスポンス) - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWVJScnJLRmI1UXZCeVV6dGZ1Z3lVYjVjQldFTWhUdnhnMEtXeHJIRERzTWt5VTczN3RFckJRdDJEdU85eVlpQ0NCRi1raWhBNTN0aVFMX2wzWFc5WDJNT3ZSMV9NYnlXdlhOd3lKdVF3cHdHOHhRenJJRmNibVRyX01FWmtfdDFoZ3ZPd3hB?oc=5",
-                "published": "Thu, 06 Aug 2026 02:41:01 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOWVJScnJLRmI1UXZCeVV6dGZ1Z3lVYjVjQldFTWhUdnhnMEtXeHJIRERzTWt5VTczN3RFckJRdDJEdU85eVlpQ0NCRi1raWhBNTN0aVFMX2wzWFc5WDJNT3ZSMV9NYnlXdlhOd3lKdVF3cHdHOHhRenJJRmNibVRyX01FWmtfdDFoZ3ZPd3hB?oc=5\" target=\"_blank\">BYDの軽EV『ラッコ』、発売1週間で741台を販売 東福寺社長「12月末までに1万台に」 (レスポンス)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-                "site_name": "Yahoo!ニュース",
-                "primary_category": "Market",
-                "reason": "BYDの販売動向。",
-                "score": 70,
-                "is_highly_important": true
-            },
-            {
-                "id": 916579,
-                "title": "BYD日本社長｢軽EV､ママ目線徹底｣ 早くも新モデル念頭 - nikkei.com",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ieklDYkxKUnNiQkYwOGd2bGFJOGFuZkk1X3IyMWtuVE5zeGF1Z0RwQi0zSWlyZUh3SW9VeFpzaDFNRVpKeldiSUt4TWNEdWt1c09VeXJ2N3RrWFp5Z0dVeHpZZnhLa3dvcU4tZV9QYzE3Z3RBMmwwakhLbjFDaU0?oc=5",
-                "published": "Wed, 05 Aug 2026 20:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1ieklDYkxKUnNiQkYwOGd2bGFJOGFuZkk1X3IyMWtuVE5zeGF1Z0RwQi0zSWlyZUh3SW9VeFpzaDFNRVpKeldiSUt4TWNEdWt1c09VeXJ2N3RrWFp5Z0dVeHpZZnhLa3dvcU4tZV9QYzE3Z3RBMmwwakhLbjFDaU0?oc=5\" target=\"_blank\">BYD日本社長｢軽EV､ママ目線徹底｣ 早くも新モデル念頭</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nikkei.com</font>",
-                "site_name": "nikkei.com",
-                "primary_category": "Strategy",
-                "reason": "BYD日本法人の戦略。",
-                "score": 75,
-                "is_highly_important": true
-            },
-            {
-                "id": 464155,
-                "title": "画像 | 日本人技術者を介さず､中国メーカーとして軽自動車市場に参入…新型EV｢RACCO｣投入でBYDの存在感を示せるか - 東洋経済オンライン",
-                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EamZjRlNUa3QyTzdJUnlKRHBlaFdnQnpFVE9WLWdSNk1sWkp4ZWtyQlFLZmFwOXJ1YTZhQ3BGVWhTbkpJanpoNEVHcjQxZHRmN2U2ajRDbkVudHhGeVE?oc=5",
-                "published": "Thu, 06 Aug 2026 05:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EamZjRlNUa3QyTzdJUnlKRHBlaFdnQnpFVE9WLWdSNk1sWkp4ZWtyQlFLZmFwOXJ1YTZhQ3BGVWhTbkpJanpoNEVHcjQxZHRmN2U2ajRDbkVudHhGeVE?oc=5\" target=\"_blank\">画像 | 日本人技術者を介さず､中国メーカーとして軽自動車市場に参入…新型EV｢RACCO｣投入でBYDの存在感を示せるか</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東洋経済オンライン</font>",
-                "site_name": "東洋経済オンライン",
-                "primary_category": "Strategy",
-                "reason": "BYDの日本参入の分析。",
-                "score": 75,
-                "is_highly_important": true
-            },
-            {
-                "id": 534774,
-                "title": "日本メーカーは猛省せよ！ 軽スーパーハイトワゴン初のEV「BYDラッコ」誕生の衝撃 - webCG",
-                "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GY1lZRC1qVk0weVlVZkJtbm5wOWRMZVp5MDM2S3ZWcHAwTjZpS2hCTjAzd3ZvcUNIV3J4YXFqckNGNFF5cm4xdEdLd2RBaW_SAVJBVV95cUxOUWtFM1E3YmhyYkZGUnVJVWpVYjFJU2h1azJyS1cyeHE4TmM2VlEydXAxampzMmU1S2VMMmw0dVRXRmlZTTZOWTBGdzdMMVllam1n?oc=5",
-                "published": "Thu, 06 Aug 2026 21:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GY1lZRC1qVk0weVlVZkJtbm5wOWRMZVp5MDM2S3ZWcHAwTjZpS2hCTjAzd3ZvcUNIV3J4YXFqckNGNFF5cm4xdEdLd2RBaW_SAVJBVV95cUxOUWtFM1E3YmhyYkZGUnVJVWpVYjFJU2h1azJyS1cyeHE4TmM2VlEydXAxampzMmU1S2VMMmw0dVRXRmlZTTZOWTBGdzdMMVllam1n?oc=5\" target=\"_blank\">日本メーカーは猛省せよ！ 軽スーパーハイトワゴン初のEV「BYDラッコ」誕生の衝撃</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">webCG</font>",
-                "site_name": "webCG",
-                "primary_category": "Strategy",
-                "reason": "BYDの市場参入に対する評論。",
-                "score": 70,
-                "is_highly_important": true
-            },
-            {
-                "id": 994504,
-                "title": "実質199万5000円で｢軽の牙城｣に挑むEV世界一のBYD､軽EV｢ラッコ｣が日本攻略の切り札になる理由 - 東洋経済オンライン",
-                "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxbzA2aDlyRVU4NGFvZ3FJeTJobE5STmdwNVA4SEQwZHlLOGNHQVpqeGg4ZDFHaXlYYkpVWGU1NW5RNVBNS1hVV0gxR1ZjRHMtZ29PSWd4cVQ0R0xoQmkw?oc=5",
-                "published": "Thu, 06 Aug 2026 20:40:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxbzA2aDlyRVU4NGFvZ3FJeTJobE5STmdwNVA4SEQwZHlLOGNHQVpqeGg4ZDFHaXlYYkpVWGU1NW5RNVBNS1hVV0gxR1ZjRHMtZ29PSWd4cVQ0R0xoQmkw?oc=5\" target=\"_blank\">実質199万5000円で｢軽の牙城｣に挑むEV世界一のBYD､軽EV｢ラッコ｣が日本攻略の切り札になる理由</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東洋経済オンライン</font>",
-                "site_name": "東洋経済オンライン",
-                "primary_category": "Strategy",
-                "reason": "BYDの価格戦略分析。",
+                "id": 568134,
+                "title": "BYDの軽EV「RACCO」は買いか？ 補助金込みで200万円切り、競合の日産・ホンダが受ける衝撃（1/3 ページ） - ITmedia",
+                "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VQ1p5Yl9Oa3c1enFzTUVVWF9qVmxpNUhmblVyOUtxZXZvQ04wdmFTYzJEQk4yd1hWa2hybzZHLVBVN1F5ZWJGSVVuUFhfVUFSX1liM19rbVhHejRoUjhLdGkzQzgwNWx5cUE?oc=5",
+                "published": "Fri, 07 Aug 2026 03:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9VQ1p5Yl9Oa3c1enFzTUVVWF9qVmxpNUhmblVyOUtxZXZvQ04wdmFTYzJEQk4yd1hWa2hybzZHLVBVN1F5ZWJGSVVuUFhfVUFSX1liM19rbVhHejRoUjhLdGkzQzgwNWx5cUE?oc=5\" target=\"_blank\">BYDの軽EV「RACCO」は買いか？ 補助金込みで200万円切り、競合の日産・ホンダが受ける衝撃（1/3 ページ）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
+                "site_name": "ITmedia",
+                "primary_category": "Market Analysis",
+                "reason": "中国メーカーの軽EV攻勢に対する市場課題の分析。",
                 "score": 75,
                 "is_highly_important": true
             },
@@ -90,97 +82,65 @@
                 "published": "Thu, 06 Aug 2026 23:10:08 GMT",
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5mZzdub1h3bEZ0VFFiMFE0dEpKdGxRUWFBaXprM1pOSXBnZ3ZEaUM2Z2ladkFpa3JreXpQSFMtSXNQSU8wZThNVlo0U1cwTFFlQkJKRTQ0amY4QkR0VEJFN2tHN1ZLZ0dUNXhVWVg3SDlUTzA0T0I2US12UHVsOFU?oc=5\" target=\"_blank\">軽EV「ラッコ」は日本で売れるのか BYDが抱える、中国メーカーならではの課題（ITmedia ビジネスオンライン）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
                 "site_name": "Yahoo!ニュース",
-                "primary_category": "Strategy",
-                "reason": "中国メーカーの日本市場課題分析。",
+                "primary_category": "Market Analysis",
+                "reason": "中国メーカーが日本市場で抱える課題の分析。",
+                "score": 60,
+                "is_highly_important": true
+            },
+            {
+                "id": 994504,
+                "title": "実質199万5000円で｢軽の牙城｣に挑むEV世界一のBYD､軽EV｢ラッコ｣が日本攻略の切り札になる理由 - 東洋経済オンライン",
+                "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxbzA2aDlyRVU4NGFvZ3FJeTJobE5STmdwNVA4SEQwZHlLOGNHQVpqeGg4ZDFHaXlYYkpVWGU1NW5RNVBNS1hVV0gxR1ZjRHMtZ29PSWd4cVQ0R0xoQmkw?oc=5",
+                "published": "Thu, 06 Aug 2026 20:40:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxbzA2aDlyRVU4NGFvZ3FJeTJobE5STmdwNVA4SEQwZHlLOGNHQVpqeGg4ZDFHaXlYYkpVWGU1NW5RNVBNS1hVV0gxR1ZjRHMtZ29PSWd4cVQ0R0xoQmkw?oc=5\" target=\"_blank\">実質199万5000円で｢軽の牙城｣に挑むEV世界一のBYD､軽EV｢ラッコ｣が日本攻略の切り札になる理由</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東洋経済オンライン</font>",
+                "site_name": "東洋経済オンライン",
+                "primary_category": "Market Analysis",
+                "reason": "軽EV市場の競合激化とBYD戦略の要約。",
                 "score": 70,
                 "is_highly_important": true
-            }
-        ],
-        "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "日本市場の聖域である軽自動車セグメントに、BYDが日本専用設計の軽EV「ラッコ」を投入し、製品開発スピードとコストパフォーマンスで既存メーカーに衝撃を与えた。",
-                "「軽スーパーハイトワゴン」という日本で最も需要が高いカテゴリーにおいて、日本メーカーがEV化に慎重な姿勢を見せる中、BYDは大胆な商品展開で先行者利益を狙う戦略に出た。",
-                "一方で、日本市場特有の中国ブランドに対する信頼性への懸念、販売・サービス網の弱さ、およびサプライヤー管理体制への疑念が販売拡大の大きな障壁となっている。"
-            ],
-            "insight": "「ラッコ」の投入は、日本メーカーが『正論（技術的・コスト的制約）』で停滞している間に、BYDが市場ニーズを『スピード』で奪う構図を浮き彫りにしました。しかし、日本の軽市場は単なるスペック競争ではなく、密なアフターフォローと高い信頼性が求められる保守的な城塞です。BYDが「安さ」の先にある「安心」を日本のママ層に証明できるか、あるいは日本勢が商用バンにとどまらない乗用軽EVで反撃できるかが今後の焦点となります。"
-        }
-    },
-    {
-        "topic_name": "中国EV市場における日系メーカーの苦戦と戦略",
-        "article_ids": [
-            921595,
-            32155,
-            72203,
-            397447
-        ],
-        "articles": [
-            {
-                "id": 921595,
-                "title": "中国EV市場で進む日系淘汰 知能化に適応するトヨタ、遅れ取るホンダ・日産 - 日経ビジネス電子版",
-                "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBBUGpWQnRMSjRfOUhXemFCUUZYR2RlVTVYZ0p2WjFIbWNnUDJid3hHMDBLYU9NeWNVTFdrNTBmaC1Vd1NrZEx4Y18yWDRnd0lVeXdZUy1tMVI4LXQwTnNWamRJX3FwVXRmelAycUhJY1BhMHZOMUw0b29yLVU?oc=5",
-                "published": "Thu, 06 Aug 2026 08:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBBUGpWQnRMSjRfOUhXemFCUUZYR2RlVTVYZ0p2WjFIbWNnUDJid3hHMDBLYU9NeWNVTFdrNTBmaC1Vd1NrZEx4Y18yWDRnd0lVeXdZUy1tMVI4LXQwTnNWamRJX3FwVXRmelAycUhJY1BhMHZOMUw0b29yLVU?oc=5\" target=\"_blank\">中国EV市場で進む日系淘汰 知能化に適応するトヨタ、遅れ取るホンダ・日産</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経ビジネス電子版</font>",
-                "site_name": "日経ビジネス電子版",
-                "primary_category": "Strategy",
-                "reason": "日系メーカーの中国市場における苦境と適応の分析。",
-                "score": 90,
-                "is_highly_important": true
             },
             {
-                "id": 32155,
-                "title": "ホンダ、四半期最高益も「中国半減」「EV補償」に漂う暗雲？──経営陣が明かした攻勢と防戦 - ITmedia",
-                "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xSzJrcjBUWGFJdHZQcEVScXYtdmdNS2ozdEFuVE9LelYtRmFFRTJ1MUU3V2U1eG84aFozVFFIeDFxV01rek9wdW53SnJ2eVQ1emNWdjZsczExTksxVVc3SUswMU9MZWx6ZVBVeTBMTjhydw?oc=5",
-                "published": "Thu, 06 Aug 2026 02:40:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5xSzJrcjBUWGFJdHZQcEVScXYtdmdNS2ozdEFuVE9LelYtRmFFRTJ1MUU3V2U1eG84aFozVFFIeDFxV01rek9wdW53SnJ2eVQ1emNWdjZsczExTksxVVc3SUswMU9MZWx6ZVBVeTBMTjhydw?oc=5\" target=\"_blank\">ホンダ、四半期最高益も「中国半減」「EV補償」に漂う暗雲？──経営陣が明かした攻勢と防戦</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
-                "site_name": "ITmedia",
-                "primary_category": "Strategy",
-                "reason": "ホンダの経営戦略転換。",
-                "score": 85,
-                "is_highly_important": true
-            },
-            {
-                "id": 72203,
-                "title": "中国販売5年で6割減の衝撃 「ホンダらしさ」に固執 現地化不足の重い代償 - business.nikkei.com",
-                "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pd21LZjhZMW05YmF3ZUhlWTBvbTdvNDE1VFQ5LTQ1TXlzS0UxeWhIWHNWbGFCcG9HVWhRTjA1djFaQllhM0otTVdqVzg5MHo4X3dka3pvcjYyVUp6QU8xX0ZFWVM?oc=5",
-                "published": "Thu, 06 Aug 2026 15:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pd21LZjhZMW05YmF3ZUhlWTBvbTdvNDE1VFQ5LTQ1TXlzS0UxeWhIWHNWbGFCcG9HVWhRTjA1djFaQllhM0otTVdqVzg5MHo4X3dka3pvcjYyVUp6QU8xX0ZFWVM?oc=5\" target=\"_blank\">中国販売5年で6割減の衝撃 「ホンダらしさ」に固執 現地化不足の重い代償</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">business.nikkei.com</font>",
-                "site_name": "business.nikkei.com",
-                "primary_category": "Strategy",
-                "reason": "ホンダの中国戦略の分析。",
-                "score": 85,
-                "is_highly_important": true
-            },
-            {
-                "id": 397447,
-                "title": "日産の中国戦略｢地域で変える｣ ホンダは｢1〜2年しのぐ｣ - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45OWFpVU1KRk4yMFJzdGQ0MlpVNnNTREN1WDdWQlpkcWN0TlU2RmhSVnpzdXZZcHhCVFR1Sno3YU00VS1tU1I4cHhjUC1mUHVVVnhISTR0SC0wUUVRbkhEalBYM0MxcFlRWEMzR0dTX3BwSlFnWmhPdThrOVQyUW8?oc=5",
-                "published": "Thu, 06 Aug 2026 20:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE45OWFpVU1KRk4yMFJzdGQ0MlpVNnNTREN1WDdWQlpkcWN0TlU2RmhSVnpzdXZZcHhCVFR1Sno3YU00VS1tU1I4cHhjUC1mUHVVVnhISTR0SC0wUUVRbkhEalBYM0MxcFlRWEMzR0dTX3BwSlFnWmhPdThrOVQyUW8?oc=5\" target=\"_blank\">日産の中国戦略｢地域で変える｣ ホンダは｢1〜2年しのぐ｣</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-                "site_name": "日本経済新聞",
-                "primary_category": "Strategy",
-                "reason": "日産・ホンダの中国戦略。",
-                "score": 85,
+                "id": 355025,
+                "title": "BYDの軽EV「ラッコ」 日本の軽自動車を徹底研究して実現したパッケージングと利便性（朝日新聞デジタルマガジン＆［and］） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12Uk9Od3NWampXUjdoMnlDb3NIeU43TGozVWNrdWFvaF9WcGlieVdXRVBSc3JUcHRtZzdTbjBRbzUwZi1URXh0QlhCeGRlRUJtend0ZVhZeWlZeVh1bnp5NkR1VzA5LTJORGlrU05oUFhFM0RGLUlER09hNXItdEE?oc=5",
+                "published": "Fri, 07 Aug 2026 09:02:01 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE12Uk9Od3NWampXUjdoMnlDb3NIeU43TGozVWNrdWFvaF9WcGlieVdXRVBSc3JUcHRtZzdTbjBRbzUwZi1URXh0QlhCeGRlRUJtend0ZVhZeWlZeVh1bnp5NkR1VzA5LTJORGlrU05oUFhFM0RGLUlER09hNXItdEE?oc=5\" target=\"_blank\">BYDの軽EV「ラッコ」 日本の軽自動車を徹底研究して実現したパッケージングと利便性（朝日新聞デジタルマガジン＆［and］）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Market Analysis",
+                "reason": "日本市場に合わせた製品パッケージングの分析。",
+                "score": 65,
                 "is_highly_important": true
             }
         ],
         "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "中国市場における日系メーカーの事業環境が激変し、販売台数の大幅な落ち込みと工場稼働停止など供給体制の抜本的な縮小を余儀なくされている。",
-                "「知能化」を軸とする中国EVシフトへの適応スピードで明暗が分かれ、トヨタがハイブリッドとの両輪で粘りを見せる一方、ホンダ・日産は苦戦し、巻き返しに向けた抜本的な戦略再構築を迫られている。",
-                "中国市場がもはや販売拡大の場から、次世代技術を磨く過酷な「実験場」へと変貌しており、現地パートナーの知見活用やプラットフォーム導入を通じた現地化の深化が生き残りの生命線となっている。"
+                "補助金適用で実質200万円を切る価格設定と、BYDの垂直統合技術『X-PACK』による高いパッケージング効率が最大の武器",
+                "日産『サクラ』などの先行モデルに対し、SDV（ソフトウェア定義車両）化やスライドドア等の機能で差別化を図る",
+                "グローバルでの実績とは裏腹に、国内でのアフターサポートや中古車残価、ブランドへの信頼性には不透明感が残る"
             ],
-            "insight": "日系メーカーの苦境は「EV化の遅れ」という単純な構造ではなく、中国市場が車両を家電・スマホ化させる「知能化の速さ」と「圧倒的なコスト競争力」という異次元の土俵へ完全移行したことに起因する。今や中国は縮小均衡の拠点ではなく、グローバル競争力の源泉たる技術・ソフトウェアを鍛える最前線であり、この「現地完結型」の適応に成否がかかっている。"
+            "insight": "BYD『RACCO』は、単なる安価なEVではなく、電池から車両制御までを内製化するBYDの強みを軽規格に最適化した、極めて合理的な『黒船』である。しかし、日本の軽市場は単なる価格競争の場ではなく、信頼性と再販価値が支配する閉鎖的エコシステムだ。BYDがこの牙城を崩すには、製品スペックの優位性以上に、部品供給網の品質管理と日本市場でのアフターセールスにおける『品質への疑念』を払拭し、中古車市場でのリセールバリューを証明し続けるという、極めて泥臭い市場浸透戦略が必要となる。"
         }
     },
     {
-        "topic_name": "フォードの低価格EVピックアップ「ファゾム」発表",
+        "topic_name": "フォードの新型EVトラック「ファゾム」発表",
         "article_ids": [
-            16312,
-            484906
+            821803,
+            16312
         ],
         "articles": [
+            {
+                "id": 821803,
+                "title": "フォード、新型ＥＶトラック「ファゾム」を2万8000ドルから発売へ（ロイター） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wcnVGSzhzS1dGbmhNVllVMlZ0RUpFa1NaTWNFTHlnajdSMHVBeTRtOGJmR2tWZDM5eVBPejJ5cjZyTjY4MGIyaFpJOXU0WmxUMzhab1ZGYnVlX0pEaUgtTDNhdzh0TzlHR25VR2dvRTFBZ0tTVXFGdkRxd011eGM?oc=5",
+                "published": "Fri, 07 Aug 2026 04:56:24 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE4wcnVGSzhzS1dGbmhNVllVMlZ0RUpFa1NaTWNFTHlnajdSMHVBeTRtOGJmR2tWZDM5eVBPejJ5cjZyTjY4MGIyaFpJOXU0WmxUMzhab1ZGYnVlX0pEaUgtTDNhdzh0TzlHR25VR2dvRTFBZ0tTVXFGdkRxd011eGM?oc=5\" target=\"_blank\">フォード、新型ＥＶトラック「ファゾム」を2万8000ドルから発売へ（ロイター）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Strategy",
+                "reason": "フォードの低価格戦略は北米EV競争の激化を示す重要なニュース。",
+                "score": 80,
+                "is_highly_important": true
+            },
             {
                 "id": 16312,
                 "title": "フォード、北米で3万ドル切る低価格EVトラック 車名は「ファゾム」 - 日本経済新聞",
@@ -189,19 +149,256 @@
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE15b0NWZzQ0Zmoxd3VENl9jTlU3bkNRRUhfejcxbHV1eWs4OFFHVHVUOUpXSlF4SXQ3bFYwdF9yM0Naa1Qyam1OVlFVVG8tcEZRT2xPUlRETkFIeGVRRmRoQUh5MWRGc2VrRHU3Sw?oc=5\" target=\"_blank\">フォード、北米で3万ドル切る低価格EVトラック 車名は「ファゾム」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
                 "site_name": "日本経済新聞",
                 "primary_category": "Strategy",
-                "reason": "低価格EVトラックの市場投入。",
+                "reason": "低価格EVトラック戦略は物流・商用EVのトレンドとして重要。",
                 "score": 80,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "2万8000ドル台という極めて戦略的な低価格設定で、EVの普及障壁である価格問題を突破しようとしている。",
+                "製造工程の抜本的刷新により、従来のコンベアラインを廃した並列生産方式を導入し、コスト削減と効率化を追求。",
+                "大型モデル「ライトニング」等の高価格路線から撤退し、実用性重視の小型モデルへ転換するフォードのEV戦略の現実路線回帰。"
+            ],
+            "insight": "フォードの「ファゾム」は、テスラや中国勢との消耗戦を避けるための「脱高級EV」の象徴です。製造プロセスの分解によるコスト破壊は、既存メーカーが抱える固定費の呪縛を解くための苦肉の策であり、収益性確保の難易度は極めて高い。これは単なる新車投入ではなく、泥沼化したEV戦略をリセットするフォードの存亡をかけた賭けといえます。"
+        }
+    },
+    {
+        "topic_name": "テンフィールズファクトリーのEV超急速充電器「FLASH MARK.7」発表",
+        "article_ids": [
+            343398,
+            527071
+        ],
+        "articles": [
+            {
+                "id": 343398,
+                "title": "最大出力400kWへ進化、ケーブルも35％軽量化したEV超急速充電器「FLASH MARK.7」が登場 - PR TIMES",
+                "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MekFnTU5JdjJDUTVvU3lHQ0g1UEU0Q2lEMk0xa0g1Q1RXbHEzRFBPNGFRRWdubDVIOHV1ZTMtSEx4VWVQSWdrNjNzZUhkTmFSN0ctTlN4MUNsTDVmeWhqd0Nxa0IyX25aWmc?oc=5",
+                "published": "Fri, 07 Aug 2026 00:30:02 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5MekFnTU5JdjJDUTVvU3lHQ0g1UEU0Q2lEMk0xa0g1Q1RXbHEzRFBPNGFRRWdubDVIOHV1ZTMtSEx4VWVQSWdrNjNzZUhkTmFSN0ctTlN4MUNsTDVmeWhqd0Nxa0IyX25aWmc?oc=5\" target=\"_blank\">最大出力400kWへ進化、ケーブルも35％軽量化したEV超急速充電器「FLASH MARK.7」が登場</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+                "site_name": "PR TIMES",
+                "primary_category": "Infrastructure",
+                "reason": "充電技術のスペック向上はEV普及のボトルネック解消に寄与するため重要。",
+                "score": 70,
                 "is_highly_important": true
             },
             {
-                "id": 484906,
-                "title": "フォード、3万ドル未満のEVピックアップ「Fathom」発表、テスラや中国勢に対抗 - BigGo ファイナンス",
-                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkTkxOLU5PLU8ybWJnQ0Y3M3dKTlpoSVRTUTVtQ3NwR1UtWlVWRDBkNEw2RTkzMXNLRHpxMnRpNEp1dUJOWG1WcVhySzhBcF9LLV9QZEs2bG9OZ2JuNHpGTlZqbmpYNXVDNXJBRm50b0FmUFNm?oc=5",
-                "published": "Thu, 06 Aug 2026 16:05:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBkTkxOLU5PLU8ybWJnQ0Y3M3dKTlpoSVRTUTVtQ3NwR1UtWlVWRDBkNEw2RTkzMXNLRHpxMnRpNEp1dUJOWG1WcVhySzhBcF9LLV9QZEs2bG9OZ2JuNHpGTlZqbmpYNXVDNXJBRm50b0FmUFNm?oc=5\" target=\"_blank\">フォード、3万ドル未満のEVピックアップ「Fathom」発表、テスラや中国勢に対抗</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
-                "site_name": "BigGo ファイナンス",
+                "id": 527071,
+                "title": "【NACS】最大400kWのEV超急速充電器「FLASH MARK.7」〜ケーブルを35%軽量化 - touchlab.jp",
+                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vMm1BNGhZcnFKLVA2VVpzNklqc1RJbEVacXlPamNnV3Z5T0daeVRhUGJoZmhkTVFLMGJLeUpwak16QWpWQzB0ekgxSkhLYkJVTjRlcFA3cFFadw?oc=5",
+                "published": "Fri, 07 Aug 2026 05:49:23 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vMm1BNGhZcnFKLVA2VVpzNklqc1RJbEVacXlPamNnV3Z5T0daeVRhUGJoZmhkTVFLMGJLeUpwak16QWpWQzB0ekgxSkhLYkJVTjRlcFA3cFFadw?oc=5\" target=\"_blank\">【NACS】最大400kWのEV超急速充電器「FLASH MARK.7」〜ケーブルを35%軽量化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">touchlab.jp</font>",
+                "site_name": "touchlab.jp",
+                "primary_category": "Infrastructure",
+                "reason": "充電技術の具体性能向上。",
+                "score": 65,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "最大出力400kWかつ時間制限のない連続高出力充電を実現",
+                "ケーブルの劇的な軽量化・細径化によるユーザーUXの大幅向上",
+                "従来モデルと同等の設置面積を維持し、既設拠点へのリプレイスを容易化"
+            ],
+            "insight": "本機は充電器のボトルネックであった『重量過多なケーブル』に切り込み、UXを改善しつつ400kWを実現した点が秀逸です。出力制限を廃した設計は、大容量バッテリー搭載車の普及期を見据えた先行投資と言えます。設置スペースの制約が厳しい日本市場において、既存の設置枠を活かしたまま次世代スペックへ更新できる戦略は、市場普及を加速させる強力な武器となります。"
+        }
+    },
+    {
+        "topic_name": "ホンダのEV戦略見直しと「プロローグ」販売終了",
+        "article_ids": [
+            25876
+        ],
+        "articles": [
+            {
+                "id": 25876,
+                "title": "ホンダ「プロローグ」販売終了……その裏で始まった“EV一辺倒ではない”新戦略とは？（MotorFan） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81ekt4aDZqOVBhd1ZjS1p1aTc3MERmeTVrWjNRaVYyQVQyMEFmQlh6aGVOWXF6ZTU5eWs2Q0Y2UV9MTy1vb1hfLUhtVnl1cWZ1a2ZzQWFaeE1TMFcta3VtcnhoVnJvY2dUTmJKV1luX2pTWDI4cWhDWkMwRkpQX1k?oc=5",
+                "published": "Fri, 07 Aug 2026 03:15:37 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE81ekt4aDZqOVBhd1ZjS1p1aTc3MERmeTVrWjNRaVYyQVQyMEFmQlh6aGVOWXF6ZTU5eWs2Q0Y2UV9MTy1vb1hfLUhtVnl1cWZ1a2ZzQWFaeE1TMFcta3VtcnhoVnJvY2dUTmJKV1luX2pTWDI4cWhDWkMwRkpQX1k?oc=5\" target=\"_blank\">ホンダ「プロローグ」販売終了……その裏で始まった“EV一辺倒ではない”新戦略とは？（MotorFan）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
                 "primary_category": "Strategy",
-                "reason": "ピックアップEVの市場投入戦略。",
+                "reason": "メーカーのEV戦略転換は重要だが、記事の内容が限定的。",
+                "score": 65,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "北米専用EV「プロローグ」の早期終了は、GMプラットフォーム依存モデルからの脱却と自社開発への移行を象徴する。",
+                "EV一辺倒の幻想を捨て、収益性の高い次世代e:HEVを軸とした「現実的な電動化戦略」へ舵を切った。",
+                "Honda 0 Seriesや独自OSに経営資源を集中させ、EVシフトの第二章として収益と技術の両立を図る。"
+            ],
+            "insight": "プロローグの退場は単なる敗北ではなく、GMの「Ultium」という外注プラットフォームへの依存を最小限に留め、自社専用のEVアーキテクチャへ移行するための『戦略的な時間稼ぎ』の終了を意味します。EV需要の変調を逆手に取り、ハイブリッドで稼ぎつつ、車載OSまで内製化する垂直統合モデルへ回帰する。ホンダ流の『現実路線への復帰』は、EV専業勢が利益面で苦境に陥る中、非常に賢明なリスクヘッジと言えます。"
+        }
+    },
+    {
+        "topic_name": "中国7月輸出23%増",
+        "article_ids": [
+            904518
+        ],
+        "articles": [
+            {
+                "id": 904518,
+                "title": "中国 7月の輸出額23％余増加 半導体やEVがけん引 - NHKニュース",
+                "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHa3BlalNxUXJ1OWk3WVJNNGVydFVoaFZZSmwzcWdIZnc5TjA1YXM1SkRoY2lRZ1dMclZzTm9pLTNVLW03cG41SmNPTE9la1hudlQ1MnNERnl1V001Vk1n?oc=5",
+                "published": "Fri, 07 Aug 2026 08:31:41 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHa3BlalNxUXJ1OWk3WVJNNGVydFVoaFZZSmwzcWdIZnc5TjA1YXM1SkRoY2lRZ1dMclZzTm9pLTNVLW03cG41SmNPTE9la1hudlQ1MnNERnl1V001Vk1n?oc=5\" target=\"_blank\">中国 7月の輸出額23％余増加 半導体やEVがけん引</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NHKニュース</font>",
+                "site_name": "NHKニュース",
+                "primary_category": "Macroeconomics",
+                "reason": "中国輸出動向におけるEVの寄与はマクロ経済指標として重要。",
+                "score": 75,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "中国の7月輸出額が前年比23%増と大幅伸長",
+                "内需停滞を補完すべく、半導体・EVの輸出を強力に推進",
+                "輸出依存による経済構造の偏りが一段と深化"
+            ],
+            "insight": "国内の不動産不況と消費低迷を背景に、中国は過剰生産分を輸出に振り向ける『安値輸出』戦略を強めています。特に半導体とEVへの集中投資は、米欧の関税障壁を正面から突破する狙いがあり、供給網のデカップリングを加速させるリスクを孕んでいます。この輸出主導モデルの持続可能性は、保護主義的な国際貿易環境下で限界点に達しつつあります。"
+        }
+    },
+    {
+        "topic_name": "世界EV市場の変容と競争戦略",
+        "article_ids": [
+            978754,
+            651673,
+            646303,
+            385140,
+            805311,
+            965210
+        ],
+        "articles": [
+            {
+                "id": 978754,
+                "title": "自動車ジャーナリスト・川端由美氏、テラチャージ全社総会で最新EV市場を展望「EV市場は次の転換期へ。28～30年にSDV化が本格化」 - 時事ドットコム",
+                "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3RmQxOVVlZm4ycDJQellIU0lNOWxESkExUXRLbFlrR0pheUxhYVBGMUYxQmNneWpOcWpSay1vSTB6Tml5d3RoemtEZjFxeThVQWpfUlNUb1dfcHFPb0ljMkhfWDlUWHpCa1Y4?oc=5",
+                "published": "Fri, 07 Aug 2026 08:45:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFB3RmQxOVVlZm4ycDJQellIU0lNOWxESkExUXRLbFlrR0pheUxhYVBGMUYxQmNneWpOcWpSay1vSTB6Tml5d3RoemtEZjFxeThVQWpfUlNUb1dfcHFPb0ljMkhfWDlUWHpCa1Y4?oc=5\" target=\"_blank\">自動車ジャーナリスト・川端由美氏、テラチャージ全社総会で最新EV市場を展望「EV市場は次の転換期へ。28～30年にSDV化が本格化」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事ドットコム</font>",
+                "site_name": "時事ドットコム",
+                "primary_category": "Market Analysis",
+                "reason": "専門家によるSDV化への転換見通しは業界動向予測として有益。",
+                "score": 60,
+                "is_highly_important": true
+            },
+            {
+                "id": 651673,
+                "title": "欧州EV、再加速 VW陣営がテスラ追撃 「2万ユーロ台」の消耗戦 - 日経ビジネス電子版",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmpETzY3TmxXUVlDV21HSkJQYmpoSnNyV1Btd3ZYa2pCYlNPMXZlWXZvZUtHYloybTZuVDhOcGE4YmlKOC13ZEc2anc1Q3RMVUxrdGx1T1l5WlZmMHVBTktGV0pIVGRkLUNkdzE5TkFybms0Tm9naEFYNkc3RXdQLWJsNlYtUQ?oc=5",
+                "published": "Fri, 07 Aug 2026 03:42:07 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPdmpETzY3TmxXUVlDV21HSkJQYmpoSnNyV1Btd3ZYa2pCYlNPMXZlWXZvZUtHYloybTZuVDhOcGE4YmlKOC13ZEc2anc1Q3RMVUxrdGx1T1l5WlZmMHVBTktGV0pIVGRkLUNkdzE5TkFybms0Tm9naEFYNkc3RXdQLWJsNlYtUQ?oc=5\" target=\"_blank\">欧州EV、再加速 VW陣営がテスラ追撃 「2万ユーロ台」の消耗戦</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経ビジネス電子版</font>",
+                "site_name": "日経ビジネス電子版",
+                "primary_category": "Strategy",
+                "reason": "欧州EV市場の価格競争激化を示す重要な産業分析。",
+                "score": 90,
+                "is_highly_important": true
+            },
+            {
+                "id": 646303,
+                "title": "世界のEV市場に変容の兆し 世界の脱炭素化動向（1） - jetro.go.jp",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUG5FQUpCQ3V1VjJjUWdTdFFwUFZFc2tpTHRyUjhIc2E2SHA2TXF1ZjBVUUlCaW93YUU3N25qUXp0QTFaTjBBRWlYS0dkOWZsNVVJNVhNMV91UHphQ3JtVzJhNmxQeVFuaVhLZHozR1pkbnJ2ano0VDBXUEF2X0xLcV9IRHBOZw?oc=5",
+                "published": "Thu, 06 Aug 2026 16:23:40 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOUG5FQUpCQ3V1VjJjUWdTdFFwUFZFc2tpTHRyUjhIc2E2SHA2TXF1ZjBVUUlCaW93YUU3N25qUXp0QTFaTjBBRWlYS0dkOWZsNVVJNVhNMV91UHphQ3JtVzJhNmxQeVFuaVhLZHozR1pkbnJ2ano0VDBXUEF2X0xLcV9IRHBOZw?oc=5\" target=\"_blank\">世界のEV市場に変容の兆し 世界の脱炭素化動向（1）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jetro.go.jp</font>",
+                "site_name": "jetro.go.jp",
+                "primary_category": "Market Analysis",
+                "reason": "JETROによる脱炭素動向の定点観測。重要。",
+                "score": 70,
+                "is_highly_important": true
+            },
+            {
+                "id": 385140,
+                "title": "「EV失速」の幻想 安さが世界を塗り替える - 日経ビジネス電子版",
+                "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44SjA4bkFQY015Vm9QWkt6VTIzcmNQaGNWUjExYUNkbkhsa2JGZjBsUXFncW9oWE9vcjV1cHUtRWc4MTJEalBmZXRaSE1tWFduTGVrb09jZjlZME1oMmcwXzAtMkw?oc=5",
+                "published": "Thu, 06 Aug 2026 15:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE44SjA4bkFQY015Vm9QWkt6VTIzcmNQaGNWUjExYUNkbkhsa2JGZjBsUXFncW9oWE9vcjV1cHUtRWc4MTJEalBmZXRaSE1tWFduTGVrb09jZjlZME1oMmcwXzAtMkw?oc=5\" target=\"_blank\">「EV失速」の幻想 安さが世界を塗り替える</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経ビジネス電子版</font>",
+                "site_name": "日経ビジネス電子版",
+                "primary_category": "Market Analysis",
+                "reason": "EV失速論に対する反論と価格支配力の議論。",
+                "score": 75,
+                "is_highly_important": true
+            },
+            {
+                "id": 805311,
+                "title": "北米は踊り場、中国は2周遅れ 「断腸の開発中止」 和製EVの生存戦略 - 日経ビジネス電子版",
+                "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqNzVvN3h2QURvdTdyTEFGeUJRNGlIVDBrdDc2aXc2QlVtY0F4VWhaNThTeUxSMkJ6SzJ5d2s5R0JuVEtyRlA4SzZibmZWa3lleEVRTFZ5a1NQZVFIVE9XeWNDbEM?oc=5",
+                "published": "Thu, 06 Aug 2026 15:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqNzVvN3h2QURvdTdyTEFGeUJRNGlIVDBrdDc2aXc2QlVtY0F4VWhaNThTeUxSMkJ6SzJ5d2s5R0JuVEtyRlA4SzZibmZWa3lleEVRTFZ5a1NQZVFIVE9XeWNDbEM?oc=5\" target=\"_blank\">北米は踊り場、中国は2周遅れ 「断腸の開発中止」 和製EVの生存戦略</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経ビジネス電子版</font>",
+                "site_name": "日経ビジネス電子版",
+                "primary_category": "Strategy",
+                "reason": "国内メーカーのEV開発中止背景と生存戦略の分析。",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 965210,
+                "title": "EV、世界でHVより安く 昨年 日本勢、新興国で逆風 - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92T09rUHZfRmFkSEVrYVFpNVB5aHlWdnJIQ2lzS280R0NKSTVCdXRwaXBQNzVLNjZBYjRxeUUxeGU1TE55N3d1ZVZqZHNJMUVlQTBNSkI5dDVoOGsxS1pvOHlGanNtVmpvX1F4eg?oc=5",
+                "published": "Fri, 07 Aug 2026 17:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE92T09rUHZfRmFkSEVrYVFpNVB5aHlWdnJIQ2lzS280R0NKSTVCdXRwaXBQNzVLNjZBYjRxeUUxeGU1TE55N3d1ZVZqZHNJMUVlQTBNSkI5dDVoOGsxS1pvOHlGanNtVmpvX1F4eg?oc=5\" target=\"_blank\">EV、世界でHVより安く 昨年 日本勢、新興国で逆風</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "site_name": "日本経済新聞",
+                "primary_category": "Market Analysis",
+                "reason": "新興国での価格競争力逆転と日本メーカーへの示唆。",
+                "score": 85,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "EVのグローバル平均価格がHVを下回り、価格競争力の逆転が鮮明化",
+                "中国製EVによる大量生産・低価格攻勢が新興国市場を席巻",
+                "日本勢の収益柱であるHVモデルの優位性が価格面で崩れ始めている"
+            ],
+            "insight": "EV普及の最大の壁であった『価格』がLFP電池の普及と量産効果により突破されました。日本勢のHV戦略は『現実的な移行期』として機能してきましたが、今や新興国でもHVが割高と映るパラダイムシフトが起きています。単なる電動化の競争ではなく、中国陣営が構築したサプライチェーン全体のコスト優位性に対し、日本メーカーはHVという防波堤を超えた新たな『脱・高コスト体質』という難題に直面しています。"
+        }
+    },
+    {
+        "topic_name": "各国のEV普及と補助金制度",
+        "article_ids": [
+            466282,
+            205775,
+            132638
+        ],
+        "articles": [
+            {
+                "id": 466282,
+                "title": "新電元の三相式EV充放電器がCHAdeMO認証取得、令和7年度補正V2H補助金の対象へ。停電時の電源確保やエネマネ用途に。 - PR TIMES",
+                "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15ZkZEWGRKaEZtdW9tc185WWo2amJPNkZtckY4cHRLSE0zSmh2dW5HajlweWN6Z2R3WXZZN3Z1UEtMZ1JQaWRwNTJjSVlZTjNORFVTS21jZ1FGZGZ6MlRGaFJid1Y0eEhvQ0E?oc=5",
+                "published": "Fri, 07 Aug 2026 04:35:10 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE15ZkZEWGRKaEZtdW9tc185WWo2amJPNkZtckY4cHRLSE0zSmh2dW5HajlweWN6Z2R3WXZZN3Z1UEtMZ1JQaWRwNTJjSVlZTjNORFVTS21jZ1FGZGZ6MlRGaFJid1Y0eEhvQ0E?oc=5\" target=\"_blank\">新電元の三相式EV充放電器がCHAdeMO認証取得、令和7年度補正V2H補助金の対象へ。停電時の電源確保やエネマネ用途に。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+                "site_name": "PR TIMES",
+                "primary_category": "Infrastructure",
+                "reason": "V2H補助金対象の技術認証取得は普及に向けた具体的進展。",
+                "score": 75,
+                "is_highly_important": true
+            },
+            {
+                "id": 205775,
+                "title": "EV普及で地方財政が悲鳴、韓国政府が補助金の地方負担30%ルール見直しへ - BigGo ファイナンス",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCYjRmazNLS2R5MzluX0toUzFaVkhOYWtiWnppaHIwNnVYbm9OYVQ5Sk9TSzA5OG1CWUhlbXBXSnBEYXd0STdWc28zS0FQTWZXVS1wbEsyT1MzMmMtcFFJSDFLM1M0YUFFZnUzSHdPMjd1REU4?oc=5",
+                "published": "Fri, 07 Aug 2026 01:56:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBCYjRmazNLS2R5MzluX0toUzFaVkhOYWtiWnppaHIwNnVYbm9OYVQ5Sk9TSzA5OG1CWUhlbXBXSnBEYXd0STdWc28zS0FQTWZXVS1wbEsyT1MzMmMtcFFJSDFLM1M0YUFFZnUzSHdPMjd1REU4?oc=5\" target=\"_blank\">EV普及で地方財政が悲鳴、韓国政府が補助金の地方負担30%ルール見直しへ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+                "site_name": "BigGo ファイナンス",
+                "primary_category": "Policy",
+                "reason": "韓国の補助金制度変更は地方の政策負担に関わる重要な行政の動き。",
+                "score": 75,
+                "is_highly_important": true
+            },
+            {
+                "id": 132638,
+                "title": "EV販売に課徴金案 マレーシア政府、充電網整備の財源確保へ - mtown.my",
+                "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vaGVNWnFrZlh0bUpXRFJiVGh3eDBiRHRWTUlyZDhZaldkVnhoOWZDeDBYN255X0JNNUdzUUw0TlBOV3hvRlJ0NFludkRWdzNsZExPV2w0akRSdG91?oc=5",
+                "published": "Fri, 07 Aug 2026 01:47:16 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vaGVNWnFrZlh0bUpXRFJiVGh3eDBiRHRWTUlyZDhZaldkVnhoOWZDeDBYN255X0JNNUdzUUw0TlBOV3hvRlJ0NFludkRWdzNsZExPV2w0akRSdG91?oc=5\" target=\"_blank\">EV販売に課徴金案 マレーシア政府、充電網整備の財源確保へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mtown.my</font>",
+                "site_name": "mtown.my",
+                "primary_category": "Policy",
+                "reason": "インフラ整備のための課徴金制度は、政策的介入として重要。",
                 "score": 75,
                 "is_highly_important": true
             }
@@ -209,41 +406,99 @@
         "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "3万ドルを切る価格設定によるEVの民主化と大衆市場への本格参入",
-                "テスラ出身の専門チームによる低コスト専用プラットフォームの刷新",
-                "ハードウェア性能とBlueCruise等の先進機能の両立によるコスト競争力"
+                "日本：V2H補助金が昨年度比2倍の最大130万円に拡充、CHAdeMO認証取得製品の導入を促進し災害時のレジリエンス強化を図る。",
+                "韓国：EV普及急増による地方自治体の財政圧迫が深刻化し、補助金の国費・地方費マッチング比率（30%ルール）の抜本的見直しに着手。",
+                "マレーシア：EV購入優遇税制による税収減を背景に、充電インフラ整備の財源としてEV販売への課徴金導入を検討。"
             ],
-            "insight": "フォードの「ファゾム」は、単なる安価なEVではなく、モデルT以来の「生産プロセスそのものの転換」を意味する。テスラ流の極小チームによる徹底した設計最適化と、ソフトウェア定義による付加価値の分離は、既存OEMが陥る「過剰品質・高コスト」の罠を回避する巧妙な解だ。中国勢との価格競争を制し、北米市場での利益率を確保できるかが、真の分水嶺となる。"
+            "insight": "EV普及政策は「販売支援（購入補助）」から「インフラ整備・持続可能性」へとパラダイムシフトしている。補助金財源の枯渇と地方財政の限界が露呈する中、ユーザー負担と産業育成のバランスをどう取るかが今後の焦点。単なる市場拡大ではなく、V2Hのような付加価値や公共インフラの収益化モデルを組み込んだ、出口を見据えた制度設計が各国で急務となっている。"
         }
     },
     {
-        "topic_name": "7月の輸入車販売におけるEV比率の上昇",
+        "topic_name": "愛媛日産とMobiSaviがEV電池拠点構築",
         "article_ids": [
-            788095,
-            456082
+            615588
         ],
         "articles": [
             {
-                "id": 788095,
-                "title": "輸入車販売10%減 7月、EVはテスラ伸び28%増に - nikkei.com",
-                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SbzFySXBYdjQxZGVDOU94U21ISjlnT3VKRGJ0amRMejZnVm5WTVlLY2ZkR19sZlBXLWxsWTkyVklqVkk2Q3FnM0NRVFJ6VXY2cXN3cks4cDBWamtrN1B4ZzVvVGdNYzV5YVNGdg?oc=5",
-                "published": "Thu, 06 Aug 2026 07:58:39 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9SbzFySXBYdjQxZGVDOU94U21ISjlnT3VKRGJ0amRMejZnVm5WTVlLY2ZkR19sZlBXLWxsWTkyVklqVkk2Q3FnM0NRVFJ6VXY2cXN3cks4cDBWamtrN1B4ZzVvVGdNYzV5YVNGdg?oc=5\" target=\"_blank\">輸入車販売10%減 7月、EVはテスラ伸び28%増に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nikkei.com</font>",
-                "site_name": "nikkei.com",
-                "primary_category": "Market",
-                "reason": "統計データに基づく市場トレンド把握。",
-                "score": 75,
+                "id": 615588,
+                "title": "MobiSaviと愛媛日産、国内初（※1）の自動車ディーラーによるEVバッテリー集荷・再利用ハブを構築 - 時事ドットコム",
+                "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NRzVZeFRGckRIUjNuV0VqQzlhekd6eldsUE42YjYxUUo0T2REOGlvSHIwUXJlbmNEeFBkUjZqaU1mVjk0TEtnUjJnOUs5ZzlWUThZLV91Q0VvMmU1RFlGemNLMl8zcWxIUDdz?oc=5",
+                "published": "Fri, 07 Aug 2026 06:16:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9NRzVZeFRGckRIUjNuV0VqQzlhekd6eldsUE42YjYxUUo0T2REOGlvSHIwUXJlbmNEeFBkUjZqaU1mVjk0TEtnUjJnOUs5ZzlWUThZLV91Q0VvMmU1RFlGemNLMl8zcWxIUDdz?oc=5\" target=\"_blank\">MobiSaviと愛媛日産、国内初（※1）の自動車ディーラーによるEVバッテリー集荷・再利用ハブを構築</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事ドットコム</font>",
+                "site_name": "時事ドットコム",
+                "primary_category": "Strategy/Supply Chain",
+                "reason": "ディーラーによるバッテリーリサイクル体制構築。循環型モデルとして重要。",
+                "score": 80,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "自動車ディーラーをハブとした国内初のEVバッテリー地域内循環モデルの構築",
+                "性能評価・診断から再利用供給までをディーラー網で完結させる物流・品質スキームの実証",
+                "蓄電池製品開発に向けた地域企業への技術移転・人材育成を並行するエコシステム構築"
+            ],
+            "insight": "EVリサイクルにおける最大のボトルネックである「輸送コスト」と「品質保証」を、既存のディーラー網を活用することで解決しようとする意欲的な試み。特にメーカーの垣根を超えた評価スキームと技術認証が鍵となる。成功すれば、ディーラーは『販売拠点』から『資源循環のハブ』へと業態転換し、サーキュラーエコノミーの主役に躍り出る可能性がある。"
+        }
+    },
+    {
+        "topic_name": "スズキのEV戦略と新型コンパクトEV",
+        "article_ids": [
+            611199
+        ],
+        "articles": [
+            {
+                "id": 611199,
+                "title": "スズキが目指す「世界共通EV戦略」は軽EV？ 新型コンパクトEVの欧州公道テストをスクープ【写真・9枚目】 - motor-fan.jp",
+                "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GWHhTbWE2WFRGd0F0UW5TY25RUEhrY1llOXEwS18zTEpzVFpTNlVCcnR2R3BxOElzbDV3VXF3SDlmMG56ZTFvUnZ6aGROaldnUkdvYXFwRFd0VU1Xb0Rr?oc=5",
+                "published": "Fri, 07 Aug 2026 00:41:07 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GWHhTbWE2WFRGd0F0UW5TY25RUEhrY1llOXEwS18zTEpzVFpTNlVCcnR2R3BxOElzbDV3VXF3SDlmMG56ZTFvUnZ6aGROaldnUkdvYXFwRFd0VU1Xb0Rr?oc=5\" target=\"_blank\">スズキが目指す「世界共通EV戦略」は軽EV？ 新型コンパクトEVの欧州公道テストをスクープ【写真・9枚目】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">motor-fan.jp</font>",
+                "site_name": "motor-fan.jp",
+                "primary_category": "Strategy",
+                "reason": "スズキの世界戦略EVに向けた開発動向。",
+                "score": 65,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "欧州での公道テスト開始によりスズキのグローバルEV戦略が具体化",
+                "軽自動車のノウハウを活かした低コスト・高効率パッケージの追求",
+                "欧州市場への適応と日本市場の軽EV技術の融合が鍵"
+            ],
+            "insight": "スズキにとっての勝機は、巨額投資が必要な大型車ではなく、得意とするAセグメントの合理性をEVで再定義できるかにあります。欧州の厳しい環境規制下で、軽自動車で培った『軽量化と高効率』というDNAをどこまで現地化できるか。世界共通戦略は、日本市場のガラパゴス化を回避し、インドと欧州を繋ぐグローバル・スモールEVの完成形を目指す挑戦です。"
+        }
+    },
+    {
+        "topic_name": "BMW次世代EV量産と技術詳細",
+        "article_ids": [
+            798389,
+            150668
+        ],
+        "articles": [
+            {
+                "id": 798389,
+                "title": "BMWの新EVノイエ・クラッセ、航続900km「国内最長」 800Vで急速充電 - 日経クロステック",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6YUEtVFNSVks4UHhqczQ4TTRqSl83d1Yzc1JzbGhGLXhjbjR1RXp5c21nYVhGWng1VTBZRXgzQ214dTYzLUtPbnRVR29aQVRZeUZvcjBTZUFBUGYxQktxOVFBOEFMVHplTmgyeA?oc=5",
+                "published": "Thu, 06 Aug 2026 20:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFB6YUEtVFNSVks4UHhqczQ4TTRqSl83d1Yzc1JzbGhGLXhjbjR1RXp5c21nYVhGWng1VTBZRXgzQ214dTYzLUtPbnRVR29aQVRZeUZvcjBTZUFBUGYxQktxOVFBOEFMVHplTmgyeA?oc=5\" target=\"_blank\">BMWの新EVノイエ・クラッセ、航続900km「国内最長」 800Vで急速充電</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経クロステック</font>",
+                "site_name": "日経クロステック",
+                "primary_category": "Product",
+                "reason": "次世代EVプラットフォーム技術の進展。",
+                "score": 70,
                 "is_highly_important": true
             },
             {
-                "id": 456082,
-                "title": "7月輸入車販売10%減 EV比率2割迫る､テスラがけん引 - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01Vm1OM3FEUkpyRkpvTGMxU2JPdk84VDVvN1Q4VExXOWVqOV9Xd25HU0hPLUJsOVBDdlBGaU9ndTNfVUJ2QW5LTzV3Rks3UWZHakNpeFh4RFp5RTc3eXliSnJxNG1TZ2NBQ2ZlMlNSMXBkZWxMSW1QUTR0dzRVbzg?oc=5",
-                "published": "Thu, 06 Aug 2026 20:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE01Vm1OM3FEUkpyRkpvTGMxU2JPdk84VDVvN1Q4VExXOWVqOV9Xd25HU0hPLUJsOVBDdlBGaU9ndTNfVUJ2QW5LTzV3Rks3UWZHakNpeFh4RFp5RTc3eXliSnJxNG1TZ2NBQ2ZlMlNSMXBkZWxMSW1QUTR0dzRVbzg?oc=5\" target=\"_blank\">7月輸入車販売10%減 EV比率2割迫る､テスラがけん引</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-                "site_name": "日本経済新聞",
-                "primary_category": "Market",
-                "reason": "輸入車販売の市場動向。",
+                "id": 150668,
+                "title": "BMW、新型EV「i3」の量産をミュンヘン工場で開始——製造コストは内燃機関車より10%削減 - 財経新聞",
+                "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBQW5VQTRlZDdjSVF3aEVQMTdSR3JQRlNnYTJwRDZKRFkzUXhGd2NZZjFsdVJkdUgyMWpGNDBFcmpUNHdtTjhzamdYV2FTbHFfekRIdzN1VTF4TkFRbm1RMDBqeVVLY3A30gFoQVVfeXFMUEFBblVBNGVkN2NJUXdoRVAxN1JHclBGU2dhMnBENkpEWTNReEZ3Y1lmMWx1UmR1SDIxakY0MEVyalQ0d21OOHNqZ1hXYVNscV96REh3M3VVMXhOQVFubVEwMGp5VUtjcDc?oc=5",
+                "published": "Fri, 07 Aug 2026 09:54:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBQW5VQTRlZDdjSVF3aEVQMTdSR3JQRlNnYTJwRDZKRFkzUXhGd2NZZjFsdVJkdUgyMWpGNDBFcmpUNHdtTjhzamdYV2FTbHFfekRIdzN1VTF4TkFRbm1RMDBqeVVLY3A30gFoQVVfeXFMUEFBblVBNGVkN2NJUXdoRVAxN1JHclBGU2dhMnBENkpEWTNReEZ3Y1lmMWx1UmR1SDIxakY0MEVyalQ0d21OOHNqZ1hXYVNscV96REh3M3VVMXhOQVFubVEwMGp5VUtjcDc?oc=5\" target=\"_blank\">BMW、新型EV「i3」の量産をミュンヘン工場で開始——製造コストは内燃機関車より10%削減</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">財経新聞</font>",
+                "site_name": "財経新聞",
+                "primary_category": "Production",
+                "reason": "製造コスト削減に関する量産体制の進展。",
                 "score": 70,
                 "is_highly_important": true
             }
@@ -251,11 +506,344 @@
         "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "輸入車市場全体は10%減と低迷する中、EV販売は28%増と対照的な成長を記録",
-                "輸入車におけるEV比率は18%まで上昇し、テスラおよびBYDの存在感が市場の牽引役として定着",
-                "高額車セグメントの販売減とEVの伸長は、市場の「量から質（電動化適応）」への構造転換を示唆"
+                "ノイエ・クラッセによるプラットフォーム最適化と自動化で、製造コストを内燃機関車比10%削減。",
+                "Gen6アーキテクチャ採用により、WLTC/WLTP基準で900km超の航続距離と400kWの急速充電性能を実現。",
+                "歴史あるミュンヘン工場の全面電動化を通じ、EV専業生産への転換と効率的な地域供給網を確立。"
             ],
-            "insight": "市場全体の縮小は円安による価格転嫁の限界を映すが、EV比率2割到達は単なるトレンドではなく欧州勢の電動化遅れを突くニッチ戦略の成功だ。テスラ等のEV専業は、ガソリン車を所有する富裕層の買い替え需要を効率的に吸収しており、従来のディーラー主導の輸入車ビジネスモデルは、デジタル直販主導のEV勢にシェアを侵食され続けるだろう。"
+            "insight": "BMWの真骨頂は単なる性能競争ではなく、100年以上の歴史を持つ既存拠点での「EV専用生産への抜本的転換」にある。モジュールを排したセル・トゥ・パック技術と98%の自動化は、ドイツ国内での生産コスト維持という難題への回答であり、既存のICE車と同等以上の利益率を確保しつつ、電動化への過渡期を「量産効率のパラダイムシフト」で突破する戦略的な一手だ。"
+        }
+    },
+    {
+        "topic_name": "EV覇権争いと中日欧の戦略",
+        "article_ids": [
+            427234,
+            224071,
+            919968
+        ],
+        "articles": [
+            {
+                "id": 427234,
+                "title": "だから習近平は心底焦っている…中国のITもEVも壊滅させる力を持つ日本が世界シェア8割を握る\"素材\"の名前 - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LcUEyOVpoSjlEZUcyOW1fRWhGWEl2dkFBOG9FS3hIZnVLMExHMHoxOUEyZDVaNnN0YVRUbnN6VEl4OTNSZl9GNmxKcGRURDB5RmotaGRRVk8xNllobzNyNGRJeE5jUEtsbGNfbEg4dFhPN2xmblB4aTRPS0ZYNHM?oc=5",
+                "published": "Fri, 07 Aug 2026 01:15:42 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5LcUEyOVpoSjlEZUcyOW1fRWhGWEl2dkFBOG9FS3hIZnVLMExHMHoxOUEyZDVaNnN0YVRUbnN6VEl4OTNSZl9GNmxKcGRURDB5RmotaGRRVk8xNllobzNyNGRJeE5jUEtsbGNfbEg4dFhPN2xmblB4aTRPS0ZYNHM?oc=5\" target=\"_blank\">だから習近平は心底焦っている…中国のITもEVも壊滅させる力を持つ日本が世界シェア8割を握る\"素材\"の名前</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Supply Chain",
+                "reason": "EV素材における日本のサプライチェーン優位性を論じる記事。重要。",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 224071,
+                "title": "欧州が中国製EVバッテリーへの依存を続ければ105億ユーロの利益を失う可能性も―仏メディア - topics.smt.docomo.ne.jp",
+                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS0FuM0dXVFByWW9GSE92NUw4cWY0QjBFNktteWNFNmlIVTdsdXVzTGNnYUxzLTNidVhrcTVTSWl5RTZId3JBRVFhZE9hUF9KbWswSTJCbVlzMnMwcUVDc2VGS0ZVWTBlLWZqNkQwclRpZXdnN1FkNnRrdURCUy1FNG5odUNVM0NsbVU00gGLAUFVX3lxTE9LQW4zR1dUUHJZb0ZIT3Y1TDhxZjRCMEU2S215Y0U2aUhVN2x1dXNMY2dhTHMtM2J1WGtxNVNJaXlFNkh3ckFFUWFkT2FQX0ptazBJMkJtWXMyczBxRUNzZUZLRlVZMGUtZmo2RDByVGlld2c3UWQ2dGt1REJTLUU0bmh1Q1UzQ2xtVTQ?oc=5",
+                "published": "Thu, 06 Aug 2026 21:30:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS0FuM0dXVFByWW9GSE92NUw4cWY0QjBFNktteWNFNmlIVTdsdXVzTGNnYUxzLTNidVhrcTVTSWl5RTZId3JBRVFhZE9hUF9KbWswSTJCbVlzMnMwcUVDc2VGS0ZVWTBlLWZqNkQwclRpZXdnN1FkNnRrdURCUy1FNG5odUNVM0NsbVU00gGLAUFVX3lxTE9LQW4zR1dUUHJZb0ZIT3Y1TDhxZjRCMEU2S215Y0U2aUhVN2x1dXNMY2dhTHMtM2J1WGtxNVNJaXlFNkh3ckFFUWFkT2FQX0ptazBJMkJtWXMyczBxRUNzZUZLRlVZMGUtZmo2RDByVGlld2c3UWQ2dGt1REJTLUU0bmh1Q1UzQ2xtVTQ?oc=5\" target=\"_blank\">欧州が中国製EVバッテリーへの依存を続ければ105億ユーロの利益を失う可能性も―仏メディア</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">topics.smt.docomo.ne.jp</font>",
+                "site_name": "topics.smt.docomo.ne.jp",
+                "primary_category": "Macroeconomics",
+                "reason": "欧州の対中バッテリー依存による経済リスク分析。",
+                "score": 80,
+                "is_highly_important": true
+            },
+            {
+                "id": 919968,
+                "title": "【写真】EVに次ぐ虎の子・ヒト型ロボットまで目を付けられ…欧州からも不満噴出でも輸出をゴリ押しする中国の危うさ（藤 和彦） - 現代ビジネス",
+                "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GdGNwYlFxQjRXelUzSDNjVXBPdzdzSDVZUU9DMjhxb0dEa2FCWXR1c0szM2x6VWlSM2htMDcxMmw3YS15Z2JTWHQ2Yk8wcnVJb29IM1R3?oc=5",
+                "published": "Fri, 07 Aug 2026 21:30:53 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GdGNwYlFxQjRXelUzSDNjVXBPdzdzSDVZUU9DMjhxb0dEa2FCWXR1c0szM2x6VWlSM2htMDcxMmw3YS15Z2JTWHQ2Yk8wcnVJb29IM1R3?oc=5\" target=\"_blank\">【写真】EVに次ぐ虎の子・ヒト型ロボットまで目を付けられ…欧州からも不満噴出でも輸出をゴリ押しする中国の危うさ（藤 和彦）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">現代ビジネス</font>",
+                "site_name": "現代ビジネス",
+                "primary_category": "Market Analysis",
+                "reason": "中国の輸出攻勢に対する欧州の警戒感の論評。",
+                "score": 70,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "日本が独占する先端素材が、世界のハイテク・EV産業の物理的な供給制約（チョークポイント）となっている",
+                "中国の覇権戦略は、日本や米欧の素材供給網への依存と自国産業維持というジレンマに直面している",
+                "欧州はEVバッテリー供給網の自立を急がない限り、アジアへの経済的従属により多額の利益喪失のリスクを抱える"
+            ],
+            "insight": "EV・AI時代の地政学は、完成車や最終製品の輸出入ではなく、素材供給の支配権で決まる。中国の「産業統合」戦略に対し、日米欧は素材の供給権を盾にしたデリスク（リスク低減）で対抗しており、もはや中国側に供給網を寸断する選択肢はない。今後、勝敗は研究室の技術ではなく、歩留まり向上と量産化スピードという泥臭い産業実装能力に収斂する。"
+        }
+    },
+    {
+        "topic_name": "アジア・新興国のEV市場拡大",
+        "article_ids": [
+            87582,
+            837425,
+            235838
+        ],
+        "articles": [
+            {
+                "id": 87582,
+                "title": "経済性でアジア揺るがすEVシフト ベトナム発「国民EV」 ASEANで価格革命 - 日経ビジネス電子版",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQzhHSk83NWhZLTl5QTNWbFIzZTdrNlltU3FSZ1ZUTXFhaWkyMG1TOTltZzhzRklfTFJNalhIV1hxOUdfd24wRjdfSEFzRENZTXJHNVRiZFFhN2dCOExhd2RpdDBCOWNrRW02UVJpWlhOLWJaMlZ1b3pnd2hBOHFGNFA5TFk5QQ?oc=5",
+                "published": "Fri, 07 Aug 2026 01:10:23 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPQzhHSk83NWhZLTl5QTNWbFIzZTdrNlltU3FSZ1ZUTXFhaWkyMG1TOTltZzhzRklfTFJNalhIV1hxOUdfd24wRjdfSEFzRENZTXJHNVRiZFFhN2dCOExhd2RpdDBCOWNrRW02UVJpWlhOLWJaMlZ1b3pnd2hBOHFGNFA5TFk5QQ?oc=5\" target=\"_blank\">経済性でアジア揺るがすEVシフト ベトナム発「国民EV」 ASEANで価格革命</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経ビジネス電子版</font>",
+                "site_name": "日経ビジネス電子版",
+                "primary_category": "Market Analysis",
+                "reason": "ASEAN市場における価格革命とベトナムEVの動向分析。",
+                "score": 80,
+                "is_highly_important": true
+            },
+            {
+                "id": 837425,
+                "title": "中国新興EV「理想汽車」、初の海外現地生産はカザフスタン 現地自動車メーカーと提携 大型SUVなど製造委託 - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBudHJFay1aaG9rT3FubkkwZDV4VzdpbEZTcER1MHU4WEVsRnZIcW9jQVFtQll4ZUR5Z3FtZ29pcndQcUhuWEdxSmNBMnhXaXU1RUtXRHVuUmtSc3RTSVh4OE93b0djdW1YVFIwZENaYlh1WUFuMml6cE5HTzE3RXc?oc=5",
+                "published": "Thu, 06 Aug 2026 21:00:44 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBudHJFay1aaG9rT3FubkkwZDV4VzdpbEZTcER1MHU4WEVsRnZIcW9jQVFtQll4ZUR5Z3FtZ29pcndQcUhuWEdxSmNBMnhXaXU1RUtXRHVuUmtSc3RTSVh4OE93b0djdW1YVFIwZENaYlh1WUFuMml6cE5HTzE3RXc?oc=5\" target=\"_blank\">中国新興EV「理想汽車」、初の海外現地生産はカザフスタン 現地自動車メーカーと提携 大型SUVなど製造委託</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Strategy",
+                "reason": "中国EV企業の現地生産シフトは海外展開戦略として重要。",
+                "score": 75,
+                "is_highly_important": true
+            },
+            {
+                "id": 235838,
+                "title": "（けいざい＋）新たな主戦場、インド：下 ＥＶと牛ふん、生き残りへカギ - 朝日新聞",
+                "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IRzE0QlQ5aGtjU0VlYXhIaWFXYVFxWEFjakxxN1c3Uk1DOVVpaGI4Z0F2NTJlWVF1Q0RYUWlFUXFxV19mczAwX0VfalVENnNTRTBkYi1VR2lrRjVQ?oc=5",
+                "published": "Fri, 07 Aug 2026 20:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IRzE0QlQ5aGtjU0VlYXhIaWFXYVFxWEFjakxxN1c3Uk1DOVVpaGI4Z0F2NTJlWVF1Q0RYUWlFUXFxV19mczAwX0VfalVENnNTRTBkYi1VR2lrRjVQ?oc=5\" target=\"_blank\">（けいざい＋）新たな主戦場、インド：下 ＥＶと牛ふん、生き残りへカギ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
+                "site_name": "朝日新聞",
+                "primary_category": "Market Analysis",
+                "reason": "インド市場におけるインフラ・資源の動向。",
+                "score": 60,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "ASEAN・中央アジアで加速する経済性重視のEVシフトと「国民車」戦略",
+                "中国勢の現地生産化によるサプライチェーン構築と輸出規制回避の動き",
+                "インドにおけるカーボンニュートラルと農業経済を直結させる独自のエコシステム構築"
+            ],
+            "insight": "新興国市場はもはや単なる「安価な輸出先」から、現地生産と資源循環を統合した「地域特化型EVエコシステム」の実験場へと変貌した。中国メーカーは政策障壁を回避しつつ、現地産業（農業等）との共生を図ることで定着を図る一方、日系メーカーも循環経済の活用で対抗する。勝負の鍵は技術スペック以上に、現地の経済構造に深く根ざした社会実装の巧拙にある。"
+        }
+    },
+    {
+        "topic_name": "EV市場の戦略転換と生産体制",
+        "article_ids": [
+            824459,
+            696914,
+            556756,
+            54830,
+            803791
+        ],
+        "articles": [
+            {
+                "id": 824459,
+                "title": "ソーラーEV「Sion」の独Sono Motors、破産手続き開始…Sono Groupのソーラー事業撤退が要因 - レスポンス（Response.jp）",
+                "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04d3lVY1lyY3VPUW5ZWWszbzZJQnAwRlpzY2FwVlF6RDlvS3lpSlNqZUlNaHZYUzRKN0xiN19rdWY4TUlhbS1ZcWE2Yy1kUVZsRFBmemNRYWZwa2ZrbFk4?oc=5",
+                "published": "Fri, 07 Aug 2026 08:45:02 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE04d3lVY1lyY3VPUW5ZWWszbzZJQnAwRlpzY2FwVlF6RDlvS3lpSlNqZUlNaHZYUzRKN0xiN19rdWY4TUlhbS1ZcWE2Yy1kUVZsRFBmemNRYWZwa2ZrbFk4?oc=5\" target=\"_blank\">ソーラーEV「Sion」の独Sono Motors、破産手続き開始…Sono Groupのソーラー事業撤退が要因</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
+                "site_name": "レスポンス（Response.jp）",
+                "primary_category": "Strategy",
+                "reason": "新興EVメーカーの事業撤退と破産は市場淘汰を示す重要事項。",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 556756,
+                "title": "世界のEV市場、成長の第2幕 「モロッコのVW」が映す EVシフトの転換点 - 日経ビジネス電子版",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM1hoVkF0blV1ek0tS2l0d0hqQnBOTGJubUlvNTlHVTdCYk9MQkNkSU80TVlWM2lsWXZxdTlwREdUZFRuRGphbXJ4ZG4zbUNEb2FuOUg0bGFQMDlTcTc5Nlc3VkVaeU1JQ2dTNEVtLV9XdEpNMWctMmdQaDVJR3h3Qk40LUhZQQ?oc=5",
+                "published": "Thu, 06 Aug 2026 22:29:35 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNM1hoVkF0blV1ek0tS2l0d0hqQnBOTGJubUlvNTlHVTdCYk9MQkNkSU80TVlWM2lsWXZxdTlwREdUZFRuRGphbXJ4ZG4zbUNEb2FuOUg0bGFQMDlTcTc5Nlc3VkVaeU1JQ2dTNEVtLV9XdEpNMWctMmdQaDVJR3h3Qk40LUhZQQ?oc=5\" target=\"_blank\">世界のEV市場、成長の第2幕 「モロッコのVW」が映す EVシフトの転換点</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経ビジネス電子版</font>",
+                "site_name": "日経ビジネス電子版",
+                "primary_category": "Market Analysis",
+                "reason": "世界のEV成長ステージ変化と戦略転換の分析。",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 696914,
+                "title": "スバル車もトヨタ車もEVもガソリンエンジン車も同じラインで作れちゃう!? スバルの「究極の混流」生産は超効率的 - motor-fan.jp",
+                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jdDJ2dWdvVWhscnh3dkUwQnVKYmwwTVBrbTI2dGRsaDNCU1dlQWdzSXVrUWVQeVMzX0hDR3E3UjdvSGpmV2dUSl9va040LUJLVEhHZWFaRG9qQQ?oc=5",
+                "published": "Fri, 07 Aug 2026 00:44:19 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jdDJ2dWdvVWhscnh3dkUwQnVKYmwwTVBrbTI2dGRsaDNCU1dlQWdzSXVrUWVQeVMzX0hDR3E3UjdvSGpmV2dUSl9va040LUJLVEhHZWFaRG9qQQ?oc=5\" target=\"_blank\">スバル車もトヨタ車もEVもガソリンエンジン車も同じラインで作れちゃう!? スバルの「究極の混流」生産は超効率的</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">motor-fan.jp</font>",
+                "site_name": "motor-fan.jp",
+                "primary_category": "Production",
+                "reason": "混流生産技術の効率性は製造コスト競争力に直結。",
+                "score": 70,
+                "is_highly_important": true
+            },
+            {
+                "id": 803791,
+                "title": "３１年度までに新型軽２車種投入 三菱自水島、日産と協業でＥＶとガソリン車 - 山陽新聞",
+                "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rUURGV1BGZTNibHllNWNsQXlZTFhNcFlyQzN6Q1J2ZEhpS09hZXhfeDBOamF1clRSZHQzVmZEbWNDcWlsS2dGbFRveUFlRXNDRGc?oc=5",
+                "published": "Fri, 07 Aug 2026 09:24:15 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rUURGV1BGZTNibHllNWNsQXlZTFhNcFlyQzN6Q1J2ZEhpS09hZXhfeDBOamF1clRSZHQzVmZEbWNDcWlsS2dGbFRveUFlRXNDRGc?oc=5\" target=\"_blank\">３１年度までに新型軽２車種投入 三菱自水島、日産と協業でＥＶとガソリン車</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
+                "site_name": "山陽新聞",
+                "primary_category": "Strategy",
+                "reason": "中期的な軽自動車戦略の明確化。",
+                "score": 75,
+                "is_highly_important": true
+            },
+            {
+                "id": 54830,
+                "title": "日鉄、愛知に高級鋼の新ライン EV需要に対応、生産能力強化 - hokkaido-np.co.jp",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQWlFWVU0THk3YjFPNFBwWjJHWXpjR0tyWmJOV24wMkI0bExSUnRrR0toVHZyNnhoMUF6YWdGYjVHLWd5YTlMZWM1UkllSUtEcXdZbk96S0ZmQ1VWSlJmX254cUtMeGZwdG14dkg3NmFSVWxjR1NQV1NVZXoxRnBkaXM4OWZJcEVX?oc=5",
+                "published": "Fri, 07 Aug 2026 11:30:32 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQWlFWVU0THk3YjFPNFBwWjJHWXpjR0tyWmJOV24wMkI0bExSUnRrR0toVHZyNnhoMUF6YWdGYjVHLWd5YTlMZWM1UkllSUtEcXdZbk96S0ZmQ1VWSlJmX254cUtMeGZwdG14dkg3NmFSVWxjR1NQV1NVZXoxRnBkaXM4OWZJcEVX?oc=5\" target=\"_blank\">日鉄、愛知に高級鋼の新ライン EV需要に対応、生産能力強化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">hokkaido-np.co.jp</font>",
+                "site_name": "hokkaido-np.co.jp",
+                "primary_category": "Supply Chain",
+                "reason": "高級鋼ラインの新設はEVの材料需要対応として重要。",
+                "score": 75,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "三菱自動車が水島製作所にて2031年度までに新型軽自動車2車種（EV・ガソリン車各1）の生産計画を発表",
+                "日産自動車との資本提携に基づく協業体制の維持・強化を明確化",
+                "長期的な生産計画の提示により、地域雇用とサプライチェーンの安定化をアピール"
+            ],
+            "insight": "本件は、EVシフトが減速局面を迎える中、地方の基幹拠点でガソリン車との併産体制を維持する現実的な戦略です。単なるモデル投入ではなく、日産とのプラットフォーム共有による固定費圧縮が核心であり、アライアンスの補完関係が生きている証左。国内軽市場の電動化の潮目を見極めつつ、水島をマルチパワートレイン供給拠点として固定化する意図が読み取れます。"
+        }
+    },
+    {
+        "topic_name": "テスラの日本市場展開と新製品",
+        "article_ids": [
+            456082,
+            732451
+        ],
+        "articles": [
+            {
+                "id": 456082,
+                "title": "7月輸入車販売10%減 EV比率2割迫る､テスラがけん引 - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01Vm1OM3FEUkpyRkpvTGMxU2JPdk84VDVvN1Q4VExXOWVqOV9Xd25HU0hPLUJsOVBDdlBGaU9ndTNfVUJ2QW5LTzV3Rks3UWZHakNpeFh4RFp5RTc3eXliSnJxNG1TZ2NBQ2ZlMlNSMXBkZWxMSW1QUTR0dzRVbzg?oc=5",
+                "published": "Thu, 06 Aug 2026 20:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE01Vm1OM3FEUkpyRkpvTGMxU2JPdk84VDVvN1Q4VExXOWVqOV9Xd25HU0hPLUJsOVBDdlBGaU9ndTNfVUJ2QW5LTzV3Rks3UWZHakNpeFh4RFp5RTc3eXliSnJxNG1TZ2NBQ2ZlMlNSMXBkZWxMSW1QUTR0dzRVbzg?oc=5\" target=\"_blank\">7月輸入車販売10%減 EV比率2割迫る､テスラがけん引</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "site_name": "日本経済新聞",
+                "primary_category": "Market Analysis",
+                "reason": "輸入車市場におけるEV比率の推移分析。",
+                "score": 60,
+                "is_highly_important": true
+            },
+            {
+                "id": 732451,
+                "title": "テスラ、家庭用蓄電池「Powerwall 3」日本発売…EV分野の技術を結集（レスポンス） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lRUtWRXdNOFFuVm5Ja0RxVGdtcW1jYXJpVi03cVhHSUxSazVGdER6TEIwTlRpY2l0Mnp4MHBOaFRTVzV5ZVAzRGRGek5MVm9kNy01T0JELXp5YlZwVTlQOVIwY0NFU3hvMUQtTXNyX003OHN1UGl3b3g2TThHeU0?oc=5",
+                "published": "Fri, 07 Aug 2026 05:00:03 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9lRUtWRXdNOFFuVm5Ja0RxVGdtcW1jYXJpVi03cVhHSUxSazVGdER6TEIwTlRpY2l0Mnp4MHBOaFRTVzV5ZVAzRGRGek5MVm9kNy01T0JELXp5YlZwVTlQOVIwY0NFU3hvMUQtTXNyX003OHN1UGl3b3g2TThHeU0?oc=5\" target=\"_blank\">テスラ、家庭用蓄電池「Powerwall 3」日本発売…EV分野の技術を結集（レスポンス）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Strategy",
+                "reason": "家庭用蓄電池への展開はEVエコシステム拡大戦略。",
+                "score": 70,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "国内輸入車市場が苦戦する中、テスラはEV販売をけん引し、輸入車EVシェアの約2割を占める存在感を示している。",
+                "最新家庭用蓄電池「Powerwall 3」の日本導入により、単なる自動車メーカーを超えたエネルギーマネジメント企業としての基盤を強化。",
+                "AI「オプティキャスター」を活用した自動充放電制御など、ソフトウェア主導のエネルギーソリューションで日本市場の深い攻略を図る。"
+            ],
+            "insight": "テスラの強みはEVの枠を超えた「家庭の電力インフラ化」にある。輸入車市場が縮小する中でもEV販売を維持できるのは、車両単体の性能以上に、Powerwallを含む独自のエコシステムがもたらす高い顧客ロイヤリティと利便性が寄与している。今後はエネルギー管理のプラットフォームとして、日本の住宅市場で不可欠な存在になるだろう。"
+        }
+    },
+    {
+        "topic_name": "自動運転EVバス試験運行",
+        "article_ids": [
+            711974
+        ],
+        "articles": [
+            {
+                "id": 711974,
+                "title": "ニセコひらふ地区で自動運転EVバス試験運行 関係者向け試乗会（動画） - hokkaido-np.co.jp",
+                "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBROWxJSzdUYnRpTVRzZm1idDcyaTIzTk5yeUViQzhPRmg2ZFdXWVlyWlpsZTRoLV9GYS15dFBDb3NCN3dxQmEwem41MWc2Mjhta2E5Z2JGckZKeGZrMm13ejFtdUpjOTlkTXc?oc=5",
+                "published": "Fri, 07 Aug 2026 10:48:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBROWxJSzdUYnRpTVRzZm1idDcyaTIzTk5yeUViQzhPRmg2ZFdXWVlyWlpsZTRoLV9GYS15dFBDb3NCN3dxQmEwem41MWc2Mjhta2E5Z2JGckZKeGZrMm13ejFtdUpjOTlkTXc?oc=5\" target=\"_blank\">ニセコひらふ地区で自動運転EVバス試験運行 関係者向け試乗会（動画）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">hokkaido-np.co.jp</font>",
+                "site_name": "hokkaido-np.co.jp",
+                "primary_category": "Infrastructure",
+                "reason": "自動運転EVバスの試験運用。地域固有の社会実装事例。",
+                "score": 65,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "東急不動産とマクニカによるニセコひらふ地区での自動運転EVバス試験運行の開始",
+                "行政・観光関係者を交えた実証を通じた技術的妥当性と受容性の検証",
+                "観光地特有の複雑な動線と厳しい気象条件に対するラストワンマイルのソリューション開発"
+            ],
+            "insight": "不動産開発と半導体商社の協業は、単なる車両運行に留まりません。観光地の深刻な人手不足を解決し、回遊性を高める「MaaSによるエリア価値向上」のモデルケースです。特にニセコという高付加価値市場でのデータ蓄積は、降雪地における自動運転社会実装の先行指標となり、今後の地方創生DXの試金石となるでしょう。"
+        }
+    },
+    {
+        "topic_name": "Kia EV2欧州市場での評価",
+        "article_ids": [
+            262927
+        ],
+        "articles": [
+            {
+                "id": 262927,
+                "title": "Kia EV2、フランス事故で生存の鍵に…欧州EV販売13万台超えも加速 - BigGo ファイナンス",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1EVjV1MHRwQWhBa0s3aDI3cVJlWjYtZ0tTU2ljR2dmenRPUnBURml2RTA3RFY3MXk2QjE1UUVsRzktTHNXTlE3aW8yT3NyaFZqb1JXMlFUVnh1eHhaR1FXVmNpcmYzOXNwdEF4Y2hhdnJzUkc5?oc=5",
+                "published": "Fri, 07 Aug 2026 14:36:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1EVjV1MHRwQWhBa0s3aDI3cVJlWjYtZ0tTU2ljR2dmenRPUnBURml2RTA3RFY3MXk2QjE1UUVsRzktTHNXTlE3aW8yT3NyaFZqb1JXMlFUVnh1eHhaR1FXVmNpcmYzOXNwdEF4Y2hhdnJzUkc5?oc=5\" target=\"_blank\">Kia EV2、フランス事故で生存の鍵に…欧州EV販売13万台超えも加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+                "site_name": "BigGo ファイナンス",
+                "primary_category": "Market Analysis",
+                "reason": "販売データに基づく市場浸透状況の報告。",
+                "score": 60,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "Hyundai・Kiaの欧州EV販売が過去最高を更新し、年間20万台突破の射程圏内へ",
+                "エントリーEVモデル群（EV3, Inster, EV4）が販売のメインエンジンとして定着",
+                "有名人の事故生存体験により、小型EVの車体構造・安全性能が市場で再評価"
+            ],
+            "insight": "欧州での記録的販売は、単なる台数拡大ではなく、小型EVでの安全性という難題をクリアし『信頼』という無形資産を構築した点に真の価値がある。特にエントリーモデルの安全性訴求は、価格競争に陥りがちなコンパクトEVセグメントで欧州の保守的顧客を掴む決定打となり、今後のシェア拡大を加速させるだろう。"
+        }
+    },
+    {
+        "topic_name": "EV市場の競争と最新動向",
+        "article_ids": [
+            333040,
+            694620
+        ],
+        "articles": [
+            {
+                "id": 694620,
+                "title": "「EV嫌いにこそ刺さります」 日本の軽EVは新たな主役になれるのか？ 中国車12%の欧州で揺れる勢力図、その行方とは - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SWmpSbE9jOHFWRms3UE9tNXE4RDJWSDFSU1p6d2FTWWpLQTZJdUFoTmpiZ0VGbW9vcFFLdGdIekh3LVVibjdSYzNEUXFvZDNZbkFVR2R4cXkxYU9MUHZfakR6T2s4S0xlRXRFNkNFa19tcUg1SXdpTGUybFFBVmM?oc=5",
+                "published": "Thu, 06 Aug 2026 21:21:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1SWmpSbE9jOHFWRms3UE9tNXE4RDJWSDFSU1p6d2FTWWpLQTZJdUFoTmpiZ0VGbW9vcFFLdGdIekh3LVVibjdSYzNEUXFvZDNZbkFVR2R4cXkxYU9MUHZfakR6T2s4S0xlRXRFNkNFa19tcUg1SXdpTGUybFFBVmM?oc=5\" target=\"_blank\">「EV嫌いにこそ刺さります」 日本の軽EVは新たな主役になれるのか？ 中国車12%の欧州で揺れる勢力図、その行方とは</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Market Analysis",
+                "reason": "欧州市場での勢力図変化と日本メーカーへの影響。",
+                "score": 75,
+                "is_highly_important": true
+            },
+            {
+                "id": 333040,
+                "title": "急速充電、自動運転、エンジン…… 淘汰が進む中国EV 電池でBYD対CATL - 日経ビジネス電子版",
+                "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DWVBHb2RUUnZ6NklRRWY4ekVGa09uZ21HdS1ZUWJycERVV2JCcFRpdzhHRVVfUG40SWlBWk50a3E4cVFuTG45UkVhM2Q0Q1hrSFI5MFM1R2dwQ3NIeEFHWnl3SnY?oc=5",
+                "published": "Thu, 06 Aug 2026 15:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DWVBHb2RUUnZ6NklRRWY4ekVGa09uZ21HdS1ZUWJycERVV2JCcFRpdzhHRVVfUG40SWlBWk50a3E4cVFuTG45UkVhM2Q0Q1hrSFI5MFM1R2dwQ3NIeEFHWnl3SnY?oc=5\" target=\"_blank\">急速充電、自動運転、エンジン…… 淘汰が進む中国EV 電池でBYD対CATL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経ビジネス電子版</font>",
+                "site_name": "日経ビジネス電子版",
+                "primary_category": "Supply Chain",
+                "reason": "電池サプライヤーの覇権争いはEV業界の核心。",
+                "score": 90,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "EV市場は地政学リスクによる原油高騰で『踊り場』を脱し、再加速のフェーズへ移行した",
+                "欧州市場の『高価格・大型化』による制度疲労が、エントリークラスの空白を生んでいる",
+                "小型EV区分『M1E』の新設を機に、日本の軽自動車が培った高密度パッケージングが欧州攻略の武器となる"
+            ],
+            "insight": "欧州のBEV市場は、環境規制の強制力から地政学的なコスト圧力へとシフトしました。これまで大型車偏重で崩壊していた安価なエントリーセグメントに対し、日本勢の軽技術はまさに『急所』を突く存在です。ただし勝負の分かれ目は、単なる小型化ではなく、欧州特有の過酷な安全・走行基準をいかに軽のコスト構造でクリアできるかに集約されます。"
         }
     }
 ]
