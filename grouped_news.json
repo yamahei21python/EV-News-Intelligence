@@ -1,0 +1,53 @@
+[
+    {
+        "topic_name": "中国EVメーカーの海外進出と競争",
+        "article_ids": [
+            103685,
+            521192,
+            240588
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "EVバッテリーの資源循環および再利用",
+        "article_ids": [
+            668656
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "Samsung SDIとGMの北米EV生産体制再編",
+        "article_ids": [
+            767630
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "三菱新型ASX VR-eの公開",
+        "article_ids": [
+            545172
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "ホンダのEV政策と補助金",
+        "article_ids": [
+            888794
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "メキシコのEVバス産業における中国依存脱却",
+        "article_ids": [
+            754765
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "中国国内自動車市場の販売減と輸出シフト",
+        "article_ids": [
+            597435
+        ],
+        "is_grouped": false
+    }
+]
