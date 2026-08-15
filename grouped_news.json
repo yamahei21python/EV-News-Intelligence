@@ -1,0 +1,44 @@
+[
+    {
+        "topic_name": "ポルシェEV「タイカン」生産終了報道",
+        "article_ids": [
+            659310,
+            210294
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "テラチャージのEV充電器無料開放",
+        "article_ids": [
+            495198,
+            714622
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "テラチャージの急速充電器整備計画",
+        "article_ids": [
+            740874
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "中国EVの海外市場拡大と各国の規制",
+        "article_ids": [
+            666794,
+            215960,
+            350931
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "EV関連サプライチェーンとインフラ技術",
+        "article_ids": [
+            638253,
+            513933,
+            470265,
+            672363
+        ],
+        "is_grouped": false
+    }
+]
