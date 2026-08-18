@@ -1,0 +1,60 @@
+[
+    {
+        "topic_name": "三菱自動車の新型EV「ASX VR-e」オセアニア投入",
+        "article_ids": [
+            501498,
+            705061,
+            978403,
+            476355,
+            936909,
+            513476,
+            83292,
+            1886
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "BYDの軽EV「ラッコ」日本投入と市場競争",
+        "article_ids": [
+            588918,
+            294478,
+            501502
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "ラオスのガソリン車輸入禁止とEVシフト",
+        "article_ids": [
+            680051,
+            604894
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "小米（シャオミ）のEV事業進捗と決算への影響",
+        "article_ids": [
+            602707,
+            561421,
+            421427
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "日本国内EV販売台数の急拡大と補助金効果",
+        "article_ids": [
+            541996,
+            685648,
+            764107,
+            199025
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "韓国バッテリーメーカーの設備投資と補助金状況",
+        "article_ids": [
+            248957,
+            361703
+        ],
+        "is_grouped": true
+    }
+]
