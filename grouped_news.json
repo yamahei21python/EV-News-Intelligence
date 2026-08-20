@@ -1,0 +1,44 @@
+[
+    {
+        "topic_name": "LGエナジーソリューションのEV用電池から蓄電池への事業転換",
+        "article_ids": [
+            266617,
+            463801,
+            620011
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "シャオミのEV事業による業績への影響",
+        "article_ids": [
+            142224,
+            704903
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "BYDの軽EV「ラッコ」に関する報道",
+        "article_ids": [
+            564392,
+            335136,
+            187491
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "ホンダの「脱ケイレツ」とJ-MAXのCATL連携",
+        "article_ids": [
+            104413,
+            884217
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "日本自動車メーカーのEV方針転換",
+        "article_ids": [
+            963079,
+            473082
+        ],
+        "is_grouped": true
+    }
+]
