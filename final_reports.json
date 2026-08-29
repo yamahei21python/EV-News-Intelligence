@@ -1,21 +1,106 @@
 [
     {
-        "topic_name": "BYD 1-6月期決算で2割減益",
+        "topic_name": "ソニーEV事業元統括部長の不当解雇訴訟",
         "article_ids": [
-            451252,
-            825370
+            657455,
+            235751
         ],
         "articles": [
             {
-                "id": 451252,
-                "title": "中国ＢＹＤ、２半期連続減益＝ＥＶ最大手、国内不振で―１～６月期 - 時事通信ニュース",
-                "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HeHJNWlZ0Mm80Qjc5alN3RlZHUV9Sc0xJUENVUVlnbXhxNm05NncxLWFnM0dLUUF4eDNHeGlTN3I3TDhyaV9tUWdyNDhTY3pfYXJBZw?oc=5",
-                "published": "Fri, 28 Aug 2026 20:16:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HeHJNWlZ0Mm80Qjc5alN3RlZHUV9Sc0xJUENVUVlnbXhxNm05NncxLWFnM0dLUUF4eDNHeGlTN3I3TDhyaV9tUWdyNDhTY3pfYXJBZw?oc=5\" target=\"_blank\">中国ＢＹＤ、２半期連続減益＝ＥＶ最大手、国内不振で―１～６月期</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事通信ニュース</font>",
-                "site_name": "時事通信ニュース",
-                "primary_category": "Strategy",
-                "reason": "EV世界最大手のBYDが2半期連続減益。市場動向を示す重要指標。",
+                "id": 657455,
+                "title": "【独自】EV事業の元統括部長が「不当解雇」でソニーを提訴していた…事業の中止決定との関係は - 現代ビジネス",
+                "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52QnlJYXZwa1JsR1hnWDVKdFZadTY1NG9OMWQ1ZFRKQXhBdGdkUDJyVm1GQXlYRjZHLV9jdjdUT2hiY1RDejdUSkNXU0d5Q3c?oc=5",
+                "published": "Fri, 28 Aug 2026 23:35:43 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE52QnlJYXZwa1JsR1hnWDVKdFZadTY1NG9OMWQ1ZFRKQXhBdGdkUDJyVm1GQXlYRjZHLV9jdjdUT2hiY1RDejdUSkNXU0d5Q3c?oc=5\" target=\"_blank\">【独自】EV事業の元統括部長が「不当解雇」でソニーを提訴していた…事業の中止決定との関係は</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">現代ビジネス</font>",
+                "site_name": "現代ビジネス",
+                "primary_category": "Corporate Strategy",
+                "reason": "ソニーのEV事業撤退判断に関連する内部トラブル報道。",
+                "score": 65,
+                "is_highly_important": true
+            },
+            {
+                "id": 235751,
+                "title": "「懲戒解雇に追い込まれた」ソニー元幹部が実名で語るEV事業の深層 - 現代ビジネス",
+                "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53bkg1aFcySWpNdFdqMzZFTTlyemdaTXJ0RmhqZVgwMC1pNXBWdjRjOERXT0RsQjA5ZEFLeWFvTkU4LUVQZWdEZTFXVktrQ0JfMGZjdDdPT1E?oc=5",
+                "published": "Fri, 28 Aug 2026 23:29:41 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE53bkg1aFcySWpNdFdqMzZFTTlyemdaTXJ0RmhqZVgwMC1pNXBWdjRjOERXT0RsQjA5ZEFLeWFvTkU4LUVQZWdEZTFXVktrQ0JfMGZjdDdPT1E?oc=5\" target=\"_blank\">「懲戒解雇に追い込まれた」ソニー元幹部が実名で語るEV事業の深層</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">現代ビジネス</font>",
+                "site_name": "現代ビジネス",
+                "primary_category": "Corporate Strategy",
+                "reason": "大手メーカーのEV事業撤退の深層に関する報道。",
+                "score": 70,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "ソニーのEV事業を牽引した元幹部が不当解雇を訴え、企業統治の透明性が問われる事態へ発展",
+                "EV事業の急激な戦略転換と、それに伴う内部対立や責任の所在が訴訟を通じて浮き彫りに",
+                "製造業とIT企業のカルチャー衝突が、意思決定プロセスや人事評価に致命的な歪みを生んだ可能性"
+            ],
+            "insight": "本件は単なる労働紛争ではなく、異業種参入の難しさとソニー流「選択と集中」の危うさを象徴している。EV参入という社運を賭けたプロジェクトでトップ人事が迷走した事実は、ガバナンスとイノベーションの両立において致命的なリスクを露呈した。垂直統合型の自動車産業において、トップダウンの意思決定がいかに脆弱かを業界に再認識させる教訓的な事例である。"
+        }
+    },
+    {
+        "topic_name": "トヨタの中国における次世代EV先行生産",
+        "article_ids": [
+            406763,
+            537314
+        ],
+        "articles": [
+            {
+                "id": 406763,
+                "title": "きょうの5本 トヨタ、次世代EVを中国で先行生産 - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92ZUxnLWMya2N5US04YUV0bDlFRzltSTl6ZlUtN2tUeXJ2R2lfYWV6M3pEdTlUUkZfUHN4aHJQbDFjeDYyUW1qd2dhYWg3VE9jaVZ5a2Nyc1l1cVJuaXVrSy03NlRhREVZRWxqdQ?oc=5",
+                "published": "Fri, 28 Aug 2026 20:51:34 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE92ZUxnLWMya2N5US04YUV0bDlFRzltSTl6ZlUtN2tUeXJ2R2lfYWV6M3pEdTlUUkZfUHN4aHJQbDFjeDYyUW1qd2dhYWg3VE9jaVZ5a2Nyc1l1cVJuaXVrSy03NlRhREVZRWxqdQ?oc=5\" target=\"_blank\">きょうの5本 トヨタ、次世代EVを中国で先行生産</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "site_name": "日本経済新聞",
+                "primary_category": "Corporate Strategy",
+                "reason": "トヨタの次世代EV生産拠点に関する戦略的ニュース。",
                 "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 537314,
+                "title": "トヨタ、先端EVを中国で先行生産 最大市場に軸足 まずレクサスSUV - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYbExYeV9YaE4zTDlmcmdhNzRFbWJJcFFRTkVTd0J3R29PMktsbV9rUzV2VldreU9HMWxrcTliY0gzcTA2eGF1bDNqdGk3QTU1MU1Kc2p5YnNtTWdGNHZhUVQzblhpVmJUSUFwMw?oc=5",
+                "published": "Fri, 28 Aug 2026 17:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBYbExYeV9YaE4zTDlmcmdhNzRFbWJJcFFRTkVTd0J3R29PMktsbV9rUzV2VldreU9HMWxrcTliY0gzcTA2eGF1bDNqdGk3QTU1MU1Kc2p5YnNtTWdGNHZhUVQzblhpVmJUSUFwMw?oc=5\" target=\"_blank\">トヨタ、先端EVを中国で先行生産 最大市場に軸足 まずレクサスSUV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "site_name": "日本経済新聞",
+                "primary_category": "Corporate Strategy",
+                "reason": "中国市場での先行生産によるトヨタのEV戦略深化。",
+                "score": 85,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "次世代EVの先行生産地を中国に設定し、最大市場での競争力強化を急ぐ",
+                "レクサスブランドのSUVを先陣として投入し、ブランド力の維持と電動化を両立",
+                "現地開発・現地生産体制を深化させ、中国勢との開発スピード格差を解消へ"
+            ],
+            "insight": "トヨタの中国シフトは、単なる生産能力増強ではなく『現地主導の高速開発』への転換です。日本流の慎重な品質管理と、中国の猛烈なデジタル・電動化速度の融合は至難の業ですが、レクサスを先行させることで、高級車セグメントにおける『技術のトヨタ』の意地と、EVシフトへの適応を同時に世界に示す狙いがあります。"
+        }
+    },
+    {
+        "topic_name": "BYD 24年上半期決算で減益",
+        "article_ids": [
+            538425,
+            825370,
+            190927
+        ],
+        "articles": [
+            {
+                "id": 538425,
+                "title": "中国BYD、2半期連続減益 EV最大手、国内不振で 1～6月期 (時事通信) - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONGlLWVBXMVhaMVVfWVZVMFBHNU5ha3ZOQ2JTamtlT1lNUmlxUDJvQ1hfYnNrNl9hWTA2RTJ5UHItb01wMzh3SENreHZ2NGlaQVlBR2FORnVrOTFpZGtEVnpFQWZyZFNKa18waEhfLU5nNDctNmhyZklaYTRaVXQ5NG9GOXB2ZFpSWGpOSkt3?oc=5",
+                "published": "Fri, 28 Aug 2026 20:17:17 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxONGlLWVBXMVhaMVVfWVZVMFBHNU5ha3ZOQ2JTamtlT1lNUmlxUDJvQ1hfYnNrNl9hWTA2RTJ5UHItb01wMzh3SENreHZ2NGlaQVlBR2FORnVrOTFpZGtEVnpFQWZyZFNKa18waEhfLU5nNDctNmhyZklaYTRaVXQ5NG9GOXB2ZFpSWGpOSkt3?oc=5\" target=\"_blank\">中国BYD、2半期連続減益 EV最大手、国内不振で 1～6月期 (時事通信)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Corporate Strategy",
+                "reason": "BYDの業績減速による中国市場の冷え込みを示す重要財務情報。",
+                "score": 80,
                 "is_highly_important": true
             },
             {
@@ -25,96 +110,214 @@
                 "published": "Fri, 28 Aug 2026 21:00:22 GMT",
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1DUGNjVEJ0TEVXdTRWMWMtWWl2STFjSk45eXhTdWdYZnZyLTg5ZzFWRmg0VS1BQy1maHY4U19kY1dJOXM1LWVuTzhTeUo4bnBzb3FETGhOSVFCQzRaVDFBRUwtWTZQbmVxSFk4SVpRc2NvOGNZY0h5TTNNcmY2TVk?oc=5\" target=\"_blank\">〔海外決算〕中国BYD、純利益2割減（時事通信）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
                 "site_name": "Yahoo!ニュース",
-                "primary_category": "Strategy",
-                "reason": "BYDの決算減益。重要情報。",
-                "score": 85,
+                "primary_category": "Corporate Strategy",
+                "reason": "BYDの業績悪化に関する報道。",
+                "score": 80,
+                "is_highly_important": true
+            },
+            {
+                "id": 190927,
+                "title": "BYD、5年ぶり減益 26年上半期、国内不振（共同通信） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XNXZBUlZXWkxtdW5PVm5xRTlqaDZOcGlmY3R2VzdjakhXdFBOaUt0ejNLZF84dWg1NURsT1hKazRUdWQxSXhLRGhHUkx1bFBwbDNXa0FfTXFMUGM3Ukhlb3BSRjJPTDg1d2JYNldSZFN2eVF4ak9od2Z1ZmRqTkE?oc=5",
+                "published": "Sat, 29 Aug 2026 09:13:46 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1XNXZBUlZXWkxtdW5PVm5xRTlqaDZOcGlmY3R2VzdjakhXdFBOaUt0ejNLZF84dWg1NURsT1hKazRUdWQxSXhLRGhHUkx1bFBwbDNXa0FfTXFMUGM3Ukhlb3BSRjJPTDg1d2JYNldSZFN2eVF4ak9od2Z1ZmRqTkE?oc=5\" target=\"_blank\">BYD、5年ぶり減益 26年上半期、国内不振（共同通信）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Corporate Strategy",
+                "reason": "BYDの業績減速に関するニュース。",
+                "score": 75,
                 "is_highly_important": true
             }
         ],
         "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "純利益が前年同期比20.5%減の2半期連続減益となり、5年ぶりの上半期減益を記録",
-                "新エネルギー車全体の販売が15.7%減少し、特に国内市場が約4割落ち込む大苦戦",
-                "海外向け販売は約7割増と伸長するも、国内の価格競争と需要減速を補うには至らず"
+                "BYDが2026年上半期に5年ぶりの減益を記録し、2四半期連続の利益減少となった",
+                "利益圧迫の主因は中国国内市場における販売の伸び悩みと競争激化",
+                "EV最大手として君臨してきたBYDだが、価格競争による収益性の低下が深刻化している"
             ],
-            "insight": "BYDの減益は、単なる市場飽和ではなく「国内需要の質的転換」を突きつけている。圧倒的なスケールメリットを背景とした低価格攻勢が国内で通用しなくなり、利益率の維持が限界に達した。今後は海外市場でのブランド定着と、激化する価格戦争を回避するための技術的差別化が、再成長への唯一の生存戦略となるだろう。"
+            "insight": "中国市場での販売減は、単なる需要減ではなく、供給過剰による泥沼の価格競争と、BEV需要の成熟に伴う普及期への構造転換を示唆しています。利益率を犠牲にしたボリューム追求は限界に達しており、BYDは今後、ブランド価値の再定義と高付加価値モデルへのシフト、あるいは海外市場でのプレミアム戦略を極限まで研ぎ澄ませる試練に直面しています。"
         }
     },
     {
-        "topic_name": "トヨタの次世代EV中国先行生産計画",
+        "topic_name": "ブラジルのEV販売台数ディーゼル車逆転",
         "article_ids": [
-            537314,
-            507130,
-            748532
+            623312
         ],
         "articles": [
             {
-                "id": 537314,
-                "title": "トヨタ、先端EVを中国で先行生産 最大市場に軸足 まずレクサスSUV - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYbExYeV9YaE4zTDlmcmdhNzRFbWJJcFFRTkVTd0J3R29PMktsbV9rUzV2VldreU9HMWxrcTliY0gzcTA2eGF1bDNqdGk3QTU1MU1Kc2p5YnNtTWdGNHZhUVQzblhpVmJUSUFwMw?oc=5",
-                "published": "Fri, 28 Aug 2026 17:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBYbExYeV9YaE4zTDlmcmdhNzRFbWJJcFFRTkVTd0J3R29PMktsbV9rUzV2VldreU9HMWxrcTliY0gzcTA2eGF1bDNqdGk3QTU1MU1Kc2p5YnNtTWdGNHZhUVQzblhpVmJUSUFwMw?oc=5\" target=\"_blank\">トヨタ、先端EVを中国で先行生産 最大市場に軸足 まずレクサスSUV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-                "site_name": "日本経済新聞",
-                "primary_category": "Strategy",
-                "reason": "トヨタが中国で先端EVを先行生産。開発体制の転換点。",
-                "score": 90,
-                "is_highly_important": true
-            },
-            {
-                "id": 507130,
-                "title": "トヨタ、次世代EVを中国で2027年秋に先行生産へ レクサスSUVで世界照準 - BigGo ファイナンス",
-                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lT3hqUEtWRlJWZEVNa1FOQUxtX2dXcUYyU2RZZ1RndVBzblRXRlVPXzVRMDBvQVhPSFpxWkRtWHYtZmRwQUNWMkI1VGl2ZVd6NE9tWVVNc09IREZKVWNZcHR5WUlKT1RFNGFkVHI1OFVYeFVR?oc=5",
-                "published": "Fri, 28 Aug 2026 00:56:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1lT3hqUEtWRlJWZEVNa1FOQUxtX2dXcUYyU2RZZ1RndVBzblRXRlVPXzVRMDBvQVhPSFpxWkRtWHYtZmRwQUNWMkI1VGl2ZVd6NE9tWVVNc09IREZKVWNZcHR5WUlKT1RFNGFkVHI1OFVYeFVR?oc=5\" target=\"_blank\">トヨタ、次世代EVを中国で2027年秋に先行生産へ レクサスSUVで世界照準</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
-                "site_name": "BigGo ファイナンス",
-                "primary_category": "Strategy",
-                "reason": "トヨタの中国EV戦略の詳細、重要情報。",
-                "score": 90,
-                "is_highly_important": true
-            },
-            {
-                "id": 748532,
-                "title": "トヨタ、次世代EVを中国で先行生産…日本の先行慣行を破る - jp.ajunews.com",
-                "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GMFZvVHJYck1FWWdOekM3Y1I4NWRMQzlFRjdqbWtWS3Z6c05fY1Ewams1U3h3Y0UtNG5tZllkaGd5QUFVYzBRaVRtZ2R3WFg5eVpEdkFubFJ5d1E?oc=5",
-                "published": "Fri, 28 Aug 2026 06:52:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GMFZvVHJYck1FWWdOekM3Y1I4NWRMQzlFRjdqbWtWS3Z6c05fY1Ewams1U3h3Y0UtNG5tZllkaGd5QUFVYzBRaVRtZ2R3WFg5eVpEdkFubFJ5d1E?oc=5\" target=\"_blank\">トヨタ、次世代EVを中国で先行生産…日本の先行慣行を破る</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jp.ajunews.com</font>",
-                "site_name": "jp.ajunews.com",
-                "primary_category": "Strategy",
-                "reason": "トヨタの中国戦略に関する報道。",
-                "score": 85,
+                "id": 623312,
+                "title": "ブラジルのＥＶ販売、ディーゼル車を初めて逆転: BYDがトヨタ抜き４位に - alterna.co.jp",
+                "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4zeU5PeWtjTEFvX3lwbWdLQWEyOFpNa2ljblFwWllGUzNFUHZ0ZllQVERRTk5lOXQ1UzB2YXFoMnBpZHBXYUNMMw?oc=5",
+                "published": "Fri, 28 Aug 2026 21:13:42 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE4zeU5PeWtjTEFvX3lwbWdLQWEyOFpNa2ljblFwWllGUzNFUHZ0ZllQVERRTk5lOXQ1UzB2YXFoMnBpZHBXYUNMMw?oc=5\" target=\"_blank\">ブラジルのＥＶ販売、ディーゼル車を初めて逆転: BYDがトヨタ抜き４位に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alterna.co.jp</font>",
+                "site_name": "alterna.co.jp",
+                "primary_category": "Market Trends",
+                "reason": "ブラジル市場でのBYDの急成長とシェア逆転を示す重要な市場動向。",
+                "score": 75,
                 "is_highly_important": true
             }
         ],
-        "is_grouped": true,
+        "is_grouped": false,
         "analysis": {
             "summary_points": [
-                "次世代EVのグローバル生産の先陣を中国に設定し、国内生産を主導とする従来の商流を根本から刷新",
-                "現地サプライチェーンと開発サイクル（中国式スピード）を取り込み、競争激化するEV市場での生存を図る",
-                "ギガキャスト導入とSUVモデルへの転換により、高付加価値なレクサスブランドの収益性と生産効率を両立"
+                "ブラジルのEV新車登録比率が約10%に達し、単月でディーゼル車を逆転した。",
+                "BYDがブランド別登録台数でトヨタを抜き4位へ浮上し、現地生産で支配力を強めている。",
+                "バイオ燃料車が依然として市場の主軸だが、EVの急成長によりそのシェアが浸食されている。"
             ],
-            "insight": "「日本発・世界展開」というトヨタの聖域がついに崩壊した。中国は単なる巨大市場ではなく、開発・技術革新の震源地へと変貌した。トヨタの決断は、中国メーカーの圧倒的開発速度に対抗し、レクサスのブランド力とトヨタの生産技術を現地の血脈に融合させる「現地化の究極形」を意味する。もはやEV競争における敗北を認め、勝機を現地に求めた生存戦略だ。"
+            "insight": "ブラジル市場でのBYDの台頭は、単なる中国メーカーの進出ではない。バイオ燃料への依存度が高い市場環境下でも、価格優位性と現地生産という『リアルな参入障壁』の構築が、既存のICE勢力、特にハイブリッドに強みを持つトヨタ等の牙城を崩し始めた証左だ。脱炭素の手段が多様化する中、EVが「新興国の都市モビリティ」としてインフラと同期し、ディーゼル車という実用車の代替として定着し始めた点は極めて象徴的である。"
         }
     },
     {
-        "topic_name": "豪ワンネーション党首による中国EV流入抑制主張",
+        "topic_name": "タイの公共交通等7種類EV化計画",
         "article_ids": [
-            568227,
+            881203
+        ],
+        "articles": [
+            {
+                "id": 881203,
+                "title": "タイ、公共交通など7種類の車両をEV化へ 年間2億1200万リットルの石油削減目指す - タイランドハイパーリンクス",
+                "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HVWdBbnk1RVgzTkJZQk80ZGRjR0lmUVJoTU4wMDdzMDhsVUxyQzlLOFB5VXVfb2Ywc3Z1TXhFLV9FbUx2SFV5aWgyc0tXcEdyR1hMVg?oc=5",
+                "published": "Sat, 29 Aug 2026 11:50:38 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HVWdBbnk1RVgzTkJZQk80ZGRjR0lmUVJoTU4wMDdzMDhsVUxyQzlLOFB5VXVfb2Ywc3Z1TXhFLV9FbUx2SFV5aWgyc0tXcEdyR1hMVg?oc=5\" target=\"_blank\">タイ、公共交通など7種類の車両をEV化へ 年間2億1200万リットルの石油削減目指す</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">タイランドハイパーリンクス</font>",
+                "site_name": "タイランドハイパーリンクス",
+                "primary_category": "Policy",
+                "reason": "タイにおける公共交通のEV化推進は、現地の需要拡大に直結する政策。",
+                "score": 70,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "タイ政府が公共交通機関を含む7種の車両EV化を国家戦略として策定",
+                "石油消費量を年間2億1200万リットル削減しエネルギー安全保障を強化",
+                "EVシフトを通じて東南アジアのEVハブとしての地位を確固たるものにする狙い"
+            ],
+            "insight": "タイのこの動きは単なる環境対策ではなく、地場サプライヤーの淘汰と中国系EVメーカー誘致を通じた産業構造の再編が本質です。内燃機関の部品供給網が崩壊する中、公共車両という需要を強制的に創出することで、電動化の先行投資を回収可能な市場環境を整備し、ASEAN域内での自動車産業覇権を握ろうとするしたたかな戦略と読み解けます。"
+        }
+    },
+    {
+        "topic_name": "ウッド・マッケンジーによる2040年EV保有台数予測",
+        "article_ids": [
+            951921
+        ],
+        "articles": [
+            {
+                "id": 951921,
+                "title": "【国際】Electric Shockシナリオ、EVの2040年保有台数が50%上振れ。ウッド・マッケンジー | Sustainable Japan | 世界のサステナビリティ・ESG投資・SDGs - Sustainable Japan",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMzQtMXc3T2x0czF2ODZSRU5jb2R0SlU1N3ZYYzNTYjM0eEh2QkswMk8yMERrMWR2UGhral93WFhGTWtaMjhzdl9tRTNyZ0wtNUljR0dvUlpFa0Q5NDJCWG5wVFk0cEtuSUFrYmZBOUpLa0Fib2xfcXVtSEpHX2FGVm9NUGZwb2vSAYwBQVVfeXFMTlBrSUR6NHBud2MxV21CS3VrTTZaWUZYVng2MDJEOHVSTXJHNmRyUUdsVFV0b01yY192SVFWeGRYZ1d0a3gtRDJOWVUzcVFJYnlNMUFiMFZ3VThXT2Q3aDZBNnBHU01GaGp3MjFhdE9Md1QwQTNCdHJtdEEtY0xEOGVTMTkxYzIyaXh2X1Y?oc=5",
+                "published": "Fri, 28 Aug 2026 21:42:03 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPMzQtMXc3T2x0czF2ODZSRU5jb2R0SlU1N3ZYYzNTYjM0eEh2QkswMk8yMERrMWR2UGhral93WFhGTWtaMjhzdl9tRTNyZ0wtNUljR0dvUlpFa0Q5NDJCWG5wVFk0cEtuSUFrYmZBOUpLa0Fib2xfcXVtSEpHX2FGVm9NUGZwb2vSAYwBQVVfeXFMTlBrSUR6NHBud2MxV21CS3VrTTZaWUZYVng2MDJEOHVSTXJHNmRyUUdsVFV0b01yY192SVFWeGRYZ1d0a3gtRDJOWVUzcVFJYnlNMUFiMFZ3VThXT2Q3aDZBNnBHU01GaGp3MjFhdE9Md1QwQTNCdHJtdEEtY0xEOGVTMTkxYzIyaXh2X1Y?oc=5\" target=\"_blank\">【国際】Electric Shockシナリオ、EVの2040年保有台数が50%上振れ。ウッド・マッケンジー | Sustainable Japan | 世界のサステナビリティ・ESG投資・SDGs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sustainable Japan</font>",
+                "site_name": "Sustainable Japan",
+                "primary_category": "Market Analysis",
+                "reason": "ウッド・マッケンジーによる長期的なEV市場予測の上振れレポート。",
+                "score": 80,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "「Electric Shock」シナリオにより2040年の世界EV保有台数が従来予測比で大幅に上振れ",
+                "ネットゼロ目標達成に向けた政策的介入と技術革新が普及を加速させる主要因",
+                "エネルギー供給インフラや充電網整備の遅れが今後のボトルネックとなるリスク"
+            ],
+            "insight": "ウッド・マッケンジーの修正は、単なる需要予測の引き上げではなく、既存の『漸進的移行』シナリオが限界を迎えている証左だ。特に電力需給と充電網というハードの制約が顕在化する中で、市場シェアのみならず、エネルギーシステム全体の統合運用能力が、メーカーと国力の次なる勝敗を決定づけることとなる。"
+        }
+    },
+    {
+        "topic_name": "インドネシアEV市場での中国勢競争",
+        "article_ids": [
+            653614
+        ],
+        "articles": [
+            {
+                "id": 653614,
+                "title": "EV販売比率は日本の約4倍！ インドネシアEV市場で激化する中国勢のサバイバル (WEB CARTOP) - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa3FQLXl1N203OC15Mk1OQm5wd1haMjhMSE9OUFhjOGM0Q1cyVlVIT1NoemhLTEx5bE5LVEdfOWZXMlgteVVHRXZtaXp0M0ZFS0xnOS1hYXVCTjdBVUdoNHdORjRkdmQyY0x4bzRzOW9Kb0FwTmlBZ1pNeDdPVmRTcFdaSjNoYWhibjJtQVVn?oc=5",
+                "published": "Fri, 28 Aug 2026 22:10:34 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNa3FQLXl1N203OC15Mk1OQm5wd1haMjhMSE9OUFhjOGM0Q1cyVlVIT1NoemhLTEx5bE5LVEdfOWZXMlgteVVHRXZtaXp0M0ZFS0xnOS1hYXVCTjdBVUdoNHdORjRkdmQyY0x4bzRzOW9Kb0FwTmlBZ1pNeDdPVmRTcFdaSjNoYWhibjJtQVVn?oc=5\" target=\"_blank\">EV販売比率は日本の約4倍！ インドネシアEV市場で激化する中国勢のサバイバル (WEB CARTOP)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Market Analysis",
+                "reason": "東南アジアにおける中国勢の競争激化を示す動向。",
+                "score": 70,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "インドネシアは補助金と関税免除を追い風にEV販売比率が急上昇",
+                "中国勢が供給網構築で先行し、現地市場でのシェア争いが激化",
+                "日本メーカーの牙城であるインドネシアにおいてEV移行の遅れがリスク要因に"
+            ],
+            "insight": "インドネシアはASEANの生産拠点として極めて重要です。日本勢がHVで粘る中、中国勢は価格競争力と供給網で現地市場を掌握しつつあります。単なる販売競争ではなく、リチウム資源を持つ強みを活かした『地産地消型EVサプライチェーン』の構築速度が、今後のアジア市場における主導権争いの勝敗を分ける決定的な分岐点となるでしょう。"
+        }
+    },
+    {
+        "topic_name": "テラチャージのNACS対応充電器導入計画",
+        "article_ids": [
+            868867
+        ],
+        "articles": [
+            {
+                "id": 868867,
+                "title": "テラチャージ、2028年度からNACS対応充電器を導入。2033年度までに全国2500口へ - EVcafe",
+                "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5CemRmVlFETTBCZFpwWEItNnBiM1ZRNF9VOFJoU2JaMkRGOHlEZmdmNEVlNHNfd2hrMEltV3pjUVBEMUh5dmk4bkh3?oc=5",
+                "published": "Sat, 29 Aug 2026 11:36:59 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE5CemRmVlFETTBCZFpwWEItNnBiM1ZRNF9VOFJoU2JaMkRGOHlEZmdmNEVlNHNfd2hrMEltV3pjUVBEMUh5dmk4bkh3?oc=5\" target=\"_blank\">テラチャージ、2028年度からNACS対応充電器を導入。2033年度までに全国2500口へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EVcafe</font>",
+                "site_name": "EVcafe",
+                "primary_category": "Infrastructure",
+                "reason": "充電規格統一とネットワーク拡大に関する重要ニュース。",
+                "score": 80,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "テラチャージが2028年度よりテスラ規格のNACS充電器を導入開始",
+                "2033年度までに国内2500口のNACS対応充電ネットワークを構築",
+                "CHAdeMO主体から北米標準であるNACSへの軸足移行を明確化"
+            ],
+            "insight": "日系EV充電インフラのデファクトスタンダードが、政府主導のCHAdeMOからテスラ主導のNACSへと不可逆的に転換する象徴的事例。テラチャージは充電網の「標準化リスク」をヘッジしつつ、今後輸入される海外製EVの充電需要を確実に取り込む算段だ。ガラパゴス化を回避し、ハードウェアの調達コスト削減と拡張性を両立させる、生存戦略として極めて妥当な判断と言える。"
+        }
+    },
+    {
+        "topic_name": "中国自動車大手7社の業績悪化と競争激化",
+        "article_ids": [
+            189229
+        ],
+        "articles": [
+            {
+                "id": 189229,
+                "title": "中国自動車大手7社が全社減益・赤字、内需縮小で海外競争が本格化 - BigGo ファイナンス",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ydWttQ2lhdFRUS1FETENDa0Zta2Z4S0VKdFFYSmd6azltWnlEY2FhdElrc2RXUmtaNkRHbF9sVlJSN3NHN2R1c200RVhTTVhkWTIxVDBnbEJ4MVBMMkY2YXgwTEF3Q1MzRjJ1Zm5ZeDhoM1Az?oc=5",
+                "published": "Sat, 29 Aug 2026 03:25:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9ydWttQ2lhdFRUS1FETENDa0Zta2Z4S0VKdFFYSmd6azltWnlEY2FhdElrc2RXUmtaNkRHbF9sVlJSN3NHN2R1c200RVhTTVhkWTIxVDBnbEJ4MVBMMkY2YXgwTEF3Q1MzRjJ1Zm5ZeDhoM1Az?oc=5\" target=\"_blank\">中国自動車大手7社が全社減益・赤字、内需縮小で海外競争が本格化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+                "site_name": "BigGo ファイナンス",
+                "primary_category": "Market Analysis",
+                "reason": "中国メーカーの減益と競争激化の構造的分析。",
+                "score": 75,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "中国主要7社が全社減益・赤字という構造的な業績悪化に直面",
+                "国内需要の減退と過剰生産による価格競争の泥沼化",
+                "国内での収益確保が困難となり、海外市場への輸出攻勢を余儀なくされる負の連鎖"
+            ],
+            "insight": "中国市場は「量から質」への転換期を通り越し、現在は過剰設備を抱えた企業による消耗戦の様相を呈しています。内需の減速は不可逆的であり、各社は生き残りをかけ低価格車を世界市場へ押し出しています。今後、中国発の輸出車は先進国市場での貿易摩擦の火種となるだけでなく、グローバルOEMの収益構造を根底から破壊する「価格破壊の波」として脅威となるでしょう。"
+        }
+    },
+    {
+        "topic_name": "オーストラリアでの中国製EV流入抑制議論",
+        "article_ids": [
             672447
         ],
         "articles": [
-            {
-                "id": 568227,
-                "title": "豪極右ワンネーション党首「中国EVの流入抑制」 ワーホリは「問題ない」 - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Sb1I1NmtrenhJc1pmTWJDaVNYSy1YU3dUMkh6WEh3UXR0aU5pQzM1el8yWV8tVnB1M3NaNVZfX1c0SkpsRVBPeThsRXZsVktDRmJkUzdGRkdQR0ZONnN3TDJjV1lCV0tMUDJpaw?oc=5",
-                "published": "Fri, 28 Aug 2026 08:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5Sb1I1NmtrenhJc1pmTWJDaVNYSy1YU3dUMkh6WEh3UXR0aU5pQzM1el8yWV8tVnB1M3NaNVZfX1c0SkpsRVBPeThsRXZsVktDRmJkUzdGRkdQR0ZONnN3TDJjV1lCV0tMUDJpaw?oc=5\" target=\"_blank\">豪極右ワンネーション党首「中国EVの流入抑制」 ワーホリは「問題ない」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-                "site_name": "日本経済新聞",
-                "primary_category": "Policy",
-                "reason": "豪州における中国製EVの輸入制限に関する政治的議論。",
-                "score": 75,
-                "is_highly_important": true
-            },
             {
                 "id": 672447,
                 "title": "豪極右「中国EVの流入抑制」 ワンネーション・ハンソン党首、ワーホリ制度「問題ない」 - 日本経済新聞",
@@ -123,181 +326,36 @@
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBUZm1EeWdOSExQNXB2ZGM2ai1hTkV0SlczVHJrc0JfN2syVkdDdnNLX3VjdmJkajkwUENmaS1sQkdmQXJaSEktTWc3WmJPSFQ3WHFHUlZsOU1hUzNDQjhuck0xMjhCT2NTbUNTMA?oc=5\" target=\"_blank\">豪極右「中国EVの流入抑制」 ワンネーション・ハンソン党首、ワーホリ制度「問題ない」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
                 "site_name": "日本経済新聞",
                 "primary_category": "Policy",
-                "reason": "豪州における中国EV制限議論。再掲。",
-                "score": 75,
+                "reason": "地政学的観点からのEV流入規制の動き。",
+                "score": 70,
                 "is_highly_important": true
             }
         ],
-        "is_grouped": true,
+        "is_grouped": false,
         "analysis": {
             "summary_points": [
-                "豪ワンネーション党首が中国製EV・太陽光パネルの輸入抑制を提唱",
-                "反移民姿勢で知られる政党ながら、ワーホリ制度については現状維持を容認",
-                "豪州自動車市場における中国系ブランド（BYD等）の急伸に対する保護主義的カウンターの兆候"
+                "豪政界における中国製EVへの警戒感の表面化",
+                "安全保障上の懸念と国内産業保護の思惑の交錯",
+                "労働市場（ワーホリ）と自動車通商政策の政治的分離"
             ],
-            "insight": "豪州における中国製EVの普及は、トヨタ等の日本車の牙城を脅かすだけでなく、ポピュリズムを背景とした通商摩擦へと発展しつつある。極右政党の輸入抑制論は、経済安全保障を盾にした保護主義の台頭を象徴しており、豪市場でのビジネス展開には地政学的リスクを考慮したサプライチェーンの見直しが不可避となるだろう。"
+            "insight": "豪州における中国製EV排除論は、単なる環境政策の域を超え、米中デカップリングの余波が資源国へ波及した象徴的事例です。特筆すべきは、車両のコネクテッド機能がデータ主権を脅かすとの懸念です。今後、欧米と同様に『ソフトウェアのブラックボックス化』を理由とした非関税障壁が、豪州市場の新たな参入障壁として機能する公算が高いでしょう。"
         }
     },
     {
-        "topic_name": "デンソーの走行中無線給電実証",
+        "topic_name": "中国シャオペンによるヒューマノイド量産",
         "article_ids": [
-            470265
+            339418
         ],
         "articles": [
             {
-                "id": 470265,
-                "title": "デンソー、走行中のEVへ無線給電 公道でのシステム実証を2027年度に開始 車載技術で小型かつ高効率化 - netdenjd.com",
-                "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zclVqV2M4OS1BTFBoRTVQZ3RPODAxRV9UTnZmOUd6QkZsUnZ4ZndvTzNFejY0b2xRS3Axc2Njd0dXYUk1NE5jMXZxOWpVOWdiUmc?oc=5",
-                "published": "Fri, 28 Aug 2026 08:00:18 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zclVqV2M4OS1BTFBoRTVQZ3RPODAxRV9UTnZmOUd6QkZsUnZ4ZndvTzNFejY0b2xRS3Axc2Njd0dXYUk1NE5jMXZxOWpVOWdiUmc?oc=5\" target=\"_blank\">デンソー、走行中のEVへ無線給電 公道でのシステム実証を2027年度に開始 車載技術で小型かつ高効率化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">netdenjd.com</font>",
+                "id": 339418,
+                "title": "中国・シャオペン、ヒューマノイド量産開始へ 1300億円超を調達 EV製造技術を活用 - netdenjd.com",
+                "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xMlY3aDJZeGF4SUJRLXJyaGUyaXhpWFlqcU1iVW84MUY1UndwRGN5WHhKeEdrVmVTN2ZUazdLT2V2NzFldTFrRW10OFlGMGFuRGc?oc=5",
+                "published": "Fri, 28 Aug 2026 20:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xMlY3aDJZeGF4SUJRLXJyaGUyaXhpWFlqcU1iVW84MUY1UndwRGN5WHhKeEdrVmVTN2ZUazdLT2V2NzFldTFrRW10OFlGMGFuRGc?oc=5\" target=\"_blank\">中国・シャオペン、ヒューマノイド量産開始へ 1300億円超を調達 EV製造技術を活用</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">netdenjd.com</font>",
                 "site_name": "netdenjd.com",
                 "primary_category": "Technology",
-                "reason": "走行中無線給電の実証。技術革新の将来性大。",
-                "score": 80,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "デンソーが走行中ワイヤレス給電の公道実証を2027年度に開始へ",
-                "時速130km走行時で85％の電力変換効率を実現し、車載器の小型化も両立",
-                "EVのバッテリー搭載量削減と長距離走行の両立に向けたインフラ技術を確立"
-            ],
-            "insight": "走行中給電は「バッテリー小型化によるEVの低価格・軽量化」の切り札だが、最大の壁はインフラ設置コストと送電効率にある。デンソーが実効性ある85％の効率を確保した意義は大きい。今後は技術優位性だけでなく、道路インフラとの統合コストをどう社会実装モデルとして描き切れるかが普及の鍵を握る。"
-        }
-    },
-    {
-        "topic_name": "エンシュウのタイ子会社生産停止",
-        "article_ids": [
-            195976
-        ],
-        "articles": [
-            {
-                "id": 195976,
-                "title": "エンシュウ、タイの子会社生産停止 EV化や中国勢台頭で日系企業投資減退：ニュース - 中日BIZナビ",
-                "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BZWRmRFVpLXBYME5ub1R3eXBoMVVGVFcxODFTcnJSUUxPaUVTZWIxZXBiandyV2R3LTZac2pCamVnc2VxYkRnN0lqc3JDanVKMEQ3UGpVUm1SZHVaR1Yw?oc=5",
-                "published": "Fri, 28 Aug 2026 07:43:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BZWRmRFVpLXBYME5ub1R3eXBoMVVGVFcxODFTcnJSUUxPaUVTZWIxZXBiandyV2R3LTZac2pCamVnc2VxYkRnN0lqc3JDanVKMEQ3UGpVUm1SZHVaR1Yw?oc=5\" target=\"_blank\">エンシュウ、タイの子会社生産停止 EV化や中国勢台頭で日系企業投資減退：ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中日BIZナビ</font>",
-                "site_name": "中日BIZナビ",
-                "primary_category": "Market",
-                "reason": "タイにおける日系企業の減退動向。",
-                "score": 70,
-                "is_highly_important": false
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "エンシュウがタイでの工作機械生産を終了し、日本・中国拠点へ集約",
-                "EVシフトと中国勢の台頭により、ASEANにおける日系サプライヤーの設備投資が停滞",
-                "中堅工作機械メーカーにとって、地域密着型生産の維持が困難なビジネス環境へ変化"
-            ],
-            "insight": "タイは長年「東洋のデトロイト」として日系製造業の牙城でしたが、EVシフトによる部品点数削減と中国製工作機械のコスト競争力に直面し、供給網の再編が不可避となっています。今回の撤退は、ASEANにおける旧来の日本型サプライチェーンモデルが、脱炭素と地政学的リスクの中で賞味期限を迎えたことを象徴する出来事です。"
-        }
-    },
-    {
-        "topic_name": "ブラジルEV販売が急増",
-        "article_ids": [
-            61373
-        ],
-        "articles": [
-            {
-                "id": 61373,
-                "title": "ブラジルでEV販売がディーゼル車を逆転: BYDはトヨタ抜き4位に、変わる南米最大市場 (オルタナ) - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOXl4aV9ONEJZUkhIQmxVbHhTQ1VhMGpCMlJhR2I5Zkc2T1B5akpmRHlkTUJTb05PWmlwclZnTU5EUWU5ZUxWVmwxaGZHRDNYSE5zalhfUldRNkpPRkFYaWpmR0ZvajF4d2lCdzJqTzQxWllIcU56d01CbHRFVHB1TlFuaFRxcFBvcTFVU2NB?oc=5",
-                "published": "Fri, 28 Aug 2026 11:00:16 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQOXl4aV9ONEJZUkhIQmxVbHhTQ1VhMGpCMlJhR2I5Zkc2T1B5akpmRHlkTUJTb05PWmlwclZnTU5EUWU5ZUxWVmwxaGZHRDNYSE5zalhfUldRNkpPRkFYaWpmR0ZvajF4d2lCdzJqTzQxWllIcU56d01CbHRFVHB1TlFuaFRxcFBvcTFVU2NB?oc=5\" target=\"_blank\">ブラジルでEV販売がディーゼル車を逆転: BYDはトヨタ抜き4位に、変わる南米最大市場 (オルタナ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-                "site_name": "Yahoo!ニュース",
-                "primary_category": "Market",
-                "reason": "ブラジル市場でのEV販売動向。競合シェア変動。",
-                "score": 75,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "ブラジル市場でEV販売がディーゼル車を追い抜き、動力源の構造転換が加速",
-                "BYDがトヨタの販売台数を抜き4位に浮上し、中国勢が市場の勢力図を塗り替え中",
-                "南米最大の自動車市場における競争軸が、伝統的なエンジン車からEVへ急速にシフト"
-            ],
-            "insight": "ブラジルでのBYD躍進は、中国EV勢が新興国市場を「技術の輸出先」から「支配拠点」へと格上げしている証左だ。日系メーカーが過去の成功体験に縛られ、脱炭素の過渡期をハイブリッドのみで凌ごうとする間に、中国はスマホEVで培った圧倒的なコスパとスピード感でシェアを強奪している。もはや南米も、中国車による『黒船的席巻』の例外ではない。"
-        }
-    },
-    {
-        "topic_name": "大洲市の災害時EV電源活用協定",
-        "article_ids": [
-            29067
-        ],
-        "articles": [
-            {
-                "id": 29067,
-                "title": "大洲市 災害時にＥＶを電源として活用 自動車販売会社と協定 - NHKニュース",
-                "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xb1ZHX1RZTzJyb3hOLVU0SzhsMzNISnBkQ1ZudEdqNi1HMVBxbmJxTWIxMGwtd0R1UVVSSFVnazMtS01RdzBySEJRVXRnWndfSmxZZGtMR3k?oc=5",
-                "published": "Thu, 27 Aug 2026 21:15:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xb1ZHX1RZTzJyb3hOLVU0SzhsMzNISnBkQ1ZudEdqNi1HMVBxbmJxTWIxMGwtd0R1UVVSSFVnazMtS01RdzBySEJRVXRnWndfSmxZZGtMR3k?oc=5\" target=\"_blank\">大洲市 災害時にＥＶを電源として活用 自動車販売会社と協定</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NHKニュース</font>",
-                "site_name": "NHKニュース",
-                "primary_category": "Infrastructure",
-                "reason": "地域固有の防災用EV利活用協定。自治体レベルの一次情報。",
-                "score": 80,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "愛媛県大洲市と自動車販売会社による災害時EV電源活用協定の締結",
-                "災害避難所におけるエアコン等の電力確保という喫緊の課題への対応",
-                "自治体と民間ネットワークを連携させたレジリエンス強化のモデルケース"
-            ],
-            "insight": "災害大国日本において、EVは単なる移動手段から『走る蓄電池』へと役割が再定義されている。大洲市の取り組みは、地域密着型のディーラー網を防災インフラとして組み込む点で非常に合理的だ。今後は単なる協定にとどまらず、V2H充放電器の設置拡大や避難所配備の迅速化といった、供給網の物理的な実装レベルでの検証が必須となるだろう。"
-        }
-    },
-    {
-        "topic_name": "トランプ大統領のGM電動化批判",
-        "article_ids": [
-            845304
-        ],
-        "articles": [
-            {
-                "id": 845304,
-                "title": "【電子版】「完全な電動化うまくいかない」トランプ大統領、GMを批判 - 日刊工業新聞",
-                "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1melYxRHlrQXRCa0doSS1qT0lLMTd0czN2eS1udWhXWHdrMHFCc3E3NlNlN1lVbUN2dWlTdGJHUE1hOUlMSlpKTEtpT3JCOTFhM2NXQTlkWGxTb3Z2MjNJeDRQNnVVa1RqbHZyaC1xOA?oc=5",
-                "published": "Fri, 28 Aug 2026 14:46:18 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1melYxRHlrQXRCa0doSS1qT0lLMTd0czN2eS1udWhXWHdrMHFCc3E3NlNlN1lVbUN2dWlTdGJHUE1hOUlMSlpKTEtpT3JCOTFhM2NXQTlkWGxTb3Z2MjNJeDRQNnVVa1RqbHZyaC1xOA?oc=5\" target=\"_blank\">【電子版】「完全な電動化うまくいかない」トランプ大統領、GMを批判</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日刊工業新聞</font>",
-                "site_name": "日刊工業新聞",
-                "primary_category": "Policy",
-                "reason": "米大統領候補によるEV政策への批判。政治的動向として極めて重要。",
-                "score": 95,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "トランプ氏によるEVシフトへの強硬な再評価要求",
-                "GMの経営戦略と米政権のエネルギー政策の乖離",
-                "EV補助金撤廃と内燃機関回帰を求める政治的圧力"
-            ],
-            "insight": "トランプ氏の批判は単なるEV嫌悪ではなく、ラストベルトの労働者票を固めるための『エネルギー安全保障の政治化』です。GMは巨額投資を断行済みであり、政権交代で補助金が縮小すれば、EVの収益化は極めて困難になります。自動車メーカーは、市場原理と政治リスクの間で、ハイブリッドへの回帰という『現実的避難先』の再構築を迫られています。"
-        }
-    },
-    {
-        "topic_name": "厚沢部町の道の駅へのEV導入",
-        "article_ids": [
-            6425
-        ],
-        "articles": [
-            {
-                "id": 6425,
-                "title": "【厚沢部】まちづくりに中学生の発想／道の駅に電気自動車導入を - e-kensin.net",
-                "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CaWtBWV9hSEhRcnc1NkJIYldDUnY0NXgzZENzc2dqOXlpRlhYMWxrZXBHMUYwcVNYNS0tSzNjTzM2ajdpZFNKVWZkcVY?oc=5",
-                "published": "Fri, 28 Aug 2026 23:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CaWtBWV9hSEhRcnc1NkJIYldDUnY0NXgzZENzc2dqOXlpRlhYMWxrZXBHMUYwcVNYNS0tSzNjTzM2ajdpZFNKVWZkcVY?oc=5\" target=\"_blank\">【厚沢部】まちづくりに中学生の発想／道の駅に電気自動車導入を</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">e-kensin.net</font>",
-                "site_name": "e-kensin.net",
-                "primary_category": "Infrastructure",
-                "reason": "地域固有のEV導入プロジェクト。",
+                "reason": "EV製造技術を活用したロボティクス産業への参入。",
                 "score": 70,
                 "is_highly_important": true
             }
@@ -305,11 +363,11 @@
         "is_grouped": false,
         "analysis": {
             "summary_points": [
-                "中学生の提案を起点とした地方自治体によるEV導入プロジェクトの実現",
-                "点在する観光資源を繋ぐ移動課題に対するボトムアップ型のモビリティ活用",
-                "若年層による地域課題への関与と行政による予算付けという合意形成モデル"
+                "シャオペンが1300億円超を調達し、EV量産ノウハウを応用したヒューマノイドの本格生産へ参入",
+                "自動運転技術やモーター制御など、EVの知能化プロセスがそのままロボット開発のR&Dに直結",
+                "中国政府の産業政策とリンクした、次世代製造業の垂直統合モデルの構築"
             ],
-            "insight": "単なるEV導入ではなく、観光地が点在する厚沢部の地域特性に対し、移動のボトルネックを解消する現実的な解として若者が提示した点に意義がある。行政が中学生の発想を予算化するプロセスは、縮小する地方の持続可能性に対し、住民起点のモビリティ・マネジメントがいかに機能しうるかを示す好例だ。"
+            "insight": "自動車メーカーによるロボット参入は、単なる多角化ではない。EV開発で培ったセンサーフュージョンとAI推論の知見を、ハードウェアの『歩行・動作』に転換する合理的な技術転用だ。テスラに追随する形で、シャオペンはサプライチェーンの共通化によりコスト競争力を劇的に高め、労働力不足と製造コスト高騰に苦しむ中国製造業のラストピースを埋めにきている。"
         }
     }
 ]

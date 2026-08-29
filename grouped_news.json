@@ -1,0 +1,83 @@
+[
+    {
+        "topic_name": "ソニーEV事業元統括部長の不当解雇訴訟",
+        "article_ids": [
+            657455,
+            235751
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "トヨタの中国における次世代EV先行生産",
+        "article_ids": [
+            406763,
+            537314
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "BYDの2026年上半期減益と国内不振",
+        "article_ids": [
+            538425,
+            825370,
+            190927
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "ブラジルのEV販売台数ディーゼル車逆転",
+        "article_ids": [
+            623312
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "タイの公共交通等7種類EV化計画",
+        "article_ids": [
+            881203
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "ウッド・マッケンジーによる2040年EV保有台数予測",
+        "article_ids": [
+            951921
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "インドネシアEV市場での中国勢競争",
+        "article_ids": [
+            653614
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "テラチャージのNACS対応充電器導入計画",
+        "article_ids": [
+            868867
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "中国自動車大手7社の業績悪化と競争激化",
+        "article_ids": [
+            189229
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "オーストラリアでの中国製EV流入抑制議論",
+        "article_ids": [
+            672447
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "中国シャオペンによるヒューマノイド量産",
+        "article_ids": [
+            339418
+        ],
+        "is_grouped": false
+    }
+]
