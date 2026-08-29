@@ -1,0 +1,69 @@
+[
+    {
+        "topic_name": "中国BYDの2026年1～6月期決算減益",
+        "article_ids": [
+            451252,
+            825370
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "トヨタの次世代EV中国先行生産計画",
+        "article_ids": [
+            537314,
+            507130,
+            748532
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "豪ワンネーション党首による中国EV流入抑制主張",
+        "article_ids": [
+            568227,
+            672447
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "デンソーの走行中無線給電実証",
+        "article_ids": [
+            470265
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "エンシュウのタイ子会社生産停止",
+        "article_ids": [
+            195976
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "ブラジルのEV販売市場動向",
+        "article_ids": [
+            61373
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "大洲市の災害時EV電源活用協定",
+        "article_ids": [
+            29067
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "トランプ大統領のGM電動化批判",
+        "article_ids": [
+            845304
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "厚沢部町の道の駅へのEV導入",
+        "article_ids": [
+            6425
+        ],
+        "is_grouped": false
+    }
+]
