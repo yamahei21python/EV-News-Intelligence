@@ -1,33 +1,49 @@
 [
     {
-        "topic_name": "東南アジアにおける中国EVの現地生産・部品調達要求",
+        "topic_name": "EVバス車両トラブルに伴う大阪メトロの計画見直し",
         "article_ids": [
-            691649,
-            317040,
-            728601
+            817377
         ],
         "articles": [
             {
-                "id": 691649,
-                "title": "中国EVの現地生産・部品調達、東南アジアが要求 輸入から普及へ - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85NlJ1YjJpWlhUNm9PQzVyZFBWZGRad08tNDBNTkFBRWFoMndrVVJ5akI0ZGlBQVowNzZsZ0lKWEczZU91Sm5rY2xEdmRxbjRocW50amtaTjYtRkRYZnBERlFibTVzY2NtTVVrZg?oc=5",
-                "published": "Sun, 30 Aug 2026 20:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE85NlJ1YjJpWlhUNm9PQzVyZFBWZGRad08tNDBNTkFBRWFoMndrVVJ5akI0ZGlBQVowNzZsZ0lKWEczZU91Sm5rY2xEdmRxbjRocW50amtaTjYtRkRYZnBERlFibTVzY2NtTVVrZg?oc=5\" target=\"_blank\">中国EVの現地生産・部品調達、東南アジアが要求 輸入から普及へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-                "site_name": "日本経済新聞",
-                "primary_category": "Supply Chain",
-                "reason": "東南アジアにおけるEVサプライチェーンの戦略的動向。",
+                "id": 817377,
+                "title": "大阪メトロ、路線バスEV化見直しへ 万博期間中にトラブル続出（毎日新聞） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ueUpsdHREaHBwUl9DVjgwSGhrbkZPZmtJS21Ta1VDV2ZlcnhJSzNlTUt3WHRRbW1kc2hoV2g0RnZGTUJOQjB4OElMdGhDYUxoczdMSjVvdDM4ZDkxbml0Vi1vOWFOMEpQV2VfdW9qanA4VmlBRE5BNzJWM05GRHc?oc=5",
+                "published": "Tue, 01 Sep 2026 08:55:09 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1ueUpsdHREaHBwUl9DVjgwSGhrbkZPZmtJS21Ta1VDV2ZlcnhJSzNlTUt3WHRRbW1kc2hoV2g0RnZGTUJOQjB4OElMdGhDYUxoczdMSjVvdDM4ZDkxbml0Vi1vOWFOMEpQV2VfdW9qanA4VmlBRE5BNzJWM05GRHc?oc=5\" target=\"_blank\">大阪メトロ、路線バスEV化見直しへ 万博期間中にトラブル続出（毎日新聞）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Supply Chain/Policy",
+                "reason": "公共EV導入のトラブルと見直しに関する重要情報。",
                 "score": 85,
                 "is_highly_important": true
-            },
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "EVバスの万博期間中のトラブル多発を受け、大阪メトロが2035年度までの全車両EV化計画を事実上の断念へ",
+                "EVモーターズ・ジャパン製車両を中心に832件もの不具合が発生し、路線バス転用計画が白紙に",
+                "国産EVバスの供給力不足と航続距離等の性能課題が露呈し、全国の路線バス脱炭素戦略にブレーキ"
+            ],
+            "insight": "EVバス導入の失敗は、単なる機材トラブルを超え、公共交通の「安全性と定時性」に対する過度な楽観論への警鐘です。メーカー側の品質管理能力不足に加え、オペレーション側の急激な移行計画が仇となりました。今後は、スペック偏重の調達から、実運用環境に即した堅牢性を重視した選定へ、バス業界全体の潮流が変わる契機となるでしょう。"
+        }
+    },
+    {
+        "topic_name": "東南アジアにおける中国製EVへの規制強化と物品税見直し",
+        "article_ids": [
+            946821,
+            317040
+        ],
+        "articles": [
             {
-                "id": 728601,
-                "title": "【日タイ 友好の現在地㊤】EV推進 中国車に勢い、日本防戦 - 西日本新聞me",
-                "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHWi1sYTFtVDE4OWxqaUNDWmFlVllvOW5ndlBkTlRLcllib3hlRS1MN1NQOU1lb1B4XzhGQkpvdi1EbkU3UXFvc0xmRHpKakxmZUE4YkhR?oc=5",
-                "published": "Mon, 31 Aug 2026 21:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHWi1sYTFtVDE4OWxqaUNDWmFlVllvOW5ndlBkTlRLcllib3hlRS1MN1NQOU1lb1B4XzhGQkpvdi1EbkU3UXFvc0xmRHpKakxmZUE4YkhR?oc=5\" target=\"_blank\">【日タイ 友好の現在地㊤】EV推進 中国車に勢い、日本防戦</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">西日本新聞me</font>",
-                "site_name": "西日本新聞me",
-                "primary_category": "Global Market",
-                "reason": "タイ市場での日本勢と中国勢の激戦。",
+                "id": 946821,
+                "title": "【車両】タイ政府、自動車の物品税制度を抜本見直しへ EV普及と投資維持両立狙う - バンコク週報",
+                "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kdktLZ0xwMEhuTGFuN1RZMDZrR1d2QlVFTzFCczJYbExxaHliOFZyNUhCQTAzM211YWRTOUlvSTh0MFpyek5aaTFyaW5oVThw?oc=5",
+                "published": "Tue, 01 Sep 2026 07:56:36 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kdktLZ0xwMEhuTGFuN1RZMDZrR1d2QlVFTzFCczJYbExxaHliOFZyNUhCQTAzM211YWRTOUlvSTh0MFpyek5aaTFyaW5oVThw?oc=5\" target=\"_blank\">【車両】タイ政府、自動車の物品税制度を抜本見直しへ EV普及と投資維持両立狙う</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">バンコク週報</font>",
+                "site_name": "バンコク週報",
+                "primary_category": "Policy",
+                "reason": "税制見直しと投資環境の変化。",
                 "score": 80,
                 "is_highly_important": true
             },
@@ -39,7 +55,7 @@
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ydmd3RmQ5aE1heHVsQkZFVGlNWHBYajBDTGtESE5GSDBtNzAtVTJ1Z3EybnFfcjI3NE9yVlIxY0diQklESEtES3BrNWttdGhxeURFVUlDS3pFbjBLYlVSTEh5UktUZ0p1RkxVMg?oc=5\" target=\"_blank\">東南ア、中国EV輸入厳しく 市場席巻、自国ブランド保護 マレーシアやタイ、規制や税負担増</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
                 "site_name": "日本経済新聞",
                 "primary_category": "Policy",
-                "reason": "東南アジアの保護主義的なEV政策。",
+                "reason": "東南アジアにおける保護主義の台頭。",
                 "score": 80,
                 "is_highly_important": true
             }
@@ -47,321 +63,53 @@
         "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "東南アジア各国が中国EVへの門戸を狭め、現地生産および現地部品調達を条件化する政策へと転換。",
-                "低価格な中国車の流入によりシェアを奪われた各国が、自国の産業・雇用を守るための保護主義的措置を強化。",
-                "タイやマレーシアが先行し、輸入規制や税制優遇の条件を厳格化することで、単なる販売市場から製造拠点への転換を迫る。"
+                "タイ・マレーシア等の東南アジア諸国が、安価な中国製EVの輸入ラッシュに対し、物品税や輸入規制を通じて保護主義的な介入を強化。",
+                "「EV普及」と「国内生産・雇用維持」の両立を図るため、単なる販売優遇から、現地生産や部品調達を必須条件とする政策転換へ移行。",
+                "政策の不透明感が投資家や日系メーカーの生産計画にリスクをもたらしており、制度の「継続性と一貫性」が最優先課題となっている。"
             ],
-            "insight": "中国EVは価格破壊で市場を席巻しましたが、ASEAN諸国は『市場としての開放』から『自国産業の育成』へフェーズを移行させました。かつての日本車が辿った現地化の道を中国勢にも強制することで、地産地消のサプライチェーン再編が加速します。これは、中国車の安値攻勢を封じつつ、技術移転を促すしたたかな産業防衛戦術です。"
+            "insight": "東南アジアは、中国勢によるEV市場席巻に対し『市場開放』から『育成保護』へ舵を切った。これは単なる関税障壁ではなく、サプライチェーンの現地化を強制する高度な産業政策である。日系メーカーにとっては、既存のICE（内燃機関）の強みを維持しつつ、EVシフトの現地ルールにどう適応するか、難しいバランス調整が今後数年の勝敗を分ける。"
         }
     },
     {
-        "topic_name": "タイにおける自動車物品税の大規模構造見直し",
+        "topic_name": "防災の日におけるEVを用いたエレベーター非常用電源の実証",
         "article_ids": [
-            124182
+            653115,
+            785786
         ],
         "articles": [
             {
-                "id": 124182,
-                "title": "タイ政府、自動車物品税の大規模な構造見直しを指示 EV・ハイブリッド・内燃機関を網羅 - BigGo ファイナンス",
-                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYZVZMVGttMGdScUhObWliOHdUamN1bklyZ0lPemk0Um5IbElKdE5ob1MzT3ZPXzIyMHNQclhfbDJKVHBuNGZ4VGpFUzljMTA0TmVxZDNTUFE4VkZ2ekdIMG1WNmlnX3ZCQXNqR3pWV2tVeUR2?oc=5",
-                "published": "Mon, 31 Aug 2026 18:40:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBYZVZMVGttMGdScUhObWliOHdUamN1bklyZ0lPemk0Um5IbElKdE5ob1MzT3ZPXzIyMHNQclhfbDJKVHBuNGZ4VGpFUzljMTA0TmVxZDNTUFE4VkZ2ekdIMG1WNmlnX3ZCQXNqR3pWV2tVeUR2?oc=5\" target=\"_blank\">タイ政府、自動車物品税の大規模な構造見直しを指示 EV・ハイブリッド・内燃機関を網羅</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
-                "site_name": "BigGo ファイナンス",
-                "primary_category": "Policy",
-                "reason": "タイの自動車税制改革。",
-                "score": 85,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "物品税の抜本的見直しによる国内生産基盤の保護とEV・環境対応車ハブ化の推進",
-                "FTA利用の輸入車と国内生産車間の競争格差是正を狙った公平性確保の再構築",
-                "サプライチェーンを基礎部品からバッテリー・モーター等、高付加価値技術へ転換"
-            ],
-            "insight": "タイは「アジアのデトロイト」の賞味期限切れを自覚した。今回の構造改革の真意は、単なる税率調整ではなく、EVシフトによるサプライチェーン断絶への危機感である。輸入車優遇を是正し、現地生産を「条件付き」で強いることで、部品メーカーの技術移行を強制。日系OEMに対し、中途半端な電動化から踏み込んだ現地調達化を迫る極めて政治的な布石と言える。"
-        }
-    },
-    {
-        "topic_name": "EV充電の自動認証技術「Plug&Charge」の日本普及",
-        "article_ids": [
-            690946
-        ],
-        "articles": [
-            {
-                "id": 690946,
-                "title": "簡単EV充電の「Plug&Charge」日本普及へ、独Hubjectとプラゴがパートナーシップ締結 - レスポンス（Response.jp）",
-                "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDNlo1Ym5SdDRRdGZIQVV2RzhPZ0hQVThqb09zNExfWk5zWVVmTDkwaTZtNWRJcFNVQTI5OXFHZzdtY3NWYnhHd2tiYW1MTDRqMWVkVGVMOEwtVEQ3VEhv?oc=5",
-                "published": "Mon, 31 Aug 2026 02:15:03 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDNlo1Ym5SdDRRdGZIQVV2RzhPZ0hQVThqb09zNExfWk5zWVVmTDkwaTZtNWRJcFNVQTI5OXFHZzdtY3NWYnhHd2tiYW1MTDRqMWVkVGVMOEwtVEQ3VEhv?oc=5\" target=\"_blank\">簡単EV充電の「Plug&amp;Charge」日本普及へ、独Hubjectとプラゴがパートナーシップ締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
-                "site_name": "レスポンス（Response.jp）",
-                "primary_category": "Infrastructure",
-                "reason": "充電規格・連携に関するインフラ動向。",
-                "score": 70,
-                "is_highly_important": false
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "Hubjectとプラゴの提携による「Plug&Charge」の日本展開",
-                "充電操作（認証・決済）の完全自動化によるUXの抜本的改善",
-                "EV普及の心理的ハードルである充電手間を解消するインフラ標準化の端緒"
-            ],
-            "insight": "本提携は、単なる利便性向上以上の意味を持つ。EV充電のペインポイントである「アプリやカードの煩雑さ」を解消し、ガソリン車と同等の給油体験を実現することは、日本市場のEV移行を加速させる絶対条件だ。技術の標準化が進むことで、充電インフラの垂直統合が加速し、プレイヤー間のシェア争いは『設置数』から『体験価値』へとシフトする。"
-        }
-    },
-    {
-        "topic_name": "中国EVメーカーによる南アフリカ市場開拓",
-        "article_ids": [
-            308043
-        ],
-        "articles": [
-            {
-                "id": 308043,
-                "title": "中国自動車各社、南アでＥＶ需要層とピックアップ市場の攻略狙う (ロイター) - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVVZxTGd0SXBpdGtPQi1MbV9DeE5zdEdqRHFmVW51c2NiNzMza1ZDcklrZElsUWRTTkpTTlp4SjFpVDUyamxFeW1wblBrTEdQVjVVZ2llRzUtaVZRdm56dXNEby1ZdjVGenREN0czYXN1ZEN0ZExWSmhuSERxd3dodHoxNHNFTEZ6a3MzQ1Bn?oc=5",
-                "published": "Mon, 31 Aug 2026 04:47:15 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOVVZxTGd0SXBpdGtPQi1MbV9DeE5zdEdqRHFmVW51c2NiNzMza1ZDcklrZElsUWRTTkpTTlp4SjFpVDUyamxFeW1wblBrTEdQVjVVZ2llRzUtaVZRdm56dXNEby1ZdjVGenREN0czYXN1ZEN0ZExWSmhuSERxd3dodHoxNHNFTEZ6a3MzQ1Bn?oc=5\" target=\"_blank\">中国自動車各社、南アでＥＶ需要層とピックアップ市場の攻略狙う (ロイター)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-                "site_name": "Yahoo!ニュース",
-                "primary_category": "Global Market",
-                "reason": "中国メーカーの海外市場開拓戦略。",
-                "score": 75,
-                "is_highly_important": false
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "中国EVメーカーが南アフリカをアフリカ大陸攻略の橋頭堡と位置づけ",
-                "現地で圧倒的シェアを誇るピックアップトラック市場の電動化と高級EV需要の二段構え",
-                "欧米メーカーが足踏みする中、安価かつ先進的なEVでシェア急拡大を画策"
-            ],
-            "insight": "南ア市場への中国勢の攻勢は、単なる輸出拡大ではなく、欧米市場の貿易障壁を迂回するサプライチェーン再編の布石だ。特にピックアップ車は現地のライフラインであり、ここを中国製EVが制圧できれば、中東・アフリカ全体への影響力は決定的なものとなる。日欧メーカーの防衛策が試される正念場だ。"
-        }
-    },
-    {
-        "topic_name": "インドネシアの国産EV育成計画",
-        "article_ids": [
-            262530
-        ],
-        "articles": [
-            {
-                "id": 262530,
-                "title": "越ビンが触発、インドネシアに国産EV計画 逆風でも育成 - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uR3NwaUtCTDJDOU0zNURtLWhBQ3ZEZGNtazBwZHpfblJqTmVjalEyYVJld0t0RjRPSU5pNTh0V2kwN1R0THM2QkJuQ3Z3Z1gzdlNHdWhOLVc4Q18tbkE4ZVJ3Zzh1SEdKWFlCOTB0N0ZMZFNOek5md1Q4cGo2b3M?oc=5",
-                "published": "Mon, 31 Aug 2026 20:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5uR3NwaUtCTDJDOU0zNURtLWhBQ3ZEZGNtazBwZHpfblJqTmVjalEyYVJld0t0RjRPSU5pNTh0V2kwN1R0THM2QkJuQ3Z3Z1gzdlNHdWhOLVc4Q18tbkE4ZVJ3Zzh1SEdKWFlCOTB0N0ZMZFNOek5md1Q4cGo2b3M?oc=5\" target=\"_blank\">越ビンが触発、インドネシアに国産EV計画 逆風でも育成</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-                "site_name": "日本経済新聞",
-                "primary_category": "Global Market",
-                "reason": "新興国の国産EV育成政策。",
-                "score": 70,
-                "is_highly_important": false
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "インドネシア政府による国家主導のEV国産ブランド「モリナス」構想の始動",
-                "ベトナムのビンファストの成功をモデルにした二輪から四輪への段階的拡大戦略",
-                "90年代の挫折経験を教訓に、政府系金融による強力な販売支援と供給網の囲い込みを強化"
-            ],
-            "insight": "インドネシアの狙いは資源国から製造国への転換だが、競争の要諦は調達網のローカル化だ。中国勢との合弁を梃子に技術を吸い上げつつ、二輪からの市場浸透は極めて現実的。ただし、既存の日本メーカーが強固に築いたサプライチェーンをどう切り崩すか、あるいは共存させるか。国家プロジェクト特有の非効率を排除できるかが成否を分ける。"
-        }
-    },
-    {
-        "topic_name": "TDKとポルシェによるフォーミュラEを通じた技術開発",
-        "article_ids": [
-            521237
-        ],
-        "articles": [
-            {
-                "id": 521237,
-                "title": "TDK｢EVのF1｣でポルシェと鍛錬 電子部品､量販車に活用 - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qMTdJbnpacTJSc0VGOTJ0MHZQUFc2LUNvaS0yZ01HRElmdVg0bU1EYXAzOVg1TWtheF9pQzlUZVVXcFhieXBoT1hiN2JEblpTc0dLS29tNHFhWndHdWw0OG5sVEw0bjFxeFhkVTljY0VFNUtWZlpIcm45S3hiOUE?oc=5",
-                "published": "Mon, 31 Aug 2026 20:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9qMTdJbnpacTJSc0VGOTJ0MHZQUFc2LUNvaS0yZ01HRElmdVg0bU1EYXAzOVg1TWtheF9pQzlUZVVXcFhieXBoT1hiN2JEblpTc0dLS29tNHFhWndHdWw0OG5sVEw0bjFxeFhkVTljY0VFNUtWZlpIcm45S3hiOUE?oc=5\" target=\"_blank\">TDK｢EVのF1｣でポルシェと鍛錬 電子部品､量販車に活用</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-                "site_name": "日本経済新聞",
-                "primary_category": "Supply Chain",
-                "reason": "部品メーカーとOEMの共同開発。",
-                "score": 75,
-                "is_highly_important": false
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "TDKがフォーミュラEをSDV向け高性能電子部品の開発実験場として活用",
-                "極限環境下での知見を蓄積し、量販車向け製品の信頼性・競争力を強化",
-                "ポルシェとの技術提携により、欧州OEMの求める高密度化要求への先回り対応"
-            ],
-            "insight": "SDV時代において、電子部品は車両の差別化を決定づける心臓部です。TDKが単なるサプライヤーに留まらず、ポルシェとレースで共同開発を行う意義は『極限負荷における耐久性の早期証明』にあります。高密度化が進む車載基板において、設計思想を実装レベルで共有し、開発サイクルを短縮化する戦略は極めて巧妙かつ必然的です。"
-        }
-    },
-    {
-        "topic_name": "EXORPHIAと住友化学のEV細胞外小胞品質管理技術開発",
-        "article_ids": [
-            9427
-        ],
-        "articles": [
-            {
-                "id": 9427,
-                "title": "EXORPHIA、住友化学とオミクス解析を活用したEV品質管理技術の共同開発を開始 - PR TIMES",
-                "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JNVVNTDQtMkJFOExYQnNNZnVOaW9yckFfckxES2xxamt6U0stVHV1d29jSnRuUUpwQVVvNDRSOHQyTlU4ZnNVMVpGSHp6VjhUNTJaYnVxb3RiUmw4TVYzcG8xMVQyQklpNGc?oc=5",
-                "published": "Mon, 31 Aug 2026 02:00:34 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9JNVVNTDQtMkJFOExYQnNNZnVOaW9yckFfckxES2xxamt6U0stVHV1d29jSnRuUUpwQVVvNDRSOHQyTlU4ZnNVMVpGSHp6VjhUNTJaYnVxb3RiUmw4TVYzcG8xMVQyQklpNGc?oc=5\" target=\"_blank\">EXORPHIA、住友化学とオミクス解析を活用したEV品質管理技術の共同開発を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+                "id": 653115,
+                "title": "【9月1日 防災の日】ダイコー、EV電力を活用する「BCP対策エレベーター」の販売を開始 - PR TIMES",
+                "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4Y2FiUWRIblY1QnNpdTRwakNSakxOa3pENFRyM0hlMVJMWUhHT2ota3hySWRQQTQ0RjdXUXhWa1VXMHM2d1BseEZXeUprUGtVa3VadWlTVlhOTUdoRG5qTWRVVmNaQXROdUE?oc=5",
+                "published": "Tue, 01 Sep 2026 03:00:02 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFA4Y2FiUWRIblY1QnNpdTRwakNSakxOa3pENFRyM0hlMVJMWUhHT2ota3hySWRQQTQ0RjdXUXhWa1VXMHM2d1BseEZXeUprUGtVa3VadWlTVlhOTUdoRG5qTWRVVmNaQXROdUE?oc=5\" target=\"_blank\">【9月1日 防災の日】ダイコー、EV電力を活用する「BCP対策エレベーター」の販売を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
                 "site_name": "PR TIMES",
-                "primary_category": "Technology",
-                "reason": "異業種連携による品質管理技術の開発。",
+                "primary_category": "Technology/Infrastructure",
+                "reason": "BCP対策としてのV2X技術実用化事例。",
+                "score": 70,
+                "is_highly_important": false
+            },
+            {
+                "id": 785786,
+                "title": "「防災の日」に集合住宅エレベータを電気自動車で駆動、新電元工業と辰巳菱機が都内高層マンションでV2X充放電器の防災ソリューション実証に成功！ - PR TIMES",
+                "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xZTFoeGh2UVRIRmdmY1pCTWhWLXladUd1OUlqbHJJd2Q3cWRSSGI1VWFQUUJ0V0xLOVF1T3VwT0xNOVd1dnB6UXdUakIyMmhET1V2Z2JUQVBBbVBvUUtSOVJGZkRPa1ZoLWc?oc=5",
+                "published": "Tue, 01 Sep 2026 10:10:02 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE0xZTFoeGh2UVRIRmdmY1pCTWhWLXladUd1OUlqbHJJd2Q3cWRSSGI1VWFQUUJ0V0xLOVF1T3VwT0xNOVd1dnB6UXdUakIyMmhET1V2Z2JUQVBBbVBvUUtSOVJGZkRPa1ZoLWc?oc=5\" target=\"_blank\">「防災の日」に集合住宅エレベータを電気自動車で駆動、新電元工業と辰巳菱機が都内高層マンションでV2X充放電器の防災ソリューション実証に成功！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
+                "site_name": "PR TIMES",
+                "primary_category": "Technology/Infrastructure",
+                "reason": "V2Xの防災活用実証実験。",
                 "score": 70,
                 "is_highly_important": false
             }
         ],
-        "is_grouped": false,
+        "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "EV(細胞外小胞)の実用化における最大の壁である『品質管理の標準化』に共同で着手",
-                "エクソーフィアの製造技術と住友化学のオミクス解析技術を掛け合わせ、多次元的な品質評価基準を策定",
-                "科学的エビデンスに基づく品質保証体制を構築し、医薬品・生殖医療への実装を加速させる狙い"
+                "EVのV2X活用が『移動手段』から『産業インフラ維持装置』へと完全に転換した",
+                "三相三線式200Vへの対応により、エレベーターやポンプ等の産業設備駆動を実現した",
+                "非常用発電機の代替として、導入コストや燃料管理の課題を解決するソリューションとして台頭"
             ],
-            "insight": "EV分野は「製造のバラつき」が社会実装を阻む最大の障壁だが、化学大手が本腰を入れる点は非常に重い。オミクス解析による網羅的データ化は、ブラックボックス化しやすいEVの特性を製造業の管理指標へと昇華させる試みだ。これは単なる共同開発ではなく、将来的なEV製品の国際的な品質規格をリードするための布石と見るべきだろう。"
-        }
-    },
-    {
-        "topic_name": "使用済みEVバッテリーを活用した蓄電システムの実証",
-        "article_ids": [
-            677816
-        ],
-        "articles": [
-            {
-                "id": 677816,
-                "title": "グリーンコープや日野自動車ら4社、使用済みEVバッテリーを活用した定置用蓄電システムの実証検討を開始 - LIGARE（リガーレ）",
-                "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MUHhXRzMtZDB0ckpWcXN5Y256bnRTNWNiVWdtaFhLNEJoWFI2cmJETFZCMEhZd0U5WXFza0h1dGt1dC1yUm9SY2VzdlloTkduTFYzM1VXQ0s?oc=5",
-                "published": "Mon, 31 Aug 2026 23:31:18 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MUHhXRzMtZDB0ckpWcXN5Y256bnRTNWNiVWdtaFhLNEJoWFI2cmJETFZCMEhZd0U5WXFza0h1dGt1dC1yUm9SY2VzdlloTkduTFYzM1VXQ0s?oc=5\" target=\"_blank\">グリーンコープや日野自動車ら4社、使用済みEVバッテリーを活用した定置用蓄電システムの実証検討を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LIGARE（リガーレ）</font>",
-                "site_name": "LIGARE（リガーレ）",
-                "primary_category": "Sustainability",
-                "reason": "使用済みバッテリー再利用の循環型スキーム。",
-                "score": 75,
-                "is_highly_important": false
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "EV商用車と定置用蓄電池の循環エコシステム構築の具体化",
-                "サプライチェーンを跨いだ異業種連携による残存価値の最大化",
-                "バッテリーライフサイクルの延長によるカーボンニュートラル経営の実現"
-            ],
-            "insight": "単なる電池のリユースを超え、商用車の稼働データと定置用運用の最適化を掛け合わせる点が肝。EVシフトの本丸は車両販売後の『電池寿命管理』にあり、静脈物流をビジネスモデル化する先行事例。今後は再利用コストの低減と、VPP連携による経済性確保が普及の鍵を握るだろう。"
-        }
-    },
-    {
-        "topic_name": "EV市場の減速と世界戦略",
-        "article_ids": [
-            572129,
-            27943,
-            618863,
-            23466,
-            973099,
-            312691,
-            54365
-        ],
-        "articles": [
-            {
-                "id": 572129,
-                "title": "国内NEV比率が約7割に達した中国、EVシフトに流された海外メーカー - 日経クロステック",
-                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83NlFuNTFoRVd5Y0JLWHpQbHVXTkRKVlROajNSdEFnc19WZzJyRDZFbTU1M2NDVjJXenRQWTBYdnJoZUJXRWxqeXlJd1JqZENVa01KV2dtQXhyWHJveFlEOTVmdVFXdlFudGN1Qg?oc=5",
-                "published": "Sun, 30 Aug 2026 20:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE83NlFuNTFoRVd5Y0JLWHpQbHVXTkRKVlROajNSdEFnc19WZzJyRDZFbTU1M2NDVjJXenRQWTBYdnJoZUJXRWxqeXlJd1JqZENVa01KV2dtQXhyWHJveFlEOTVmdVFXdlFudGN1Qg?oc=5\" target=\"_blank\">国内NEV比率が約7割に達した中国、EVシフトに流された海外メーカー</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経クロステック</font>",
-                "site_name": "日経クロステック",
-                "primary_category": "Market Trends",
-                "reason": "中国市場における海外メーカーの苦戦要因分析。",
-                "score": 75,
-                "is_highly_important": false
-            },
-            {
-                "id": 27943,
-                "title": "英EV市場に残価急落の足かせ ノルウェーは補助金卒業へ - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jVkxsUU9KY3FDX1B3OHo4Z1dJcFV0TDZ1X000M1pWUFhzTEoyQnlSalBPWXRDSHF0OFJ1Y20ybTVrYkttT0o5ZUlUd0xERjBtSzZIeWllNlJKZUpFcDMxT2dTOV9BZ1haVkJMWGxiN0hrdG1zcmNWZENzdE9FMU0?oc=5",
-                "published": "Sun, 30 Aug 2026 20:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1jVkxsUU9KY3FDX1B3OHo4Z1dJcFV0TDZ1X000M1pWUFhzTEoyQnlSalBPWXRDSHF0OFJ1Y20ybTVrYkttT0o5ZUlUd0xERjBtSzZIeWllNlJKZUpFcDMxT2dTOV9BZ1haVkJMWGxiN0hrdG1zcmNWZENzdE9FMU0?oc=5\" target=\"_blank\">英EV市場に残価急落の足かせ ノルウェーは補助金卒業へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-                "site_name": "日本経済新聞",
-                "primary_category": "Market Trends",
-                "reason": "欧州市場のEV市場停滞と補助金政策の変化。",
-                "score": 80,
-                "is_highly_important": true
-            },
-            {
-                "id": 618863,
-                "title": "いすゞ、ガソリン車生産優先 米新工場 ＥＶ需要減で - 中部経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FQnYwWHNmOUh1Q0VvWUY5TlZSRThscXRkOVliT1JQRjZ5LXpEN2ZtQnlXeHNHTDZmTXB0ZFEwRHZOczRYVXVxTFpvSFZMZ1BxVkxSRHNJN3JGaDJzX1VDVTdKU0NZaFhhRWpLaEozN0ZnYUk?oc=5",
-                "published": "Mon, 31 Aug 2026 05:49:06 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1FQnYwWHNmOUh1Q0VvWUY5TlZSRThscXRkOVliT1JQRjZ5LXpEN2ZtQnlXeHNHTDZmTXB0ZFEwRHZOczRYVXVxTFpvSFZMZ1BxVkxSRHNJN3JGaDJzX1VDVTdKU0NZaFhhRWpLaEozN0ZnYUk?oc=5\" target=\"_blank\">いすゞ、ガソリン車生産優先 米新工場 ＥＶ需要減で</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中部経済新聞</font>",
-                "site_name": "中部経済新聞",
-                "primary_category": "Strategic Partnership",
-                "reason": "EV需要減に伴うメーカーの戦略変更。",
-                "score": 70,
-                "is_highly_important": false
-            },
-            {
-                "id": 23466,
-                "title": "三菱自動車のEV製造を受託する鴻海の本当の狙いとは？ 日本メーカーの味方にも脅威にもなり得る「EV戦略の実像」 - JBpress",
-                "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4Q1V2UG5VckdRdWhMWGZaTDNha0hUYW9kRzl5TUZ6Zk1RYWVqX1hKZVZkSUFmdFhWOFJnZFctcGZBVkp0ckFzYUZQM2J0ZlNEdl95SC1n?oc=5",
-                "published": "Sun, 30 Aug 2026 21:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4Q1V2UG5VckdRdWhMWGZaTDNha0hUYW9kRzl5TUZ6Zk1RYWVqX1hKZVZkSUFmdFhWOFJnZFctcGZBVkp0ckFzYUZQM2J0ZlNEdl95SC1n?oc=5\" target=\"_blank\">三菱自動車のEV製造を受託する鴻海の本当の狙いとは？ 日本メーカーの味方にも脅威にもなり得る「EV戦略の実像」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JBpress</font>",
-                "site_name": "JBpress",
-                "primary_category": "Strategic Partnership",
-                "reason": "EMS活用やメーカー提携戦略の分析。",
-                "score": 85,
-                "is_highly_important": true
-            },
-            {
-                "id": 973099,
-                "title": "中国ＥＶ地殻変動 海外販売・安全保証が成長のカギ - 化学工業日報 電子版",
-                "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQeTlLM1gzWG9VNHFfN1ZicnFFUzltQmt4WE5BNHFxWEJHZTZUc3F1YmpnUmM5MFh2VGNROXZHbEd2eFlWVDM2azlDSWQ3SV8tTjJ3?oc=5",
-                "published": "Mon, 31 Aug 2026 02:03:42 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQeTlLM1gzWG9VNHFfN1ZicnFFUzltQmt4WE5BNHFxWEJHZTZUc3F1YmpnUmM5MFh2VGNROXZHbEd2eFlWVDM2azlDSWQ3SV8tTjJ3?oc=5\" target=\"_blank\">中国ＥＶ地殻変動 海外販売・安全保証が成長のカギ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">化学工業日報 電子版</font>",
-                "site_name": "化学工業日報 電子版",
-                "primary_category": "Market Trends",
-                "reason": "中国メーカーのグローバル展開と安全管理。",
-                "score": 70,
-                "is_highly_important": false
-            },
-            {
-                "id": 312691,
-                "title": "中国の海南省で2030年までにガソリン車販売禁止！ 迷走する世界のEV政策と冷静な日本の「マルチパスウェイ」 - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRN1l5TDdkZzEtbFExWUNVdWN1d0xZREp2YVlnMFE1dWdTUDdqZDl3WF9xMkVKUkNLWFM0YTQya3AxUFkwNGQ0ZkxOWjZFc21Dalc1Z2h3bU1jLTgtbkFpYU1yeVdMV0hJNnZmUG5PemN2NTdpV0RHRk1OOUQ4V1E?oc=5",
-                "published": "Sun, 30 Aug 2026 21:30:42 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBRN1l5TDdkZzEtbFExWUNVdWN1d0xZREp2YVlnMFE1dWdTUDdqZDl3WF9xMkVKUkNLWFM0YTQya3AxUFkwNGQ0ZkxOWjZFc21Dalc1Z2h3bU1jLTgtbkFpYU1yeVdMV0hJNnZmUG5PemN2NTdpV0RHRk1OOUQ4V1E?oc=5\" target=\"_blank\">中国の海南省で2030年までにガソリン車販売禁止！ 迷走する世界のEV政策と冷静な日本の「マルチパスウェイ」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-                "site_name": "Yahoo!ニュース",
-                "primary_category": "Policy",
-                "reason": "各国EV政策の相違と戦略的マルチパスウェイ。",
-                "score": 85,
-                "is_highly_important": true
-            },
-            {
-                "id": 54365,
-                "title": "韓国電池大手、業績見通し複雑に 米国でEV偏重からESSへ - 디지털투데이",
-                "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVkRuT1VwMWszTnZ4ZUxnWTR3M1gxZEVGVUNuNEtlTXBzWlpvaEdOMHRSa0FoM1lnX3RNLUhOTWxnX3JNZVJzSFJLOGlyZFp5SkZJWDlzUDJ0Uml0UkpVLUZ1VTVQTzZWVy1tbXphbnlTcUhBN2xyODBEVmVoS3hOUWFvZ0pFbUc2aUg5eGlCM0thWEQ1YWpLQmFsbTRfMlNGdHM0RXItNExMQXlsR3hsTVd4OFBrQXJKSm10MHg1SjlzellYcGc?oc=5",
-                "published": "Mon, 31 Aug 2026 22:30:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOVkRuT1VwMWszTnZ4ZUxnWTR3M1gxZEVGVUNuNEtlTXBzWlpvaEdOMHRSa0FoM1lnX3RNLUhOTWxnX3JNZVJzSFJLOGlyZFp5SkZJWDlzUDJ0Uml0UkpVLUZ1VTVQTzZWVy1tbXphbnlTcUhBN2xyODBEVmVoS3hOUWFvZ0pFbUc2aUg5eGlCM0thWEQ1YWpLQmFsbTRfMlNGdHM0RXItNExMQXlsR3hsTVd4OFBrQXJKSm10MHg1SjlzellYcGc?oc=5\" target=\"_blank\">韓国電池大手、業績見通し複雑に 米国でEV偏重からESSへ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">디지털투데이</font>",
-                "site_name": "디지털투데이",
-                "primary_category": "Market Trends",
-                "reason": "電池メーカーの業績と戦略シフト。",
-                "score": 70,
-                "is_highly_important": false
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "EV需要停滞に伴い、韓国電池メーカーは稼働ラインをESS用へ急旋回させている",
-                "AIデータセンターの電力負荷変動対応がESS需要の新たな強力な牽引役となった",
-                "高ニッケル三元系偏重の韓国勢にとって、LFPが主流のESS市場への転換は技術・コスト両面で大きな壁となる"
-            ],
-            "insight": "EVの「普及期」を見込んだ高ニッケル・三元系への巨額投資が、急激な市場の冷え込みで足枷となっている。対照的にAIデータセンターという「確実な電力需要」がESS市場を救済したが、これは単なる逃げ道ではない。安価なLFP市場へ適応できなければ、市場シェアの恒久的な喪失を招く。韓系メーカーにとって、ポートフォリオ転換は生存をかけた崖っぷちの戦いだ。"
+            "insight": "EVを単なる移動体ではなく、災害時の基幹インフラ駆動源と定義した点は画期的です。特に産業用三相200V対応のV2X充放電器が普及すれば、非常用発電機の燃料供給・保守・騒音といった従来課題が一掃されます。EVの価値は『走行距離』から『蓄電容量（kWh）の可動性』へとシフトしており、不動産・物流・BCP市場を巻き込んだ巨大なサービス産業が形成されるでしょう。"
         }
     }
 ]
