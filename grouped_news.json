@@ -1,0 +1,51 @@
+[
+    {
+        "topic_name": "BYDの8月海外販売台数",
+        "article_ids": [
+            272485,
+            32662
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "荒尾市のEVごみ収集車導入",
+        "article_ids": [
+            281238,
+            926959,
+            72864
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "三菱パジェロ復活",
+        "article_ids": [
+            29274,
+            583388
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "新型レクサスNXの電動化",
+        "article_ids": [
+            858305,
+            698458
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "テスラの8月欧州販売動向",
+        "article_ids": [
+            572604,
+            853831
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "大阪メトロの万博EVバス計画見直し",
+        "article_ids": [
+            87347,
+            54131
+        ],
+        "is_grouped": false
+    }
+]
