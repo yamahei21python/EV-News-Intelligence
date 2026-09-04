@@ -1,0 +1,55 @@
+[
+    {
+        "topic_name": "日産・ホンダ・三菱の協業と電動化戦略",
+        "article_ids": [
+            320602,
+            409492
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "中国におけるEV格納式ドアハンドルの安全規制導入",
+        "article_ids": [
+            317229
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "EV充電インフラの拡大と導入支援",
+        "article_ids": [
+            732670,
+            470265
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "EVメーカーの決算および販売業績",
+        "article_ids": [
+            322212,
+            230593
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "スズキの軽EV開発と投入",
+        "article_ids": [
+            902887
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "日系メーカーの海外EV生産・投資",
+        "article_ids": [
+            453231,
+            438800
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "EV市場におけるテスラの販売動向",
+        "article_ids": [
+            352454
+        ],
+        "is_grouped": false
+    }
+]
