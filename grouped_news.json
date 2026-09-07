@@ -1,0 +1,68 @@
+[
+    {
+        "topic_name": "インドにおける乗用車販売で代替燃料車がガソリン車を逆転",
+        "article_ids": [
+            875371,
+            974065,
+            929854,
+            367699
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "三井物産によるインドからアフリカへのEVバス輸出",
+        "article_ids": [
+            739564
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "中国新興EVメーカーの決算・研究開発費比較",
+        "article_ids": [
+            756712
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "世界EV電池市場における中国メーカーのシェア動向",
+        "article_ids": [
+            44499
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "EVへの新たな課税方式",
+        "article_ids": [
+            691690
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "マンション向けEV充電器設置支援「ウチテラ！」",
+        "article_ids": [
+            214879
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "現代モービスによるスロバキアのEV部品工場開所",
+        "article_ids": [
+            961180
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "国軒高科による日本でのEV電池生産検討",
+        "article_ids": [
+            810015
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "カリフォルニア州の配車サービスEV導入支援策",
+        "article_ids": [
+            905830
+        ],
+        "is_grouped": false
+    }
+]
