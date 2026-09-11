@@ -1,0 +1,46 @@
+[
+    {
+        "topic_name": "住友金属鉱山による国内初EV電池リサイクルプラント稼働",
+        "article_ids": [
+            849234,
+            55750,
+            955684
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "EVバスの運行停止と炎上事故",
+        "article_ids": [
+            58443,
+            313124,
+            751265,
+            962641
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "8月の世界EV販売動向（ベンチマーク・ミネラル・インテリジェンス調査）",
+        "article_ids": [
+            929825,
+            49700
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "タイの輸入EV物品税引き上げによる現地生産促進策",
+        "article_ids": [
+            61402,
+            313730
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "EV関連技術・部品開発",
+        "article_ids": [
+            190684,
+            851208,
+            731112
+        ],
+        "is_grouped": false
+    }
+]
