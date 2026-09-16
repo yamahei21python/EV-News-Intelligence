@@ -1,0 +1,36 @@
+[
+    {
+        "topic_name": "EUによる欧州製EV優遇策の策定と日本政府の反発",
+        "article_ids": [
+            122783,
+            492204,
+            805052,
+            441243
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "BYDの軽EV「ラッコ」日本市場投入と戦略",
+        "article_ids": [
+            658692,
+            726856
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "国内初のEV電池商業リサイクルプラント稼働",
+        "article_ids": [
+            989118,
+            944866
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "パワーエックスのEV高電圧充電ステーション展開",
+        "article_ids": [
+            725640,
+            594332
+        ],
+        "is_grouped": true
+    }
+]
