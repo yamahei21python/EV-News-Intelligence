@@ -1,0 +1,39 @@
+[
+    {
+        "topic_name": "サウジアラビアのCeerによるEV発表",
+        "article_ids": [
+            455102,
+            163891,
+            519045,
+            857690
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "ベトナムのEV市場動向",
+        "article_ids": [
+            114876,
+            228555,
+            730504,
+            143760
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "日産の米国向けハイブリッド車投入",
+        "article_ids": [
+            377424,
+            89818,
+            471462
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "IAA Transportation 2026での電動商用車・技術展示",
+        "article_ids": [
+            160114,
+            534806
+        ],
+        "is_grouped": true
+    }
+]

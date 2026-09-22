@@ -1,592 +1,235 @@
 [
     {
-        "topic_name": "BYDハンガリー工場の進出と地元影響",
+        "topic_name": "サウジCeer社、新型EV発表",
         "article_ids": [
-            133221,
-            625962
+            455102,
+            163891,
+            519045,
+            857690
         ],
         "articles": [
             {
-                "id": 133221,
-                "title": "「親中」前政権が招いた中国BYD ハンガリーの街が抱く期待と不安 動画 - asahi.com",
-                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNmRvclpUNHFTVjdfYkdjSUpsMzN0Y1JCMERkYVphRXBLaGxSaEtiU21FUjBsWHVpdlliOG5YZmxpN2NNUWVYbUYxQ3pqSlZ2U09PTWw1dU5SeFN5azE3ZHMtbkFFYXFobDlqOTNDTFRRMkxmLUFRM2p0Zzc4LW51cDlXLWI5dnVzNXhQand5clk?oc=5",
-                "published": "Mon, 21 Sep 2026 03:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNNmRvclpUNHFTVjdfYkdjSUpsMzN0Y1JCMERkYVphRXBLaGxSaEtiU21FUjBsWHVpdlliOG5YZmxpN2NNUWVYbUYxQ3pqSlZ2U09PTWw1dU5SeFN5azE3ZHMtbkFFYXFobDlqOTNDTFRRMkxmLUFRM2p0Zzc4LW51cDlXLWI5dnVzNXhQand5clk?oc=5\" target=\"_blank\">「親中」前政権が招いた中国BYD ハンガリーの街が抱く期待と不安 動画</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">asahi.com</font>",
-                "site_name": "asahi.com",
-                "primary_category": "Market Analysis",
-                "reason": "地政学的影響下でのEVメーカー進出。リスク管理の観点で重要。",
+                "id": 455102,
+                "title": "サウジの皇太子が自動車産業の強化のためCeerの最初のEVを発表 - アラブニュース",
+                "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNSDloT3BLY05JZDhKQlBpUjNnLUtSVTBOaEdqVFRLeEZwUlJIREYzaDRUZW51TzNRZ3k3cFVqdnJ0V0d5M3kybVNTZlgyMnZ6aUViWlZBUU5XV3U3dG1Cd2EtVnE3UFR1ejZOQ1E1aTRWQTZaaVYwTE9YSDJycVFfQzFabzlBU2dXaUJxLWZISG5fUTFzNm12XzJGbHUyTWJKbTNzMVdZcUpzS2RFVENDbnU2M21mbUJnNTZMWUc1WG9EbnJHR1dzMGxOTFRsVi1wR285aUJLNFJ1WExmQ1paMUdNa3FGSGJoZTE0aFhvU3ZpS0ltVGpfNTJSbWpoR3pyQ3RyQ2lwTEpRN1FZT2ZBbzMzd1FVV3hfd0VWNy12eWFXOTVfSjc1clFsbXlET01tTmNEbXB4RU1WQWo4R3lPaERJVUJpSnEtV2ItMmRZX2xBbXB2Zm9KWXZmSFdTYUh6TW4tenFfX1FlU01fTGZzX1lPaXRkNldITERTbWJEdVhyVV81eTNTa1BZcXBRdXU0VGc0?oc=5",
+                "published": "Tue, 22 Sep 2026 10:42:08 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwNBVV95cUxNSDloT3BLY05JZDhKQlBpUjNnLUtSVTBOaEdqVFRLeEZwUlJIREYzaDRUZW51TzNRZ3k3cFVqdnJ0V0d5M3kybVNTZlgyMnZ6aUViWlZBUU5XV3U3dG1Cd2EtVnE3UFR1ejZOQ1E1aTRWQTZaaVYwTE9YSDJycVFfQzFabzlBU2dXaUJxLWZISG5fUTFzNm12XzJGbHUyTWJKbTNzMVdZcUpzS2RFVENDbnU2M21mbUJnNTZMWUc1WG9EbnJHR1dzMGxOTFRsVi1wR285aUJLNFJ1WExmQ1paMUdNa3FGSGJoZTE0aFhvU3ZpS0ltVGpfNTJSbWpoR3pyQ3RyQ2lwTEpRN1FZT2ZBbzMzd1FVV3hfd0VWNy12eWFXOTVfSjc1clFsbXlET01tTmNEbXB4RU1WQWo4R3lPaERJVUJpSnEtV2ItMmRZX2xBbXB2Zm9KWXZmSFdTYUh6TW4tenFfX1FlU01fTGZzX1lPaXRkNldITERTbWJEdVhyVV81eTNTa1BZcXBRdXU0VGc0?oc=5\" target=\"_blank\">サウジの皇太子が自動車産業の強化のためCeerの最初のEVを発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">アラブニュース</font>",
+                "site_name": "アラブニュース",
+                "primary_category": "Strategic",
+                "reason": "国家戦略による自動車産業強化の初期段階発表",
                 "score": 75,
                 "is_highly_important": true
             },
             {
-                "id": 625962,
-                "title": "（けいざい＋）欧州の中国企業城下町：上 「親中」前政権、誘致したＥＶ工場 - asahi.com",
-                "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE53cHdraDVvdDlwZzg0WGFSS25IUUlibFdKQzVqMWZsVmlwWGJMMVpnRlFWX2FpcU8yZmhVQ2h4NjNSSkxYTlp3SDhrTlNxTGk1M0R3YzkyUXlJZnFX?oc=5",
-                "published": "Mon, 21 Sep 2026 20:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE53cHdraDVvdDlwZzg0WGFSS25IUUlibFdKQzVqMWZsVmlwWGJMMVpnRlFWX2FpcU8yZmhVQ2h4NjNSSkxYTlp3SDhrTlNxTGk1M0R3YzkyUXlJZnFX?oc=5\" target=\"_blank\">（けいざい＋）欧州の中国企業城下町：上 「親中」前政権、誘致したＥＶ工場</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">asahi.com</font>",
-                "site_name": "asahi.com",
-                "primary_category": "Market Analysis",
-                "reason": "地政学リスクとEV工場誘致の分析。業界の構造理解に重要。",
-                "score": 75,
+                "id": 163891,
+                "title": "サウジ初の国産EV「EXOBOT」公開…ミサイルの脅威の中で強行した脱石油の勝負手 - BigGo ファイナンス",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmTGpkLUU0bGNOa19kUEFZR0ZLQ1ZVa0l5U0t4cVNCQ19IdThxRHE1emJNNDJtdGpieHNZVjBlcENIX2Zza1hRX0JTY0QzZ3pBS0c5R3Nuald6Vzl1d2g0aHNiWHU5ZFZUV29LMkI0S0NvanpK?oc=5",
+                "published": "Tue, 22 Sep 2026 03:56:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBmTGpkLUU0bGNOa19kUEFZR0ZLQ1ZVa0l5U0t4cVNCQ19IdThxRHE1emJNNDJtdGpieHNZVjBlcENIX2Zza1hRX0JTY0QzZ3pBS0c5R3Nuald6Vzl1d2g0aHNiWHU5ZFZUV29LMkI0S0NvanpK?oc=5\" target=\"_blank\">サウジ初の国産EV「EXOBOT」公開…ミサイルの脅威の中で強行した脱石油の勝負手</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+                "site_name": "BigGo ファイナンス",
+                "primary_category": "Strategic",
+                "reason": "中東の脱石油戦略における自動車産業育成",
+                "score": 70,
+                "is_highly_important": true
+            },
+            {
+                "id": 519045,
+                "title": "サウジのCEER、主力モデルのEVセダンとSUVを世界初披露 - motorcars.jp",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY0VFT0FzNVd2WWRtaHB4cjRSd3kwMWVkZkJhVWJWQzJNa0RGR2gxVnVURjhCUDZCc2QxdDFWb2Zha0wyOEUtOGZ2WXk4WU4wMDJKbE1ZTXgwR2c1c3N4M1I4SlFwbEIyei1NTEFUdHVzUUtiemdrdlc1UFpKaXRYRlNDOW9RdE9pQVowTWdLbFpwUlFpby1DTExsZ3c1ZGJjblQ4b2RLMDJveFFIemxUTjZmNjVSalEx?oc=5",
+                "published": "Mon, 21 Sep 2026 17:10:24 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY0VFT0FzNVd2WWRtaHB4cjRSd3kwMWVkZkJhVWJWQzJNa0RGR2gxVnVURjhCUDZCc2QxdDFWb2Zha0wyOEUtOGZ2WXk4WU4wMDJKbE1ZTXgwR2c1c3N4M1I4SlFwbEIyei1NTEFUdHVzUUtiemdrdlc1UFpKaXRYRlNDOW9RdE9pQVowTWdLbFpwUlFpby1DTExsZ3c1ZGJjblQ4b2RLMDJveFFIemxUTjZmNjVSalEx?oc=5\" target=\"_blank\">サウジのCEER、主力モデルのEVセダンとSUVを世界初披露</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">motorcars.jp</font>",
+                "site_name": "motorcars.jp",
+                "primary_category": "Strategic",
+                "reason": "サウジの自動車産業新規参入とモデル公開",
+                "score": 65,
+                "is_highly_important": true
+            },
+            {
+                "id": 857690,
+                "title": "サウジアラビア初の国産自動車メーカー、1111馬力の電動セダンとSUVを初公開 - BigGo ファイナンス",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oM09lSGppV1RwRlBkdUd0WGptcVI0TmR4LWhvWVQ0NHRXalVOT3RsdUF5LTJNMGZZcm85eXlJVVFzMF8zSGNlZEFaakhsWTVqR1NUeWlMRXhDQVQxRDMzc2NDelhBUVpSYjUxZXdlSTkxVWFp?oc=5",
+                "published": "Tue, 22 Sep 2026 18:31:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5oM09lSGppV1RwRlBkdUd0WGptcVI0TmR4LWhvWVQ0NHRXalVOT3RsdUF5LTJNMGZZcm85eXlJVVFzMF8zSGNlZEFaakhsWTVqR1NUeWlMRXhDQVQxRDMzc2NDelhBUVpSYjUxZXdlSTkxVWFp?oc=5\" target=\"_blank\">サウジアラビア初の国産自動車メーカー、1111馬力の電動セダンとSUVを初公開</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+                "site_name": "BigGo ファイナンス",
+                "primary_category": "Strategic",
+                "reason": "新興勢力の技術力とモデル公開",
+                "score": 60,
                 "is_highly_important": true
             }
         ],
         "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "BYDがハンガリーのセゲドに欧州初の乗用車工場を建設、年産30万台規模を目指す",
-                "40億ユーロ規模の巨大投資は地元経済への期待の一方、地政学的な摩擦の火種にもなっている",
-                "前政権の対中融和政策による誘致が、欧州市場のEV覇権争いにおける象徴的な拠点となった"
+                "サウジ初の国産ブランド「Ceer」がEV「EXOBOT」を発表し、国家ビジョン「Vision 2030」に向けた産業多角化を加速",
+                "Foxconn（電子アーキテクチャ）やBMW（技術支援）、Hyundai Transys（駆動系）など、グローバルサプライチェーンを戦略的に囲い込み、国内サプライヤー網を構築",
+                "EV専用メーカーとして発足しながらも、市場実態に合わせPHVや内燃機関モデルへの拡張を示唆する慎重かつ現実的なポートフォリオ戦略へ転換"
             ],
-            "insight": "BYDのハンガリー進出は、欧州の環境規制と貿易障壁を回避する賢明な地産地消戦略です。しかし、政治的スタンスに依存した誘致は、現地の対中感情やEUの経済安保政策に揺さぶられやすい脆弱性を抱えています。技術と価格で欧州既存勢力を凌駕する中国EVが、欧州の「産業の城下町」をどう変容させるか、その成否は供給網の安定性と地元雇用との調和にかかっています。"
+            "insight": "Ceerの真の強みは技術そのものではなく、PIFによる圧倒的な資本背景と、既存EVベンチャーが陥った「量産地獄」を避けるための徹底した外部知見の活用にあります。単なる現地組み立てに留まらず、国内外のTier1をサウジへ誘致しサプライチェーンを自国完結させる動きは、かつてトヨタが撤退した理由を真っ向から克服しようとする国家戦略そのものです。今後、世界市場での競争力を持たせるには、Foxconn由来のインフォテインメント等の強みを、どの程度「サウジならではの体験」へ昇華できるかが問われます。"
         }
     },
     {
-        "topic_name": "フィリピンのフェリーへのEV積載禁止",
+        "topic_name": "ベトナムEV市場とテスラ参入",
         "article_ids": [
-            812247,
-            477643
+            114876,
+            228555,
+            730504,
+            143760
         ],
         "articles": [
             {
-                "id": 812247,
-                "title": "【フィリピン】エネ省、フェリーへのＥＶ積載禁止を支持（NNA） - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1RVZvaEZqNThUM3VzWWNmcEJyejEzdklKaFRJRmxaejlYcmJlVHFldUtkZ1FqUkJzeU42SDBnZmVVOWY3Vl84LWp0Q1dBUWR2blBUclVEUVpwVkt0dFU3WjVLS2hETUQ4eXBUSjJPc2NmRmJOOF83R0RCWG4wOVU?oc=5",
-                "published": "Mon, 21 Sep 2026 02:30:45 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB1RVZvaEZqNThUM3VzWWNmcEJyejEzdklKaFRJRmxaejlYcmJlVHFldUtkZ1FqUkJzeU42SDBnZmVVOWY3Vl84LWp0Q1dBUWR2blBUclVEUVpwVkt0dFU3WjVLS2hETUQ4eXBUSjJPc2NmRmJOOF83R0RCWG4wOVU?oc=5\" target=\"_blank\">【フィリピン】エネ省、フェリーへのＥＶ積載禁止を支持（NNA）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-                "site_name": "Yahoo!ニュース",
-                "primary_category": "Policy",
-                "reason": "安全性リスクによる運用の制限。物流チェーンへの影響が懸念される。",
-                "score": 65,
-                "is_highly_important": true
-            },
-            {
-                "id": 477643,
-                "title": "フィリピンでEV車などのフェリー乗船が当面禁止に―火災事故原因の可能性あり - Infoseek",
-                "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BQXR2cXo2UzFqNzZrUV85aHF1ZTZGeFluemtNRHRuQ2VidWc0aVB6ZW5LWURlejRTaVdIZlRsV0xSUjNxUWRsem5SRlZ6amMtNW4tcUtxMS1CLW5oSFFON1F3cG1ObkpqanRCNGFn0gFuQVVfeXFMT0FBdHZxejZTMWo3NmtRXzlocXVlNkZ4WW56a01EdG5DZWJ1ZzRpUHplbktZRGV6NFNpV0hmVGxXTFJSM3FRZGx6blJGVnpqYy01bi1xS3ExLUItbmhIUU43UXdwbU5uSmpqdEI0YWc?oc=5",
-                "published": "Mon, 21 Sep 2026 07:15:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9BQXR2cXo2UzFqNzZrUV85aHF1ZTZGeFluemtNRHRuQ2VidWc0aVB6ZW5LWURlejRTaVdIZlRsV0xSUjNxUWRsem5SRlZ6amMtNW4tcUtxMS1CLW5oSFFON1F3cG1ObkpqanRCNGFn0gFuQVVfeXFMT0FBdHZxejZTMWo3NmtRXzlocXVlNkZ4WW56a01EdG5DZWJ1ZzRpUHplbktZRGV6NFNpV0hmVGxXTFJSM3FRZGx6blJGVnpqYy01bi1xS3ExLUItbmhIUU43UXdwbU5uSmpqdEI0YWc?oc=5\" target=\"_blank\">フィリピンでEV車などのフェリー乗船が当面禁止に―火災事故原因の可能性あり</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
-                "site_name": "Infoseek",
-                "primary_category": "Policy",
-                "reason": "安全性による規制。業界全体に波及する可能性あり。",
-                "score": 65,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "フィリピンのフェリー火災事故を受け、海運大手がEV・HVの積載を一時禁止",
-                "エネルギー省がこの措置を「賢明な安全対策」として支持し、法規制の策定へ",
-                "EVの熱暴走リスクへの懸念と、老朽化船の安全基準見直しの機運がASEAN全体で拡大"
-            ],
-            "insight": "EVの普及は脱炭素の要ですが、船舶輸送におけるリチウムイオン電池の熱暴走リスクは未だ解明途上です。特に島嶼国ではフェリーが生命線であり、今回の禁止措置は「EV＝環境負荷減」という図式に、物流の安全性という新たなパラダイムを突きつけました。メーカーは車両側の火災抑止技術だけでなく、積載環境に応じた船側とのデータ連携など、ソフト・ハード両面での安全証明が今後不可欠となるでしょう。"
-        }
-    },
-    {
-        "topic_name": "Sunwodaの急速充電対応15C電池発表",
-        "article_ids": [
-            329985,
-            871784
-        ],
-        "articles": [
-            {
-                "id": 329985,
-                "title": "EVを10%から97%まで9分で充電、Sunwoda発表の設備から見える実用化の条件 - xenospectrum.com",
-                "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMckJvTWlDT0toV0ppTVJlZmR1MDF0TEowLUY0TUNuZ0dFOWExWGtCcWJjRUwxUHk0eEZ0dkd5NEw3MlJkM2RBRzBpSzFyN2dDcEhUSXJlM0NqTzdYNFJZdUUwSGNhUVpVNW1Db0VmUEU?oc=5",
-                "published": "Mon, 21 Sep 2026 06:30:38 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBMckJvTWlDT0toV0ppTVJlZmR1MDF0TEowLUY0TUNuZ0dFOWExWGtCcWJjRUwxUHk0eEZ0dkd5NEw3MlJkM2RBRzBpSzFyN2dDcEhUSXJlM0NqTzdYNFJZdUUwSGNhUVpVNW1Db0VmUEU?oc=5\" target=\"_blank\">EVを10%から97%まで9分で充電、Sunwoda発表の設備から見える実用化の条件</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">xenospectrum.com</font>",
-                "site_name": "xenospectrum.com",
-                "primary_category": "Technology",
-                "reason": "充電性能に関する重要技術。実用化のハードルを示唆。",
-                "score": 70,
-                "is_highly_important": true
-            },
-            {
-                "id": 871784,
-                "title": "Sunwoda、9分で10％→97％充電のEV向け15C電池を発表 - 디지털투데이",
-                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTjhSc0hjSTZsYlZJVlJKOFdFanBwSUtmNWRKR25QbWRuQ0tCSHc3R2d1QXJudlpxMWllVUtyWnJaYVJ5ZEhjQzQ5N2wzdEdHVWNlQVBrOE00MThxbGowejFud3NKUTdYRC15Q3VtQjNfV1B6cHZsd1RGTUFYck5vb081RnEtZ3JNaHZlREQ2Q040Y0lyXzdrdVZkMWFjVGZ1ODdxUi1NV1pIa1hYN1FXcllIc01aNU1ydWRRdVpjSQ?oc=5",
-                "published": "Mon, 21 Sep 2026 02:06:01 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQTjhSc0hjSTZsYlZJVlJKOFdFanBwSUtmNWRKR25QbWRuQ0tCSHc3R2d1QXJudlpxMWllVUtyWnJaYVJ5ZEhjQzQ5N2wzdEdHVWNlQVBrOE00MThxbGowejFud3NKUTdYRC15Q3VtQjNfV1B6cHZsd1RGTUFYck5vb081RnEtZ3JNaHZlREQ2Q040Y0lyXzdrdVZkMWFjVGZ1ODdxUi1NV1pIa1hYN1FXcllIc01aNU1ydWRRdVpjSQ?oc=5\" target=\"_blank\">Sunwoda、9分で10％→97％充電のEV向け15C電池を発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">디지털투데이</font>",
-                "site_name": "디지털투데이",
-                "primary_category": "Technology",
-                "reason": "高性能電池開発。充電時間短縮は普及のボトルネック解消に寄与。",
-                "score": 75,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "15C急速充電の実証と実用化に向けた蓄電インフラとのパッケージ提案",
-                "「9分で97%充電」を支える熱管理技術と長寿命（10年/30万km）保証の両立",
-                "単なるセルサプライヤーからの脱却、エネルギーマネジメントを含めたプラットフォーム事業への転換"
-            ],
-            "insight": "Sunwodaの戦略の本質は、電池性能の誇示ではなく、グリッド制約を打破する蓄電併設型充電網の垂直統合にある。15Cという極限の入力性能は車両側の熱負荷がボトルネックとなるため、今回の発表は「電池性能の限界値」を提示しつつ、充電インフラとのパッケージ提案により、完成車メーカーのインフラ整備負荷を軽減する「ソリューション売り」への移行を鮮明にしている。"
-        }
-    },
-    {
-        "topic_name": "2025年ベトナムEV販売首位",
-        "article_ids": [
-            989932
-        ],
-        "articles": [
-            {
-                "id": 989932,
-                "title": "25年のＥＶ販売、東南アで越が最多＝ＩＥＡ - nna.jp",
-                "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5XSDNwZC1VZndrQnVfaGZER0dXbVozWkFLWmZ0VFoyOVVwYUZERXV2NGJ0MzdabUJoT2c1Z24tdHVDTW1aemc?oc=5",
-                "published": "Mon, 21 Sep 2026 15:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE5XSDNwZC1VZndrQnVfaGZER0dXbVozWkFLWmZ0VFoyOVVwYUZERXV2NGJ0MzdabUJoT2c1Z24tdHVDTW1aemc?oc=5\" target=\"_blank\">25年のＥＶ販売、東南アで越が最多＝ＩＥＡ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nna.jp</font>",
-                "site_name": "nna.jp",
-                "primary_category": "Market Analysis",
-                "reason": "IEAによる東南アジアEV市場の動向調査は戦略的価値が高い。",
-                "score": 75,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "2025年のベトナムEV市場はASEAN最大となり、新車販売に占めるEV比率が40%に到達",
-                "ビングループ傘下のビンファストが市場を独占し、VF3やVF5の価格競争力でICE車を凌駕",
-                "ASEAN全域でEV販売が前年比2倍超となる一方、ベトナム、タイ、インドネシアが成長の主力となっている"
-            ],
-            "insight": "ベトナムのEV普及は政府の優遇税制とビンファストという強力なローカル・チャンピオンの相乗効果が生んだ特異な事例です。特にA/Bセグメントの低価格車が内燃機関車を駆逐し始めた点は象徴的。しかし、今後はインフラ未整備地域への拡大と、BYDら中国勢の本格攻勢による価格競争の激化が利益率を圧迫する可能性が高く、持続的な成長モデルの構築が問われます。"
-        }
-    },
-    {
-        "topic_name": "日本が誇る素材の世界シェア",
-        "article_ids": [
-            138001
-        ],
-        "articles": [
-            {
-                "id": 138001,
-                "title": "だから習近平は心底焦っている…中国のITもEVも壊滅させる力を持つ日本が世界シェア8割を握る\"素材\"の名前【2026年8月BEST】 (2ページ目) - president.jp",
-                "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56OFhnc1N2Y0FUanl4dUJaNkR0U05DckpFQWtpMFdiYmlnNmpNUVRsZlMxcFo3MWpHVjZ5VDRjTTJCMEFuMTI0VjZqYmQwaVpRclBqS1Zrak0?oc=5",
-                "published": "Mon, 21 Sep 2026 08:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE56OFhnc1N2Y0FUanl4dUJaNkR0U05DckpFQWtpMFdiYmlnNmpNUVRsZlMxcFo3MWpHVjZ5VDRjTTJCMEFuMTI0VjZqYmQwaVpRclBqS1Zrak0?oc=5\" target=\"_blank\">だから習近平は心底焦っている…中国のITもEVも壊滅させる力を持つ日本が世界シェア8割を握る\"素材\"の名前【2026年8月BEST】 (2ページ目)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">president.jp</font>",
-                "site_name": "president.jp",
-                "primary_category": "Supply Chain",
-                "reason": "日本の素材産業の優位性と市場シェアに関する分析。戦略的に重要。",
-                "score": 70,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "半導体製造の根幹をなす「フォトレジスト」「高純度フッ化水素」「フッ素化ポリイミド」で日本企業が圧倒的なシェアを保持",
-                "これらの素材は代替が極めて困難であり、サプライチェーンにおける「チョークポイント（急所）」として機能している",
-                "日本は最終製品だけでなく、素材という川上領域での構造的優位性により、世界のハイテク産業に対する決定的な交渉力を有している"
-            ],
-            "insight": "半導体やEVなどの完成品競争に目を奪われがちだが、真の覇権は原子レベルの制御を要する素材産業にある。本質的な技術的参入障壁は、莫大な資本力だけでなく、長年のノウハウ蓄積が必要な「職人技」の深淵にある。日本が持つ素材の寡占力は、地政学的リスクが高まる現代において、経済安全保障上の最強のカードである。"
-        }
-    },
-    {
-        "topic_name": "タスコオートが商用車買収",
-        "article_ids": [
-            770919
-        ],
-        "articles": [
-            {
-                "id": 770919,
-                "title": "タスコオート、商用車大手を買収 EV組立事業に参入 - Viet-kabu.com",
-                "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxMXJJYWdvTE5iS3VnQlVBVEVSWF9ROXYyeHdDU05YNDA0bEFKSEYzTUFZYTFteVBOaC15MnIxQ1VNa1pCZ2NvRzhKTlhJMXIyQWZNZVI0ZENfNkw5cnlheGRiaXd2WlRaVHc?oc=5",
-                "published": "Mon, 21 Sep 2026 10:46:21 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFAxMXJJYWdvTE5iS3VnQlVBVEVSWF9ROXYyeHdDU05YNDA0bEFKSEYzTUFZYTFteVBOaC15MnIxQ1VNa1pCZ2NvRzhKTlhJMXIyQWZNZVI0ZENfNkw5cnlheGRiaXd2WlRaVHc?oc=5\" target=\"_blank\">タスコオート、商用車大手を買収 EV組立事業に参入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Viet-kabu.com</font>",
-                "site_name": "Viet-kabu.com",
-                "primary_category": "Strategic Alliance",
-                "reason": "企業買収によるEV組立参入はビジネス環境の変化を示す。",
-                "score": 65,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "タスコオートによる商用車メーカーVM Motorsの買収完了",
-                "ETCシェア80%の基盤を活かしたEV組立事業への垂直統合戦略",
-                "フォードとの充電網構築に続く、ハードウェア領域への本格参入"
-            ],
-            "insight": "単なるディーラー業から、ETC・充電インフラ・車両製造までを掌握するエコシステムへの進化です。交通データを持つタスコにとって、商用EVの組立は単なる製造ではなく、物流DXやフリート管理を統合する戦略的布石。ベトナムのインフラ・モビリティ市場において、データの川上から車両提供までを垂直統合する強力なプラットフォームを構築しようとしています。"
-        }
-    },
-    {
-        "topic_name": "ホンダがEV戦略修正、北米3車種中止",
-        "article_ids": [
-            419079
-        ],
-        "articles": [
-            {
-                "id": 419079,
-                "title": "ホンダ、EV戦略を見直し北米向け3車種を開発・発売中止！ 最大2.5兆円規模の損失試算、ハイブリッド強化へ - Motor Fan",
-                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyT3ROSG5ySXJXRzZiSkJpVERTVU1CY0hUMjBLQ1JvZ2RTWFQ1M3kwRzdDR2Q3U3JZdUVKSm5hVnFiX2VUeHlVa2FBU0pMM05qY3V6YkE0YkIyb2lTdmpmNDNzclVLUQ?oc=5",
-                "published": "Mon, 21 Sep 2026 05:01:05 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyT3ROSG5ySXJXRzZiSkJpVERTVU1CY0hUMjBLQ1JvZ2RTWFQ1M3kwRzdDR2Q3U3JZdUVKSm5hVnFiX2VUeHlVa2FBU0pMM05qY3V6YkE0YkIyb2lTdmpmNDNzclVLUQ?oc=5\" target=\"_blank\">ホンダ、EV戦略を見直し北米向け3車種を開発・発売中止！ 最大2.5兆円規模の損失試算、ハイブリッド強化へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
-                "site_name": "Motor Fan",
-                "primary_category": "Strategy",
-                "reason": "戦略見直しと大規模な損失・計画中止。経営判断として重要度大。",
-                "score": 90,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "北米市場におけるEV戦略の抜本的見直しと3車種の開発中止",
-                "最大2.5兆円規模という巨額の損失リスクを伴う経営判断",
-                "市場の現実路線への回帰として、既存のハイブリッド（HEV）戦略を再強化"
-            ],
-            "insight": "今回の決定は、BEV一本足打法がいかに脆弱かを突きつける『現実主義への転換点』だ。三部体制のホンダは「Honda 0」に期待を寄せるが、先行投資の回収が困難な米国市場でのBEV撤退は、利益源であるHEVを最大化する経営的英断である一方、中長期的な技術競争力の足元を掬われるリスクも孕んでいる。二兎を追わず、実利を優先する守りの姿勢が鮮明となった。"
-        }
-    },
-    {
-        "topic_name": "ボルボ、新型車13車種投入へ",
-        "article_ids": [
-            635588
-        ],
-        "articles": [
-            {
-                "id": 635588,
-                "title": "ボルボ、新たにセダンとステーションワゴン登場か 2030年までに13車種の新型車投入 史上最大規模のグローバル製品計画 - AUTOCAR JAPAN",
-                "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1UdlNZUy1rTVAtN0JVUDh5R2cxYmsxVE1rNmhhOWxVZndrMWpnMEd6d3VZSjFadzRhb1M3WjUzXzVuMUgwZ0ZPMndqMA?oc=5",
-                "published": "Mon, 21 Sep 2026 08:05:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE1UdlNZUy1rTVAtN0JVUDh5R2cxYmsxVE1rNmhhOWxVZndrMWpnMEd6d3VZSjFadzRhb1M3WjUzXzVuMUgwZ0ZPMndqMA?oc=5\" target=\"_blank\">ボルボ、新たにセダンとステーションワゴン登場か 2030年までに13車種の新型車投入 史上最大規模のグローバル製品計画</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AUTOCAR JAPAN</font>",
-                "site_name": "AUTOCAR JAPAN",
-                "primary_category": "Strategy",
-                "reason": "長期製品計画。ブランドのEV移行ロードマップとして重要。",
-                "score": 60,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "2030年までに13車種の新型車を投入する過去最大規模の製品計画",
-                "BEV・PHEV・HEVを適材適所で使い分けるマルチパワートレイン戦略への転換",
-                "セダン・ステーションワゴンの復権と、地域別プラットフォーム最適化による収益性改善"
-            ],
-            "insight": "「EV専業」という高潔な旗印を現実的なマルチパワートレイン戦略へ修正した点が秀逸。特に伝統あるセダン・ワゴンをローボディとして再定義し、地域特化のプラットフォーム戦略を組み合わせることで、中国での吉利汽車との協業を梃子にEBIT8%超を狙う。脱・一律EV化によるリスクヘッジとブランドのDNA維持を両立させた、極めて合理的かつ戦略的な経営判断だ。"
-        }
-    },
-    {
-        "topic_name": "ポルシェ、EV廃電池の100%再生に成功",
-        "article_ids": [
-            412739
-        ],
-        "articles": [
-            {
-                "id": 412739,
-                "title": "廃EV電池が再び車載セルへ、ポルシェが正極原料100%再生の試作に成功 - xenospectrum.com",
-                "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAySnRtYXA2b05kS2lvMVYyUzJRUXhPaHhYZzE5QU01QTAzYzdzODlzNm95MTlBellBM0oyTUdrT1FwV09fMkVVSFE5TTdhekd0LTRvTG4yZVFYMnlIYmIyMUNJQUo0UE0zTERMeFNfSF9kbUJNWjNKc2o2Zzc?oc=5",
-                "published": "Mon, 21 Sep 2026 00:23:27 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFAySnRtYXA2b05kS2lvMVYyUzJRUXhPaHhYZzE5QU01QTAzYzdzODlzNm95MTlBellBM0oyTUdrT1FwV09fMkVVSFE5TTdhekd0LTRvTG4yZVFYMnlIYmIyMUNJQUo0UE0zTERMeFNfSF9kbUJNWjNKc2o2Zzc?oc=5\" target=\"_blank\">廃EV電池が再び車載セルへ、ポルシェが正極原料100%再生の試作に成功</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">xenospectrum.com</font>",
-                "site_name": "xenospectrum.com",
-                "primary_category": "Supply Chain",
-                "reason": "資源循環、リサイクル技術の進歩はEV経済の持続性に直結。",
-                "score": 60,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "ポルシェが廃EV電池から回収した4元素のみを用いた正極活物質のセル化に成功し、実使用試験を開始した",
-                "「100%再生原料」はあくまで正極活物質に限定したものであり、負極や電解液を含むセル全体ではない",
-                "2028年の実用化に向けては、回収から再合成までの歩留まり、コスト競争力、および品質の安定性証明が不可欠である"
-            ],
-            "insight": "本件の本質は「元素の回収」から「電池性能への還元的再構築」へフェーズが移行した点にある。欧州電池規則の遵守を急ぐ姿勢は明白だが、自動車業界が真に直面するのは、バージン原料と同等の充放電寿命・安全性・歩留まりを維持したまま、膨大な廃電池から経済的に成立する供給網をどう構築するかという冷徹な収支計算である。"
-        }
-    },
-    {
-        "topic_name": "トヨタ中国で航続EV生産",
-        "article_ids": [
-            699629
-        ],
-        "articles": [
-            {
-                "id": 699629,
-                "title": "市場情報：トヨタ、2027年までに中国で航続距離延長型EVの生産を開始 - Moomoo",
-                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2pWNFpJcm5ocEhLOHFZVWNNcUh4NTBzLW84MUxJaFVMYnVkLWF3eGpCQmsyVGJjb2VjVGtWbm1LVzA0a19scUx5d1dCRHBLaVpCVXJPWmh6ZGZjRWRhdDcxWTU3OXY2Nm9FR1RaVmFjcnJtTWZqdHQyaUp4ZGJuTWswa0c5NTFfZmZ6SW1pSjYxRGl6TGlZUkQ3c0xHeWxRYnhESHZJdVN0MzB5?oc=5",
-                "published": "Mon, 21 Sep 2026 02:38:15 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2pWNFpJcm5ocEhLOHFZVWNNcUh4NTBzLW84MUxJaFVMYnVkLWF3eGpCQmsyVGJjb2VjVGtWbm1LVzA0a19scUx5d1dCRHBLaVpCVXJPWmh6ZGZjRWRhdDcxWTU3OXY2Nm9FR1RaVmFjcnJtTWZqdHQyaUp4ZGJuTWswa0c5NTFfZmZ6SW1pSjYxRGl6TGlZUkQ3c0xHeWxRYnhESHZJdVN0MzB5?oc=5\" target=\"_blank\">市場情報：トヨタ、2027年までに中国で航続距離延長型EVの生産を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
-                "site_name": "Moomoo",
-                "primary_category": "Strategy",
-                "reason": "トヨタの中国戦略変更。巨大市場での方針転換は最重要。",
-                "score": 85,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "トヨタが中国市場向けに2027年までに航続距離延長型EV（EREV）の生産を開始",
-                "中国市場におけるBEV単一戦略から、実用性重視のハイブリッド・電動化戦略への現実的な転換",
-                "BYDや理想汽車（Li Auto）など、現地メーカーが躍進するカテゴリーへの本格参入"
-            ],
-            "insight": "トヨタのEREV導入は、BEVのインフラ未整備や航続距離への懸念が残る中国市場における『現実路線への回帰』を意味します。これは単なる技術追加ではなく、現地資本が支配する価格・機能競争の土俵に、トヨタが得意とするハイブリッドの制御技術で挑む戦略的転換点です。世界最大のEV市場で覇権を維持するための、泥臭くも不可欠な防衛策と言えます。"
-        }
-    },
-    {
-        "topic_name": "EV充電のPnC実証開始",
-        "article_ids": [
-            85346
-        ],
-        "articles": [
-            {
-                "id": 85346,
-                "title": "EV充電の「PnC」実証、9月開始 認証統合で競争軸が転換 - 디지털투데이",
-                "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMWZsQkplSlExUURCVGZfWkk3NkpiQ2VFZTgwU1BGRjFaMlg5bzd4YnlXcDJldjd6R1E0QUIxOUVMN2ZyNURFakRrZWlLZG5FOVdNVjBkclF1amNpVlhFeTRwR3R0dzdxQW5iX2dmd2VWRjZRSWlQUGx1RUxWZ3RCeGJtY1czTUVDZFNOVUtDV2owOUQ2bTJweUhrRTNhZFNnaGRpOWdORzB2YnpCUk9qbnkyWGYtZW9GSzhxMlM1Slo2WHFEbzg2VQ?oc=5",
-                "published": "Sun, 20 Sep 2026 22:30:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMWZsQkplSlExUURCVGZfWkk3NkpiQ2VFZTgwU1BGRjFaMlg5bzd4YnlXcDJldjd6R1E0QUIxOUVMN2ZyNURFakRrZWlLZG5FOVdNVjBkclF1amNpVlhFeTRwR3R0dzdxQW5iX2dmd2VWRjZRSWlQUGx1RUxWZ3RCeGJtY1czTUVDZFNOVUtDV2owOUQ2bTJweUhrRTNhZFNnaGRpOWdORzB2YnpCUk9qbnkyWGYtZW9GSzhxMlM1Slo2WHFEbzg2VQ?oc=5\" target=\"_blank\">EV充電の「PnC」実証、9月開始 認証統合で競争軸が転換</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">디지털투데이</font>",
-                "site_name": "디지털투데이",
-                "primary_category": "Technology",
-                "reason": "PnC技術の認証統合。充電UXの標準化における重要事案。",
-                "score": 60,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "韓国で政府主導のEV充電認証統合（PnC）が開始され、決済の利便性が劇的に向上する",
-                "PnCの標準化により「決済手段の差異」による差別化が消滅し、業界の競争軸がユーザーエクスペリエンスと運営力にシフトする",
-                "自動車メーカーは車両側での制御権を維持し、充電インフラ事業者はサービス運営の包括化へ舵を切ることで生き残りを図る"
-            ],
-            "insight": "PnCの標準化は、充電インフラを「コモディティ化したインフラ」から「サービスプラットフォーム」へと変質させる転換点だ。もはやハードウェアの性能や決済の簡便性での差別化は限界を迎え、今後は自動運転や充電ロボットと連動したモビリティエコシステムの囲い込みが、真の覇権争いとなる。"
-        }
-    },
-    {
-        "topic_name": "トヨタ、水素技術で欧州勢と提携",
-        "article_ids": [
-            648217
-        ],
-        "articles": [
-            {
-                "id": 648217,
-                "title": "トヨタ、水素技術でスカニア・イベコと提携 - Economic Media Bulletin Limited (EMB)",
-                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VbGlub3ZCT3htdkdraXpMWlA1bzhLZEIybzdwM2NTRnZMQldBQkdyVTBISjliMVVWdnFzTFRaQkI5NnZ2ZjdMTFlVWlVCOXpCTTJTVUNuZUNfWGlmUkE?oc=5",
-                "published": "Sun, 20 Sep 2026 23:19:54 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VbGlub3ZCT3htdkdraXpMWlA1bzhLZEIybzdwM2NTRnZMQldBQkdyVTBISjliMVVWdnFzTFRaQkI5NnZ2ZjdMTFlVWlVCOXpCTTJTVUNuZUNfWGlmUkE?oc=5\" target=\"_blank\">トヨタ、水素技術でスカニア・イベコと提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Economic Media Bulletin Limited (EMB)</font>",
-                "site_name": "Economic Media Bulletin Limited (EMB)",
-                "primary_category": "Strategic Alliance",
-                "reason": "商用車における水素・EVの提携。脱炭素アライアンスの動き。",
-                "score": 70,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "トヨタが欧州の商用車大手スカニア・イベコと燃料電池(FC)技術で提携",
-                "次世代FCシステムの供給を通じ、欧州の大型商用車市場へのプレゼンスを拡大",
-                "バッテリーEV（BEV）偏重の欧州で、長距離・重量輸送向け水素活用の有効性を実証"
-            ],
-            "insight": "欧州の脱炭素シフトにおいてBEVが主導する中、大型商用車の領域では航続距離と補給時間の制約が壁となっている。トヨタはVW傘下スカニア等と組むことで、自社の第3世代FCシステムを欧州商用車のプラットフォームへ深く組み込み、将来的な水素経済圏の覇権を狙う。これは技術輸出を超えた、欧州インフラへの「トヨタ・スタンダード」浸透戦略である。"
-        }
-    },
-    {
-        "topic_name": "BYDのカナダ市場進出",
-        "article_ids": [
-            359092
-        ],
-        "articles": [
-            {
-                "id": 359092,
-                "title": "「オーストラリアで起きたこと」がカナダで再現される——BYDが3年で塗り替えた市場と、次の標的 - Business Insider Japan",
-                "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5YRWNaZnZuU3lKWDVCTzFyLXQ4M2FDR1hGU09jWk1JTE94NklPUHZzRTI5N0hSd2JWZWdiZ2JlTU16ZXdfMDJHVVVHU0RrSEhRNGRLcE4xa1pkSHJpekxOeG9yUGhIXzJSSmUyZGYyODJQMHY3TEpwN1Bn?oc=5",
-                "published": "Mon, 21 Sep 2026 01:30:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5YRWNaZnZuU3lKWDVCTzFyLXQ4M2FDR1hGU09jWk1JTE94NklPUHZzRTI5N0hSd2JWZWdiZ2JlTU16ZXdfMDJHVVVHU0RrSEhRNGRLcE4xa1pkSHJpekxOeG9yUGhIXzJSSmUyZGYyODJQMHY3TEpwN1Bn?oc=5\" target=\"_blank\">「オーストラリアで起きたこと」がカナダで再現される——BYDが3年で塗り替えた市場と、次の標的</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider Japan</font>",
-                "site_name": "Business Insider Japan",
-                "primary_category": "Market Analysis",
-                "reason": "特定の市場におけるシェア変動分析。競合戦略を学ぶ事例。",
-                "score": 65,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "BYDの海外展開成功は、単なる安売りではなく、初期の戦略的車種選定から段階的攻略を行う設計力に依る。",
-                "販売網構築において既存ディーラーと提携し、メンテナンス体制の安心感を担保したことが普及を加速させた。",
-                "市場が成熟し成長の確信を得た段階で、代理店から本社主導へと事業権を回収し、統制を図るグローバル定石が明確。"
-            ],
-            "insight": "BYDの強みは「低コスト」の皮を被った「市場浸透の軍事戦略」にある。代理店によるリスク負担と現地開拓を経て、機が熟せば本体が直轄化するステップは、かつての日本車メーカーが辿った轍を遥かに高速かつ緻密になぞるものだ。価格破壊は手段に過ぎず、真の脅威はアフターサービスを含む「日常のインフラ化」を、驚異的な速度で完成させている点にある。"
-        }
-    },
-    {
-        "topic_name": "ルーシッド欧州でロボタクシー展開",
-        "article_ids": [
-            322677
-        ],
-        "articles": [
-            {
-                "id": 322677,
-                "title": "ルーシッド、欧州でロボタクシー2.5万台展開へ - Economic Media Bulletin Limited (EMB)",
-                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00aTYweFRzNG44SUk2UGtHUmVOQTU5RVhRcjdOUVV0RjJEUEM3ME5sTFlZb3R3OVo2LWFmenNCYjZDS3FJaFpkSHhzU1hyWGU4YWJvV3RWN0lyNjN4R1E?oc=5",
-                "published": "Mon, 21 Sep 2026 00:27:31 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE00aTYweFRzNG44SUk2UGtHUmVOQTU5RVhRcjdOUVV0RjJEUEM3ME5sTFlZb3R3OVo2LWFmenNCYjZDS3FJaFpkSHhzU1hyWGU4YWJvV3RWN0lyNjN4R1E?oc=5\" target=\"_blank\">ルーシッド、欧州でロボタクシー2.5万台展開へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Economic Media Bulletin Limited (EMB)</font>",
-                "site_name": "Economic Media Bulletin Limited (EMB)",
-                "primary_category": "Strategy",
-                "reason": "ロボタクシー展開は、次世代交通インフラへの進出として注視すべき。",
-                "score": 75,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "ルーシッドとボルトが戦略的提携を締結",
-                "ルーシッドの次世代中型プラットフォームを採用",
-                "欧州市場にてロボタクシー2.5万台規模の展開を計画"
-            ],
-            "insight": "ルーシッドの狙いは、高級車ブランドのイメージを堅持しつつ、次世代プラットフォームの量産効果による収益性の確保にある。ボルトとの提携は、テスラが独占を狙うロボタクシー市場に対し、欧州の地域特性を活かした先行策を講じるものであり、ハードウェア性能を武器にしたB2Bシフトは、同社のサバイバル戦略として極めて合理的だ。"
-        }
-    },
-    {
-        "topic_name": "アウディA4 e-tron発売延期",
-        "article_ids": [
-            42571
-        ],
-        "articles": [
-            {
-                "id": 42571,
-                "title": "アウディ新型「A4 e-tron」の発売が2029年まで「再延期」。VWグループの次世代EVプラットフォーム開発難航がその原因、致命傷になりかねない痛手に - intensive911.com",
-                "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zT2JubjBJMU9CMnpNZlhrZklxdFA5blBGVVg5emJVX1JpV09hYVhEUkNVU3dTM1JHbERhTFo3bUg3ZENXU2pNR3k0Y0Y0VGpleEZMMkVrWk40Z3V4ajRiUUJmWQ?oc=5",
-                "published": "Mon, 21 Sep 2026 03:45:08 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zT2JubjBJMU9CMnpNZlhrZklxdFA5blBGVVg5emJVX1JpV09hYVhEUkNVU3dTM1JHbERhTFo3bUg3ZENXU2pNR3k0Y0Y0VGpleEZMMkVrWk40Z3V4ajRiUUJmWQ?oc=5\" target=\"_blank\">アウディ新型「A4 e-tron」の発売が2029年まで「再延期」。VWグループの次世代EVプラットフォーム開発難航がその原因、致命傷になりかねない痛手に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intensive911.com</font>",
-                "site_name": "intensive911.com",
-                "primary_category": "Strategy",
-                "reason": "開発遅延は経営上の重要リスク事項。",
-                "score": 80,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "次世代EVプラットフォーム「SSP」の深刻な開発遅延により、A4 e-tronの投入が2029年に再延期",
-                "開発途中の車載電装系（12Vから48V）への設計変更が混乱を招き、VWグループ全体のEV戦略が停滞",
-                "競合ブランドが次世代EVへ移行する中で、中核モデルの不在という致命的な空白期間が発生"
-            ],
-            "insight": "VWグループの失敗は、壮大なプラットフォーム統合構想が技術的現実と乖離した点にある。特に電装系の仕様変更による設計の出戻りは、開発リソースの枯渇を意味し、もはや「内製化の限界」を露呈した。競合に対し2029年まで主力EVを欠くことは、プレミアムブランドとしての市場支配力を失うことを意味し、中国パートナーへの依存を含めた抜本的な戦略転換が不可避な局面にある。"
-        }
-    },
-    {
-        "topic_name": "ビンGのEV購入支援策第2弾",
-        "article_ids": [
-            116369
-        ],
-        "articles": [
-            {
-                "id": 116369,
-                "title": "ビンG、EV移行支援策の第2弾を発表 購入時に最大9％割引など［経済］ - VIETJOベトナムニュース",
-                "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwVHNpSnNvLXkzMWxxcHhTejJlNHpMTnRkNVVjMXRsRWNkUlZoT29FZE5uOW1PRzYtZE9obUxYNkpodDVUZE5rYWVZZWFWbUFuSXVpQlduWEtfS2JDR1lhYjEzWFg?oc=5",
-                "published": "Mon, 21 Sep 2026 20:54:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwVHNpSnNvLXkzMWxxcHhTejJlNHpMTnRkNVVjMXRsRWNkUlZoT29FZE5uOW1PRzYtZE9obUxYNkpodDVUZE5rYWVZZWFWbUFuSXVpQlduWEtfS2JDR1lhYjEzWFg?oc=5\" target=\"_blank\">ビンG、EV移行支援策の第2弾を発表 購入時に最大9％割引など［経済］</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VIETJOベトナムニュース</font>",
+                "id": 114876,
+                "title": "ベトナム、25年の新車EV販売比率40％ 東南アジア首位に［経済］ - VIETJOベトナムニュース",
+                "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kR3RRanhxcnRPdFFERnJVSlJYd0VJN0hzMkc1Umdwc3lCa0lIcW1rN0xZZW5aaUxIMHh3TWVybzlaei1IS2NseC03VEJyemFwcFJSUUxEQVhzUWlNR2p1dGZ3RzM?oc=5",
+                "published": "Tue, 22 Sep 2026 08:37:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kR3RRanhxcnRPdFFERnJVSlJYd0VJN0hzMkc1Umdwc3lCa0lIcW1rN0xZZW5aaUxIMHh3TWVybzlaei1IS2NseC03VEJyemFwcFJSUUxEQVhzUWlNR2p1dGZ3RzM?oc=5\" target=\"_blank\">ベトナム、25年の新車EV販売比率40％ 東南アジア首位に［経済］</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VIETJOベトナムニュース</font>",
                 "site_name": "VIETJOベトナムニュース",
                 "primary_category": "Policy",
-                "reason": "国による普及支援策。市場需要を押し上げる要因。",
+                "reason": "東南アジアのEV販売比率目標の引き上げ",
+                "score": 70,
+                "is_highly_important": true
+            },
+            {
+                "id": 228555,
+                "title": "【ベトナム】25年のＥＶ販売、東南アで越が最多＝ＩＥＡ（NNA） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOVW5HRkloaFMyVU41X3B3ZU1mQkpPM0Fva0E4VXoyRFZ1NnJIcWVWeVZHdmc3Q2hPMTNWTnBDdnRfTVV1NWlSZ3B6OFItUDhDXzE1UXlpLVdKY1NhdFltNzczZXFkb2dualBqak95aS05VGI0U3FoM2FsbXFVMG8?oc=5",
+                "published": "Tue, 22 Sep 2026 02:30:45 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBOVW5HRkloaFMyVU41X3B3ZU1mQkpPM0Fva0E4VXoyRFZ1NnJIcWVWeVZHdmc3Q2hPMTNWTnBDdnRfTVV1NWlSZ3B6OFItUDhDXzE1UXlpLVdKY1NhdFltNzczZXFkb2dualBqak95aS05VGI0U3FoM2FsbXFVMG8?oc=5\" target=\"_blank\">【ベトナム】25年のＥＶ販売、東南アで越が最多＝ＩＥＡ（NNA）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Market Analysis",
+                "reason": "国際機関による市場見通しは重要なデータ",
+                "score": 55,
+                "is_highly_important": true
+            },
+            {
+                "id": 730504,
+                "title": "テスラがベトナムに子会社登録、シェア9割の地場大手VinFastに挑む - BigGo ファイナンス",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1a0k0T2FGbjhrTk1FN2tWd3dya2J3dWc2eVFmZGpxN1hqbHdMOVVSY19uQzBrS2R0T1Z5dGs4VGxSTE1sQl9XeVZidk9BckV0VFVSNV9XNHZIZVVUMzZEUHg0eUgzc21FYlFfTHVfSGJKajJm?oc=5",
+                "published": "Tue, 22 Sep 2026 08:25:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFA1a0k0T2FGbjhrTk1FN2tWd3dya2J3dWc2eVFmZGpxN1hqbHdMOVVSY19uQzBrS2R0T1Z5dGs4VGxSTE1sQl9XeVZidk9BckV0VFVSNV9XNHZIZVVUMzZEUHg0eUgzc21FYlFfTHVfSGJKajJm?oc=5\" target=\"_blank\">テスラがベトナムに子会社登録、シェア9割の地場大手VinFastに挑む</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+                "site_name": "BigGo ファイナンス",
+                "primary_category": "Strategic",
+                "reason": "競合激化による市場シェア構造の変化",
                 "score": 60,
                 "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "EV普及を加速させるため、車両価格の直接割引と長期充電無料化によるTCO（総保有コスト）低減を徹底。",
-                "「グリーンSM」を通じたドライバーへの売上全額還元など、雇用とセットの導入インセンティブを強化。",
-                "ハードウェア販売だけでなく、エコシステム全体の「囲い込み」を目的とした垂直統合型マーケティングの深化。"
-            ],
-            "insight": "Vingroupの戦略は、単なる製品販売から「EVインフラ経済圏」の構築へシフトした。特に配車プラットフォームを活用した導入支援は、車両の稼働率を担保しつつ中古車市場への流出を抑制する巧妙なロックイン策。価格競争が激化する中で、補給コストの無料化と安定収入保証をテコに、ベトナム国内のモビリティ覇権を盤石にする狙いが透ける。"
-        }
-    },
-    {
-        "topic_name": "onsemiの電力半導体技術EPP",
-        "article_ids": [
-            489912
-        ],
-        "articles": [
+            },
             {
-                "id": 489912,
-                "title": "AI電源やEVの小型化へ、onsemiが異なる半導体をシリコン内に集積するEPPを発表 - XenoSpectrum",
-                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZMDZLNjB1RThnWnVheUxmd0picGtXT2Z6VkVTX2NkSnl4a0xYajZsTWw0MENMbWVnMzZiY092dkx4QklvWG1XMTBIb2x2bE1fWmwyd240SGVocFh1MmZkaVhRd1RMa0l2eHR6R0NNR0ExYWkz?oc=5",
-                "published": "Mon, 21 Sep 2026 23:02:11 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZMDZLNjB1RThnWnVheUxmd0picGtXT2Z6VkVTX2NkSnl4a0xYajZsTWw0MENMbWVnMzZiY092dkx4QklvWG1XMTBIb2x2bE1fWmwyd240SGVocFh1MmZkaVhRd1RMa0l2eHR6R0NNR0ExYWkz?oc=5\" target=\"_blank\">AI電源やEVの小型化へ、onsemiが異なる半導体をシリコン内に集積するEPPを発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">XenoSpectrum</font>",
-                "site_name": "XenoSpectrum",
-                "primary_category": "Technology",
-                "reason": "半導体の集積化によるEV小型化技術。サプライチェーンの重要トレンド。",
-                "score": 65,
+                "id": 143760,
+                "title": "Tesla、ベトナムで現地法人登録 VinFast優勢のEV市場に参入への布石 - 디지털투데이",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ1RjVE01SWJtT2lzRTNqeVBrQ2xCVUdkV3lHRmRaei1US2U2T1huc0dmaU9Lbk9XN0VrZDJLWFpRZVRIN19YZUpzT3NZMkFMNzVMZzBOWlYweGRIam9Mekx5X2xTQnBpRkdVSEd3VHpmM1psT2E2bDFpX1FMTV9xRFJ3Q1hqYVBieGh3blBsd1RoUmgwMnB1emk4MXZ0X3g1QVNSU0d4S0Z5M3lzTnF0eU43SjdVc0NQYVh2a3dxUmp5U3RZOXJtaThBQQ?oc=5",
+                "published": "Tue, 22 Sep 2026 05:53:15 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ1RjVE01SWJtT2lzRTNqeVBrQ2xCVUdkV3lHRmRaei1US2U2T1huc0dmaU9Lbk9XN0VrZDJLWFpRZVRIN19YZUpzT3NZMkFMNzVMZzBOWlYweGRIam9Mekx5X2xTQnBpRkdVSEd3VHpmM1psT2E2bDFpX1FMTV9xRFJ3Q1hqYVBieGh3blBsd1RoUmgwMnB1emk4MXZ0X3g1QVNSU0d4S0Z5M3lzTnF0eU43SjdVc0NQYVh2a3dxUmp5U3RZOXJtaThBQQ?oc=5\" target=\"_blank\">Tesla、ベトナムで現地法人登録 VinFast優勢のEV市場に参入への布石</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">디지털투데이</font>",
+                "site_name": "디지털투데이",
+                "primary_category": "Strategic",
+                "reason": "テスラの地域進出動向",
+                "score": 55,
                 "is_highly_important": true
             }
         ],
-        "is_grouped": false,
+        "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "onsemiの「EPP」は、電力・制御半導体をシリコン基板へ統合し、配線と放熱を一体設計する新実装技術。",
-                "ワイヤーボンディングを廃しRDL（再配線層）を採用することで、寄生インダクタンスを低減し電力密度を最大5倍へ向上。",
-                "AIインフラやEVの小型化に貢献するが、真価は顧客のシステム検証環境（SUBARUとの協業等）での実効性証明に委ねられる。"
+                "圧倒的な地場シェア：VinFastがベトナムEV市場の約92%を握り、独自充電網と多角的なエコシステムで盤石な支配力を構築している",
+                "爆発的な市場成長：2025年のEV販売比率が40%に達し、東南アジアで最も急進的なEVシフトが進む市場としての地位を確立した",
+                "テスラの戦略的参入：現地法人の設立により市場参入の準備を開始したが、VinFastの閉鎖的なインフラ障壁と価格競争の難しさが最大の懸念点"
             ],
-            "insight": "パワー半導体の性能競争が「素子単体」から「実装・熱管理の一体最適化」へとシフトしている。EPPは、電力効率の限界をパッケージ構造の再定義で突破する狙いがあり、特にAIサーバーやEVの電力供給密度が物理的ボトルネックとなる中、設計の上流工程からの変革を迫る重要な一歩。量産採用の鍵はシミュレーション精度と熱設計の信頼性にある。"
+            "insight": "ベトナム市場は、政府の優遇策とコングロマリットによる垂直統合モデルが成功した稀有な例です。テスラの参入は単なるモデル投入ではなく、VinFastが築いた『充電インフラの独占』という高い参入障壁に対する挑戦です。ブランド力で高級層のシェアを奪えるかが焦点となりますが、勝敗は現地でのインフラ連携や価格戦略の柔軟性にかかっています。"
         }
     },
     {
-        "topic_name": "EdgeAIによる電力制御研究",
+        "topic_name": "日産の米国向けハイブリッド車投入",
         "article_ids": [
-            74500
+            377424,
+            89818,
+            471462
         ],
         "articles": [
             {
-                "id": 74500,
-                "title": "【研究】エナリス・芝浦工業大学：低圧リソース制御にEdgeAI活用、家庭用蓄電池やEVの分散処理を研究 - みんなの広報宣伝部",
-                "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvTUlHWXZ3dzdkcWFtdlR5RndTbFI1MHVnOWlSQ3A4UDdKRDYxcFQ0RTN4WEFOWDFFa2RkbHJEUWVtT3N4bmpPRFV5VW4wMzhNaTdFeVlXR1NPc3FoMzJnd0dCSEloYUpiMU9EbUN4VENyQQ?oc=5",
-                "published": "Mon, 21 Sep 2026 22:59:51 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBvTUlHWXZ3dzdkcWFtdlR5RndTbFI1MHVnOWlSQ3A4UDdKRDYxcFQ0RTN4WEFOWDFFa2RkbHJEUWVtT3N4bmpPRFV5VW4wMzhNaTdFeVlXR1NPc3FoMzJnd0dCSEloYUpiMU9EbUN4VENyQQ?oc=5\" target=\"_blank\">【研究】エナリス・芝浦工業大学：低圧リソース制御にEdgeAI活用、家庭用蓄電池やEVの分散処理を研究</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">みんなの広報宣伝部</font>",
-                "site_name": "みんなの広報宣伝部",
-                "primary_category": "Technology",
-                "reason": "EdgeAIを用いたリソース制御研究。V2G等の次世代技術への展望。",
-                "score": 65,
+                "id": 377424,
+                "title": "日産、米でHV車投入へ（時事通信） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4TVB3NVh3MDZOMjVWZmxZMWRnZ2NYQWpJb3ZndWtMZV9yWmNXekhudEVsM05YZ0pGcS11VUtsQ1N2VWJtanUwMmtPZUkzdE1yYkJsT0xrWHJVeDBWNkVzVmloQUxMdmlFRWN4am5wd3NSQXVWaWVFOXI0QVdoNTg?oc=5",
+                "published": "Tue, 22 Sep 2026 11:00:20 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB4TVB3NVh3MDZOMjVWZmxZMWRnZ2NYQWpJb3ZndWtMZV9yWmNXekhudEVsM05YZ0pGcS11VUtsQ1N2VWJtanUwMmtPZUkzdE1yYkJsT0xrWHJVeDBWNkVzVmloQUxMdmlFRWN4am5wd3NSQXVWaWVFOXI0QVdoNTg?oc=5\" target=\"_blank\">日産、米でHV車投入へ（時事通信）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Strategic",
+                "reason": "大手メーカーの製品戦略転換",
+                "score": 55,
                 "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "EdgeRM技術によるエナリスと芝浦工大の分散型電力制御研究",
-                "低圧リソース（蓄電池・EV）の計算能力を端末側で活用するEdgeAIの実装",
-                "中央サーバー依存からの脱却と、2万台規模の超高効率な一括制御の実現"
-            ],
-            "insight": "VPP（仮想発電所）の普及で最大のボトルネックとなるのが、中央サーバーの演算負荷と通信遅延です。本研究は、低圧リソース端末を単なる受動的なノードではなく、演算処理の一部を担うエッジとして定義しました。これは電力制御の構造を『集中型』から『自律分散型』へと転換させる試みであり、運用コスト抑制と耐障害性を両立させる、次世代グリッドの現実解となるでしょう。"
-        }
-    },
-    {
-        "topic_name": "日産、米でHV車投入",
-        "article_ids": [
-            798676
-        ],
-        "articles": [
+            },
             {
-                "id": 798676,
-                "title": "日産、米でＨＶ車投入へ＝主力ＳＵＶ、需要に対応 - 時事通信ニュース",
-                "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41RmFCVTIyZllOdm5MLVlTdkxxQ0RWWlB4eEh3bVBBVkJMTmRKYURmMGRnMGVYY09MV2REeEFjT043ZmMwQW41SHp1SmMzWTc2OTJMWQ?oc=5",
+                "id": 89818,
+                "title": "日産、米でＨＶ車投入へ 主力ＳＵＶ、需要に対応 - 時事ドットコム",
+                "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jWDJoMm9lS2l6UUlsUFl5QjZLTEZrQ3FwRW10aWtDcFk1NC04N3RFemNZWnRsY0I0THBVSlY0Ui1oREFKdGFBcHNYNWVyNjZVZjdTTHd5WXlVNV9Va2ZTYXJ3aw?oc=5",
                 "published": "Mon, 21 Sep 2026 23:43:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE41RmFCVTIyZllOdm5MLVlTdkxxQ0RWWlB4eEh3bVBBVkJMTmRKYURmMGRnMGVYY09MV2REeEFjT043ZmMwQW41SHp1SmMzWTc2OTJMWQ?oc=5\" target=\"_blank\">日産、米でＨＶ車投入へ＝主力ＳＵＶ、需要に対応</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事通信ニュース</font>",
-                "site_name": "時事通信ニュース",
-                "primary_category": "Strategy",
-                "reason": "北米市場におけるHVの戦略的投入。EV移行の過渡期戦略として重要。",
-                "score": 75,
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jWDJoMm9lS2l6UUlsUFl5QjZLTEZrQ3FwRW10aWtDcFk1NC04N3RFemNZWnRsY0I0THBVSlY0Ui1oREFKdGFBcHNYNWVyNjZVZjdTTHd5WXlVNV9Va2ZTYXJ3aw?oc=5\" target=\"_blank\">日産、米でＨＶ車投入へ 主力ＳＵＶ、需要に対応</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事ドットコム</font>",
+                "site_name": "時事ドットコム",
+                "primary_category": "Strategic",
+                "reason": "メーカーのグローバルHV戦略",
+                "score": 55,
+                "is_highly_important": true
+            },
+            {
+                "id": 471462,
+                "title": "日産、北米で初の独自HV投入 26年秋にローグ発売へ - BigGo ファイナンス",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jVnZDc1VYQ0JWMEYxVnRRV05vRXF2U3JibnBCcVh6QnIwdjdnVm1uYjg2T21RYWR6RV9ySm5KT3lfazlJWndUM0FlT2xVWnBPa1psc21IRm9pUW1KemZZaGt6NVFOejZINDFpSF9JR2hWRUFR?oc=5",
+                "published": "Mon, 21 Sep 2026 21:55:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5jVnZDc1VYQ0JWMEYxVnRRV05vRXF2U3JibnBCcVh6QnIwdjdnVm1uYjg2T21RYWR6RV9ySm5KT3lfazlJWndUM0FlT2xVWnBPa1psc21IRm9pUW1KemZZaGt6NVFOejZINDFpSF9JR2hWRUFR?oc=5\" target=\"_blank\">日産、北米で初の独自HV投入 26年秋にローグ発売へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+                "site_name": "BigGo ファイナンス",
+                "primary_category": "Strategic",
+                "reason": "北米市場向け戦略製品の投入",
+                "score": 55,
                 "is_highly_important": true
             }
         ],
-        "is_grouped": false,
+        "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "北米の主力車種ローグ（エクストレイル）へのe-POWER投入によるハイブリッド市場参入",
-                "高速巡航時の燃費・静粛性を改善した第3世代e-POWERの初採用",
-                "米国内のEV需要鈍化と現実的な実用性重視のトレンドへの戦略的適応"
+                "北米市場における初の独自HV（e-POWER）投入により、電動化戦略の現実的な軌道修正を敢行",
+                "高速走行性能を改善した第3世代システムを採用し、米国特有の長距離移動ニーズに対応",
+                "EV需要失速下の北米市場で、販売シェアの約3割を占める主力SUV「ローグ」を通じた収益基盤の防衛"
             ],
-            "insight": "日産の米国戦略における「現実回帰」の象徴だ。これまでe-POWERの弱点とされた高速走行性能を克服した第3世代の投入は、北米の長距離移動ニーズを捉えるための必然。EV偏重を見直しにくいブランドイメージの遅れを製品力で埋め、EV一本足打法からの脱却を図る。生産を九州に置くことで為替リスクを管理しつつ、利益率の改善を狙う堅実な布石である。"
+            "insight": "EV専業化の理想から現実のHV需要へと舵を切った日産の苦渋の決断。北米で先行するトヨタ・ホンダのHV覇権に対し、後発のe-POWERが「EVに近い乗り味」という情緒的価値で差異化できるかが鍵。ただし、福岡からの輸出という生産体制は関税リスクを抱えており、早期の現地生産化と、北米特有の過酷な走行環境での信頼性証明が経営再建の分水嶺となる。"
+        }
+    },
+    {
+        "topic_name": "IAA Transportation 2026での電動商用車・技術展示",
+        "article_ids": [
+            160114,
+            534806
+        ],
+        "articles": [
+            {
+                "id": 160114,
+                "title": "なぜ欧州は40トンのトラックを電気で走らせるのか？もうディーゼルやめます。｜IAA Transportation 2026 現地レポート - YouTube",
+                "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fdXFwNGJrYk9UZkpYazF2R2lLNzBBeXlsMGJrSGdWSGw5dFlNZ1hfekpWUDZsQndRUjBpczg2cFk4bV9KMUhxWXJWWmhpMFBnM2ptdFVwZ2pPZS1l?oc=5",
+                "published": "Tue, 22 Sep 2026 08:54:19 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fdXFwNGJrYk9UZkpYazF2R2lLNzBBeXlsMGJrSGdWSGw5dFlNZ1hfekpWUDZsQndRUjBpczg2cFk4bV9KMUhxWXJWWmhpMFBnM2ptdFVwZ2pPZS1l?oc=5\" target=\"_blank\">なぜ欧州は40トンのトラックを電気で走らせるのか？もうディーゼルやめます。｜IAA Transportation 2026 現地レポート</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YouTube</font>",
+                "site_name": "YouTube",
+                "primary_category": "Technology",
+                "reason": "大型商用車における脱ディーゼルの進展",
+                "score": 60,
+                "is_highly_important": true
+            },
+            {
+                "id": 534806,
+                "title": "内燃機関車に近い実用性と柔軟性を!! マーレがBEVトラック向けレンジエクステンダーシステムをIAA2026で世界初公開 - fullload.bestcarweb.jp",
+                "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZXy1vTGJuY2NaVUJPcGtWZFNFdUpFSnl0RUFzbVhVN2dyTEhOa2M0RXRRSl9VSG5OdVdDbEJLTnRQdFJYSlcwNmhVbzF4akFvRlhjdHdHakc?oc=5",
+                "published": "Tue, 22 Sep 2026 01:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZXy1vTGJuY2NaVUJPcGtWZFNFdUpFSnl0RUFzbVhVN2dyTEhOa2M0RXRRSl9VSG5OdVdDbEJLTnRQdFJYSlcwNmhVbzF4akFvRlhjdHdHakc?oc=5\" target=\"_blank\">内燃機関車に近い実用性と柔軟性を!! マーレがBEVトラック向けレンジエクステンダーシステムをIAA2026で世界初公開</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fullload.bestcarweb.jp</font>",
+                "site_name": "fullload.bestcarweb.jp",
+                "primary_category": "Technology",
+                "reason": "商用車向け新技術の発表",
+                "score": 55,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "IAA 2026において大型トラックのEVシフトが加速する一方、航続距離とインフラ不足への現実解としてレンジエクステンダー（EREV）が再浮上",
+                "マーレが発表したEREVシステムは、バッテリー容量を約3分の1に削減しつつ、車両重量の軽量化と800km超の航続距離を両立するソリューション",
+                "純粋なBEVから、HVO等の再生可能燃料と組み合わせるEREVへ、脱炭素の実現手法がよりプラグマティックかつモジュラーな方向へ転換している"
+            ],
+            "insight": "大型商用車におけるEV化は「力技の巨大バッテリー搭載」から「効率重視のシステム最適化」へフェーズが移行しました。MCS整備の遅延を前に、マーレのような部品サプライヤーが提示するEREVは、既存のBEVプラットフォームを活かしつつ実用性を担保する、極めて現実的なブリッジ戦略です。脱炭素の定義が「電動化」から「CO2削減のトータル効率」へ進化しています。"
         }
     }
 ]
