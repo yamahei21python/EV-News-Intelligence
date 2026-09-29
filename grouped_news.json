@@ -1,0 +1,39 @@
+[
+    {
+        "topic_name": "欧州のEV優遇策修正と日本車への影響",
+        "article_ids": [
+            650598,
+            785112,
+            995446,
+            317382,
+            438653
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "米政府による自動車燃費基準の緩和",
+        "article_ids": [
+            699376,
+            135716,
+            37017,
+            328306
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "中国メーカーのEV関連動向（充電技術・合弁）",
+        "article_ids": [
+            716590,
+            656581
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "EV関連の経営・雇用・財務損失",
+        "article_ids": [
+            709362,
+            796436
+        ],
+        "is_grouped": true
+    }
+]
