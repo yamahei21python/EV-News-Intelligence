@@ -1,0 +1,84 @@
+[
+    {
+        "topic_name": "米トランプ政権による自動車燃費基準の大幅緩和",
+        "article_ids": [
+            574853,
+            699376,
+            37017,
+            633553,
+            434425,
+            747028,
+            634412
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "欧州のEV産業加速法案における優遇措置修正と域内調達要件",
+        "article_ids": [
+            252078,
+            995446,
+            735002,
+            951925
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "中国自動車メーカーの合従連衡とEV戦略",
+        "article_ids": [
+            324423,
+            804691,
+            812479
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "トヨタの中国サプライチェーンへの転換と次世代EV開発",
+        "article_ids": [
+            789585,
+            852556
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "ロームのSiCパワーデバイスBMW採用",
+        "article_ids": [
+            548003
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "トヨタのハイブリッド車戦略復権",
+        "article_ids": [
+            864027
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "米国自動車市場における中国勢の動向",
+        "article_ids": [
+            799769
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "デンソーによる走行中無線給電の実証実験",
+        "article_ids": [
+            470265
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "ホンダと日産のSDV協業",
+        "article_ids": [
+            743314
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "GMとLGによる低コストEV電池生産",
+        "article_ids": [
+            258844
+        ],
+        "is_grouped": false
+    }
+]
