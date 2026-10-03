@@ -1,57 +1,32 @@
 [
     {
-        "topic_name": "いすゞEVバスのリコール",
+        "topic_name": "テスラの7-9月期販売台数と株価動向",
         "article_ids": [
-            650786,
-            513510
+            616356,
+            792304,
+            990163,
+            801555,
+            638518,
+            426638,
+            12683,
+            197119,
+            142582,
+            90582,
+            760524
         ],
         "articles": [
             {
-                "id": 650786,
-                "title": "いすゞ、EVバスをリコール インバーターに不具合、大阪で火災も（朝日新聞） - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qQW4tZC1fWWRDc3dzZ3hsRHZiSXU5dDBXLXozc09fYWk0M2FySlUwdWVheG1qaXhZS3BMUDRONjBiajlWeU9aSE1DOUVWak9zTHZyODlCUUVTQXNjMFVCOFVyeldhNWxUVkJOUTc4SHFlZ0NJY2NNakFZc3plRmM?oc=5",
-                "published": "Fri, 02 Oct 2026 08:02:47 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9qQW4tZC1fWWRDc3dzZ3hsRHZiSXU5dDBXLXozc09fYWk0M2FySlUwdWVheG1qaXhZS3BMUDRONjBiajlWeU9aSE1DOUVWak9zTHZyODlCUUVTQXNjMFVCOFVyeldhNWxUVkJOUTc4SHFlZ0NJY2NNakFZc3plRmM?oc=5\" target=\"_blank\">いすゞ、EVバスをリコール インバーターに不具合、大阪で火災も（朝日新聞）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "id": 616356,
+                "title": "テスラ、7～9月期の世界販売2％減 米国のEV逆風響く (時事通信) - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOGdsLXFMNkJDY0lyU0dNYXJaMF9yRFFXNGxyMVpfc2hGc1lwZjBKNEpmTWk4QS1kYk9pUTBwdmpqRFRHVWpXdWJSM1otQzl3bUNlRXBmUlVaYXB1NlFTWEs2bzdfV0lxdGg5THpBMFZ2eFRSOFRyV3Z6TExIdEtTbHp3M3BsTFVtazA3OVZ3?oc=5",
+                "published": "Fri, 02 Oct 2026 23:42:10 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQOGdsLXFMNkJDY0lyU0dNYXJaMF9yRFFXNGxyMVpfc2hGc1lwZjBKNEpmTWk4QS1kYk9pUTBwdmpqRFRHVWpXdWJSM1otQzl3bUNlRXBmUlVaYXB1NlFTWEs2bzdfV0lxdGg5THpBMFZ2eFRSOFRyV3Z6TExIdEtTbHp3M3BsTFVtazA3OVZ3?oc=5\" target=\"_blank\">テスラ、7～9月期の世界販売2％減 米国のEV逆風響く (時事通信)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
                 "site_name": "Yahoo!ニュース",
-                "primary_category": "Safety/Recall",
-                "reason": "EVバスの火災に伴うリコールは社会影響度が大きく重要。",
-                "score": 85,
+                "primary_category": "Market Trends",
+                "reason": "米国EV逆風を示唆する重要市場分析。",
+                "score": 80,
                 "is_highly_important": true
             },
-            {
-                "id": 513510,
-                "title": "いすゞ、EVバス134台リコール 7月に大阪市で火災事故 - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FR2hfbnlZb1ZPcTk4dktQZm5wczJFVXhEWXB6TXpJSVhWTTNlZjFQOWp3UGpwVXlfMEpGWXdkVWhxTXRzR1Y1RjJwYUExeDFuVkszWUtndmt5YXZPcmZIMWxNRGtHWkU2WldQdw?oc=5",
-                "published": "Fri, 02 Oct 2026 09:02:58 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9FR2hfbnlZb1ZPcTk4dktQZm5wczJFVXhEWXB6TXpJSVhWTTNlZjFQOWp3UGpwVXlfMEpGWXdkVWhxTXRzR1Y1RjJwYUExeDFuVkszWUtndmt5YXZPcmZIMWxNRGtHWkU2WldQdw?oc=5\" target=\"_blank\">いすゞ、EVバス134台リコール 7月に大阪市で火災事故</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-                "site_name": "日本経済新聞",
-                "primary_category": "Safety/Recall",
-                "reason": "信頼性の高い日経によるリコール報道。重要度高。",
-                "score": 85,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "いすゞ自動車のEVバス「エルガEV」134台でリコールを実施",
-                "不具合の原因はインバーター基板のはんだ付け不適切によるショートの恐れ",
-                "大阪市で発生した火災事故を受け、全車両のインバーター交換を決定"
-            ],
-            "insight": "EVバスの普及期における品質管理の脆弱性が露呈した。特にパワー半導体周辺の実装信頼性は安全性に直結する。内製化やサプライヤー選定において、従来の内燃機関車とは異なる高電圧・高発熱環境への設計要件が未成熟である可能性が高く、商用車メーカーとしての信頼性確保には、量産移行時の工程検証の抜本的な見直しが不可欠となる。"
-        }
-    },
-    {
-        "topic_name": "テスラ2024年第3四半期販売結果",
-        "article_ids": [
-            792304,
-            46286,
-            206129,
-            448070,
-            638518,
-            787294
-        ],
-        "articles": [
             {
                 "id": 792304,
                 "title": "テスラの四半期販売台数、市場予想上回る－中核のEV事業に安定の兆し - Bloomberg.com",
@@ -59,44 +34,32 @@
                 "published": "Fri, 02 Oct 2026 14:20:26 GMT",
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOd3liTHJKNzNIaVVCNnJwSVVlZXVXdVR2MEIwbUh4Wk9YRGJEc2k3bHo2bnJJaUZQbjRza3JwSm5oTFFYNS03SWpOSHkyZzZlWnljOWstbG51TzQ2TlFnaFg5WFA2RFdEZWkwSmMtSl9DMFk3blNiNXdzYl9mM2dwU0dxMElocV9SeWZVNEdB?oc=5\" target=\"_blank\">テスラの四半期販売台数、市場予想上回る－中核のEV事業に安定の兆し</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
                 "site_name": "Bloomberg.com",
-                "primary_category": "Market Data",
-                "reason": "テスラの販売台数は市場トレンドの指標として最重要。",
-                "score": 90,
+                "primary_category": "Market Trends",
+                "reason": "テスラ販売データはEV市場のバロメーターとして重要。",
+                "score": 85,
                 "is_highly_important": true
             },
             {
-                "id": 46286,
-                "title": "テスラ、7~9月期世界販売2%減 米EV補助駆け込みの反動減で - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5NTdWRDJhcEdMSjZBRTV1WldzbENiS3ZneENDZF83RXRwNkI3MTh3eWZNZWtZWXRMTE9WVVNhdzNjZDBLcFRUSjhRZWotczA3azYzY2plSmhKT2ZualNvLTZDaHRUcV9xY1RlQg?oc=5",
-                "published": "Fri, 02 Oct 2026 13:38:15 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFB5NTdWRDJhcEdMSjZBRTV1WldzbENiS3ZneENDZF83RXRwNkI3MTh3eWZNZWtZWXRMTE9WVVNhdzNjZDBLcFRUSjhRZWotczA3azYzY2plSmhKT2ZualNvLTZDaHRUcV9xY1RlQg?oc=5\" target=\"_blank\">テスラ、7~9月期世界販売2%減 米EV補助駆け込みの反動減で</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "id": 990163,
+                "title": "テスラ7～9月世界販売2%減 欧州・中国は回復 株一時6%高 - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wZG8wOUhBMHY3TDBFRmNGNnJtTDdQTDhtOGpwQWt3ZW5uYUt2b2lNYkIyWnRrRldreG8yQ3lJZDFRNm9DT29XVWhXbkdkN3ZQcEFELU5mVTVKcWNDbHJVUXJfWWQ2NjQycVdzaw?oc=5",
+                "published": "Sat, 03 Oct 2026 05:30:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE4wZG8wOUhBMHY3TDBFRmNGNnJtTDdQTDhtOGpwQWt3ZW5uYUt2b2lNYkIyWnRrRldreG8yQ3lJZDFRNm9DT29XVWhXbkdkN3ZQcEFELU5mVTVKcWNDbHJVUXJfWWQ2NjQycVdzaw?oc=5\" target=\"_blank\">テスラ7～9月世界販売2%減 欧州・中国は回復 株一時6%高</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
                 "site_name": "日本経済新聞",
-                "primary_category": "Market Data",
-                "reason": "テスラの四半期販売減に関する日経の分析。",
-                "score": 80,
+                "primary_category": "Market Trends",
+                "reason": "テスラの主要市場別回復状況の分析。",
+                "score": 85,
                 "is_highly_important": true
             },
             {
-                "id": 206129,
-                "title": "７〜９月期の世界販売２％減＝米国のＥＶ逆風響く―テスラ - ｄメニューニュース",
-                "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSjNxOHFjb1ZfbjM5Q3lNSi1BTEg3M0F4SnJsaVJGUUtTd09hNlF5VEQwMk1HNEVtUnN1S2pXQjlzVWxnZ3pXeW9KN1JVM0RXRWgzOHZ0VWF2NFB5cVdYUGxmZFBDOGpPV29oWW40SFd0R3BjR2JuNGRTRTVBWEFSbU9aVEV6X1g0MzZYTkw1TGExU1JmUTZsNGZYRTdvZG05eEZWUWNMY3Z6bkJ5SjRUeHNvdTRVZjZtQ0NkWUd5QmI1Yi13djZSWEd2NzkzdVBKVEHSAYIBQVVfeXFMTzJjek1aalFwVzFCODBYREtpU0tVMnZwT3NJdkxWLUdCZlZ3Mm1MbF9KNkZEWHZqUDlXZjZuZl9tdDdFRVRQeGRpRU5vLVpMMFZiQ3Z0UTFubnpqUWgyb3FVOW10SzVLeWF1VzVCaW0zZTI4R3J1bVhuMk5vWkRFbjlkQQ?oc=5",
-                "published": "Fri, 02 Oct 2026 21:09:46 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSjNxOHFjb1ZfbjM5Q3lNSi1BTEg3M0F4SnJsaVJGUUtTd09hNlF5VEQwMk1HNEVtUnN1S2pXQjlzVWxnZ3pXeW9KN1JVM0RXRWgzOHZ0VWF2NFB5cVdYUGxmZFBDOGpPV29oWW40SFd0R3BjR2JuNGRTRTVBWEFSbU9aVEV6X1g0MzZYTkw1TGExU1JmUTZsNGZYRTdvZG05eEZWUWNMY3Z6bkJ5SjRUeHNvdTRVZjZtQ0NkWUd5QmI1Yi13djZSWEd2NzkzdVBKVEHSAYIBQVVfeXFMTzJjek1aalFwVzFCODBYREtpU0tVMnZwT3NJdkxWLUdCZlZ3Mm1MbF9KNkZEWHZqUDlXZjZuZl9tdDdFRVRQeGRpRU5vLVpMMFZiQ3Z0UTFubnpqUWgyb3FVOW10SzVLeWF1VzVCaW0zZTI4R3J1bVhuMk5vWkRFbjlkQQ?oc=5\" target=\"_blank\">７〜９月期の世界販売２％減＝米国のＥＶ逆風響く―テスラ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
-                "site_name": "ｄメニューニュース",
-                "primary_category": "Market Data",
-                "reason": "テスラの販売減と要因。市場分析。",
-                "score": 70,
-                "is_highly_important": true
-            },
-            {
-                "id": 448070,
-                "title": "米テスラの世界販売４８万台 - 下野新聞社",
-                "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zM2RLOEE5RlM1NEdXN1BtWTlERUJQcEs5Q3ktUWVtZzc1RU8wanlkUHRFczFLX1FVN3VlN0tSVGxULWExZUcxWU1hY1ZVU0tTUDNUSjRhc28zQ0hXa1RpajJQQUg0X0hnaWRsNlg3TQ?oc=5",
-                "published": "Fri, 02 Oct 2026 21:39:06 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5zM2RLOEE5RlM1NEdXN1BtWTlERUJQcEs5Q3ktUWVtZzc1RU8wanlkUHRFczFLX1FVN3VlN0tSVGxULWExZUcxWU1hY1ZVU0tTUDNUSjRhc28zQ0hXa1RpajJQQUg0X0hnaWRsNlg3TQ?oc=5\" target=\"_blank\">米テスラの世界販売４８万台</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">下野新聞社</font>",
-                "site_name": "下野新聞社",
-                "primary_category": "Market Data",
-                "reason": "テスラの四半期販売実績。",
+                "id": 801555,
+                "title": "米テスラの世界販売４８万台 - 埼玉新聞",
+                "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jeUw5UHdLbGExampOSE9BSVFlaV9GcWNkb0swQi1HWGlyMUhpYkMtdHZ5ZXB6QXE3VDdycFNXWDFfNGU1ejlmZEszcjVuRkx1SDdpRUNfMA?oc=5",
+                "published": "Fri, 02 Oct 2026 21:29:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jeUw5UHdLbGExampOSE9BSVFlaV9GcWNkb0swQi1HWGlyMUhpYkMtdHZ5ZXB6QXE3VDdycFNXWDFfNGU1ejlmZEszcjVuRkx1SDdpRUNfMA?oc=5\" target=\"_blank\">米テスラの世界販売４８万台</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">埼玉新聞</font>",
+                "site_name": "埼玉新聞",
+                "primary_category": "Market Trends",
+                "reason": "テスラ販売動向。",
                 "score": 70,
                 "is_highly_important": true
             },
@@ -107,120 +70,149 @@
                 "published": "Fri, 02 Oct 2026 21:29:00 GMT",
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ180d3YyUkJYd1lXdHlnNGRkT0xWZDZPSWt6WGVEcURoUmxnOXlrb3pDb0trSk9LSUo1NUY0UlBhUU9RcTV5ZGhEMzRsYkd6M3RhaHBPdXlkTnZNYVRhMnNZUEsxYThmUm9YWm1SMUV5c0d6aWZOY0ZRRGJDZ0Fjc2Zfa0lxNFdJTm1pOQ?oc=5\" target=\"_blank\">米テスラの世界販売４８万台 ７〜９月期、前年比２％減</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山形新聞</font>",
                 "site_name": "山形新聞",
-                "primary_category": "Market Data",
-                "reason": "テスラの四半期販売実績（山形新聞）。",
+                "primary_category": "Market Trends",
+                "reason": "テスラ販売動向。",
                 "score": 70,
                 "is_highly_important": true
             },
             {
-                "id": 787294,
-                "title": "テスラの世界納車、第3四半期は市場予想上回る 欧州で需要回復 - Reuters",
-                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15ZWdqLTZwanZYUU50bk81bnBTS0JIZUxjejVWRmotRUo0Vml5N3J4TWJNREp3STlGRkM3NkFjRVZWX3Fzb1AwVFVnT0d5bXlMc0pRaXB6eERVUzdBNEVGczh3VzZlYWVJOUdFLVpFYlRBUUZHOWlmMmptUVE4UQ?oc=5",
-                "published": "Fri, 02 Oct 2026 14:17:45 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE15ZWdqLTZwanZYUU50bk81bnBTS0JIZUxjejVWRmotRUo0Vml5N3J4TWJNREp3STlGRkM3NkFjRVZWX3Fzb1AwVFVnT0d5bXlMc0pRaXB6eERVUzdBNEVGczh3VzZlYWVJOUdFLVpFYlRBUUZHOWlmMmptUVE4UQ?oc=5\" target=\"_blank\">テスラの世界納車、第3四半期は市場予想上回る 欧州で需要回復</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-                "site_name": "Reuters",
-                "primary_category": "Market Data",
-                "reason": "ロイターによるテスラ納車実績報道。",
-                "score": 80,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "2026年第3四半期の世界販売台数は前年同期比2.1%減の約48.6万台となり、3四半期ぶりのマイナス成長を記録した。",
-                "前年同期の北米におけるEV補助金廃止前の駆け込み需要の反動がマイナス要因となったが、市場予想（7%減）を上回る結果となった。",
-                "欧州市場での需要回復や世界的なガソリン価格高騰が追い風となり、中国メーカーとの熾烈な競争下でも底堅さを示した。"
-            ],
-            "insight": "販売減は「駆け込みの反動」という一時的要因が主因であり、市場予想を上回ったことで投資家は安心感を得ている。特筆すべきは、中国勢との価格競争が激化する中で欧州需要が回復に転じている点だ。EV市場が「補助金依存」から「燃料コストの経済合理性」による自律成長フェーズへ移行しつつあることが、テスラの事業安定性の証左といえる。"
-        }
-    },
-    {
-        "topic_name": "BYDの9月世界販売実績",
-        "article_ids": [
-            610509,
-            386255
-        ],
-        "articles": [
-            {
-                "id": 610509,
-                "title": "中国ＢＹＤ、9月世界販売17％増 輸出好調で5カ月連続プラス - Reuters",
-                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMC04RF82eHlHSkV5Z0JsVVA5LUFWVk11dzZDUVRJc2FhcThQZi1CM2FTNElDdDZYX01Ic2xpblF6d21qaHFVeHIzNWh2bFRFVlJvMkhfT1N1Q214NjRBWmJtQUx2bWZZckl5NjMyOW9lY2dudHhJdEdEeDBTVVJXTlMyMmFZUQ?oc=5",
-                "published": "Fri, 02 Oct 2026 02:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPMC04RF82eHlHSkV5Z0JsVVA5LUFWVk11dzZDUVRJc2FhcThQZi1CM2FTNElDdDZYX01Ic2xpblF6d21qaHFVeHIzNWh2bFRFVlJvMkhfT1N1Q214NjRBWmJtQUx2bWZZckl5NjMyOW9lY2dudHhJdEdEeDBTVVJXTlMyMmFZUQ?oc=5\" target=\"_blank\">中国ＢＹＤ、9月世界販売17％増 輸出好調で5カ月連続プラス</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-                "site_name": "Reuters",
-                "primary_category": "Market Data",
-                "reason": "BYDの販売推移は業界全体の勢力を測る重要データ。",
-                "score": 85,
+                "id": 426638,
+                "title": "テスラ7〜9月期販売48.6万台、予想上回り株価5％高 - BigGo ファイナンス",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKdl9tSVhiNUVDZ291LXVwT293Vmp4R1VTV3lubV8xbzRHWnM3d2w2eDVpa3JSV1lFa3JPejd4MUxlTTdhSEpSRERTTExSTFFsUHo3alBMUUwwWXEwYnZndUFBUzdKdzA1Q2pTWkFMaWFBeWc3?oc=5",
+                "published": "Fri, 02 Oct 2026 22:55:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBKdl9tSVhiNUVDZ291LXVwT293Vmp4R1VTV3lubV8xbzRHWnM3d2w2eDVpa3JSV1lFa3JPejd4MUxlTTdhSEpSRERTTExSTFFsUHo3alBMUUwwWXEwYnZndUFBUzdKdzA1Q2pTWkFMaWFBeWc3?oc=5\" target=\"_blank\">テスラ7〜9月期販売48.6万台、予想上回り株価5％高</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+                "site_name": "BigGo ファイナンス",
+                "primary_category": "Market Trends",
+                "reason": "市場予想を超える販売結果。",
+                "score": 75,
                 "is_highly_important": true
             },
             {
-                "id": 386255,
-                "title": "BYD、9月世界販売17％増の46万台 輸出154％急増で国内低迷を補う - BigGo ファイナンス",
-                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03RkplVEU2MXZfUHhxdXRvdFlUUkVETjhtSk14UVV0NkdVMDMtWnI5b2xVVnBuYzctV3RUT0I2b2FGSTl6bDhIQ2RxdzJnQTVGbFk3X0lfRndkaUFiWVd0LU1vemdLNFpZdEUwd3JZa0NXMVl2?oc=5",
-                "published": "Fri, 02 Oct 2026 03:06:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE03RkplVEU2MXZfUHhxdXRvdFlUUkVETjhtSk14UVV0NkdVMDMtWnI5b2xVVnBuYzctV3RUT0I2b2FGSTl6bDhIQ2RxdzJnQTVGbFk3X0lfRndkaUFiWVd0LU1vemdLNFpZdEUwd3JZa0NXMVl2?oc=5\" target=\"_blank\">BYD、9月世界販売17％増の46万台 輸出154％急増で国内低迷を補う</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
-                "site_name": "BigGo ファイナンス",
-                "primary_category": "Market Data",
-                "reason": "BYDの輸出戦略によるカバー動向。",
+                "id": 12683,
+                "title": "米テスラ、7-9月期の納車は48.6万台　市場予想上回り株価上昇 - 財経新聞",
+                "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HSDZlbGhsZFF1eFBQa2wtMGx1WDIyMGdBcS1VQVdzdkVSdmdQQmRNM2ZKemVPT3F6bkFmclhFOVQ2ZVo0SjBhMnRKS2p3QTE4UmRERjNKcGtTeUJBSVJrdmFpeE5jTDZL0gFoQVVfeXFMTkdINmVsaGxkUXV4UFBrbC0wbHVYMjIwZ0FxLVVBV3N2RVJ2Z1BCZE0zZkp6ZU9PcXpuQWZyWEU5VDZlWjRKMGEydEpLandBMThSZERGM0pwa1N5QkFJUmt2YWl4TmNMNks?oc=5",
+                "published": "Sat, 03 Oct 2026 01:22:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HSDZlbGhsZFF1eFBQa2wtMGx1WDIyMGdBcS1VQVdzdkVSdmdQQmRNM2ZKemVPT3F6bkFmclhFOVQ2ZVo0SjBhMnRKS2p3QTE4UmRERjNKcGtTeUJBSVJrdmFpeE5jTDZL0gFoQVVfeXFMTkdINmVsaGxkUXV4UFBrbC0wbHVYMjIwZ0FxLVVBV3N2RVJ2Z1BCZE0zZkp6ZU9PcXpuQWZyWEU5VDZlWjRKMGEydEpLandBMThSZERGM0pwa1N5QkFJUmt2YWl4TmNMNks?oc=5\" target=\"_blank\">米テスラ、7-9月期の納車は48.6万台　市場予想上回り株価上昇</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">財経新聞</font>",
+                "site_name": "財経新聞",
+                "primary_category": "Market Trends",
+                "reason": "テスラ販売動向。",
+                "score": 70,
+                "is_highly_important": true
+            },
+            {
+                "id": 197119,
+                "title": "テスラ株5％上昇、第3四半期納車48万6532台で市場予想超え - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ibEowaDk0UE4zemNOWHNqQUk3ZlZsMGlhRjZZUURHOTFYNHZhdk85eTlCZDZvYjVzMUJTRVl4OF9BVEwyalpxanY0QjdBVGhpQ0JKOVFUMmZZSXlyWFNiZnByXzU4cXdUdmpFMi1HQzRVcERDUEZuWTVRSVhtYzg?oc=5",
+                "published": "Fri, 02 Oct 2026 23:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9ibEowaDk0UE4zemNOWHNqQUk3ZlZsMGlhRjZZUURHOTFYNHZhdk85eTlCZDZvYjVzMUJTRVl4OF9BVEwyalpxanY0QjdBVGhpQ0JKOVFUMmZZSXlyWFNiZnByXzU4cXdUdmpFMi1HQzRVcERDUEZuWTVRSVhtYzg?oc=5\" target=\"_blank\">テスラ株5％上昇、第3四半期納車48万6532台で市場予想超え</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Market Trends",
+                "reason": "テスラ納車実績。",
                 "score": 75,
+                "is_highly_important": true
+            },
+            {
+                "id": 142582,
+                "title": "テスラ第3四半期納車台数、欧州回復で予想上回るも2025年の記録は下回る - BigGo ファイナンス",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RUE96bHNFWTlYMnM1QlByeHlJMTVvbV9ReGN4V3BSQXN4RktrdXVSV0duZnJGd1ZIRHpqNm1ZaG9yNjBjTndQUkpSS2ozUzNtNHMyMHY3Yi03Vy1mai13SVgyeTFGd3dJUFlmQUxfTVRYVTh4?oc=5",
+                "published": "Fri, 02 Oct 2026 14:35:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9RUE96bHNFWTlYMnM1QlByeHlJMTVvbV9ReGN4V3BSQXN4RktrdXVSV0duZnJGd1ZIRHpqNm1ZaG9yNjBjTndQUkpSS2ozUzNtNHMyMHY3Yi03Vy1mai13SVgyeTFGd3dJUFlmQUxfTVRYVTh4?oc=5\" target=\"_blank\">テスラ第3四半期納車台数、欧州回復で予想上回るも2025年の記録は下回る</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+                "site_name": "BigGo ファイナンス",
+                "primary_category": "Market Trends",
+                "reason": "テスラ納車実績。",
+                "score": 70,
+                "is_highly_important": true
+            },
+            {
+                "id": 90582,
+                "title": "テスラ、2026年3Qの納車は48万6532台で予想を約2.5万台上回る。株価も急騰 - EVcafe",
+                "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9zckQwek1aNmx6d3BnaV9qUk9tM2xNUnVyb25mMUxzMUpKYVRrN2VMTGlYYmVIX19kdzJ5dGZ4aHd6bGE4RHNIQm53?oc=5",
+                "published": "Sat, 03 Oct 2026 01:56:09 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE9zckQwek1aNmx6d3BnaV9qUk9tM2xNUnVyb25mMUxzMUpKYVRrN2VMTGlYYmVIX19kdzJ5dGZ4aHd6bGE4RHNIQm53?oc=5\" target=\"_blank\">テスラ、2026年3Qの納車は48万6532台で予想を約2.5万台上回る。株価も急騰</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EVcafe</font>",
+                "site_name": "EVcafe",
+                "primary_category": "Market Trends",
+                "reason": "テスラ販売動向。",
+                "score": 70,
+                "is_highly_important": true
+            },
+            {
+                "id": 760524,
+                "title": "テスラの世界納車、第3四半期は市場予想上回る 欧州で需要回復 - news.infoseek.co.jp",
+                "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VR3BEb0FsRnVyV3VOZnpkeGVoT0gzQ0hSU2R6aS1PQnVjSGp2SjVRS3FsWVZKMmZBMVVGNTVWMEFydXN4RFVuM1ljTE9CZVQ0cmxNQXU0UVVKQlpNaVhyU1pMSzYwSnZCZXQtajJR?oc=5",
+                "published": "Fri, 02 Oct 2026 14:16:44 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1VR3BEb0FsRnVyV3VOZnpkeGVoT0gzQ0hSU2R6aS1PQnVjSGp2SjVRS3FsWVZKMmZBMVVGNTVWMEFydXN4RFVuM1ljTE9CZVQ0cmxNQXU0UVVKQlpNaVhyU1pMSzYwSnZCZXQtajJR?oc=5\" target=\"_blank\">テスラの世界納車、第3四半期は市場予想上回る 欧州で需要回復</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.infoseek.co.jp</font>",
+                "site_name": "news.infoseek.co.jp",
+                "primary_category": "Market Trends",
+                "reason": "テスラ販売動向。",
+                "score": 70,
                 "is_highly_important": true
             }
         ],
         "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "9月の世界販売台数は46.3万台（前年比17%増）と5カ月連続のプラス成長を維持",
-                "国内市場の低迷に対し、輸出が前年比約154%増と急拡大し全体を牽引する構造へ転換",
-                "吉利汽車などの競合による急速充電技術の進化を受け、国内の技術競争が激化"
+                "分析エラー"
             ],
-            "insight": "BYDは国内のレッドオーシャン化を見越し、重心を急速にグローバルへ移している。輸出比率の急激な高まりは、地政学的リスクを内包しつつも、規模の経済を維持するための必然的な解だ。今後は単なる台数競争から、Geelyの急速充電技術等に象徴される「技術によるブランド価値の再定義」へ、競争の軸足が本格的に移行するだろう。"
+            "insight": "リトライ上限到達"
         }
     },
     {
-        "topic_name": "大阪メトロのEVバス導入計画先送り",
+        "topic_name": "トヨタの米国ハイブリッド車販売シェア",
+        "article_ids": [
+            877933,
+            247853
+        ],
+        "articles": [
+            {
+                "id": 877933,
+                "title": "トヨタの「ハイブリッド全振り戦略」が大成功、米国販売の58%が電動車へと成長して文字通りの「一人勝ち」。賭けに勝利したその要因とは - intensive911.com",
+                "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94V3p0d19qekJxNmNDRDRaZ0d3WjJmbUE3bUwwcHFmaVpYM3VRaGFCUDhUQUFwVUhRcnVNVFJmd2J6TTUyLV8yNTdva0oyZUZWOHp0b0JpWHFENkxCd0JTam5OZjFGMXQtZ09JdTVSaTU?oc=5",
+                "published": "Sat, 03 Oct 2026 04:01:48 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE94V3p0d19qekJxNmNDRDRaZ0d3WjJmbUE3bUwwcHFmaVpYM3VRaGFCUDhUQUFwVUhRcnVNVFJmd2J6TTUyLV8yNTdva0oyZUZWOHp0b0JpWHFENkxCd0JTam5OZjFGMXQtZ09JdTVSaTU?oc=5\" target=\"_blank\">トヨタの「ハイブリッド全振り戦略」が大成功、米国販売の58%が電動車へと成長して文字通りの「一人勝ち」。賭けに勝利したその要因とは</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intensive911.com</font>",
+                "site_name": "intensive911.com",
+                "primary_category": "Strategy",
+                "reason": "トヨタのハイブリッド全振り戦略の米国市場での勝算分析。",
+                "score": 90,
+                "is_highly_important": true
+            },
+            {
+                "id": 247853,
+                "title": "米国トヨタ・レクサスの9月販売が絶好調！新型RAV4＆カムリ人気で電動車比率「58.2％」とマルチパスウェイの強み - Creative Trend",
+                "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5MTVpHb1dwTkdTWVlub28zaUZYRndMM2dPcTVLQzg5d0lZYXdrRFpiajFXRS1mYnJNZk9NN2s2Q3Y4Z1FvR1QyN9IBUEFVX3lxTE1aQjdETkxBb05yMm9OWXZFb1ExNzVSTG1ieWs1RDJWbDdNbjI3MkZIX2daUXU4dUdZWGFEM2x6TXhiMEo3TXNDc09qUmJuTnBV?oc=5",
+                "published": "Sat, 03 Oct 2026 12:05:30 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5MTVpHb1dwTkdTWVlub28zaUZYRndMM2dPcTVLQzg5d0lZYXdrRFpiajFXRS1mYnJNZk9NN2s2Q3Y4Z1FvR1QyN9IBUEFVX3lxTE1aQjdETkxBb05yMm9OWXZFb1ExNzVSTG1ieWs1RDJWbDdNbjI3MkZIX2daUXU4dUdZWGFEM2x6TXhiMEo3TXNDc09qUmJuTnBV?oc=5\" target=\"_blank\">米国トヨタ・レクサスの9月販売が絶好調！新型RAV4＆カムリ人気で電動車比率「58.2％」とマルチパスウェイの強み</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Creative Trend</font>",
+                "site_name": "Creative Trend",
+                "primary_category": "Market Trends",
+                "reason": "米国トヨタの電動車比率と販売絶好調の実態分析。",
+                "score": 85,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "北米市場におけるトヨタ・レクサスの電動車比率が58.2%に到達、主力モデルのハイブリッド専用化が奏功",
+                "EV一極集中戦略の競合メーカーが苦戦する中、現実的なマルチパスウェイ戦略が市場ニーズと合致",
+                "ハイブリッドが「特別な選択肢」から「標準仕様」へ移行したことで、顧客の購入ハードルが劇的に低下"
+            ],
+            "insight": "トヨタの勝因は、環境対応を「高コストな理想」から「高効率な日常の利便性」へと再定義した点にある。米国市場においてハイブリッドを単なるエコカーではなく、主力車種の標準パッケージとして展開したことで、EVインフラ不安や高価格帯に疲弊した消費者の需要を正確に射抜いた。これは技術論を超えた、市場心理を捉える冷徹な経営判断の勝利と言える。"
+        }
+    },
+    {
+        "topic_name": "大阪メトロのEVバス導入見送り",
         "article_ids": [
             990619
         ],
         "articles": [
             {
                 "id": 990619,
-                "title": "万博でトラブル影響大阪メトロ“全バスEV化”先送り「見通せない」 - 朝日放送",
+                "title": "万博でトラブル影響大阪メトロ“全バスEV化”先送り「見通せない」 - asahi.co.jp",
                 "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GNy1HWEY2UmNwVWU3M2o2YTdKdU1QQU5RS0xld0wxVFdscEd2R0ZuUEpNR1dLV0FtRHpQeGxaWG5NU1lqeDB4akJEcDVFTWVINkdrcjN3N2dUWDd0dDFXSjBneGRsWkE?oc=5",
-                "published": "Fri, 02 Oct 2026 03:48:43 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GNy1HWEY2UmNwVWU3M2o2YTdKdU1QQU5RS0xld0wxVFdscEd2R0ZuUEpNR1dLV0FtRHpQeGxaWG5NU1lqeDB4akJEcDVFTWVINkdrcjN3N2dUWDd0dDFXSjBneGRsWkE?oc=5\" target=\"_blank\">万博でトラブル影響大阪メトロ“全バスEV化”先送り「見通せない」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日放送</font>",
-                "site_name": "朝日放送",
-                "primary_category": "Infrastructure",
-                "reason": "公共事業のEV化計画の遅延。社会インフラ動向として重要。",
-                "score": 75,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "大阪メトロが2035年度の全バスEV化目標を撤回・先送り",
-                "万博での運用トラブルがEV導入の現実的課題を露呈",
-                "特別損失の計上と経営層の刷新など、先行投資の失敗が経営を直撃"
-            ],
-            "insight": "「EV化＝正義」という旗印が、現場の運用性能限界と正面衝突した結果です。航続距離・充電インフラというハードの物理的制約を無視した拙速な計画は、特損と経営責任問題へと発展しました。これは脱炭素化において、理想と現実の解離が企業経営をいかに毀損するかを示す、日本のモビリティ業界における重要な敗戦事例と言えるでしょう。"
-        }
-    },
-    {
-        "topic_name": "BYD旭川店開業",
-        "article_ids": [
-            567252
-        ],
-        "articles": [
-            {
-                "id": 567252,
-                "title": "中国EVのBYDが旭川に小型店 北海道3店目、札幌以外初 17日開業 - 北海道新聞デジタル",
-                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UOXVKTHlpdVdITUhnZGhKSVctUHNINDhjdktYS0hObDdJcXplVmJmU2lXa2ZRczFIM0UycmVrZTgydk5UdWNHQTZ0WXRtTFRVNWdCaC02YVFTdw?oc=5",
-                "published": "Fri, 02 Oct 2026 08:44:40 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UOXVKTHlpdVdITUhnZGhKSVctUHNINDhjdktYS0hObDdJcXplVmJmU2lXa2ZRczFIM0UycmVrZTgydk5UdWNHQTZ0WXRtTFRVNWdCaC02YVFTdw?oc=5\" target=\"_blank\">中国EVのBYDが旭川に小型店 北海道3店目、札幌以外初 17日開業</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">北海道新聞デジタル</font>",
-                "site_name": "北海道新聞デジタル",
-                "primary_category": "Regional",
-                "reason": "BYDの国内販路拡大に関する地域固有の一次情報。",
+                "published": "Sat, 03 Oct 2026 05:59:51 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GNy1HWEY2UmNwVWU3M2o2YTdKdU1QQU5RS0xld0wxVFdscEd2R0ZuUEpNR1dLV0FtRHpQeGxaWG5NU1lqeDB4akJEcDVFTWVINkdrcjN3N2dUWDd0dDFXSjBneGRsWkE?oc=5\" target=\"_blank\">万博でトラブル影響大阪メトロ“全バスEV化”先送り「見通せない」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">asahi.co.jp</font>",
+                "site_name": "asahi.co.jp",
+                "primary_category": "Policy/Infrastructure",
+                "reason": "公共交通のEV化計画延期という地域課題として重要。",
                 "score": 70,
                 "is_highly_important": true
             }
@@ -228,202 +220,28 @@
         "is_grouped": false,
         "analysis": {
             "summary_points": [
-                "BYDが北海道で札幌圏外初となる旭川市への出店を決定",
-                "大型店舗ではなく運営コストを抑えた「小型店舗」モデルを採用",
-                "寒冷地かつEV普及が課題となる地方都市での市場浸透を図る戦略"
+                "2035年度までの全バスEV化目標を撤回し、現実路線への転換を余儀なくされた",
+                "大阪・関西万博での運用トラブルがEV導入の信頼性を大きく毀損した",
+                "エネルギー密度と充電インフラの課題により、ディーゼルとの性能格差が依然として解消できていない"
             ],
-            "insight": "BYDの旭川進出は、単なる販売網拡大ではなく、地方都市における『ショールーム型』販売モデルの実験的意味合いが強い。積雪寒冷地である旭川は、航続距離低下や充電インフラへの不安からEV需要のハードルが高い。ここで小型店を軸に接点を持ち、ブランド認知と『雪国でも使える』という信頼醸成を急ぐことで、国内EV市場のシェア奪還と地方戦略の雛形を作ろうとするBYDの執念が伺える。"
+            "insight": "本件は、単なる技術的遅延ではなく『政治主導の脱炭素先行』が現場のオペレーション負荷とコストを過小評価した典型例です。過酷な都市部交通環境において、航続距離と稼働率を維持できない商用車EVの未熟さが浮き彫りになりました。今後は電動化一本足打法を排し、バイオ燃料や水素との『マルチパスウェイ』的な現実解が求められるでしょう。"
         }
     },
     {
-        "topic_name": "EV電池工場の産業用転用",
+        "topic_name": "稚内の自動運転EVバス運行開始",
         "article_ids": [
-            267799
+            684618
         ],
         "articles": [
             {
-                "id": 267799,
-                "title": "EV電池工場の転用､北米で10拠点 フォードやホンダ - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZdFR4OXJYcnA3Rlc5WHJoLTFmTF9YeDhTSHNtZVNhamQ1dXZxOFVoQk5LaHhPNGhRN19IdWtCYktZOFh1U3pLLWxCZDhLSWsyX0p6dGxEc25fVnk2dVVtQUo5YjlSU29zWDR0Ylc0NHB6d1ozNk92QmhYaFRORnc?oc=5",
-                "published": "Thu, 01 Oct 2026 20:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBZdFR4OXJYcnA3Rlc5WHJoLTFmTF9YeDhTSHNtZVNhamQ1dXZxOFVoQk5LaHhPNGhRN19IdWtCYktZOFh1U3pLLWxCZDhLSWsyX0p6dGxEc25fVnk2dVVtQUo5YjlSU29zWDR0Ylc0NHB6d1ozNk92QmhYaFRORnc?oc=5\" target=\"_blank\">EV電池工場の転用､北米で10拠点 フォードやホンダ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-                "site_name": "日本経済新聞",
-                "primary_category": "Strategy",
-                "reason": "電池工場の稼働転用は設備投資計画の大きな転換点。",
-                "score": 85,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "北米EV販売の減速により、フォードやホンダら10拠点で電池工場の用途転換が進行",
-                "データセンター等の産業用蓄電池（ESS）市場への転換を図るが、市場は既に供給過剰気味",
-                "EV生産計画の狂いが固定費負担に直結しており、資産効率化の正念場を迎えている"
-            ],
-            "insight": "EV用電池の特需を見越した巨額投資が、市場環境の急変で「負の遺産」化するリスクを露呈させた。ESS転用は稼働率維持の苦肉の策だが、参入障壁が低く価格競争が激化する汎用市場で、車載品質基準の製造コストを回収するのは困難。今後は「撤退戦」を想定した戦略的な損切りか、エネルギーマネジメント事業への高度な統合が必要不可欠となる。"
-        }
-    },
-    {
-        "topic_name": "テスラSemi工場本格稼働",
-        "article_ids": [
-            959183
-        ],
-        "articles": [
-            {
-                "id": 959183,
-                "title": "テスラが電動大型トラック「Semi」工場が本格稼働、年間5万台量産へ - sbbit.jp",
-                "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Nblk2UjVjdk5QUjU0WXpiRnFHLVRoUHIzMVk1LTg2aXpFMHZmcVlEa2VpNWVzdEsyWVFNMkw1S3AtR3NpTHlpcEVqd0ZqUEE?oc=5",
-                "published": "Fri, 02 Oct 2026 00:30:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Nblk2UjVjdk5QUjU0WXpiRnFHLVRoUHIzMVk1LTg2aXpFMHZmcVlEa2VpNWVzdEsyWVFNMkw1S3AtR3NpTHlpcEVqd0ZqUEE?oc=5\" target=\"_blank\">テスラが電動大型トラック「Semi」工場が本格稼働、年間5万台量産へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sbbit.jp</font>",
-                "site_name": "sbbit.jp",
-                "primary_category": "Strategy",
-                "reason": "テスラの商用EV量産化は物流業界に大きな影響。",
-                "score": 75,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "Semi専用工場の本格稼働による年間5万台の生産体制確立",
-                "内製4680セルとメガチャージャーによる商用EVの採算性向上",
-                "大手物流・小売業とのエコシステム構築による法人市場の囲い込み"
-            ],
-            "insight": "テスラの真の狙いは単なる車両販売ではなく、メガチャージャー網を含む『エネルギー管理プラットフォーム』の構築だ。ディーゼル車比でTCO（総保有コスト）が劇的に改善するモデルを提示することで、物流の意思決定権を握る大手荷主を巻き込み、商用車市場のゲームルールを垂直統合的に書き換え始めた。"
-        }
-    },
-    {
-        "topic_name": "リビアンQ3販売46%増",
-        "article_ids": [
-            483300
-        ],
-        "articles": [
-            {
-                "id": 483300,
-                "title": "米リビアン、R2投入効果で第3四半期販売46%増の過去最高を記録 - BigGo ファイナンス",
-                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UU2s1aDNPNjFiekV1dmdmRThycGxxSXg3QWoxai1RX0xBZEFMQ3NLa00zbjRLby1mTFRRTUgtUUNPWkN5Wml3OWViWlFXZ1NaMmtfMnFFYnBUOGZNSGdLMjBoZnVEUGtydEJ4T05WdHl6VnJJ?oc=5",
-                "published": "Fri, 02 Oct 2026 18:26:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5UU2s1aDNPNjFiekV1dmdmRThycGxxSXg3QWoxai1RX0xBZEFMQ3NLa00zbjRLby1mTFRRTUgtUUNPWkN5Wml3OWViWlFXZ1NaMmtfMnFFYnBUOGZNSGdLMjBoZnVEUGtydEJ4T05WdHl6VnJJ?oc=5\" target=\"_blank\">米リビアン、R2投入効果で第3四半期販売46%増の過去最高を記録</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
-                "site_name": "BigGo ファイナンス",
-                "primary_category": "Market Data",
-                "reason": "リビアンの販売過去最高記録。市場トレンド。",
-                "score": 75,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "R2の市場投入が寄与し、第3四半期の納車台数は過去最高の1万9,248台を記録",
-                "生産効率は劇的に改善したものの、通期ガイダンスの据え置きが市場の期待値を下回った",
-                "業界全体が需要減退と政策リスクに晒される中、ロボタクシー構想も含めた長期的な量産メーカーへの脱皮が鍵となる"
-            ],
-            "insight": "リビアンはR2の立ち上げにより『高付加価値ニッチメーカー』から『本格量産メーカー』への変革を証明したが、市場の失望は明白だ。通期ガイダンスを据え置いた背景には、EV需要の構造的な冷え込みと、急速な増産に伴うコスト・物流の潜在的な隘路が透ける。今後、収益性を犠牲にしてでも数量を追い、黒字化時期を後ろ倒ししてまで自動運転へ投資する賭けが、株主を納得させられるかが焦点となる。"
-        }
-    },
-    {
-        "topic_name": "世界新車EVシェア25%到達",
-        "article_ids": [
-            140861
-        ],
-        "articles": [
-            {
-                "id": 140861,
-                "title": "世界の新車販売、EVシェアが4分の1に 急速充電が新たな焦点に - 36Kr Japan",
-                "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE40RVBfdG5FRGpQZDN0ZEljMzZZRFY3TG9VQmtaRmhEQXVMWnA1dkZFRW9jem0tb282X25V?oc=5",
-                "published": "Fri, 02 Oct 2026 09:03:24 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiO0FVX3lxTE40RVBfdG5FRGpQZDN0ZEljMzZZRFY3TG9VQmtaRmhEQXVMWnA1dkZFRW9jem0tb282X25V?oc=5\" target=\"_blank\">世界の新車販売、EVシェアが4分の1に 急速充電が新たな焦点に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36Kr Japan</font>",
-                "site_name": "36Kr Japan",
-                "primary_category": "Market Trends",
-                "reason": "世界的なEVシェア推移と充電インフラの課題分析。",
-                "score": 75,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "世界新車販売におけるEVシェアが25％に到達し、電動化シフトが新たなマイルストーンへ移行",
-                "BEVが主流を維持する一方、関税回避や移行期需要によりPHVが欧州・中国市場で復権",
-                "充電インフラ戦略が「設置数拡大」から「急速・超急速充電による効率化」へ明確に転換"
-            ],
-            "insight": "EV普及は量から質の段階へ移行した。特にPHVの再評価は、BEV一本足打法のリスクと地政学的関税壁への最適解を市場が導き出した結果である。充電インフラの重心が『設置数』から『高出力・効率化』へ移ったことは、ユーザー体験の改善と収益性確保の両立が、今後のEV普及率を左右する最重要KPIであることを示唆している。"
-        }
-    },
-    {
-        "topic_name": "中国製EVに対するEUの関税圧力",
-        "article_ids": [
-            454514
-        ],
-        "articles": [
-            {
-                "id": 454514,
-                "title": "EUが英国に圧力「中国製EVに最大45％の関税を」―中国メディア - ｄメニューニュース",
-                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnFoU1ZJSkZwQWdaZlZPcC03NlBkdjBPc2M0S2VidmVTMlBtQW1ITVlGVzZ5SEI0ZjlhLTdGdTE3aENzNV9jOEJYck1aTVhlT0NoSG9kanM4TVpzc3p1ZWZYX3dENGNOMFNSTVZia2s0VFpUNHVuYlRoQnVKeURpTUlubF9DUjJpSHV30gGLAUFVX3lxTFBScWhTVklKRnBBZ1pmVk9wLTc2UGR2ME9zYzRLZWJ2ZVMyUG1BbUhNWUZXNnlIQjRmOWEtN0Z1MTdoQ3M1X2M4QlhyTVpNWGVPQ2hIb2RqczhNWnNzenVlZlhfd0Q0Y04wU1JNVmJrazRUWlQ0dW5iVGhCdUp5RGlNSW5sX0NSMmlIdXc?oc=5",
-                "published": "Fri, 02 Oct 2026 09:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnFoU1ZJSkZwQWdaZlZPcC03NlBkdjBPc2M0S2VidmVTMlBtQW1ITVlGVzZ5SEI0ZjlhLTdGdTE3aENzNV9jOEJYck1aTVhlT0NoSG9kanM4TVpzc3p1ZWZYX3dENGNOMFNSTVZia2s0VFpUNHVuYlRoQnVKeURpTUlubF9DUjJpSHV30gGLAUFVX3lxTFBScWhTVklKRnBBZ1pmVk9wLTc2UGR2ME9zYzRLZWJ2ZVMyUG1BbUhNWUZXNnlIQjRmOWEtN0Z1MTdoQ3M1X2M4QlhyTVpNWGVPQ2hIb2RqczhNWnNzenVlZlhfd0Q0Y04wU1JNVmJrazRUWlQ0dW5iVGhCdUp5RGlNSW5sX0NSMmlIdXc?oc=5\" target=\"_blank\">EUが英国に圧力「中国製EVに最大45％の関税を」―中国メディア</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
-                "site_name": "ｄメニューニュース",
-                "primary_category": "Policy/Trade",
-                "reason": "対中関税政策はグローバルサプライチェーンに直結。",
-                "score": 90,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "EUが英国に対し、対中国EV関税の同調を強要し『欧州サプライチェーン』維持を人質に外交圧力を強化。",
-                "英国が追随しない場合、EUは原産地規則の厳格化を通じ、英国製車両のEU向け無関税輸出を遮断するリスクを提示。",
-                "英国は国内EV普及の鈍化と中国の報復リスクの板挟みとなり、独自自動車産業の生存戦略という難問に直面。"
-            ],
-            "insight": "これは単なる貿易障壁の話ではない。ポスト・ブレグジットの英国に対し、EUが『経済安全保障』の名の下に、域外サプライチェーンの統制権を回復しようとする構造的強制だ。英国が妥協すればEV価格高騰による普及停滞は避けられず、拒否すれば欧州域内から事実上孤立する。自動車産業の『分断』が深化し、保護主義が国際分業の効率性を駆逐する典型的な末路と言える。"
-        }
-    },
-    {
-        "topic_name": "EUが中国製EVに関税検討",
-        "article_ids": [
-            454514
-        ],
-        "articles": [
-            {
-                "id": 454514,
-                "title": "EUが英国に圧力「中国製EVに最大45％の関税を」―中国メディア - ｄメニューニュース",
-                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnFoU1ZJSkZwQWdaZlZPcC03NlBkdjBPc2M0S2VidmVTMlBtQW1ITVlGVzZ5SEI0ZjlhLTdGdTE3aENzNV9jOEJYck1aTVhlT0NoSG9kanM4TVpzc3p1ZWZYX3dENGNOMFNSTVZia2s0VFpUNHVuYlRoQnVKeURpTUlubF9DUjJpSHV30gGLAUFVX3lxTFBScWhTVklKRnBBZ1pmVk9wLTc2UGR2ME9zYzRLZWJ2ZVMyUG1BbUhNWUZXNnlIQjRmOWEtN0Z1MTdoQ3M1X2M4QlhyTVpNWGVPQ2hIb2RqczhNWnNzenVlZlhfd0Q0Y04wU1JNVmJrazRUWlQ0dW5iVGhCdUp5RGlNSW5sX0NSMmlIdXc?oc=5",
-                "published": "Fri, 02 Oct 2026 09:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnFoU1ZJSkZwQWdaZlZPcC03NlBkdjBPc2M0S2VidmVTMlBtQW1ITVlGVzZ5SEI0ZjlhLTdGdTE3aENzNV9jOEJYck1aTVhlT0NoSG9kanM4TVpzc3p1ZWZYX3dENGNOMFNSTVZia2s0VFpUNHVuYlRoQnVKeURpTUlubF9DUjJpSHV30gGLAUFVX3lxTFBScWhTVklKRnBBZ1pmVk9wLTc2UGR2ME9zYzRLZWJ2ZVMyUG1BbUhNWUZXNnlIQjRmOWEtN0Z1MTdoQ3M1X2M4QlhyTVpNWGVPQ2hIb2RqczhNWnNzenVlZlhfd0Q0Y04wU1JNVmJrazRUWlQ0dW5iVGhCdUp5RGlNSW5sX0NSMmlIdXc?oc=5\" target=\"_blank\">EUが英国に圧力「中国製EVに最大45％の関税を」―中国メディア</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
-                "site_name": "ｄメニューニュース",
-                "primary_category": "Policy/Trade",
-                "reason": "対中関税政策はグローバルサプライチェーンに直結。",
-                "score": 90,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "EUが英国に対し、対中EV関税引き上げを同調させる圧力を強化",
-                "英国が応じない場合、原産地規則厳格化によるEU域内サプライチェーンからの排除を示唆",
-                "英国はEV普及の鈍化と中国からの報復リスクというジレンマに直面"
-            ],
-            "insight": "これは単なる貿易障壁の問題ではなく、欧州自動車産業の生存を賭けた『供給網の囲い込み』です。英国を対中関税の『裏口』にさせないEUの強硬姿勢は、グローバルサプライチェーンの分断を加速させます。英国にとって、EV市場の主導権を握る中国勢への門戸閉鎖は、自国の電動化戦略を数年単位で後退させる痛恨の選択となりかねません。"
-        }
-    },
-    {
-        "topic_name": "ドイツ当局のEV蓄電池規制緩和",
-        "article_ids": [
-            725152
-        ],
-        "articles": [
-            {
-                "id": 725152,
-                "title": "ドイツ当局、ＥＶ蓄電池利用の規制を緩和へ - Economic Media Bulletin Limited (EMB)",
-                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1yYnpTRWU5MWFLN2JUS01vaFBzUDAtbldLdVZBbEhaYl9EQUtlWkdUOG9DZnI5VERaNWpWZVpIQXFxa2NxY3RKWldlRXhySndiZW5hMHFXY0lBTkZpNGc?oc=5",
-                "published": "Fri, 02 Oct 2026 04:14:35 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1yYnpTRWU5MWFLN2JUS01vaFBzUDAtbldLdVZBbEhaYl9EQUtlWkdUOG9DZnI5VERaNWpWZVpIQXFxa2NxY3RKWldlRXhySndiZW5hMHFXY0lBTkZpNGc?oc=5\" target=\"_blank\">ドイツ当局、ＥＶ蓄電池利用の規制を緩和へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Economic Media Bulletin Limited (EMB)</font>",
-                "site_name": "Economic Media Bulletin Limited (EMB)",
-                "primary_category": "Policy/Trade",
-                "reason": "ドイツの蓄電池規制緩和は技術開発の動向に影響。",
+                "id": 684618,
+                "title": "自動運転ＥＶバス運行 中心市街地 １４日からキタカラ前発着 - 稚内プレス社",
+                "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02clVWUlMzMjc3U2VxZWkwNDRQRjQ3VGRSVDREclNZVFNybUE3ektyY2hpaWZKZ2k1eEh3bVJydlpvaVFkaExob3lOVDJfaThNTnRNNlBn?oc=5",
+                "published": "Sat, 03 Oct 2026 03:18:13 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE02clVWUlMzMjc3U2VxZWkwNDRQRjQ3VGRSVDREclNZVFNybUE3ektyY2hpaWZKZ2k1eEh3bVJydlpvaVFkaExob3lOVDJfaThNTnRNNlBn?oc=5\" target=\"_blank\">自動運転ＥＶバス運行 中心市街地 １４日からキタカラ前発着</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">稚内プレス社</font>",
+                "site_name": "稚内プレス社",
+                "primary_category": "Policy/Infrastructure",
+                "reason": "地域固有のEVバス導入事例として重要。",
                 "score": 70,
                 "is_highly_important": true
             }
@@ -431,301 +249,11 @@
         "is_grouped": false,
         "analysis": {
             "summary_points": [
-                "ドイツ連邦ネットワーク庁が双方向充電（V2X）の規制緩和を決定",
-                "EVを電力網の一部として統合し、再エネの有効活用と電力コスト低減を狙う",
-                "2027年9月までの移行期間を経て、EVの「動く蓄電池」化を加速させる"
+                "稚内市が直面する深刻な運転手不足への解として、レベル2からレベル4を見据えた自動運転EVバスの段階的導入を開始",
+                "生活路線と観光拠点を結ぶ複合ルートを設計し、二次交通の利便性と観光体験の向上を同時に狙う戦略的アプローチ",
+                "ティアフォー社の技術とアカデミア（芝浦工大）の知見を融合し、令和10年度の完全無人運行という明確なロードマップを提示"
             ],
-            "insight": "ドイツの本質的な狙いは、EVの「交通手段」から「電力リソース」への再定義にある。電力需給の調整力をEVに依存する市場設計は、欧州の再エネ不安定性を解消する最後のピースだ。これは単なる技術規制の緩和ではなく、電力会社と自動車メーカーの垣根を越えた新しい『エネルギー・モビリティ経済圏』の構築に向けた法整備の号砲と言える。"
-        }
-    },
-    {
-        "topic_name": "トヨタの充電サービス網拡大",
-        "article_ids": [
-            113060
-        ],
-        "articles": [
-            {
-                "id": 113060,
-                "title": "トヨタ、充電サービス網を2026年度中に4割拡大 他メーカーEVの利用促進で稼働率向上へ - netdenjd.com",
-                "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mLVdRd0FLTW5YaFdOLTQ3cnRQcmc1d1dSR2J4d01QTUZPV0ZLYXRRNnBETFBGcmNkdDJIN3VQdXMtYzlnSXNuTURiaGdDQ1c3VFE?oc=5",
-                "published": "Fri, 02 Oct 2026 10:05:32 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mLVdRd0FLTW5YaFdOLTQ3cnRQcmc1d1dSR2J4d01QTUZPV0ZLYXRRNnBETFBGcmNkdDJIN3VQdXMtYzlnSXNuTURiaGdDQ1c3VFE?oc=5\" target=\"_blank\">トヨタ、充電サービス網を2026年度中に4割拡大 他メーカーEVの利用促進で稼働率向上へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">netdenjd.com</font>",
-                "site_name": "netdenjd.com",
-                "primary_category": "Infrastructure",
-                "reason": "トヨタの充電網拡大戦略。メーカー間の連携。",
-                "score": 75,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "トヨタが自社充電サービス「TEEMO」の設置拠点を2026年度中に650店へ4割拡大",
-                "他社EV利用を促進するオープンな運用で、充電器の稼働率と収益性を向上させる戦略",
-                "EV「bZ4X」シリーズの販売好調を背景に、インフラ拡充でカスタマーエクスペリエンスを強化"
-            ],
-            "insight": "トヨタの真骨頂は『クローズドからオープンへの転換』によるインフラのコモディティ化だ。自社専用網の囲い込みではなく、課金体系の自由度を高め他社車を呼び込むことで、稼働率という充電ビジネス最大の鬼門を克服しようとしている。インフラ投資を単なるコストと見なさず、データ基盤およびEV販売の『補完財』として機能させるトヨタ流の合理的かつ周到なエコシステム構築戦略が見える。"
-        }
-    },
-    {
-        "topic_name": "韓国電池メーカーのシェア急落",
-        "article_ids": [
-            653877
-        ],
-        "articles": [
-            {
-                "id": 653877,
-                "title": "世界の電池使用量20%増も韓国3社シェア12.7%に急落 - BigGo ファイナンス",
-                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85ZV9pOFNsRTJtNmpTMHoxYU5RdURJQUtSQkJ4eUdRMklmd05tSnpKM0lvV3J3TF9uZzhLemhtUFoyWGNieWIyY0xNaWNCd3BYSXBRMk53akJSSzhtbzFiT0F1SmRpLUdLYWRjRVAwUUdENklL?oc=5",
-                "published": "Fri, 02 Oct 2026 02:30:57 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE85ZV9pOFNsRTJtNmpTMHoxYU5RdURJQUtSQkJ4eUdRMklmd05tSnpKM0lvV3J3TF9uZzhLemhtUFoyWGNieWIyY0xNaWNCd3BYSXBRMk53akJSSzhtbzFiT0F1SmRpLUdLYWRjRVAwUUdENklL?oc=5\" target=\"_blank\">世界の電池使用量20%増も韓国3社シェア12.7%に急落</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
-                "site_name": "BigGo ファイナンス",
-                "primary_category": "Market Data",
-                "reason": "電池シェアの変動はサプライチェーンの強弱を示す。",
-                "score": 70,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "中国勢がLFPの価格競争力を武器にシェア73.3%を掌握、韓国勢のシェアは12.7%へ急落",
-                "北米市場の政策的逆風（税額控除終了）が、依存度の高い韓国メーカーの業績を直撃",
-                "中国の電池輸出税制変更が今後の価格転嫁か海外生産シフトかを左右する重要な分岐点"
-            ],
-            "insight": "韓国勢の苦境は単なる一時的停滞ではなく、LFPシフトという市場の潮流に乗り遅れた構造的敗北を示唆します。CATLの支配力は既に技術供給の領域に達しており、中国勢が輸出税制変更というコスト増を海外現地生産で吸収し始めれば、韓国勢の北米・欧州における防衛ラインは極めて脆弱なものとなります。"
-        }
-    },
-    {
-        "topic_name": "BMWのEV戦略と業績不振",
-        "article_ids": [
-            445970
-        ],
-        "articles": [
-            {
-                "id": 445970,
-                "title": "BMW、再起へEVに賭け 中国で不振、株価1年で3割安 利益率3%から目標10% - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vckY5QnBNd2RNN1lQMlU3allRMXJ2bTY3MkdDSTdJTnpMOUtLb2hiWmxoa3IxRWp4MGJ4emNfeDltTmFmcC1JMEZVUFUyWFJCSEhyRUp4LXZZbUJrZlFFRFAwa1RyNGE0OWJ0LQ?oc=5",
-                "published": "Fri, 02 Oct 2026 17:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9vckY5QnBNd2RNN1lQMlU3allRMXJ2bTY3MkdDSTdJTnpMOUtLb2hiWmxoa3IxRWp4MGJ4emNfeDltTmFmcC1JMEZVUFUyWFJCSEhyRUp4LXZZbUJrZlFFRFAwa1RyNGE0OWJ0LQ?oc=5\" target=\"_blank\">BMW、再起へEVに賭け 中国で不振、株価1年で3割安 利益率3%から目標10%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-                "site_name": "日本経済新聞",
-                "primary_category": "Strategy",
-                "reason": "BMWの経営危機とEVシフトの課題。重要分析。",
-                "score": 85,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "中国市場の失速により営業利益率が1〜3%まで急落する危機的状況",
-                "財務目標として2030年代初頭の利益率8〜10%を掲げる高いハードル",
-                "内燃機関の収益モデルが崩れる中、新型EV群への投資による劇的な構造改革が必要"
-            ],
-            "insight": "ドイツ車特有の『中国依存・高級内燃機関モデル』が完全に限界を迎えた象徴的事例。EVへのシフトはもはや選択肢ではなく生存条件だが、中国勢の価格破壊に押される中、プレミアムブランドとしてのプライシングパワーを維持しつつ、利益率を3倍に引き上げるのは至難。VW同様、コスト構造を根底から作り替える構造的な痛みを伴う転換期にある。"
-        }
-    },
-    {
-        "topic_name": "小米の9月EV納車台数",
-        "article_ids": [
-            489087
-        ],
-        "articles": [
-            {
-                "id": 489087,
-                "title": "小米の９月ＥＶ納車、今年初の４万台超え(サーチナ) - Yahoo!ファイナンス",
-                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU1dsZG4zQ0JRV2RBcVQ2Zml6OF9qYS1obVBHdVBoOU16Z2F3X0hkTnZhemM3WGtzTWVaMWV2TzlzWDM0aWUxcFUwTDV2UFR3a20tRUpHeWpfSDZSY0FiNzUwQ2Z5U0xYaE8tdFlnZXYzeHZNTm1Rc2lLZjlUSUllZ2Z4ZURHZTA?oc=5",
-                "published": "Fri, 02 Oct 2026 00:28:17 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPU1dsZG4zQ0JRV2RBcVQ2Zml6OF9qYS1obVBHdVBoOU16Z2F3X0hkTnZhemM3WGtzTWVaMWV2TzlzWDM0aWUxcFUwTDV2UFR3a20tRUpHeWpfSDZSY0FiNzUwQ2Z5U0xYaE8tdFlnZXYzeHZNTm1Rc2lLZjlUSUllZ2Z4ZURHZTA?oc=5\" target=\"_blank\">小米の９月ＥＶ納車、今年初の４万台超え(サーチナ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ファイナンス</font>",
-                "site_name": "Yahoo!ファイナンス",
-                "primary_category": "Market Data",
-                "reason": "新興メーカー小米（Xiaomi）の急成長は注目に値する。",
-                "score": 70,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "小米（Xiaomi）の9月EV納車台数が4万台を超え、月次記録を更新",
-                "サプライチェーンのボトルネックを解消し、生産能力の急拡大が鮮明に",
-                "単一モデル展開での4万台突破は、テスラを彷彿とさせる高い実行力"
-            ],
-            "insight": "スマホメーカーとしての強力なブランド力と、先行するEVメーカーの弱点を突く垂直統合の実行力が実を結びました。特筆すべきは、後発にもかかわらず急速に生産のスケーラビリティを証明した点です。単なる「話題性」から、BYDやテスラを脅かす真の競合へと進化しており、既存のレガシーメーカーにとって最も警戒すべきフェーズに突入したと言えます。"
-        }
-    },
-    {
-        "topic_name": "中国・国慶節の高速道路充電混雑",
-        "article_ids": [
-            606509
-        ],
-        "articles": [
-            {
-                "id": 606509,
-                "title": "高速道路の充電、国慶節に混雑 EV集中で待ち時間長期化 - TradingView",
-                "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kbGowUUFMRWlzdFZjUlliUkpWR01DMFd1MTlEaTZfUV9EeXpGNUFlVEVveWQ4elpBel9KdkdmQTdNS2VnNURwaU92YUJDSjV2S1NtVGxWZnZWMWF5RzBaNy1GaU15MnJkVVpwTU5rMnE?oc=5",
-                "published": "Fri, 02 Oct 2026 11:25:57 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1kbGowUUFMRWlzdFZjUlliUkpWR01DMFd1MTlEaTZfUV9EeXpGNUFlVEVveWQ4elpBel9KdkdmQTdNS2VnNURwaU92YUJDSjV2S1NtVGxWZnZWMWF5RzBaNy1GaU15MnJkVVpwTU5rMnE?oc=5\" target=\"_blank\">高速道路の充電、国慶節に混雑 EV集中で待ち時間長期化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-                "site_name": "TradingView",
-                "primary_category": "Infrastructure",
-                "reason": "充電渋滞の社会問題化。インフラ不足の顕在化。",
-                "score": 70,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "EV普及速度にインフラのキャパシティが追いつかない「構造的ラグ」が顕在化",
-                "長距離移動が集中する国慶節等のピーク時、充電待ちが移動体験を阻害",
-                "中国市場における急速充電網の増設と、グリッドの供給余力が今後の重要課題"
-            ],
-            "insight": "EV普及が先行し、電力インフラの拡張が後手に回る現象は、成長途上の市場における典型的なボトルネックです。単なる充電器の増設だけでなく、ピーク負荷を平準化する蓄電池併設型ステーションの導入や、V2G技術によるグリッド負荷の最適化が急務です。この「充電体験の質」が、今後のEV買い替えサイクルにおける市場競争力を左右する鍵となります。"
-        }
-    },
-    {
-        "topic_name": "デンソーのガソリン車部品事業売却中止",
-        "article_ids": [
-            991177
-        ],
-        "articles": [
-            {
-                "id": 991177,
-                "title": "デンソー、ガソリン車部品事業の売却中止（時事通信） - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RUXBFSnotb2ZVNVhBbGFxT05EY3RUQnM3NC1xQm9jY3JIU0NiZWNDbGVfOVk2eDJHZ3ppaWQxWHBGTEtFWlRxR05EdHk4MTBTOERJQXRqR0pyYU1maUwwUkp0ZDZtM3drQ1ZSR3hyMjdNMzY0RG9zUzk2TE9vcWc?oc=5",
-                "published": "Fri, 02 Oct 2026 11:00:36 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1RUXBFSnotb2ZVNVhBbGFxT05EY3RUQnM3NC1xQm9jY3JIU0NiZWNDbGVfOVk2eDJHZ3ppaWQxWHBGTEtFWlRxR05EdHk4MTBTOERJQXRqR0pyYU1maUwwUkp0ZDZtM3drQ1ZSR3hyMjdNMzY0RG9zUzk2TE9vcWc?oc=5\" target=\"_blank\">デンソー、ガソリン車部品事業の売却中止（時事通信）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-                "site_name": "Yahoo!ニュース",
-                "primary_category": "Strategy",
-                "reason": "デンソーの部品事業売却方針の変化。サプライチェーンの重要動向。",
-                "score": 80,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "EVシフト一辺倒からの戦略的修正による、内燃機関（ICE）関連事業の継続決定",
-                "ハイブリッド車（HEV）需要の底堅さと、現実的な需給バランスへの回帰",
-                "サプライヤー間の事業ポートフォリオ再編における「見極め」の難化"
-            ],
-            "insight": "EV一辺倒のシナリオに依存した「選択と集中」のリスクが露呈した事例です。トヨタグループ内でも、カーボンニュートラルへの道筋が「マルチパスウェイ」であることを再認識させます。プラグやセンサーといった枯れた技術こそ、HEV需要が持続する限り、供給責任と収益源の両面で極めて重要なキャッシュカウとして機能し続けるでしょう。"
-        }
-    },
-    {
-        "topic_name": "三菱自水島の生産停止",
-        "article_ids": [
-            813131
-        ],
-        "articles": [
-            {
-                "id": 813131,
-                "title": "三菱自水島が生産一部停止 熊本地震で部品調達に支障 - 山陽新聞",
-                "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40NG9uNkZ4a1NWOTVNeHU1di1xR2lqbDc3d0luMHJnWFkwSFotVDczclZTb3ZKM05nU2R2YlllTHFNM1RJZXpBcEo1ZnVwNDZ0T2c?oc=5",
-                "published": "Fri, 02 Oct 2026 07:40:15 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE40NG9uNkZ4a1NWOTVNeHU1di1xR2lqbDc3d0luMHJnWFkwSFotVDczclZTb3ZKM05nU2R2YlllTHFNM1RJZXpBcEo1ZnVwNDZ0T2c?oc=5\" target=\"_blank\">三菱自水島が生産一部停止 熊本地震で部品調達に支障</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
-                "site_name": "山陽新聞",
-                "primary_category": "Safety/Recall",
-                "reason": "災害による部品供給停止はサプライチェーンの脆弱性。",
-                "score": 75,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "熊本地震による部品供給網の寸断で水島製作所が生産停止を余儀なくされた",
-                "JIT（ジャスト・イン・タイム）生産方式が抱える、単一拠点被災時の脆弱性が露呈",
-                "軽自動車を主力とする同工場の停止は、三菱自動車の国内販売計画に直撃するリスクがある"
-            ],
-            "insight": "地震等の広域災害による供給網停止は、BCP（事業継続計画）の限界を突きつけます。Tier1以降の部品調達網が被災地依存度を高めていた場合、代替生産や在庫積み増しによる防衛策も無力化します。今回の事態は、過度な効率化を追求したサプライチェーンを見直し、地政学的リスクのみならず『自然災害リスク』を前提とした冗長性確保へと舵を切る必要性を改めて浮き彫りにしました。"
-        }
-    },
-    {
-        "topic_name": "ホンダの米HV販売順位変動",
-        "article_ids": [
-            426441
-        ],
-        "articles": [
-            {
-                "id": 426441,
-                "title": "ホンダ、2026年上期の米HV販売で2位から3位に…株価が反落 - レスポンス（Response.jp）",
-                "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tTWNLWVR4ZHNuWmRMaGNsd2FTQUF5M0tPNTl5aWtEczZ1QldrcnM1TFpWZWo3ZDVKMjMzM1RobGRVZ3BmZTllYTJvbVpKN3ZjSzNLZ3liUjRNcDl3WWJF?oc=5",
-                "published": "Fri, 02 Oct 2026 08:05:03 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tTWNLWVR4ZHNuWmRMaGNsd2FTQUF5M0tPNTl5aWtEczZ1QldrcnM1TFpWZWo3ZDVKMjMzM1RobGRVZ3BmZTllYTJvbVpKN3ZjSzNLZ3liUjRNcDl3WWJF?oc=5\" target=\"_blank\">ホンダ、2026年上期の米HV販売で2位から3位に…株価が反落</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
-                "site_name": "レスポンス（Response.jp）",
-                "primary_category": "Market Data",
-                "reason": "ホンダの米国販売動向は経営戦略を左右する。",
-                "score": 75,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "米ハイブリッド車（HV）市場におけるホンダの販売シェアが2位から3位へ後退",
-                "HV戦略の成否が株価変動に直結するほど、市場が電動化の過渡期における収益源としてHVを注視している",
-                "日米の金利差縮小による円高進行が、輸出主導型の自動車メーカーの業績懸念を増幅させている"
-            ],
-            "insight": "米国市場でのHVシェア低下は、ホンダの供給制約か競合の攻勢かという短期的な販売動向以上に、北米での次世代HV量産前倒しという『過酷な先行投資サイクル』が株価のボラティリティを高めている点に注目すべきだ。HVが単なる過渡期技術ではなく、EV普及までの収益の生命線となる中、シェア維持はブランドの北米死守と同義と言える。"
-        }
-    },
-    {
-        "topic_name": "日産の米国向けハイブリッド展開",
-        "article_ids": [
-            341011
-        ],
-        "articles": [
-            {
-                "id": 341011,
-                "title": "ガソリン高騰に日産が放つ反撃の切り札とは？ 米国で「ローグ ハイブリッド」正式発表。なぜ北米で本格ハイブリッドが展開されるのか？（Webモーターマガジン） | 自動車情報・ニュース - carview!",
-                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcHliZ3dYY0toTG43WDZUV2RRLXYtTnoyTzM5OVJlUEQ4R0g1cklxVGF6SmFDRlhKVTNUeHdlaU4tSGt6b3ZfeWsxSjBlcmlZY01SOTNoSW5USzhHQ3gwdWdaclB5ZldiSW9HcEo2bFNrd1FMMHJXU3NZSEpfY1A2SHhIY0ZIcVct?oc=5",
-                "published": "Fri, 02 Oct 2026 21:05:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcHliZ3dYY0toTG43WDZUV2RRLXYtTnoyTzM5OVJlUEQ4R0g1cklxVGF6SmFDRlhKVTNUeHdlaU4tSGt6b3ZfeWsxSjBlcmlZY01SOTNoSW5USzhHQ3gwdWdaclB5ZldiSW9HcEo2bFNrd1FMMHJXU3NZSEpfY1A2SHhIY0ZIcVct?oc=5\" target=\"_blank\">ガソリン高騰に日産が放つ反撃の切り札とは？ 米国で「ローグ ハイブリッド」正式発表。なぜ北米で本格ハイブリッドが展開されるのか？（Webモーターマガジン） | 自動車情報・ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carview!</font>",
-                "site_name": "carview!",
-                "primary_category": "Strategy",
-                "reason": "日産のハイブリッド戦略。EVへの過渡期戦略。",
-                "score": 75,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "北米のガソリン価格高騰とEVシフト鈍化による実用ハイブリッド需要の急増",
-                "RAV4・CR-Vとのシェア争いにおいて、価格訴求力と燃費を両立した戦略的投入",
-                "高速域での発電効率を極めた第3世代e-POWERとe-4ORCEによる北米適応"
-            ],
-            "insight": "EV一辺倒だった北米戦略の現実的修正です。日本独自のe-POWERを「高速対応」へ進化させ、競合の主戦場へ切り込む姿勢は、シェア奪還に向けた妥協なき適応といえます。高価格なPHEVとICEの隙間を埋める本モデルは、日産の「2030年100万台」目標達成の成否を分ける極めて重要なピースとなります。"
-        }
-    },
-    {
-        "topic_name": "Apple MapsのFord車への統合",
-        "article_ids": [
-            246463
-        ],
-        "articles": [
-            {
-                "id": 246463,
-                "title": "AppleがMapKit for Automotiveを発表しFordの新型EVにApple Mapsを統合する - Межа. Новини України.",
-                "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oTzRxWFROb2F1Wm9QREdhS3ZDUUhwSEd2aVp5aW5SLVVGMDhVdWp5TTdMNlJic2lHRUYzdldGV2Z2MEVVa3JmQ2xaMy1KZzJ6Wi1tcU5OcFdrUnJjYlFRQmgwTjVKM1h3?oc=5",
-                "published": "Fri, 02 Oct 2026 09:22:04 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oTzRxWFROb2F1Wm9QREdhS3ZDUUhwSEd2aVp5aW5SLVVGMDhVdWp5TTdMNlJic2lHRUYzdldGV2Z2MEVVa3JmQ2xaMy1KZzJ6Wi1tcU5OcFdrUnJjYlFRQmgwTjVKM1h3?oc=5\" target=\"_blank\">AppleがMapKit for Automotiveを発表しFordの新型EVにApple Mapsを統合する</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
-                "site_name": "Межа. Новини України.",
-                "primary_category": "Strategy",
-                "reason": "ソフト・IT分野との提携（Apple）。重要。",
-                "score": 70,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "Appleが車載専用開発キット「MapKit for Automotive」を発表し、フォードがEVラインナップでの採用を決定。",
-                "CarPlayとの最大の違いはOSへの直接統合であり、EVのバッテリー残量や温度管理と連動した最適ルート設計が可能。",
-                "BlueCruise（運転支援）との高度な連携により、2028年以降の自動運転化を見据えたプラットフォーム戦略へ転換。"
-            ],
-            "insight": "自動車メーカーが単なる車両製造業から「移動OSの構築者」へと脱却する転換点です。これまで外部接続に依存していたCarPlayと異なり、車両の電力・センサーと地図データが深部で融合することで、EV特有の航続距離への不安を解消する『スマートな電力運用』が実現されます。フォードの『UEVプラットフォーム』とAppleのデータ基盤の結合は、車両ハードウェアのコモディティ化が進む中で、メーカーがソフトウェアによる顧客体験（UX）の囲い込みを狙う極めて戦略的な一手です。"
+            "insight": "寒冷地かつ人口減少が加速する稚内での取り組みは、単なる技術実証を超えた『生存のための公共交通モデル』の試金石です。レベル2から段階的に技術成熟を図る堅実な行程は評価できますが、鍵は冬季の運用耐久性と、雪道でのセンシング精度維持にあります。この実証が成功すれば、北国の地方都市における持続可能なモビリティの標準仕様となるでしょう。"
         }
     }
 ]

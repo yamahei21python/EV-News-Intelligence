@@ -1,0 +1,41 @@
+[
+    {
+        "topic_name": "テスラの7-9月期販売台数と株価動向",
+        "article_ids": [
+            616356,
+            792304,
+            990163,
+            801555,
+            638518,
+            426638,
+            12683,
+            197119,
+            142582,
+            90582,
+            760524
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "トヨタの米国ハイブリッド車販売シェア",
+        "article_ids": [
+            877933,
+            247853
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "大阪メトロのEVバス導入見送り",
+        "article_ids": [
+            990619
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "稚内の自動運転EVバス運行開始",
+        "article_ids": [
+            684618
+        ],
+        "is_grouped": false
+    }
+]
