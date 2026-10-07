@@ -1,6 +1,6 @@
 {
-    "updated_at": "2026-10-06 15:37:54",
-    "total_count": 100,
+    "updated_at": "2026-10-07 00:23:43",
+    "total_count": 150,
     "articles": [
         {
             "id": 220341,
@@ -801,6 +801,406 @@
             "published": "Tue, 06 Oct 2026 08:58:23 GMT",
             "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rZDlnSFpRVm5VV2M1a2xPSVFPUVJsbXJ5M3g4WEpSMDRTa3REYU9SSTNCRXV6dk1YbHYtTGtZTVRqTnBwTW1PNWhrek1kQVdsTFoxaG5Qbw?oc=5\" target=\"_blank\">スズキ軽ＥＶ、国内最安２１２万円</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">八戸経済新聞</font>",
             "site_name": "八戸経済新聞"
+        },
+        {
+            "id": 676056,
+            "title": "国内ＥＶ、販売台数２．５倍 新車販売の３．７％占める 前年同期比 - 朝日新聞",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzU2c3Z2g3Y1hQcTc4SEZJNGdIdUhvYXd3b1c1djlNLWduTWc4UkRTUFhOMHNObXdLWlZYZmtKQUpWS0V0QWpOWURsd0k3V1lfck1Od0ZhVTV1SzZY?oc=5",
+            "published": "Tue, 06 Oct 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzU2c3Z2g3Y1hQcTc4SEZJNGdIdUhvYXd3b1c1djlNLWduTWc4UkRTUFhOMHNObXdLWlZYZmtKQUpWS0V0QWpOWURsd0k3V1lfck1Od0ZhVTV1SzZY?oc=5\" target=\"_blank\">国内ＥＶ、販売台数２．５倍 新車販売の３．７％占める 前年同期比</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
+            "site_name": "朝日新聞"
+        },
+        {
+            "id": 714218,
+            "title": "EV充電、サービス乱立で再編 テラチャージが中部電力系の事業買収 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNbVQxMG56MXJ6ekdqNlNvZk9iLXNpS0VSaU0wVXEyT1JQNGxCRW8yVGJ1LXhaRndmSDBCdmR0dnE2VzgtMS1VX2pONW9DTllYTjBoaWQ5WllBN1FmbU83a2lMZmYtMHZkVGRPTQ?oc=5",
+            "published": "Tue, 06 Oct 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBNbVQxMG56MXJ6ekdqNlNvZk9iLXNpS0VSaU0wVXEyT1JQNGxCRW8yVGJ1LXhaRndmSDBCdmR0dnE2VzgtMS1VX2pONW9DTllYTjBoaWQ5WllBN1FmbU83a2lMZmYtMHZkVGRPTQ?oc=5\" target=\"_blank\">EV充電、サービス乱立で再編 テラチャージが中部電力系の事業買収</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+            "site_name": "日本経済新聞"
+        },
+        {
+            "id": 337514,
+            "title": "スズキ『eスカイ』投入、鈴木社長「EVのある日常生活」をアピール［新聞ウォッチ］（レスポンス） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52emMtdldMMmtOV21jaDFIWWlpN3pUQXltZndicEhmaXNOMlBRc01iWnpndFhHWlVZaXVVVDVYeDc2MlFaUHU1OTE0Rm9GRjk4WTlGU25LSkVPVjdsWWRUOEtVRmxyS2hJMWpLbTJJeGZ3TV9kUFlDTnB1emQwSGM?oc=5",
+            "published": "Tue, 06 Oct 2026 23:30:52 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE52emMtdldMMmtOV21jaDFIWWlpN3pUQXltZndicEhmaXNOMlBRc01iWnpndFhHWlVZaXVVVDVYeDc2MlFaUHU1OTE0Rm9GRjk4WTlGU25LSkVPVjdsWWRUOEtVRmxyS2hJMWpLbTJJeGZ3TV9kUFlDTnB1emQwSGM?oc=5\" target=\"_blank\">スズキ『eスカイ』投入、鈴木社長「EVのある日常生活」をアピール［新聞ウォッチ］（レスポンス）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 807791,
+            "title": "気候テック10：従量課金でアフリカのEV バス普及を目指すバシゴー - MITテクノロジーレビュー",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLTgwa1ZUMWswNVdkNWwwZmtoTktVYTl2UXhJLXY2OGJfaS0wWklrYzR6QjBDUllsZm5VNENVWUZXYkV5LS0wdENDNVRxdjZVMzVENFRSSmc5cWxMcWhkYW5VYXpDYXFtNDRUUkc5SE1QVTVSeE1FRHhaQVlfQXVQRXFGTWdYc28?oc=5",
+            "published": "Tue, 06 Oct 2026 21:58:28 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQLTgwa1ZUMWswNVdkNWwwZmtoTktVYTl2UXhJLXY2OGJfaS0wWklrYzR6QjBDUllsZm5VNENVWUZXYkV5LS0wdENDNVRxdjZVMzVENFRSSmc5cWxMcWhkYW5VYXpDYXFtNDRUUkc5SE1QVTVSeE1FRHhaQVlfQXVQRXFGTWdYc28?oc=5\" target=\"_blank\">気候テック10：従量課金でアフリカのEV バス普及を目指すバシゴー</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MITテクノロジーレビュー</font>",
+            "site_name": "MITテクノロジーレビュー"
+        },
+        {
+            "id": 951752,
+            "title": "スズキ初軽ＥＶ来月発売 「ｅ ＳＫＹ」 最安水準１５５万円から - 福井新聞社",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBETklZSVU1VjA4azlLeW1SOXdpZ1cyN01RQmwyNjBlME00UnNGU2RSRTJoNW9JUjlvY2lsUHdJamljVmItaUFZaVJEX3I5RTllVzRiZGRwVWF3Q25Id3c?oc=5",
+            "published": "Tue, 06 Oct 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBETklZSVU1VjA4azlLeW1SOXdpZ1cyN01RQmwyNjBlME00UnNGU2RSRTJoNW9JUjlvY2lsUHdJamljVmItaUFZaVJEX3I5RTllVzRiZGRwVWF3Q25Id3c?oc=5\" target=\"_blank\">スズキ初軽ＥＶ来月発売 「ｅ ＳＫＹ」 最安水準１５５万円から</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">福井新聞社</font>",
+            "site_name": "福井新聞社"
+        },
+        {
+            "id": 842096,
+            "title": "BYDより安い、スズキが超低価格EVを発売へ＝韓国ネット「現実的な戦略」「性能気になる」 - ｄメニューニュース",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSEdaVWNYUE5GaTVTOVFubkdhekV3anRBVVpSMmEwRUZtWkhjVTV0R1JYeVRPMDBfOEdyZG5McTVVVXhULWI1S3NsUEJBY2h4TmNBcVhMYVo3X05uYlJVSzVzNWtWOExDaVIzc3pSRFg2MkdieTJubW1ybnNRYnZCdTUtSXVnX2FYb01R0gGLAUFVX3lxTE1IR1pVY1hQTkZpNVM5UW5uR2F6RXdqdEFVWlIyYTBFRm1aSGNVNXRHUlh5VE8wMF84R3JkbkxxNVVVeFQtYjVLc2xQQkFjaHhOY0FxWExhWjdfTm5iUlVLNXM1a1Y4TENpUjNzelJEWDYyR2J5Mm5tbXJuc1FidkJ1NS1JdWdfYVhvTVE?oc=5",
+            "published": "Tue, 06 Oct 2026 21:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSEdaVWNYUE5GaTVTOVFubkdhekV3anRBVVpSMmEwRUZtWkhjVTV0R1JYeVRPMDBfOEdyZG5McTVVVXhULWI1S3NsUEJBY2h4TmNBcVhMYVo3X05uYlJVSzVzNWtWOExDaVIzc3pSRFg2MkdieTJubW1ybnNRYnZCdTUtSXVnX2FYb01R0gGLAUFVX3lxTE1IR1pVY1hQTkZpNVM5UW5uR2F6RXdqdEFVWlIyYTBFRm1aSGNVNXRHUlh5VE8wMF84R3JkbkxxNVVVeFQtYjVLc2xQQkFjaHhOY0FxWExhWjdfTm5iUlVLNXM1a1Y4TENpUjNzelJEWDYyR2J5Mm5tbXJuc1FidkJ1NS1JdWdfYVhvTVE?oc=5\" target=\"_blank\">BYDより安い、スズキが超低価格EVを発売へ＝韓国ネット「現実的な戦略」「性能気になる」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
+            "site_name": "ｄメニューニュース"
+        },
+        {
+            "id": 156190,
+            "title": "スズキ 軽EV投入 国内メーカー最安値212万円 中国「BYD」も参入 競争激化へ - 毎日新聞",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpMUlFaWZCako0UDhMM0VrYjgwOGkyb2t6T2p2Z3RiaGVKSXgyQmNveDFZZHB2VnJDUmtHM1daWlBPVk93b0VGTkc2TGFxa0w2d3JhMnB1OWROOEkxdWhSRmdQS01tMUVn?oc=5",
+            "published": "Tue, 06 Oct 2026 17:01:31 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpMUlFaWZCako0UDhMM0VrYjgwOGkyb2t6T2p2Z3RiaGVKSXgyQmNveDFZZHB2VnJDUmtHM1daWlBPVk93b0VGTkc2TGFxa0w2d3JhMnB1OWROOEkxdWhSRmdQS01tMUVn?oc=5\" target=\"_blank\">スズキ 軽EV投入 国内メーカー最安値212万円 中国「BYD」も参入 競争激化へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">毎日新聞</font>",
+            "site_name": "毎日新聞"
+        },
+        {
+            "id": 62936,
+            "title": "火災発生の大型EVバス「エルガEV」、いすゞがリコール - ニュースイッチ by 日刊工業新聞社",
+            "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5GRHhoVnRRQUZqUVBrR3VKZGxCcHlsZWhkWmVJV29jMnlGYnVWeWpSSTZDY2dVWV94MlJ2SElKQTA2dw?oc=5",
+            "published": "Tue, 06 Oct 2026 21:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE5GRHhoVnRRQUZqUVBrR3VKZGxCcHlsZWhkWmVJV29jMnlGYnVWeWpSSTZDY2dVWV94MlJ2SElKQTA2dw?oc=5\" target=\"_blank\">火災発生の大型EVバス「エルガEV」、いすゞがリコール</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースイッチ by 日刊工業新聞社</font>",
+            "site_name": "ニュースイッチ by 日刊工業新聞社"
+        },
+        {
+            "id": 635551,
+            "title": "スズキ軽ＥＶ、国内最安 来月発売 - 朝日新聞",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83b1NVQ3RkWG5kdm1yVFZQNElkTnpsQ21reFdwNzBEUkhLOGtENXZOSVVVMUJqQUpLeXNUQUJBZEtKbGFYZ3NNVG9ORElHUmV1b2ZGU1YwSUxwZ0Zz?oc=5",
+            "published": "Tue, 06 Oct 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE83b1NVQ3RkWG5kdm1yVFZQNElkTnpsQ21reFdwNzBEUkhLOGtENXZOSVVVMUJqQUpLeXNUQUJBZEtKbGFYZ3NNVG9ORElHUmV1b2ZGU1YwSUxwZ0Zz?oc=5\" target=\"_blank\">スズキ軽ＥＶ、国内最安 来月発売</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
+            "site_name": "朝日新聞"
+        },
+        {
+            "id": 350756,
+            "title": "4〜9月の輸入車販売､EVが初の2万台超 テスラけん引 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kNklYc1duZWNQMVZ6N0RfRnhROExScFFlVlRQUXdwNTNvWmE3dWRxMUI2ZGxXYnNyV1hUY04tT3JicXVpb2hWOEVSeWYtSEZqdnAwYWNibFJMMmUyNEdIMzVWQWxEY3lOUG1Eb1cxalZaZDBXNzFSNkJZdDBMZFk?oc=5",
+            "published": "Tue, 06 Oct 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1kNklYc1duZWNQMVZ6N0RfRnhROExScFFlVlRQUXdwNTNvWmE3dWRxMUI2ZGxXYnNyV1hUY04tT3JicXVpb2hWOEVSeWYtSEZqdnAwYWNibFJMMmUyNEdIMzVWQWxEY3lOUG1Eb1cxalZaZDBXNzFSNkJZdDBMZFk?oc=5\" target=\"_blank\">4〜9月の輸入車販売､EVが初の2万台超 テスラけん引</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+            "site_name": "日本経済新聞"
+        },
+        {
+            "id": 409311,
+            "title": "4〜9月の国内EV販売､補助金効果で2.5倍、シェアは3.7% - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WaTBzcW0yN0J6WkVYWnZJeXN6aHRlYnFSN1dINlEtTmxxQTZBTG9SenZybHZ1NTlJYzc0bnJxeWY4VjlJWXI2QXlXMDI1X1dmc0xVenlid1NESm1fVGsxMzRSaWFGNzBjVVBSa04wVUlDbl9YbHk3SVU0bmNvY28?oc=5",
+            "published": "Tue, 06 Oct 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1WaTBzcW0yN0J6WkVYWnZJeXN6aHRlYnFSN1dINlEtTmxxQTZBTG9SenZybHZ1NTlJYzc0bnJxeWY4VjlJWXI2QXlXMDI1X1dmc0xVenlid1NESm1fVGsxMzRSaWFGNzBjVVBSa04wVUlDbl9YbHk3SVU0bmNvY28?oc=5\" target=\"_blank\">4〜9月の国内EV販売､補助金効果で2.5倍、シェアは3.7%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+            "site_name": "日本経済新聞"
+        },
+        {
+            "id": 422274,
+            "title": "スズキが中国部品の採用拡大、電池や半導体 EVで揺らぐ日本の供給網 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DSS1TSVNMZ3FiNUFYUFk1LVdpQzRyM1FuVEczdHBmZk1UWkJobDFvLTRaSEZaeU1IWGwxSG4tc0Rib0hxMXBQRTRxemJjQzNHelYyMGt0a1ZrQmppWlk2UzFxc3FoMUwtUmZ0Qw?oc=5",
+            "published": "Tue, 06 Oct 2026 17:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9DSS1TSVNMZ3FiNUFYUFk1LVdpQzRyM1FuVEczdHBmZk1UWkJobDFvLTRaSEZaeU1IWGwxSG4tc0Rib0hxMXBQRTRxemJjQzNHelYyMGt0a1ZrQmppWlk2UzFxc3FoMUwtUmZ0Qw?oc=5\" target=\"_blank\">スズキが中国部品の採用拡大、電池や半導体 EVで揺らぐ日本の供給網</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+            "site_name": "日本経済新聞"
+        },
+        {
+            "id": 673141,
+            "title": "自動車の「CASE」10年検証 EV市場は45倍、自動運転の実現は限定的 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YR2I5cmRBT3pzazdnUmpjR3ZlZ18zVXFSQzF6RVlHSWR2bUZXODN4eEV0VjZranlUTm5hdWZMYVladkFfNEV0QXM4NEM2cGF5ak1Mc2piM3pQUUgtc2I1MXlCN0RsYS1PbWx6aQ?oc=5",
+            "published": "Tue, 06 Oct 2026 17:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5YR2I5cmRBT3pzazdnUmpjR3ZlZ18zVXFSQzF6RVlHSWR2bUZXODN4eEV0VjZranlUTm5hdWZMYVladkFfNEV0QXM4NEM2cGF5ak1Mc2piM3pQUUgtc2I1MXlCN0RsYS1PbWx6aQ?oc=5\" target=\"_blank\">自動車の「CASE」10年検証 EV市場は45倍、自動運転の実現は限定的</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+            "site_name": "日本経済新聞"
+        },
+        {
+            "id": 850832,
+            "title": "スズキの次期電動アクスルは6 in 1、軽EVにSiC検討 「重希土類フリー」に - 日経クロステック（xTECH）",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iWnFZY0ZxY3RVZEgyTG1aMHpoTS1GdDhEbFZGVTNvU3E5dk5wWUljb0NDS0xIZnRrRmJ0NnJzQzVkZ2x4M21yRkNLaHdHQnBLZ3FWZmtkdnhwU2FGNFZ6QUZsWTNoZmlFTUJzSg?oc=5",
+            "published": "Tue, 06 Oct 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5iWnFZY0ZxY3RVZEgyTG1aMHpoTS1GdDhEbFZGVTNvU3E5dk5wWUljb0NDS0xIZnRrRmJ0NnJzQzVkZ2x4M21yRkNLaHdHQnBLZ3FWZmtkdnhwU2FGNFZ6QUZsWTNoZmlFTUJzSg?oc=5\" target=\"_blank\">スズキの次期電動アクスルは6 in 1、軽EVにSiC検討 「重希土類フリー」に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経クロステック（xTECH）</font>",
+            "site_name": "日経クロステック（xTECH）"
+        },
+        {
+            "id": 671081,
+            "title": "走行中のEVに道路から給電 ホンダらが館山道で2027年実証へ - CNET Japan",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Cc1pDRmRzYXdQTjF3NlJPOVM1V0JvR2VHOGZodV9CMGVhRzBZbVRXcFVhSG13ZTVSbUx1Unp5TUk1LUlISUhxXzBHb1ltenZIY1E?oc=5",
+            "published": "Tue, 06 Oct 2026 22:57:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Cc1pDRmRzYXdQTjF3NlJPOVM1V0JvR2VHOGZodV9CMGVhRzBZbVRXcFVhSG13ZTVSbUx1Unp5TUk1LUlISUhxXzBHb1ltenZIY1E?oc=5\" target=\"_blank\">走行中のEVに道路から給電 ホンダらが館山道で2027年実証へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNET Japan</font>",
+            "site_name": "CNET Japan"
+        },
+        {
+            "id": 297106,
+            "title": "BYDより安い、スズキが超低価格EVを発売へ＝韓国ネット「現実的な戦略」「性能気になる」 - Infoseek",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrOVk4Qkt4ZXV6UjFIeWZKdUlZbUYyWi1qUGdfSDhCY0VYYlExXzlka0dyLUowenZCTlF1UlRkMkJfN21lN1RURVlqMHY5dmRSYUVsdXUxTVJNeWIzUHV3QVFkWjRVbUI5?oc=5",
+            "published": "Tue, 06 Oct 2026 21:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrOVk4Qkt4ZXV6UjFIeWZKdUlZbUYyWi1qUGdfSDhCY0VYYlExXzlka0dyLUowenZCTlF1UlRkMkJfN21lN1RURVlqMHY5dmRSYUVsdXUxTVJNeWIzUHV3QVFkWjRVbUI5?oc=5\" target=\"_blank\">BYDより安い、スズキが超低価格EVを発売へ＝韓国ネット「現実的な戦略」「性能気になる」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
+            "site_name": "Infoseek"
+        },
+        {
+            "id": 764397,
+            "title": "スズキ 軽乗用ＥＶ投入 「ｅスカイ」来月発売へ…国内最安２１２万円 航続も最長クラス - 読売新聞",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Pc0stWlg5T29peHJROHJfZld3a2pnYXp6QjFoVUg1MmNQckRuTGNKY0NfeDBWWDcyUG9TeVRJYmhPV3d2VVJ6QnJmYzl6WTlLZklOU2JLY0E3Smx3Vmt0RjJBUW0?oc=5",
+            "published": "Tue, 06 Oct 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Pc0stWlg5T29peHJROHJfZld3a2pnYXp6QjFoVUg1MmNQckRuTGNKY0NfeDBWWDcyUG9TeVRJYmhPV3d2VVJ6QnJmYzl6WTlLZklOU2JLY0E3Smx3Vmt0RjJBUW0?oc=5\" target=\"_blank\">スズキ 軽乗用ＥＶ投入 「ｅスカイ」来月発売へ…国内最安２１２万円 航続も最長クラス</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">読売新聞</font>",
+            "site_name": "読売新聞"
+        },
+        {
+            "id": 336485,
+            "title": "スズキ、「eスカイ」来月投入 生活に寄り添う軽EV - 日刊工業新聞",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPOE53bnRQcVlNcXE1bTdKVFloSlBNd3REWkVtWTdNdmE1R1lYM1BTVzZWUElpbTVJc2M4dzgxUml1RDNEVUlscExwN01zVWJmX0VLbmdZNUc?oc=5",
+            "published": "Tue, 06 Oct 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPOE53bnRQcVlNcXE1bTdKVFloSlBNd3REWkVtWTdNdmE1R1lYM1BTVzZWUElpbTVJc2M4dzgxUml1RDNEVUlscExwN01zVWJmX0VLbmdZNUc?oc=5\" target=\"_blank\">スズキ、「eスカイ」来月投入 生活に寄り添う軽EV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日刊工業新聞</font>",
+            "site_name": "日刊工業新聞"
+        },
+        {
+            "id": 921087,
+            "title": "スズキ初の軽乗用EV「e SKY」が11月16日に発売！航続距離310kmで税込212万円から (MotorFan) - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU0dRTzV4dlZGSVJfN2d2VDF1VXRWMEtCQk5WWENsR1ZldnZJekU3LWd4STFmWnA1X0R2R19rTU8xODl2ckk1ajdpLUhDajBiT3h3WVRHRW1oY3VEUy1XMjhDT1FYeEQxc2dRYXUxbW82bFZWYUV3cFo3NllFSHNhczF5Mmt4cVFoRzFqZTRB?oc=5",
+            "published": "Tue, 06 Oct 2026 22:15:42 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOU0dRTzV4dlZGSVJfN2d2VDF1VXRWMEtCQk5WWENsR1ZldnZJekU3LWd4STFmWnA1X0R2R19rTU8xODl2ckk1ajdpLUhDajBiT3h3WVRHRW1oY3VEUy1XMjhDT1FYeEQxc2dRYXUxbW82bFZWYUV3cFo3NllFSHNhczF5Mmt4cVFoRzFqZTRB?oc=5\" target=\"_blank\">スズキ初の軽乗用EV「e SKY」が11月16日に発売！航続距離310kmで税込212万円から (MotorFan)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 682316,
+            "title": "スズキ初 軽EV来月発売 国内最安155万円から - 沖縄タイムス社",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zSklUdXBGd1hFSERfbmtVdnZBTUo2QnY3LUJfRFVpQWJaREpNODRKaHFYeTlVeUhUWlFJMlZ4c0F6bldGWXVUVWpGN3JfNnU4RVoyS2Jsbnh0QXdJX2c?oc=5",
+            "published": "Tue, 06 Oct 2026 18:57:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zSklUdXBGd1hFSERfbmtVdnZBTUo2QnY3LUJfRFVpQWJaREpNODRKaHFYeTlVeUhUWlFJMlZ4c0F6bldGWXVUVWpGN3JfNnU4RVoyS2Jsbnh0QXdJX2c?oc=5\" target=\"_blank\">スズキ初 軽EV来月発売 国内最安155万円から</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">沖縄タイムス社</font>",
+            "site_name": "沖縄タイムス社"
+        },
+        {
+            "id": 475788,
+            "title": "スズキ初の軽EV｢e SKY｣､実質155万円から－日産やBYDの競合車を下回る - TBS NEWS DIG",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeG1VaXpINnNVTl84eDFlY1ZOMlVQUkNnZ3hnTnVjSlgwcVBESE9BOWhub0JFY001enplM0lLMDZmZmtBNjFVM21IZmtIaUdHMXFYcGJGel9OT0NCR0g1bUVNUGw1VmtDQTFGS1dHbWpBdXhHZmtlSG50SjFVMFpHdVJMcmd0djQ?oc=5",
+            "published": "Tue, 06 Oct 2026 18:26:53 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQeG1VaXpINnNVTl84eDFlY1ZOMlVQUkNnZ3hnTnVjSlgwcVBESE9BOWhub0JFY001enplM0lLMDZmZmtBNjFVM21IZmtIaUdHMXFYcGJGel9OT0NCR0g1bUVNUGw1VmtDQTFGS1dHbWpBdXhHZmtlSG50SjFVMFpHdVJMcmd0djQ?oc=5\" target=\"_blank\">スズキ初の軽EV｢e SKY｣､実質155万円から－日産やBYDの競合車を下回る</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBS NEWS DIG</font>",
+            "site_name": "TBS NEWS DIG"
+        },
+        {
+            "id": 652737,
+            "title": "スズキ初の軽乗用EV「eSKY」を発表 1回の充電で310km走行 最安価格でガソリン車からの乗り換え狙う - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCQ2RmOVZLRDB4WW93c25kVVFBTjlZSVgybGZvTlhQUEhpLVdhMHlYZm9Dd3U3V3d6V0lHa2d3OURySmlPWWNmeVdwcFJ3ZHQzV3NSMEdlbUF2b3U2LTloWndNVzdXMjdMSk1HNVEyR2JBU0RWd2czdVJBc2V6U00?oc=5",
+            "published": "Tue, 06 Oct 2026 12:21:44 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBCQ2RmOVZLRDB4WW93c25kVVFBTjlZSVgybGZvTlhQUEhpLVdhMHlYZm9Dd3U3V3d6V0lHa2d3OURySmlPWWNmeVdwcFJ3ZHQzV3NSMEdlbUF2b3U2LTloWndNVzdXMjdMSk1HNVEyR2JBU0RWd2czdVJBc2V6U00?oc=5\" target=\"_blank\">スズキ初の軽乗用EV「eSKY」を発表 1回の充電で310km走行 最安価格でガソリン車からの乗り換え狙う</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 657989,
+            "title": "スポーティかつラグジュアリーを極めた！ レンジローバースポーツに初のフルEVモデルが登場 - carview!",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTWpKenEzRERSX0FkQW5OaDhXR0IxVHZDYnk1a1FlZlVjNkUzWHQyd3I5ZjhaM2RCcTJIa2NFTG0wSEZlbWJrWHhvYkJia1pSZVFDWmhCYm00QU1oTzBGazZEaGJJdU9kZ2tPbUpuRVhLb0F1OVktU2dGdDQwYkp4OENya09UTVdq?oc=5",
+            "published": "Tue, 06 Oct 2026 22:00:39 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTWpKenEzRERSX0FkQW5OaDhXR0IxVHZDYnk1a1FlZlVjNkUzWHQyd3I5ZjhaM2RCcTJIa2NFTG0wSEZlbWJrWHhvYkJia1pSZVFDWmhCYm00QU1oTzBGazZEaGJJdU9kZ2tPbUpuRVhLb0F1OVktU2dGdDQwYkp4OENya09UTVdq?oc=5\" target=\"_blank\">スポーティかつラグジュアリーを極めた！ レンジローバースポーツに初のフルEVモデルが登場</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carview!</font>",
+            "site_name": "carview!"
+        },
+        {
+            "id": 591820,
+            "title": "米EV市場に復活の兆し、テスラとリビアンのQ3販売台数が予想を上回る フォトギャラリー | TBS CROSS DIG with Bloomberg - TBS NEWS DIG",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMVd1MjBjNFQzQmp5aHJIYVhqX3ppbXhaQlIzSDlHWGJwMkdHTFJkajFiWnNmbXFSaTNsYzVDbFM3SnRsVmR1QnhGY0tGRkRyTjdZVFg0TVBaaGg2R1FVYzktdDFJZmc2MUlrWm9IXzdsbEVIM3lPRDFWeUFfdzVCMzRIODlSZUE?oc=5",
+            "published": "Tue, 06 Oct 2026 16:07:10 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPMVd1MjBjNFQzQmp5aHJIYVhqX3ppbXhaQlIzSDlHWGJwMkdHTFJkajFiWnNmbXFSaTNsYzVDbFM3SnRsVmR1QnhGY0tGRkRyTjdZVFg0TVBaaGg2R1FVYzktdDFJZmc2MUlrWm9IXzdsbEVIM3lPRDFWeUFfdzVCMzRIODlSZUE?oc=5\" target=\"_blank\">米EV市場に復活の兆し、テスラとリビアンのQ3販売台数が予想を上回る フォトギャラリー | TBS CROSS DIG with Bloomberg</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBS NEWS DIG</font>",
+            "site_name": "TBS NEWS DIG"
+        },
+        {
+            "id": 307947,
+            "title": "スズキ初の軽乗用EV「e SKY」が11月16日に発売！航続距離310kmで税込212万円から - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvcnRVQ3JQcWZnaHkwQy1acEp4RVpsOW5zQ0l5WUFhb0NGbnNnNklmZVgyTVFGQTBtRGpsNEZJOEJaUnVJZ3lkRi1Ec3Jjdw?oc=5",
+            "published": "Tue, 06 Oct 2026 16:34:53 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvcnRVQ3JQcWZnaHkwQy1acEp4RVpsOW5zQ0l5WUFhb0NGbnNnNklmZVgyTVFGQTBtRGpsNEZJOEJaUnVJZ3lkRi1Ec3Jjdw?oc=5\" target=\"_blank\">スズキ初の軽乗用EV「e SKY」が11月16日に発売！航続距離310kmで税込212万円から</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 9296,
+            "title": "原付ミニジープや小さな軽トラのEVメーカー、約9年間の累計販売台数が1万3000台を突破。ブレイズは11車種のラインナップで多様な移動ニーズに対応 - スマートモビリティJP",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KMWhFVGJiNlJ6aXRuQW9sM3pWWFVVSllkZ3pVWkd0OVAxem1YSHgtTUdFTTBmNkRjVmxoZ2JiNUE4cFZpN09ZYVJONm5vazg?oc=5",
+            "published": "Tue, 06 Oct 2026 21:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KMWhFVGJiNlJ6aXRuQW9sM3pWWFVVSllkZ3pVWkd0OVAxem1YSHgtTUdFTTBmNkRjVmxoZ2JiNUE4cFZpN09ZYVJONm5vazg?oc=5\" target=\"_blank\">原付ミニジープや小さな軽トラのEVメーカー、約9年間の累計販売台数が1万3000台を突破。ブレイズは11車種のラインナップで多様な移動ニーズに対応</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">スマートモビリティJP</font>",
+            "site_name": "スマートモビリティJP"
+        },
+        {
+            "id": 722796,
+            "title": "最新EVが続々採用！「800Vシステム」がもたらす3つのメリットとは - ｄメニューニュース",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZFZTQkVoYlNRQXFCY2I1SVVGcUViQ1NHSEZXTWNhZ0piVkUzRzVod21Mbk50bnR2aFZlVjNWb0xVd21UZ2duTDF0anBqeG1YczF1cHhaODBPR1V6N3lmOVF0ZFdVSGxtUjRpMDRWYnBVSG1YM1FLMDFiNWpmeUdGT3FDT3d4ZU1Ba3NQd3AwWk1jYUhZSUxtdUQwWS1uLVNxZHhab2ZaRFhCUnNRWGlkc2kyLVRCWXRDdG83YlNublRtcmNocG9kR1dn0gF6QVVfeXFMTnhCcDVKTVAzektGOXdMTzVLZFlfelR0SE1pcV9FUlBYSko5VnNxblBFbmZObUlSTjhDcDZhUmJ5RnA4QzN3TEZSS0UyNlM4Y3FOMVRPMVBPMVJDSTVCRjFoeU1NLVFtaGtaU2ZLcHl5d2o4b2hZb0pUcEE?oc=5",
+            "published": "Tue, 06 Oct 2026 23:11:49 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNZFZTQkVoYlNRQXFCY2I1SVVGcUViQ1NHSEZXTWNhZ0piVkUzRzVod21Mbk50bnR2aFZlVjNWb0xVd21UZ2duTDF0anBqeG1YczF1cHhaODBPR1V6N3lmOVF0ZFdVSGxtUjRpMDRWYnBVSG1YM1FLMDFiNWpmeUdGT3FDT3d4ZU1Ba3NQd3AwWk1jYUhZSUxtdUQwWS1uLVNxZHhab2ZaRFhCUnNRWGlkc2kyLVRCWXRDdG83YlNublRtcmNocG9kR1dn0gF6QVVfeXFMTnhCcDVKTVAzektGOXdMTzVLZFlfelR0SE1pcV9FUlBYSko5VnNxblBFbmZObUlSTjhDcDZhUmJ5RnA4QzN3TEZSS0UyNlM4Y3FOMVRPMVBPMVJDSTVCRjFoeU1NLVFtaGtaU2ZLcHl5d2o4b2hZb0pUcEE?oc=5\" target=\"_blank\">最新EVが続々採用！「800Vシステム」がもたらす3つのメリットとは</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
+            "site_name": "ｄメニューニュース"
+        },
+        {
+            "id": 619247,
+            "title": "中国･吉利｢内燃機関は再びブルーオーシャン｣ HVに全力 - 日本経済新聞",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rbGM3dms5QXFMX19RRXF2MGJpaEdBS1JpbFBFc2lKenZVWEZPOU00YnhHLTRVS3dHRWR6TE0zSUV6VkxTVzNfeUlOQ3lyODRQN25NQURpS0Z3VW9zZTd6SEV3QktPOGF4eXNna0FDYWtiQm1mbWF0ZG9Fc3FUZXM?oc=5",
+            "published": "Tue, 06 Oct 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1rbGM3dms5QXFMX19RRXF2MGJpaEdBS1JpbFBFc2lKenZVWEZPOU00YnhHLTRVS3dHRWR6TE0zSUV6VkxTVzNfeUlOQ3lyODRQN25NQURpS0Z3VW9zZTd6SEV3QktPOGF4eXNna0FDYWtiQm1mbWF0ZG9Fc3FUZXM?oc=5\" target=\"_blank\">中国･吉利｢内燃機関は再びブルーオーシャン｣ HVに全力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+            "site_name": "日本経済新聞"
+        },
+        {
+            "id": 293323,
+            "title": "スズキ『eスカイ』投入、鈴木社長「EVのある日常生活」をアピール［新聞ウォッチ］ 1枚目の写真・画像 - レスポンス（Response.jp）",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbGloZnVRYkJmeGRTYUl3ODAydHd2RHplZENDbXI3S1liNWxEX3NWNGtHTmlfRmFOQ3BmdzVwMGRGZndzb25YV1YxT2otcUJIR0FLRkpqdEEwVlM1WWw5bUE2TENKNHh4em9NVFRIMWxNQUE3YWV2blJMdzdEZmVCVUhaN2xnTGFnS042R3Nwdko?oc=5",
+            "published": "Tue, 06 Oct 2026 23:30:52 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNbGloZnVRYkJmeGRTYUl3ODAydHd2RHplZENDbXI3S1liNWxEX3NWNGtHTmlfRmFOQ3BmdzVwMGRGZndzb25YV1YxT2otcUJIR0FLRkpqdEEwVlM1WWw5bUE2TENKNHh4em9NVFRIMWxNQUE3YWV2blJMdzdEZmVCVUhaN2xnTGFnS042R3Nwdko?oc=5\" target=\"_blank\">スズキ『eスカイ』投入、鈴木社長「EVのある日常生活」をアピール［新聞ウォッチ］ 1枚目の写真・画像</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
+            "site_name": "レスポンス（Response.jp）"
+        },
+        {
+            "id": 282658,
+            "title": "スズキ初の軽乗用EV「e SKY」が11月16日に発売！航続距離310kmで税込212万円から（MotorFan） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMjRxd010SFZKZkNZSEdFSXRpU0ZvV2NuNVpVX0pVallUY2UycWhEa1ZRck9uS2FPWXM5UHJmTHVxS1BZbW0wOVViQm9yTHpFbmMtMmE5ZGk2eHE2QlVSWFB5ai0xMmkwSUlyWkxETzZJa000VDNFbWJhbHNYenlZMS1rLWhjVHA1?oc=5",
+            "published": "Tue, 06 Oct 2026 16:34:53 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMjRxd010SFZKZkNZSEdFSXRpU0ZvV2NuNVpVX0pVallUY2UycWhEa1ZRck9uS2FPWXM5UHJmTHVxS1BZbW0wOVViQm9yTHpFbmMtMmE5ZGk2eHE2QlVSWFB5ai0xMmkwSUlyWkxETzZJa000VDNFbWJhbHNYenlZMS1rLWhjVHA1?oc=5\" target=\"_blank\">スズキ初の軽乗用EV「e SKY」が11月16日に発売！航続距離310kmで税込212万円から（MotorFan）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 446193,
+            "title": "初の軽ＥＶ、来月発売 スズキ 小回り操作が特徴 - 琉球新報デジタル",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6N2NWSm1QOVRFUjRIQ3ZpdFRaNE1IRV8xSkROazdPVWxHa18waHBaWEU3RHBrV2FMOEgzQUpIWGl2Nzk1dTgwbDdnUDJqUHBPSmNJNFN6U2FKUnNtU3BGc1Rn?oc=5",
+            "published": "Tue, 06 Oct 2026 20:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6N2NWSm1QOVRFUjRIQ3ZpdFRaNE1IRV8xSkROazdPVWxHa18waHBaWEU3RHBrV2FMOEgzQUpIWGl2Nzk1dTgwbDdnUDJqUHBPSmNJNFN6U2FKUnNtU3BGc1Rn?oc=5\" target=\"_blank\">初の軽ＥＶ、来月発売 スズキ 小回り操作が特徴</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">琉球新報デジタル</font>",
+            "site_name": "琉球新報デジタル"
+        },
+        {
+            "id": 239502,
+            "title": "スズキ軽EV、国内最安212万円＝来月16日発売、BYD下回る(時事通信) - Yahoo!ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU1lsRVRHYlo1aFkwMTZoOWphOHpDdzN1SWR2R1ZLeFA2bFpzRFhBTFhUd2tUX1JJWTJVX25JYWlXaGh3a19YbWllR2ktczRZS09QakJ5SFdpLXlBWFRTVHVTSk5wSDJONk1YeDJLdFV1LTJMdGJUQ0pFa1hvaUNERmR0U1hMZTg?oc=5",
+            "published": "Tue, 06 Oct 2026 10:21:23 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNU1lsRVRHYlo1aFkwMTZoOWphOHpDdzN1SWR2R1ZLeFA2bFpzRFhBTFhUd2tUX1JJWTJVX25JYWlXaGh3a19YbWllR2ktczRZS09QakJ5SFdpLXlBWFRTVHVTSk5wSDJONk1YeDJLdFV1LTJMdGJUQ0pFa1hvaUNERmR0U1hMZTg?oc=5\" target=\"_blank\">スズキ軽EV、国内最安212万円＝来月16日発売、BYD下回る(時事通信)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ファイナンス</font>",
+            "site_name": "Yahoo!ファイナンス"
+        },
+        {
+            "id": 47926,
+            "title": "EVなのにトルク小さめ? スズキ「e SKY」が狙った\"ガソリン車っぽさ\" - マイナビニュース",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmaGczTElnbkppUzJsRUxJdUFmb2ZKRlU2UUtNbUdGSnpXM1paV3VWbFNmZ1QwaDd5QVlFRXNza1EwbGI0S2tkUDg1YXRUX3RlOWM2cHNBVl9fUW9Q?oc=5",
+            "published": "Tue, 06 Oct 2026 23:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmaGczTElnbkppUzJsRUxJdUFmb2ZKRlU2UUtNbUdGSnpXM1paV3VWbFNmZ1QwaDd5QVlFRXNza1EwbGI0S2tkUDg1YXRUX3RlOWM2cHNBVl9fUW9Q?oc=5\" target=\"_blank\">EVなのにトルク小さめ? スズキ「e SKY」が狙った\"ガソリン車っぽさ\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">マイナビニュース</font>",
+            "site_name": "マイナビニュース"
+        },
+        {
+            "id": 148451,
+            "title": "「軽EVとしての魅力を詰め込んだ自信作」スズキが自社初の軽乗用EV「eSKY」発表 価格は212万円から...国の補助金制度と併用可能な独自の補助制度を展開する自治体も＝浜松市 - ｄメニューニュース",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xbS1Rc0FKRXJxR2diWHpzQ3I2Z1VWRmNNWUZLZWkwNFk4U0t3cHE2YmZJMmE1LXR1QmRvVjFjaDd1Ykk1eHNXcHNzUGYtUjlhdl81UVBaRzdUSDZDTUdfTW0tQWxjYjJCYXc3YmFfQkNHRTNMOFduM9IBdEFVX3lxTE5BUzVobk1hYkxkQ2tMSE1NNE1IWUFQQk83dDhZMVJ0RXdpVU9weG5GekFPZW5zdTNyb1VVOVRPVjktSUhQVGw1VjZFZEI3c2toQWc5bXM5ZE0xVXIwRUxqSWx2bDktM0Q5WHRza1NBTmZkQXNj?oc=5",
+            "published": "Tue, 06 Oct 2026 23:13:42 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE8xbS1Rc0FKRXJxR2diWHpzQ3I2Z1VWRmNNWUZLZWkwNFk4U0t3cHE2YmZJMmE1LXR1QmRvVjFjaDd1Ykk1eHNXcHNzUGYtUjlhdl81UVBaRzdUSDZDTUdfTW0tQWxjYjJCYXc3YmFfQkNHRTNMOFduM9IBdEFVX3lxTE5BUzVobk1hYkxkQ2tMSE1NNE1IWUFQQk83dDhZMVJ0RXdpVU9weG5GekFPZW5zdTNyb1VVOVRPVjktSUhQVGw1VjZFZEI3c2toQWc5bXM5ZE0xVXIwRUxqSWx2bDktM0Q5WHRza1NBTmZkQXNj?oc=5\" target=\"_blank\">「軽EVとしての魅力を詰め込んだ自信作」スズキが自社初の軽乗用EV「eSKY」発表 価格は212万円から...国の補助金制度と併用可能な独自の補助制度を展開する自治体も＝浜松市</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
+            "site_name": "ｄメニューニュース"
+        },
+        {
+            "id": 627034,
+            "title": "「さすがスズキ」「信頼感が違う」との反響！ 航続距離310kmの新しい“軽EV”は何がスゴい？「eスカイ」がクラストップの電費を実現できた理由（VAGUE） | 自動車情報・ニュース - carview!",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcFp5MUM2S0JkWHR4YXZFdjB1cWtYeGRPWnNyOTZHdzMycm5UZllteHZzWHFKRkpkcXoyUUxvTmxWZHZqQUZ4VnR3bW1kZWhWZzFIcXlmZEhnOGdhbUVTQmFPYUU5LXVVNHR0dkxWaXBzVzFjLTRIZlJaOWdUdWF4ZjVVRC1TWW1O?oc=5",
+            "published": "Tue, 06 Oct 2026 22:10:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcFp5MUM2S0JkWHR4YXZFdjB1cWtYeGRPWnNyOTZHdzMycm5UZllteHZzWHFKRkpkcXoyUUxvTmxWZHZqQUZ4VnR3bW1kZWhWZzFIcXlmZEhnOGdhbUVTQmFPYUU5LXVVNHR0dkxWaXBzVzFjLTRIZlJaOWdUdWF4ZjVVRC1TWW1O?oc=5\" target=\"_blank\">「さすがスズキ」「信頼感が違う」との反響！ 航続距離310kmの新しい“軽EV”は何がスゴい？「eスカイ」がクラストップの電費を実現できた理由（VAGUE） | 自動車情報・ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carview!</font>",
+            "site_name": "carview!"
+        },
+        {
+            "id": 364969,
+            "title": "シトロエン新型『2CV』のデザイン一部公開 「ブリキのカタツムリ」復活 10月12日にコンセプトカー発表へ - AUTOCAR JAPAN",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9jMGpaZTY4MXdoT2dENVB5OFNKeWtkaEpEUDE1elZDTVFIX0NBZmlZY0REUVcxa0V3WnJyczNTY1FJOWRJRmZLelF0bw?oc=5",
+            "published": "Tue, 06 Oct 2026 22:45:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE9jMGpaZTY4MXdoT2dENVB5OFNKeWtkaEpEUDE1elZDTVFIX0NBZmlZY0REUVcxa0V3WnJyczNTY1FJOWRJRmZLelF0bw?oc=5\" target=\"_blank\">シトロエン新型『2CV』のデザイン一部公開 「ブリキのカタツムリ」復活 10月12日にコンセプトカー発表へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AUTOCAR JAPAN</font>",
+            "site_name": "AUTOCAR JAPAN"
+        },
+        {
+            "id": 463639,
+            "title": "【EV最新事情】｢スズキ｣初の軽自動車サイズ電気自動車11月発売へ…競争激化の｢軽EV｣市場どうなる？(静岡) - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWQWJDOENTSThFSWxYVGF4SE9sT0tIVzlhUE41MDY3akluU1k5SlZDcVJrY3FubVRsUXNkV21FTXdkMzNHSHVPWUNnZVVPRFZSRlhMWkZMbkZrUEFkRVpjQk5pSEllb09wc2VuWHhCZEkyWW9oLVduakdEMEhESU0?oc=5",
+            "published": "Tue, 06 Oct 2026 08:05:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBWQWJDOENTSThFSWxYVGF4SE9sT0tIVzlhUE41MDY3akluU1k5SlZDcVJrY3FubVRsUXNkV21FTXdkMzNHSHVPWUNnZVVPRFZSRlhMWkZMbkZrUEFkRVpjQk5pSEllb09wc2VuWHhCZEkyWW9oLVduakdEMEhESU0?oc=5\" target=\"_blank\">【EV最新事情】｢スズキ｣初の軽自動車サイズ電気自動車11月発売へ…競争激化の｢軽EV｣市場どうなる？(静岡)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 851591,
+            "title": "「バッテリーむき出しって本当？」BYD日本法人の社長が、軽EV「ラッコ」の“炎上ネタ”に答えた（ダイヤモンド・オンライン） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1raUpnMnBhWHVjamZsZ1VVNV9jMGR3MmFMeWt2MHNOTkxlOHhCeV9nX2JFY1ZwV0t2Yi16blVGbDBxZno2ejlGVkR0Z2YxNUNQMlJCUU4yTGM1TG41b2RYQ2JpeWpBdHdrQ0ZKcTQ4ejFhM2FTLTVQeDVmWTh2YUk?oc=5",
+            "published": "Tue, 06 Oct 2026 21:00:37 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1raUpnMnBhWHVjamZsZ1VVNV9jMGR3MmFMeWt2MHNOTkxlOHhCeV9nX2JFY1ZwV0t2Yi16blVGbDBxZno2ejlGVkR0Z2YxNUNQMlJCUU4yTGM1TG41b2RYQ2JpeWpBdHdrQ0ZKcTQ4ejFhM2FTLTVQeDVmWTh2YUk?oc=5\" target=\"_blank\">「バッテリーむき出しって本当？」BYD日本法人の社長が、軽EV「ラッコ」の“炎上ネタ”に答えた（ダイヤモンド・オンライン）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 497444,
+            "title": "BMW、電動版『M3』プロトタイプ公開 開発中ガソリン版の「天敵」 Mモデルは累計100万台達成 - AUTOCAR JAPAN",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GSG9GeDRTSE9rQWVkZVJ2OTd5ZWEzdkVkMXZGaHByQUwtaUZhR2NlWGdaVHlwdlNjc2xUYUFHQktPREkzV0llNGp5Yw?oc=5",
+            "published": "Tue, 06 Oct 2026 22:25:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GSG9GeDRTSE9rQWVkZVJ2OTd5ZWEzdkVkMXZGaHByQUwtaUZhR2NlWGdaVHlwdlNjc2xUYUFHQktPREkzV0llNGp5Yw?oc=5\" target=\"_blank\">BMW、電動版『M3』プロトタイプ公開 開発中ガソリン版の「天敵」 Mモデルは累計100万台達成</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AUTOCAR JAPAN</font>",
+            "site_name": "AUTOCAR JAPAN"
+        },
+        {
+            "id": 788178,
+            "title": "タイ、日中のＥＶ競争是正へ - 福井新聞社",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SY1R3SGk0MlhGdlpJVlJ6bFVrc2NrRERjTXZ3Z1pxdEZCWlVzenVpSlMtaFQ1UmZrTHVwaE02OE9uR29lelFSZkZ3eURfbkY2R09zeUt4SXJoSzJFVy1pblNZdG0zX2FpMDAxeg?oc=5",
+            "published": "Tue, 06 Oct 2026 19:52:06 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5SY1R3SGk0MlhGdlpJVlJ6bFVrc2NrRERjTXZ3Z1pxdEZCWlVzenVpSlMtaFQ1UmZrTHVwaE02OE9uR29lelFSZkZ3eURfbkY2R09zeUt4SXJoSzJFVy1pblNZdG0zX2FpMDAxeg?oc=5\" target=\"_blank\">タイ、日中のＥＶ競争是正へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">福井新聞社</font>",
+            "site_name": "福井新聞社"
+        },
+        {
+            "id": 274586,
+            "title": "EVの実用性はここまで進化！ロングドライブを支える航続距離と充電性能（グーネット） | 自動車情報・ニュース - carview!",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNXBWTldlamtLajlta1NwNm1maHdWVE1XdjJEakd3RkVtUlFBOVFHV0dGOTJXcFZOYWNtc2xRbDQ1SXItWlV6Ml9uNjlDdFVTd04tQjlLNlNvWFdsTVhDRXNNU3N0cWdRNTBNSzJJbk0wQ0FvdVl0RENnbUItYjZEQXdyZXdHTnNs?oc=5",
+            "published": "Tue, 06 Oct 2026 08:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNXBWTldlamtLajlta1NwNm1maHdWVE1XdjJEakd3RkVtUlFBOVFHV0dGOTJXcFZOYWNtc2xRbDQ1SXItWlV6Ml9uNjlDdFVTd04tQjlLNlNvWFdsTVhDRXNNU3N0cWdRNTBNSzJJbk0wQ0FvdVl0RENnbUItYjZEQXdyZXdHTnNs?oc=5\" target=\"_blank\">EVの実用性はここまで進化！ロングドライブを支える航続距離と充電性能（グーネット） | 自動車情報・ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carview!</font>",
+            "site_name": "carview!"
+        },
+        {
+            "id": 929586,
+            "title": "スズキ初の軽乗用EV「e SKY」が11月16日に発売！航続距離310kmで税込212万円から - Infoseek",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fVHE2akU3UUJNei1PWkRNejFqTVpxWUdLQWVvR1MtMmhJV3dNUmpHTHhYSVZLTkhERTg5WFJ4cG1wbmFUMGxOa1hzTDJPcFdkaUtLSG45cng4ZEpLcklFOHNDdGxPME5Q?oc=5",
+            "published": "Tue, 06 Oct 2026 16:34:53 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fVHE2akU3UUJNei1PWkRNejFqTVpxWUdLQWVvR1MtMmhJV3dNUmpHTHhYSVZLTkhERTg5WFJ4cG1wbmFUMGxOa1hzTDJPcFdkaUtLSG45cng4ZEpLcklFOHNDdGxPME5Q?oc=5\" target=\"_blank\">スズキ初の軽乗用EV「e SKY」が11月16日に発売！航続距離310kmで税込212万円から</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
+            "site_name": "Infoseek"
+        },
+        {
+            "id": 202470,
+            "title": "誘惑に勝てず「Xiaomi 18 Fold」を自腹買い!? 巨大EVから限定アイスまで、シャオミ本社潜入レポート（アスキー） - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WNVEycWNXR0lObmpfOF9pOC1naWVOU09wd3BPWHYtNDQtTVkyeFFzc1lfVkd1aWJUbGJfbTE2OGJkWU83V3dOQ0JzLWI0Z0dvV1lHUm14M3FISEdiR3BjRkg2REpRUTdtbVdjcXlXYUZRbXpnaWFPX0c2RUJUUzg?oc=5",
+            "published": "Tue, 06 Oct 2026 08:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9WNVEycWNXR0lObmpfOF9pOC1naWVOU09wd3BPWHYtNDQtTVkyeFFzc1lfVkd1aWJUbGJfbTE2OGJkWU83V3dOQ0JzLWI0Z0dvV1lHUm14M3FISEdiR3BjRkg2REpRUTdtbVdjcXlXYUZRbXpnaWFPX0c2RUJUUzg?oc=5\" target=\"_blank\">誘惑に勝てず「Xiaomi 18 Fold」を自腹買い!? 巨大EVから限定アイスまで、シャオミ本社潜入レポート（アスキー）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 245674,
+            "title": "新型スズキ軽EV「e SKY」東京都なら実質約80万円〜137万円で買える!? ガソリン車より安いのでは…？ ライバルEVと比べると？ - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5sdnBGUV9BeVJpbDFJSWlTOVo1TklTbWFYTVpQZDhodEVvalBWSWtObmh4MldZV1ZZU3FPaGZzQVpiTUhqMGJxY2FqTG5XZw?oc=5",
+            "published": "Tue, 06 Oct 2026 10:08:23 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5sdnBGUV9BeVJpbDFJSWlTOVo1TklTbWFYTVpQZDhodEVvalBWSWtObmh4MldZV1ZZU3FPaGZzQVpiTUhqMGJxY2FqTG5XZw?oc=5\" target=\"_blank\">新型スズキ軽EV「e SKY」東京都なら実質約80万円〜137万円で買える!? ガソリン車より安いのでは…？ ライバルEVと比べると？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 460965,
+            "title": "ラウンジで富裕層獲得▼スズキ軽EV業界最安▼モバイルバッテリー発火対策｜ワールドビジネスサテライト（WBS） - テレ東BIZ",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1WjBjQVdUZGpCbHJHVG5PNmRBMjMwWjlzak1SRGtGaGQ1X3hCV29VbUFKbGRXbDBLclhwUEdzYWg4RGU0M1VRUDJPNEhnTExzQTZUODJxTE1UVFk?oc=5",
+            "published": "Tue, 06 Oct 2026 13:00:00 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1WjBjQVdUZGpCbHJHVG5PNmRBMjMwWjlzak1SRGtGaGQ1X3hCV29VbUFKbGRXbDBLclhwUEdzYWg4RGU0M1VRUDJPNEhnTExzQTZUODJxTE1UVFk?oc=5\" target=\"_blank\">ラウンジで富裕層獲得▼スズキ軽EV業界最安▼モバイルバッテリー発火対策｜ワールドビジネスサテライト（WBS）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">テレ東BIZ</font>",
+            "site_name": "テレ東BIZ"
+        },
+        {
+            "id": 831978,
+            "title": "EVの国内販売が2.5倍に拡大 26年度上半期、補助金が後押し (朝日新聞) - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVFJ0YWpBRS1WRmNzYjZxSDQzQkJhMWtveTI5X09qN1k0ZFp4aW01SUZ5ZGFyWVhHZTg0X1FBd2ZyZGhpZmpxLUQtY2tKYnhEVXVTZi1mRnF5cXYtTm9lbTRBV1R1UzZyUzQzbmZHTElKV04xQVNwRWhEQkt5X1E4eVYyakdmaU4xeU1XTnBB?oc=5",
+            "published": "Tue, 06 Oct 2026 09:44:04 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOVFJ0YWpBRS1WRmNzYjZxSDQzQkJhMWtveTI5X09qN1k0ZFp4aW01SUZ5ZGFyWVhHZTg0X1FBd2ZyZGhpZmpxLUQtY2tKYnhEVXVTZi1mRnF5cXYtTm9lbTRBV1R1UzZyUzQzbmZHTElKV04xQVNwRWhEQkt5X1E4eVYyakdmaU4xeU1XTnBB?oc=5\" target=\"_blank\">EVの国内販売が2.5倍に拡大 26年度上半期、補助金が後押し (朝日新聞)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 137672,
+            "title": "スズキ初の軽EV「eスカイ」、212万円で11月発売 BYD下回り国内最安 - BigGo ファイナンス",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE41S2M1dDVySDdlUTJ6MHpOeFJITmNiSW1lamIxMm9KMDhjUEY2cGlaOEpxTFIzNlFTV2pmNDBOUDBBbC1RYTBTSXhWNmd6b096SkpMcTBaUWQzaVBLdWRYekJyd3VMVDd1d0VnQS1GMVVKSXF2?oc=5",
+            "published": "Tue, 06 Oct 2026 11:12:56 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE41S2M1dDVySDdlUTJ6MHpOeFJITmNiSW1lamIxMm9KMDhjUEY2cGlaOEpxTFIzNlFTV2pmNDBOUDBBbC1RYTBTSXhWNmd6b096SkpMcTBaUWQzaVBLdWRYekJyd3VMVDd1d0VnQS1GMVVKSXF2?oc=5\" target=\"_blank\">スズキ初の軽EV「eスカイ」、212万円で11月発売 BYD下回り国内最安</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+            "site_name": "BigGo ファイナンス"
+        },
+        {
+            "id": 850088,
+            "title": "スズキ初の軽EV 新型「e SKY」を11月16日に発売！ 価格は、212万円〜 - Motor Fan",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oaTloRVQyX2NtQ2pVWFNQY3Z0bWJfa2M1UE1pQ1l4Uk0yVU1JM0RuMlpHekptMkppNXpjWDlsS01aaWdjOUtBVF9BLUZYZXM?oc=5",
+            "published": "Tue, 06 Oct 2026 07:55:34 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oaTloRVQyX2NtQ2pVWFNQY3Z0bWJfa2M1UE1pQ1l4Uk0yVU1JM0RuMlpHekptMkppNXpjWDlsS01aaWdjOUtBVF9BLUZYZXM?oc=5\" target=\"_blank\">スズキ初の軽EV 新型「e SKY」を11月16日に発売！ 価格は、212万円〜</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Motor Fan</font>",
+            "site_name": "Motor Fan"
+        },
+        {
+            "id": 246608,
+            "title": "新型スズキ軽EV「e SKY」東京都なら実質約80万円〜137万円で買える!? ガソリン車より安いのでは…？ ライバルEVと比べると？ (MotorFan) - Yahoo!ニュース",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR0pPY1hicmQzbXViUUNyckdmSVBSRVMxOUlvdEpXVFZtUWI2amZqekc2RHFEWEN3ei05a29DSlZXMzFuUlkzWWtDM0JiUzd0a19DbjVNMmVRdmhaMTJrYUlLU3lyOWlnakRGYTR1YTlzdE9Da0p2WnBaaXZHRHZOaXpxejFNeEFTNENJTjdR?oc=5",
+            "published": "Tue, 06 Oct 2026 10:08:23 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNR0pPY1hicmQzbXViUUNyckdmSVBSRVMxOUlvdEpXVFZtUWI2amZqekc2RHFEWEN3ei05a29DSlZXMzFuUlkzWWtDM0JiUzd0a19DbjVNMmVRdmhaMTJrYUlLU3lyOWlnakRGYTR1YTlzdE9Da0p2WnBaaXZHRHZOaXpxejFNeEFTNENJTjdR?oc=5\" target=\"_blank\">新型スズキ軽EV「e SKY」東京都なら実質約80万円〜137万円で買える!? ガソリン車より安いのでは…？ ライバルEVと比べると？ (MotorFan)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+            "site_name": "Yahoo!ニュース"
+        },
+        {
+            "id": 320053,
+            "title": "【ルノー】初代エスパスの哲学をEVで再起動。豊かな空間を再定義する「Eスペース コンセプト」をパリで披露 - carview!",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNEluQXFfaERVdlRoZUQzTUpKbEFfMTYwQm1uRUF3bnJEN0x5RTQ1bUlOcE12ZHpaaVFUdm5nTVJhdUtrWmtXdlF0dTlmSW9JN21ZbVZ6bktPeWhGTlROM29zRFhkbWdmVTlfOEluN0hmRUFoa2hkQlV1elQ2ZG1HNUg4WEJxY2Ni?oc=5",
+            "published": "Tue, 06 Oct 2026 08:05:43 GMT",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNEluQXFfaERVdlRoZUQzTUpKbEFfMTYwQm1uRUF3bnJEN0x5RTQ1bUlOcE12ZHpaaVFUdm5nTVJhdUtrWmtXdlF0dTlmSW9JN21ZbVZ6bktPeWhGTlROM29zRFhkbWdmVTlfOEluN0hmRUFoa2hkQlV1elQ2ZG1HNUg4WEJxY2Ni?oc=5\" target=\"_blank\">【ルノー】初代エスパスの哲学をEVで再起動。豊かな空間を再定義する「Eスペース コンセプト」をパリで披露</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carview!</font>",
+            "site_name": "carview!"
         }
     ]
 }
