@@ -1,0 +1,39 @@
+[
+    {
+        "topic_name": "いすゞエルガEVのリコール",
+        "article_ids": [
+            315104,
+            172503,
+            588952
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "テラチャージによるEV充電事業の拡大と買収",
+        "article_ids": [
+            347171,
+            601783,
+            714218,
+            635628,
+            226717
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "走行中EVへの無線給電実証",
+        "article_ids": [
+            500299,
+            768513,
+            89232
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "英国政府による中国製EVへの追加関税検討",
+        "article_ids": [
+            783173,
+            380148
+        ],
+        "is_grouped": true
+    }
+]
