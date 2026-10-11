@@ -1,0 +1,79 @@
+[
+    {
+        "topic_name": "自動車業界の世界シェア・販売動向",
+        "article_ids": [
+            316357,
+            186822
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "中国自動車メーカーのグローバル展開",
+        "article_ids": [
+            702324,
+            744355,
+            434100
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "走行中給電・ワイヤレス給電技術の実証",
+        "article_ids": [
+            652248,
+            470265
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "EV充電インフラおよびNACS対応",
+        "article_ids": [
+            895912
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "EV補助金終了の影響",
+        "article_ids": [
+            716957
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "太陽光発電を活用したEV実証実験",
+        "article_ids": [
+            436461
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "日本車メーカーの戦略と競争力",
+        "article_ids": [
+            747527,
+            192506
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "欧州車メーカーのEV不振と市場環境",
+        "article_ids": [
+            684606,
+            645965,
+            449676
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "テスラのロボタクシー戦略",
+        "article_ids": [
+            280696
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "インドネシアのニッケル精製とEVバッテリー産業",
+        "article_ids": [
+            623663
+        ],
+        "is_grouped": false
+    }
+]
