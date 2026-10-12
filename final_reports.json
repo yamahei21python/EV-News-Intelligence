@@ -1,87 +1,45 @@
 [
     {
-        "topic_name": "ガソリン車世界シェア5割割れ",
+        "topic_name": "ホンダと大成建設によるEV走行中無線給電システムの共同開発",
         "article_ids": [
-            316357,
-            186822
+            738263,
+            284819,
+            695861
         ],
         "articles": [
             {
-                "id": 316357,
-                "title": "世界のガソリン車販売、初の5割割れ 中国で26％減 - 36Kr Japan",
-                "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1nSG9GUWJVenotUjR1dUREa182Q3lRYkV0SEo1NkNBTlFTcjFNbDNoTk5acUZ4NGNaenRZ?oc=5",
-                "published": "Sat, 10 Oct 2026 01:04:40 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiO0FVX3lxTE1nSG9GUWJVenotUjR1dUREa182Q3lRYkV0SEo1NkNBTlFTcjFNbDNoTk5acUZ4NGNaenRZ?oc=5\" target=\"_blank\">世界のガソリン車販売、初の5割割れ 中国で26％減</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36Kr Japan</font>",
-                "site_name": "36Kr Japan",
-                "primary_category": "Market",
-                "reason": "世界市場シェアの大規模なトレンド転換点。",
-                "score": 90,
-                "is_highly_important": true
-            },
-            {
-                "id": 186822,
-                "title": "【エンジン車の終焉は近い？】新車市場シェアがついに「50%割れ」――1920年代以降初！ EVは世界で主役の座を奪うのか - merkmal-biz.jp",
-                "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1tZ3BxRlFGUko4ekJ4VTRLWGlrcTBlRWgzdzkwTE5MSi1HeE1MSXRFaURjR0IxTFZWWFd5RXc0VjNnNGZWeTMxUUwtNzM?oc=5",
-                "published": "Sat, 10 Oct 2026 02:47:21 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE1tZ3BxRlFGUko4ekJ4VTRLWGlrcTBlRWgzdzkwTE5MSi1HeE1MSXRFaURjR0IxTFZWWFd5RXc0VjNnNGZWeTMxUUwtNzM?oc=5\" target=\"_blank\">【エンジン車の終焉は近い？】新車市場シェアがついに「50%割れ」――1920年代以降初！ EVは世界で主役の座を奪うのか</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">merkmal-biz.jp</font>",
-                "site_name": "merkmal-biz.jp",
-                "primary_category": "Market",
-                "reason": "世界シェアの動向分析。",
-                "score": 70,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "2026年上半期、純ガソリン車の世界シェアが5割を割り込み、1920年代以来の歴史的転換点を迎えた",
-                "欧州ではEVがガソリン車を販売台数で上回る一方、北米の需要減や中国の税制縮小が市場の成長を牽引した地域との乖離を鮮明にした",
-                "EV化の波は東南アジアや大洋州等の新興国にも急速に波及し、地域ごとの政策やエネルギー事情に応じた市場の分断が加速している"
-            ],
-            "insight": "EV転換は単なる技術シフトから、政策・エネルギー需給・市場環境に依存した『非同期的なグローバル再編』へと移行した。HVで収益を確保しつつ、EV・ガソリンの需要分断を見極める二段構えの資本配分戦略が、OEMの生存格差を決定づけるフェーズに入っている。もはや『EV一辺倒』を語るには市場が複雑化しすぎている。"
-        }
-    },
-    {
-        "topic_name": "中国自動車メーカーのグローバル展開",
-        "article_ids": [
-            702324,
-            744355,
-            434100
-        ],
-        "articles": [
-            {
-                "id": 702324,
-                "title": "新進気鋭のミドルサイズSUV『ジェイクー7』が英国ベストセラー獲得 中国ブランドの市場シェアが4分の1近くに - AUTOCAR JAPAN",
-                "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lbzJaM05RZFp6NlNTeUJycE5ab3ZnZEZfT0hLNXFNdEpaWU9nMzl3RHVGQ2tPbldHdUxQN3R0UFF1QTQ2N291TDlzcw?oc=5",
-                "published": "Fri, 09 Oct 2026 22:05:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lbzJaM05RZFp6NlNTeUJycE5ab3ZnZEZfT0hLNXFNdEpaWU9nMzl3RHVGQ2tPbldHdUxQN3R0UFF1QTQ2N291TDlzcw?oc=5\" target=\"_blank\">新進気鋭のミドルサイズSUV『ジェイクー7』が英国ベストセラー獲得 中国ブランドの市場シェアが4分の1近くに</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AUTOCAR JAPAN</font>",
-                "site_name": "AUTOCAR JAPAN",
-                "primary_category": "Market",
-                "reason": "中国ブランドの欧州市場進出状況。",
-                "score": 70,
-                "is_highly_important": true
-            },
-            {
-                "id": 744355,
-                "title": "中国・吉利、カナダで来年車販売＝米市場進出を見据え - 時事通信ニュース",
-                "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WWDRVWFFfOWdqWEJhT3ZUdXUzWDJVcGxYbVhXNFRfWFd5YmQ4V3hmcEpwZWRteGQyVDU4NThISkdPdmFNX01sZi1abjNtdjJYVkhsZQ?oc=5",
-                "published": "Fri, 09 Oct 2026 23:21:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WWDRVWFFfOWdqWEJhT3ZUdXUzWDJVcGxYbVhXNFRfWFd5YmQ4V3hmcEpwZWRteGQyVDU4NThISkdPdmFNX01sZi1abjNtdjJYVkhsZQ?oc=5\" target=\"_blank\">中国・吉利、カナダで来年車販売＝米市場進出を見据え</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事通信ニュース</font>",
-                "site_name": "時事通信ニュース",
-                "primary_category": "Strategy",
-                "reason": "中国メーカーの北米市場拡大戦略。",
+                "id": 738263,
+                "title": "走行中EVに道路から給電 ホンダと大成建設が共同開発：ニュース - 中日BIZナビ",
+                "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBMjNmZ1lZUjRMOUxjZHN6cnJCS05ORUdGNlpIZmc3ekk2SmFkTUhJa25GUmNjTllsMklTcFlRcXlDU0JvSGZFNnVOTGFhVGhtS0lib3pJTWwxd3hVbk5iaEZMOA?oc=5",
+                "published": "Sun, 11 Oct 2026 06:17:21 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBMjNmZ1lZUjRMOUxjZHN6cnJCS05ORUdGNlpIZmc3ekk2SmFkTUhJa25GUmNjTllsMklTcFlRcXlDU0JvSGZFNnVOTGFhVGhtS0lib3pJTWwxd3hVbk5iaEZMOA?oc=5\" target=\"_blank\">走行中EVに道路から給電 ホンダと大成建設が共同開発：ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中日BIZナビ</font>",
+                "site_name": "中日BIZナビ",
+                "primary_category": "Infrastructure",
+                "reason": "ワイヤレス給電技術の共同開発は技術的進歩が高い。",
                 "score": 75,
                 "is_highly_important": true
             },
             {
-                "id": 434100,
-                "title": "BYD副総裁、当面の米乗用車市場参入を否定「不透明、不安定、予測不可能……」―中国メディア - Record China",
-                "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBNjZndTJKc1BiY2ZTYVhhbVJCSVZxaEI5aUY4RUdMRGYya3RqQ1hwRVd2dF84V3dDSExSNk1sMHJfd1R4MDJRMVVYSW5jVjRWOTBQSnRQalpjWUtf?oc=5",
-                "published": "Fri, 09 Oct 2026 20:00:02 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBNjZndTJKc1BiY2ZTYVhhbVJCSVZxaEI5aUY4RUdMRGYya3RqQ1hwRVd2dF84V3dDSExSNk1sMHJfd1R4MDJRMVVYSW5jVjRWOTBQSnRQalpjWUtf?oc=5\" target=\"_blank\">BYD副総裁、当面の米乗用車市場参入を否定「不透明、不安定、予測不可能……」―中国メディア</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Record China</font>",
-                "site_name": "Record China",
-                "primary_category": "Strategy",
-                "reason": "BYDの米国参入動向。",
+                "id": 284819,
+                "title": "走るほどEVのバッテリー残量が増える!? ホンダ×ゼネコンが進める「給電する道路」の仕組みが凄すぎる - carview!",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd1MtVUFZbU1BTUotSVl4YXZ4SVU2MHpiQ25ZSEVQUF9VRncydDhIRDRGTnRqby1vTVU5MzN3LXJ3b0oxTHdfVFdGVXJKZGNtb2wyTldsLVBtazFiM2pKSERFeDNJTzlFbHFtN2FreUtVYy0wczl1bGlsODRic2ZPZVFneFBoTUxX?oc=5",
+                "published": "Sun, 11 Oct 2026 08:30:21 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd1MtVUFZbU1BTUotSVl4YXZ4SVU2MHpiQ25ZSEVQUF9VRncydDhIRDRGTnRqby1vTVU5MzN3LXJ3b0oxTHdfVFdGVXJKZGNtb2wyTldsLVBtazFiM2pKSERFeDNJTzlFbHFtN2FreUtVYy0wczl1bGlsODRic2ZPZVFneFBoTUxX?oc=5\" target=\"_blank\">走るほどEVのバッテリー残量が増える!? ホンダ×ゼネコンが進める「給電する道路」の仕組みが凄すぎる</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carview!</font>",
+                "site_name": "carview!",
+                "primary_category": "Infrastructure",
+                "reason": "走行中給電技術の解説。",
+                "score": 70,
+                "is_highly_important": true
+            },
+            {
+                "id": 695861,
+                "title": "2027年度以降に公道実証を開始！ 大成建設＆ホンダが大型商用EV対応の「無線給電道路システム」を開発 - https://fullload.bestcarweb.jp/",
+                "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rOW5UWmFyWnM3UjJHdWhtX191YWlNM2h6YzBMMUpXLV9RalhOemRSNENJN2J2TDVfck9PdG8tN1NScGhJanpqV2FZMmZtUjluQVRHaw?oc=5",
+                "published": "Sun, 11 Oct 2026 01:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rOW5UWmFyWnM3UjJHdWhtX191YWlNM2h6YzBMMUpXLV9RalhOemRSNENJN2J2TDVfck9PdG8tN1NScGhJanpqV2FZMmZtUjluQVRHaw?oc=5\" target=\"_blank\">2027年度以降に公道実証を開始！ 大成建設＆ホンダが大型商用EV対応の「無線給電道路システム」を開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">https://fullload.bestcarweb.jp/</font>",
+                "site_name": "https://fullload.bestcarweb.jp/",
+                "primary_category": "Infrastructure",
+                "reason": "給電道路の実証計画。",
                 "score": 75,
                 "is_highly_important": true
             }
@@ -89,204 +47,21 @@
         "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "中国勢は英国で市場シェア23%に達し、現地研究開発拠点や地産地消戦略で市場定着を加速",
-                "BYDは米市場の政治的リスクを明確に忌避する一方、カナダ等の周辺市場経由での浸透戦略を画策",
-                "販売網や製品スペックの現地最適化により、既存ブランドを脅かす販売シェアの逆転現象が顕在化"
+                "ホンダ・大成建設・大成ロテックが「直流配電型」による走行中無線給電システムを共同開発し、構成部品の簡素化と施工効率の大幅改善を実現。",
+                "最大150kWの大電力給電に対応し、大型商用EVのバッテリー重量問題や充電時間の課題を解決する「走るほど増える」電力供給を目指す。",
+                "既存の道路舗装を削り施工する手法で現実的なインフラ統合を図り、2027年度以降に館山自動車道での公道実証実験を予定。"
             ],
-            "insight": "中国勢は単なる輸出から『現地定着型』へ戦略を深化させています。英国での成功は現地調達・生産の布石であり、対米障壁をカナダ経由の迂回戦略で回避しつつ、欧米メーカーの聖域を浸食する構図です。今後は信頼性やアフターケアという最後にして最大の課題をどう克服し、低価格車からブランド価値への転換を果たせるかが勝敗の鍵となります。"
+            "insight": "本件の本質は「EVのインフラ依存からの脱却」を、インフラそのものを更新する「道路との一体化」で解決する逆転の発想にある。特に直流配電による配線の簡素化は、膨大な敷設コストという従来最大の障壁に対し、ゼネコンの知見で施工性を担保した点が極めて現実的。物流の電動化が「重いバッテリーのジレンマ」で足踏みする中、この技術は商用車の稼働率を最大化させる次世代物流のゲームチェンジャーとなり得る。"
         }
     },
     {
-        "topic_name": "走行中給電・ワイヤレス給電技術の実証",
+        "topic_name": "中国BYDの事業戦略と欧州・日本市場への影響",
         "article_ids": [
-            652248,
-            470265
-        ],
-        "articles": [
-            {
-                "id": 652248,
-                "title": "走るほどEVのバッテリー残量が増える!? ホンダ×ゼネコンが進める「給電する道路」の仕組みが凄すぎる（WEB CARTOP） - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyaE40VXlvS0x4V3g0Z3NKd0R5anVZT2FoWXhHZUNYaHhaaUxBbmo4cW9aN3NoWGRJUGstTE1lV2RaSU05SEQ5OFVxZGo1ODVfMnlHcHlFb3hva3VURTl6OUxRclB2OHdZanV0Z1ZEQmJTSUxRV2lCbmpKNHpxMkE?oc=5",
-                "published": "Sat, 10 Oct 2026 08:40:27 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFAyaE40VXlvS0x4V3g0Z3NKd0R5anVZT2FoWXhHZUNYaHhaaUxBbmo4cW9aN3NoWGRJUGstTE1lV2RaSU05SEQ5OFVxZGo1ODVfMnlHcHlFb3hva3VURTl6OUxRclB2OHdZanV0Z1ZEQmJTSUxRV2lCbmpKNHpxMkE?oc=5\" target=\"_blank\">走るほどEVのバッテリー残量が増える!? ホンダ×ゼネコンが進める「給電する道路」の仕組みが凄すぎる（WEB CARTOP）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-                "site_name": "Yahoo!ニュース",
-                "primary_category": "Technology",
-                "reason": "次世代給電道路技術の実証。",
-                "score": 70,
-                "is_highly_important": true
-            },
-            {
-                "id": 470265,
-                "title": "デンソー、走行中のEVへ無線給電 公道でのシステム実証を2027年度に開始 車載技術で小型かつ高効率化 - 日刊自動車新聞",
-                "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zclVqV2M4OS1BTFBoRTVQZ3RPODAxRV9UTnZmOUd6QkZsUnZ4ZndvTzNFejY0b2xRS3Axc2Njd0dXYUk1NE5jMXZxOWpVOWdiUmc?oc=5",
-                "published": "Sat, 10 Oct 2026 08:07:24 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zclVqV2M4OS1BTFBoRTVQZ3RPODAxRV9UTnZmOUd6QkZsUnZ4ZndvTzNFejY0b2xRS3Axc2Njd0dXYUk1NE5jMXZxOWpVOWdiUmc?oc=5\" target=\"_blank\">デンソー、走行中のEVへ無線給電 公道でのシステム実証を2027年度に開始 車載技術で小型かつ高効率化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日刊自動車新聞</font>",
-                "site_name": "日刊自動車新聞",
-                "primary_category": "Technology",
-                "reason": "無線給電実証実験の具体的なロードマップ。",
-                "score": 80,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "ホンダ・大成建設等の共同開発による『直流給電方式』が、インフラ施工の複雑さとコストを劇的に低減し、実装の現実味を高めた。",
-                "物流トラックを最初のターゲットとし、バッテリーの軽量化と積載量増加という、物流業界特有の強いインセンティブに訴求する戦略。",
-                "走行中給電は単なる補充電ではなく、給電レーン走行時にエネルギー収支をプラスにする性能を目指しており、航続距離の制限を構造的に打破しようとしている。"
-            ],
-            "insight": "走行中給電は単なる技術実証の段階を超え、物流効率化のラストピースとして機能し始めた。特にホンダの直流給電方式は、従来の交流系でネックだったインフラ側の配線コストを削減する現実的な解だ。今後は「誰が建設・維持費を負担するか」というインフラファイナンスの枠組み構築こそが、商用車での早期社会実装を左右する最大の鍵となる。"
-        }
-    },
-    {
-        "topic_name": "EV充電インフラおよびNACS対応",
-        "article_ids": [
-            895912
-        ],
-        "articles": [
-            {
-                "id": 895912,
-                "title": "テスラ車も充電可能！ フラッシュ急速充電器が高速道路のPA18カ所に設置へ。日本国内のSA・PAで初のNACS対応 - EVcafe",
-                "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBlVTcxcnZYcjNhNVVyYzVza1VnLXNneG5ncEF5VTNWbDRVd215R0RzYlBYMjlHRkZsR2V3b2M5eFhKZUt5SjR2NkNB?oc=5",
-                "published": "Fri, 09 Oct 2026 23:00:06 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTFBlVTcxcnZYcjNhNVVyYzVza1VnLXNneG5ncEF5VTNWbDRVd215R0RzYlBYMjlHRkZsR2V3b2M5eFhKZUt5SjR2NkNB?oc=5\" target=\"_blank\">テスラ車も充電可能！ フラッシュ急速充電器が高速道路のPA18カ所に設置へ。日本国内のSA・PAで初のNACS対応</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EVcafe</font>",
-                "site_name": "EVcafe",
-                "primary_category": "Technology",
-                "reason": "急速充電規格の標準化に関する重要なインフラ動向。",
-                "score": 80,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "国内初、高速道路SA・PAへのNACS規格対応急速充電器の導入確定",
-                "最大出力400kWの高スペックかつ会員登録不要のUXを提供",
-                "西日本エリアを中心に、テスラユーザーの長距離移動における利便性が飛躍的に向上"
-            ],
-            "insight": "日本国内の充電インフラにおいて、ついにNACSが高速道路網の標準装備として実装される。CHAdeMO一強時代から、グローバルスタンダードへの適応が加速する転換点だ。特に会員登録不要かつ高出力な「フラッシュ」の採用は、EVユーザーの最大のストレスである「待ち時間と認証の煩雑さ」を一掃し、高速道路におけるEV利用の敷居を大きく下げる重要な一手となる。"
-        }
-    },
-    {
-        "topic_name": "EV補助金12月終了見込み",
-        "article_ids": [
-            716957
-        ],
-        "articles": [
-            {
-                "id": 716957,
-                "title": "EV補助金はまだ間に合うのか？販売好調で例年より早い12月終了見込み: 「救済措置」の行方は（オルタナ） - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12dXhuNTd6V1BSQzlxU1Z0MVlpeDA5eVU0VzBGdGl5eEdXTEJ3dG1GeVk4NXZRV19IZlNMZGNxTl9HSkE2djFqMlFtNmR4VXlGc3RvSEt5VVMzZHlIM0s5RU9TdERDUkE3X3Y5YmlVMVAyWUxlMkxvcTR0Ym54THM?oc=5",
-                "published": "Sat, 10 Oct 2026 08:43:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE12dXhuNTd6V1BSQzlxU1Z0MVlpeDA5eVU0VzBGdGl5eEdXTEJ3dG1GeVk4NXZRV19IZlNMZGNxTl9HSkE2djFqMlFtNmR4VXlGc3RvSEt5VVMzZHlIM0s5RU9TdERDUkE3X3Y5YmlVMVAyWUxlMkxvcTR0Ym54THM?oc=5\" target=\"_blank\">EV補助金はまだ間に合うのか？販売好調で例年より早い12月終了見込み: 「救済措置」の行方は（オルタナ）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-                "site_name": "Yahoo!ニュース",
-                "primary_category": "Policy",
-                "reason": "EV補助金の終了時期は市場販売に直結する重要情報。",
-                "score": 85,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "EV販売の急増により、2026年度のCEV補助金が例年より約2カ月早い12月に終了する見込み",
-                "補助金の受給が契約ベースではなく納車・登録ベースであるため、駆け込み需要と納期の不確実性が消費者の判断を困難にしている",
-                "次年度予算の遡及適用という救済策が議論されているが、補助額の維持を含め不透明感が市場の足かせとなっている"
-            ],
-            "insight": "EV補助金は市場の「呼び水」から、今や需給バランスを揺るがす「投機的リスク」へと変質しました。販売が好調なのは好材料ですが、制度の予算枯渇が早まることで納期の長い人気車が敬遠され、逆に在庫車が選ばれる歪な市場行動を誘発しています。補助金の「遡及適用」という弥縫策は、本来の普及促進目的から逸脱しつつあり、恒久的な市場自律性を削ぐ副作用も懸念すべき段階です。"
-        }
-    },
-    {
-        "topic_name": "太陽光発電を活用したEV実証実験",
-        "article_ids": [
-            436461
-        ],
-        "articles": [
-            {
-                "id": 436461,
-                "title": "太陽光で走るEV車　いわき市で実証実験開始　カーボンニュートラル実現へ - Infoseek",
-                "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oZlhNTjM0SVdQdUdOS3lDdHRtMFNRRUUyZ0w4dFNEYXQ3dXA2SFVmakxKTkVTeGFLUVJFR0ppUnowRGg4d1p0LXZBZjZ5eVRrWm04MEEzU0dlRWNPVFFLbEQtd2kxcnFTQ0libE9R0gFuQVVfeXFMTmhmWE1OMzRJV1B1R05LeUN0dG0wU1FFRTJnTDh0U0RhdDd1cDZIVWZqTEpORVN4YUtRUkVHSmlSejBEaDh3WnQtdkFmNnl5VGtabTgwQTNTR2VFY09UUUtsRC13aTFycVNDSWJsT1E?oc=5",
-                "published": "Sat, 10 Oct 2026 09:38:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5oZlhNTjM0SVdQdUdOS3lDdHRtMFNRRUUyZ0w4dFNEYXQ3dXA2SFVmakxKTkVTeGFLUVJFR0ppUnowRGg4d1p0LXZBZjZ5eVRrWm04MEEzU0dlRWNPVFFLbEQtd2kxcnFTQ0libE9R0gFuQVVfeXFMTmhmWE1OMzRJV1B1R05LeUN0dG0wU1FFRTJnTDh0U0RhdDd1cDZIVWZqTEpORVN4YUtRUkVHSmlSejBEaDh3WnQtdkFmNnl5VGtabTgwQTNTR2VFY09UUUtsRC13aTFycVNDSWJsT1E?oc=5\" target=\"_blank\">太陽光で走るEV車　いわき市で実証実験開始　カーボンニュートラル実現へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
-                "site_name": "Infoseek",
-                "primary_category": "Regional",
-                "reason": "地域固有のカーボンニュートラル実証実験。",
-                "score": 70,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "太陽光パネル搭載EVによる外部充電不要のエネルギー自立走行モデルの実証",
-                "いわき市と民間企業、バッテリーバレー推進機構の連携による地域特化型の開発体制",
-                "データ収集を通じた実用化フェーズへの移行とカーボンニュートラルへの貢献"
-            ],
-            "insight": "単なる移動手段としてのEVから、発電・蓄電拠点としての『走るオフグリッド電源』への転換点。航続距離100kmの制約は大きいが、ラストワンマイルの配送や災害時の非常用電源としての価値は極めて高い。商用車利用での採算性を見極めることが、本格普及のボトルネックを打破する鍵となるだろう。"
-        }
-    },
-    {
-        "topic_name": "EV競争と日系車の戦略",
-        "article_ids": [
-            747527,
-            192506
-        ],
-        "articles": [
-            {
-                "id": 747527,
-                "title": "中国EVの猛威と欧州車の苦境。激変する世界情勢の中で日本車が取るべき「次の一手」 (WEB CARTOP) - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS2xtUERwNlZvRVVmekMyS0pudkM2VEYzenJwTE1VWHZLR29nSHp3MWh6UjNnS2VMczl4TlNmdEJTdk4xOHU2NU5GOURhUGhwMkVjMG5GWThZNmpoSm8yejk2WXFSYmh6RGxXbHB4SHFVRU5MaHdJVzhrTV9KSUFhY2FtQXNSZXlyZTdNcmpR?oc=5",
-                "published": "Fri, 09 Oct 2026 22:11:26 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPS2xtUERwNlZvRVVmekMyS0pudkM2VEYzenJwTE1VWHZLR29nSHp3MWh6UjNnS2VMczl4TlNmdEJTdk4xOHU2NU5GOURhUGhwMkVjMG5GWThZNmpoSm8yejk2WXFSYmh6RGxXbHB4SHFVRU5MaHdJVzhrTV9KSUFhY2FtQXNSZXlyZTdNcmpR?oc=5\" target=\"_blank\">中国EVの猛威と欧州車の苦境。激変する世界情勢の中で日本車が取るべき「次の一手」 (WEB CARTOP)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-                "site_name": "Yahoo!ニュース",
-                "primary_category": "Strategy",
-                "reason": "中国・欧州の競争環境と日本車の戦略分析。",
-                "score": 75,
-                "is_highly_important": true
-            },
-            {
-                "id": 192506,
-                "title": "トヨタ、タイで「残クレ」マイカー提供 月額抑えて中国EVに対抗 - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CQkNDUXlsUkhvVF92NTJIRGRqekRfbGEtYktKUVlFekIxTlM5aEZDVVBsSVktQlNJa0xZRG1tM18xNU1ja1lia0dQaEtnQ2p3TzNGUGd1T2FxT2tfSV81eU9PdDdOeUs0VjhxZA?oc=5",
-                "published": "Sat, 10 Oct 2026 20:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9CQkNDUXlsUkhvVF92NTJIRGRqekRfbGEtYktKUVlFekIxTlM5aEZDVVBsSVktQlNJa0xZRG1tM18xNU1ja1lia0dQaEtnQ2p3TzNGUGd1T2FxT2tfSV81eU9PdDdOeUs0VjhxZA?oc=5\" target=\"_blank\">トヨタ、タイで「残クレ」マイカー提供 月額抑えて中国EVに対抗</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-                "site_name": "日本経済新聞",
-                "primary_category": "Strategy",
-                "reason": "タイ市場でのメーカー競争戦略。",
-                "score": 75,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "中国EVメーカーによる東南アジアでの浸透と日本車シェアの切り崩し",
-                "BEV先行の欧州勢が直面する高コスト体質と販売不振による戦略修正",
-                "トヨタによる残価設定型クレジットの導入など、ファイナンスによる顧客の囲い込み"
-            ],
-            "insight": "日本メーカーは、インフラと実用性を重視する新興国市場において、単なるEV化競争に追随するのではなく、強みである金融ソリューションと車両の残価維持能力を武器にした『総力戦』へシフトしている。欧州勢がBEVへの過度な投資で苦境に立たされる中、エンジン車やハイブリッドを含む全方位戦略を維持しつつ、ファイナンス面から攻勢をかける構造は、現在の市場環境下で最も合理的かつ現実的な防衛策と言える。"
-        }
-    },
-    {
-        "topic_name": "欧州・米メーカーのEV戦略転換",
-        "article_ids": [
-            684606,
             645965,
-            449676
+            874973,
+            640632
         ],
         "articles": [
-            {
-                "id": 684606,
-                "title": "中国とＥＵ、電動車輸出巡り議論深化 北京で閣僚級協議 - Reuters",
-                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSmRmd2MwbWlqTU15S1h5YmlfSVFRaU1xdWFMeF9ZUmI4VDlrU2dscGlzVmN1S1VYd1k3QWdHVWg4RmxNd3FsQ19INTZqbGlOWFN1T2UwVHhxam5kM2R0YWtpMkxnbGh5WnY5dkplZHN1aE85VHdYTFpZbURXbjdGbnRTaXE2QQ?oc=5",
-                "published": "Fri, 09 Oct 2026 17:45:29 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQSmRmd2MwbWlqTU15S1h5YmlfSVFRaU1xdWFMeF9ZUmI4VDlrU2dscGlzVmN1S1VYd1k3QWdHVWg4RmxNd3FsQ19INTZqbGlOWFN1T2UwVHhxam5kM2R0YWtpMkxnbGh5WnY5dkplZHN1aE85VHdYTFpZbURXbjdGbnRTaXE2QQ?oc=5\" target=\"_blank\">中国とＥＵ、電動車輸出巡り議論深化 北京で閣僚級協議</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-                "site_name": "Reuters",
-                "primary_category": "Policy",
-                "reason": "通商交渉（関税等）は最重要事項。",
-                "score": 95,
-                "is_highly_important": true
-            },
             {
                 "id": 645965,
                 "title": "（フロントライン 経済）欧州車産業の地殻変動 フォルクスワーゲン、ＥＶ不振に中国勢の足音 - 朝日新聞",
@@ -295,77 +70,102 @@
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xZk5ZcWdQUUNORDNWQUdxLV9CY181dl9RYXVSa2ZRY2t0RXNxd3dMSEtZeVFWc3BLRjBZeWxNMFFLZ0tIYzU3a2tya0hlOFBDTndNRWxYRmQtVkNR?oc=5\" target=\"_blank\">（フロントライン 経済）欧州車産業の地殻変動 フォルクスワーゲン、ＥＶ不振に中国勢の足音</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
                 "site_name": "朝日新聞",
                 "primary_category": "Strategy",
-                "reason": "大手メーカーのEV苦戦と中国勢台頭の概況。",
+                "reason": "欧州自動車産業の構造変化に関する分析。",
+                "score": 75,
+                "is_highly_important": true
+            },
+            {
+                "id": 874973,
+                "title": "PHV販売をけん引するBYDのSUV 戦略的価格が奏功し顧客つかむ 11月には2車種目 EVのてこ入れ課題 - 日刊自動車新聞",
+                "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56SWo2RExHMl92SC1KX0NqZVdoNDVQM3NNZXo2VzYxdVUtbDJlLVBjWjdPOTFXYW1mVnB3RkNUYkl2RzNEQnV1aEt4dU1WTGF3Zmc?oc=5",
+                "published": "Sun, 11 Oct 2026 08:47:26 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE56SWo2RExHMl92SC1KX0NqZVdoNDVQM3NNZXo2VzYxdVUtbDJlLVBjWjdPOTFXYW1mVnB3RkNUYkl2RzNEQnV1aEt4dU1WTGF3Zmc?oc=5\" target=\"_blank\">PHV販売をけん引するBYDのSUV 戦略的価格が奏功し顧客つかむ 11月には2車種目 EVのてこ入れ課題</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日刊自動車新聞</font>",
+                "site_name": "日刊自動車新聞",
+                "primary_category": "Market",
+                "reason": "BYDの販売戦略と市場実績分析。",
                 "score": 70,
                 "is_highly_important": true
             },
             {
-                "id": 449676,
-                "title": "米フォードの赤字２千億円超 ＥＶ戦略見直しで損失計上 - 山陽新聞",
-                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yX1JHdGt4a0tXSWZmUmo2R1ZpY25peU40MjBKVUQ1U19YbXpfWkRpMTdSQlU4WUZRV3NHTW9xYlJ0c1ViSDNyYnhqX0luRUluYjZLbzVKNVluOFlqWGkwQ3QxcWw5YU0?oc=5",
-                "published": "Sat, 10 Oct 2026 07:21:43 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yX1JHdGt4a0tXSWZmUmo2R1ZpY25peU40MjBKVUQ1U19YbXpfWkRpMTdSQlU4WUZRV3NHTW9xYlJ0c1ViSDNyYnhqX0luRUluYjZLbzVKNVluOFlqWGkwQ3QxcWw5YU0?oc=5\" target=\"_blank\">米フォードの赤字２千億円超 ＥＶ戦略見直しで損失計上</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
-                "site_name": "山陽新聞",
-                "primary_category": "Finance",
-                "reason": "米大手メーカーのEV戦略転換による財務影響。",
-                "score": 85,
+                "id": 640632,
+                "title": "Breakingviews - COMMENTARY: コラム：「トヨタを追い抜く」、中国ＢＹＤの野望は険しい道のり - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNEd6cTdMR2xyU3NFbkRXM0t5aUtGSXBzMmtUNGx5dGVOdG1yLU9lU3NqQjFsX2c0UFBIeXp6ckZsQzlDZTN2WFp3OHFabmhlelFvbnhqQlNZUEQtTWRmRkZyenFFZVdub3JmNWFFN1hiN2VCSUdlaEFCM2FCZUZTU0E4c3NNYkNjcjRVMHE2RFA?oc=5",
+                "published": "Sat, 10 Oct 2026 23:12:20 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPNEd6cTdMR2xyU3NFbkRXM0t5aUtGSXBzMmtUNGx5dGVOdG1yLU9lU3NqQjFsX2c0UFBIeXp6ckZsQzlDZTN2WFp3OHFabmhlelFvbnhqQlNZUEQtTWRmRkZyenFFZVdub3JmNWFFN1hiN2VCSUdlaEFCM2FCZUZTU0E4c3NNYkNjcjRVMHE2RFA?oc=5\" target=\"_blank\">Breakingviews - COMMENTARY: コラム：「トヨタを追い抜く」、中国ＢＹＤの野望は険しい道のり</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+                "site_name": "Reuters",
+                "primary_category": "Strategy",
+                "reason": "BYDの国際戦略に対する評論。",
+                "score": 70,
                 "is_highly_important": true
             }
         ],
         "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "欧州自動車メーカーのEV戦略の瓦解（VWの工場閉鎖検討・人員削減等）",
-                "中国EVメーカーの圧倒的競争力による市場シェア侵食と欧州企業の苦境",
-                "EV補助金や戦略見直しによる多額の減損損失（米フォード等の事例）"
+                "フォルクスワーゲン等の欧州勢はEV販売不振と中国勢の台頭により、大規模な構造改革と工場閉鎖という深刻な転換期に直面している。",
+                "BYDはPHV（プラグインハイブリッド）を武器に戦略的な価格設定で市場浸透を図っており、日本市場においても着実な支持を獲得しつつある。",
+                "BYDの世界的なシェア拡大には、トヨタを追い抜くという野望の一方で、EVへの本格的なテコ入れや市場ごとの製品適合といった高いハードルが存在する。"
             ],
-            "insight": "欧州自動車産業は、環境規制の旗振り役から『現実的な収益確保』への転換を余儀なくされています。EVへの急転換は、高コスト構造を固定化し、中国勢との価格競争において致命的な弱点となりました。今後は、既存の内燃機関とのハイブリッド戦略への揺り戻しと、中国製EVに対する関税障壁を盾にした、過酷な延命のフェーズへ突入します。"
+            "insight": "欧州の自動車産業は、電動化シフトの過程で「安価な中国製EV」との価格競争に敗れ、聖域なきリストラを余儀なくされる地殻変動の最中にある。一方、BYDの強さは単なるEV専業ではなく、PHVを含む全方位的な製品ラインナップと、地政学リスクを回避する柔軟な展開力にある。日本市場におけるBYDの伸長は、既存メーカーにとって、価格と実用性のバランスが消費者の選択基準を根本から変えつつあることを示す警告に他ならない。"
         }
     },
     {
-        "topic_name": "テスラのロボタクシー戦略",
+        "topic_name": "韓国現代自動車の経営環境と中国製EVへの対応",
         "article_ids": [
-            280696
+            939141,
+            788118
         ],
         "articles": [
             {
-                "id": 280696,
-                "title": "テスラ 自動運転ロボタクシー拡大に向けて4.5兆円巨額調達か - 自動運転ラボ",
-                "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hclF5dHZmTl9QUHJUcUNodFZCSjlUZEhwMmVOaXk3WGVWNDlLSERHV0kzSXQ4dldQYl83UHNGQmhjaVljZG83Qg?oc=5",
-                "published": "Sat, 10 Oct 2026 07:00:19 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hclF5dHZmTl9QUHJUcUNodFZCSjlUZEhwMmVOaXk3WGVWNDlLSERHV0kzSXQ4dldQYl83UHNGQmhjaVljZG83Qg?oc=5\" target=\"_blank\">テスラ 自動運転ロボタクシー拡大に向けて4.5兆円巨額調達か</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">自動運転ラボ</font>",
-                "site_name": "自動運転ラボ",
-                "primary_category": "Finance",
-                "reason": "テスラの資金調達とロボタクシー戦略。",
-                "score": 85,
+                "id": 939141,
+                "title": "現代自動車、デスバレー入り…今後2年が山場 - 조선일보",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb1dKNkV1ZVpQV3J0N01sTVVDTGxkMm9qTjVSTXgyWHlUNWMtd1VpLTQ5Y3lXMWw3ZUxjQ2gtSGhZcUFaUkNCUVh2djhwNWFuTTVKNjJCTzY4N0RndldlYkJJQ0VvZ2RNZ3kxXzJmRmlXRFg3SDFDelhRVWsyWnNPOQ?oc=5",
+                "published": "Sun, 11 Oct 2026 15:42:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPb1dKNkV1ZVpQV3J0N01sTVVDTGxkMm9qTjVSTXgyWHlUNWMtd1VpLTQ5Y3lXMWw3ZUxjQ2gtSGhZcUFaUkNCUVh2djhwNWFuTTVKNjJCTzY4N0RndldlYkJJQ0VvZ2RNZ3kxXzJmRmlXRFg3SDFDelhRVWsyWnNPOQ?oc=5\" target=\"_blank\">現代自動車、デスバレー入り…今後2年が山場</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+                "site_name": "조선일보",
+                "primary_category": "Strategy",
+                "reason": "企業戦略の転換点報告。",
+                "score": 70,
+                "is_highly_important": true
+            },
+            {
+                "id": 788118,
+                "title": "中国車に壁築く欧州、無策の韓国 - 조선일보",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRDFlcVF2YTNXUHp6TFlJZ0FXRGV2eFYxYWszZlRSNkVKdVYydGlCU0RadjNsSU5INVVNQjJLbl9fc3VoR3BQSmt1M0s2V1lwVGQ1RlN3WVlLVkVLNk1FNWVsN21lNkpfU0NacmtmTXhQZS1lRHNydkdXWWMzWXFoMw?oc=5",
+                "published": "Sun, 11 Oct 2026 15:45:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNRDFlcVF2YTNXUHp6TFlJZ0FXRGV2eFYxYWszZlRSNkVKdVYydGlCU0RadjNsSU5INVVNQjJLbl9fc3VoR3BQSmt1M0s2V1lwVGQ1RlN3WVlLVkVLNk1FNWVsN21lNkpfU0NacmtmTXhQZS1lRHNydkdXWWMzWXFoMw?oc=5\" target=\"_blank\">中国車に壁築く欧州、無策の韓国</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+                "site_name": "조선일보",
+                "primary_category": "Strategy",
+                "reason": "地域別の国際競争分析。",
+                "score": 70,
                 "is_highly_important": true
             }
         ],
-        "is_grouped": false,
+        "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "テスラは最大300億ドル（約4.5兆円）の与信枠を確保し、ロボタクシーおよび自動運転関連の投資を加速させる財務基盤を固めた。",
-                "2026年の設備投資額が前年比約3倍の250億ドルを見込む中、将来の資金需要に対する「先回り」の備えとして機動性を重視した。",
-                "Waymoなどの競合が外部調達で車両を確保するのに対し、テスラは自社工場での垂直統合生産を強みとし、資本集約的な戦いへシフトした。"
+                "中国製EVの台頭による国内販売の急減と収益性の悪化（営業利益率低下）",
+                "労組ストライキや部品供給問題による生産損失と競争力低下の二重苦",
+                "欧米が保護貿易政策を強める中、韓国国内市場への中国車流入リスク（風船効果）"
             ],
-            "insight": "テスラの今回の資金戦略は単なる債務増ではなく、ロボタクシーの「ハードウェア・スケーリング」競争に向けた最後の一押しだ。特にCybercabの量産は、ソフトウェアの優位性だけで語られた自動運転議論を、製造能力と資本力が勝敗を分けるインフラ事業へと変質させた。Waymoのモデルに対し、テスラは自社工場という「城」を築くために借入枠を武器に変え、市場支配を急いでいる。"
+            "insight": "現代自は本業の稼ぎが細る中で未来投資を迫られる『デスバレー』に直面しています。特に中国BYDの国内急拡大は、対欧米保護主義から溢れた中国車の受け皿となる脆弱性を露呈しました。2028年のロボティクス・自動運転実装までの間、高価格維持かシェア防衛かの二者択一を迫られる過酷な『持久戦』に突入しています。"
         }
     },
     {
-        "topic_name": "インドネシアのニッケル精製とEVバッテリー産業",
+        "topic_name": "トヨタのタイ市場における販売戦略",
         "article_ids": [
-            623663
+            192506
         ],
         "articles": [
             {
-                "id": 623663,
-                "title": "IWIPはニッケル精製の新ラウンドに入ります、インドネシア共和国大統領は11のプロジェクトを立ち上げ、EVバッテリーの最初の輸出を解放します - VOI.ID",
-                "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBHLXljeU9RaDNJWkRIOW43NG5nUUNCVzFncmpGTnpxQnhjZ1NFV0U3QW1jUGVxTktEcFRBYkNhV3Y5azEtb3fSAUJBVV95cUxPcURLNENkejlzOWd3eDAyb25zWWg2S2ljMGxJOWlaZmg2SWZKNWdzSG9UZWdSaXc1RDVRZmktM2dKS2c?oc=5",
-                "published": "Sat, 10 Oct 2026 00:27:52 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTFBHLXljeU9RaDNJWkRIOW43NG5nUUNCVzFncmpGTnpxQnhjZ1NFV0U3QW1jUGVxTktEcFRBYkNhV3Y5azEtb3fSAUJBVV95cUxPcURLNENkejlzOWd3eDAyb25zWWg2S2ljMGxJOWlaZmg2SWZKNWdzSG9UZWdSaXc1RDVRZmktM2dKS2c?oc=5\" target=\"_blank\">IWIPはニッケル精製の新ラウンドに入ります、インドネシア共和国大統領は11のプロジェクトを立ち上げ、EVバッテリーの最初の輸出を解放します</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VOI.ID</font>",
-                "site_name": "VOI.ID",
-                "primary_category": "SupplyChain",
-                "reason": "資源国でのバッテリーサプライチェーン構築。",
+                "id": 192506,
+                "title": "トヨタ、タイで「残クレ」マイカー提供 月額抑えて中国EVに対抗 - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CQkNDUXlsUkhvVF92NTJIRGRqekRfbGEtYktKUVlFekIxTlM5aEZDVVBsSVktQlNJa0xZRG1tM18xNU1ja1lia0dQaEtnQ2p3TzNGUGd1T2FxT2tfSV81eU9PdDdOeUs0VjhxZA?oc=5",
+                "published": "Sat, 10 Oct 2026 20:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9CQkNDUXlsUkhvVF92NTJIRGRqekRfbGEtYktKUVlFekIxTlM5aEZDVVBsSVktQlNJa0xZRG1tM18xNU1ja1lia0dQaEtnQ2p3TzNGUGd1T2FxT2tfSV81eU9PdDdOeUs0VjhxZA?oc=5\" target=\"_blank\">トヨタ、タイで「残クレ」マイカー提供 月額抑えて中国EVに対抗</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "site_name": "日本経済新聞",
+                "primary_category": "Strategy",
+                "reason": "トヨタの対中国向け販売金融戦略。",
                 "score": 80,
                 "is_highly_important": true
             }
@@ -373,11 +173,127 @@
         "is_grouped": false,
         "analysis": {
             "summary_points": [
-                "インドネシア・ウェダベイ工業団地（IWIP）での180兆ルピア規模の11の加工プロジェクト始動",
-                "ニッケル精製から電池材料・電池・重機製造までを網羅する垂直統合型エコシステムの確立",
-                "電気自動車（EV）バッテリーの初の輸出を実現し、付加価値型製造業への転換を加速"
+                "タイ市場における中国EV台頭への対抗策として、残価設定型ローン（残クレ）を導入",
+                "車両販売単価ではなく月額支払額を強調することで、価格競争力を視覚的に訴求",
+                "EVの将来的な再販価値への懸念に対し、メーカー保証による心理的障壁の解消を狙う"
             ],
-            "insight": "インドネシアは単なるニッケル供給国から「EVバリューチェーンのハブ」へと脱皮を遂げた。特に電池材料やセパレーター、さらには電気重機までIWIP内で完結させる垂直統合モデルは、物流コストの最適化と供給網の囲い込みを意味する。欧米や中国のメーカーを巻き込み、川下製品の輸出を開始したことは、同国の工業化政策が決定的なフェーズに入った証左である。"
+            "insight": "トヨタのタイにおける残クレ投入は、単なる販売促進ではなく、EV普及期の『総所有コスト（TCO）』の可視化による市場防衛策だ。中国勢の低価格攻勢に対し、月額の負担感を抑えることで既存のエンジン車・HVの優位性を再定義し、流動的な市場で顧客の囲い込み（ロックイン）を狙う、極めて実戦的な金融戦略と言える。"
+        }
+    },
+    {
+        "topic_name": "二次電池材料市場の2035年予測",
+        "article_ids": [
+            736435
+        ],
+        "articles": [
+            {
+                "id": 736435,
+                "title": "二次電池材料市場2035年予測：EV需要と現地化が成長を牽引 - ニュースと統計 - IndexBox",
+                "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTjhBZEY2SWFsei1qMzlhZTFJbG9SNmFEMF81TjRMU0tRblhIb0MyckRGNnRScGxwaVNRR0FNVUEtSGF2TXVhbTE0NTJpT2tYTUg4b0ZQSWZMMkIxYm1WV2RQRTlFTDRLcEVVaXgtc2JReGZqLVJSTDRYVFlEaFdWbURjeEZ0QW03aWl6cEFLR003ck1BbWtqcWxmOWpRdGh2aEZyOWxHblVJeWZFcHZSSTBVMW9YbDZ1TnA4eGpSMGlVanlvTzJqVU9Zb24tZw?oc=5",
+                "published": "Sun, 11 Oct 2026 05:06:05 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNTjhBZEY2SWFsei1qMzlhZTFJbG9SNmFEMF81TjRMU0tRblhIb0MyckRGNnRScGxwaVNRR0FNVUEtSGF2TXVhbTE0NTJpT2tYTUg4b0ZQSWZMMkIxYm1WV2RQRTlFTDRLcEVVaXgtc2JReGZqLVJSTDRYVFlEaFdWbURjeEZ0QW03aWl6cEFLR003ck1BbWtqcWxmOWpRdGh2aEZyOWxHblVJeWZFcHZSSTBVMW9YbDZ1TnA4eGpSMGlVanlvTzJqVU9Zb24tZw?oc=5\" target=\"_blank\">二次電池材料市場2035年予測：EV需要と現地化が成長を牽引 - ニュースと統計</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
+                "site_name": "IndexBox",
+                "primary_category": "Supply Chain",
+                "reason": "電池材料市場の長期予測。",
+                "score": 70,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "EVの生産目標と強固な認定サイクルが市場成長の主軸であり、7～10年のプラットフォーム寿命を通じた固定供給が競争力の源泉となる。",
+                "北米・欧州の現地化義務がサプライチェーンの冗長化を促し、従来の中国一極集中モデルから地政学的リスクを反映した地域統合型への構造転換が進行。",
+                "リサイクルと再生材含有率の法令順守が、新規調達と競合する『クローズドループ』を形成し、単なる低コスト追求から付加価値競争へシフト。"
+            ],
+            "insight": "単なる材料コストの比較は既に過去の指標です。現代の競争優位は、OEMの認証を勝ち取り、鉱山から正負極材までを統合する垂直統合力に帰属しています。特に、LMFPや高ケイ素負極のような次世代技術への柔軟な対応と、リサイクルを前提とした循環型サプライチェーンの構築能力が、市場における選別基準の決定打となります。"
+        }
+    },
+    {
+        "topic_name": "岐阜県恵那市における自動運転EVバスの実証実験",
+        "article_ids": [
+            166842
+        ],
+        "articles": [
+            {
+                "id": 166842,
+                "title": "岐阜・恵那市の自動運転EVバス 10日から一般客乗せ実証実験 レベル4目指す：ニュース - 中日BIZナビ",
+                "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQOWpLNXFhOUVtNHVURXBNQVBEM3BHQXIyMlM1WUpJUWdUc3pCdm1TTlNoS1UzZ3FnanA2aU91UFJiZjRrT3N2cUYyd1Y4U29SUk1vRkRrZzdRSVg4QnA0?oc=5",
+                "published": "Sat, 10 Oct 2026 22:52:55 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQOWpLNXFhOUVtNHVURXBNQVBEM3BHQXIyMlM1WUpJUWdUc3pCdm1TTlNoS1UzZ3FnanA2aU91UFJiZjRrT3N2cUYyd1Y4U29SUk1vRkRrZzdRSVg4QnA0?oc=5\" target=\"_blank\">岐阜・恵那市の自動運転EVバス 10日から一般客乗せ実証実験 レベル4目指す：ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中日BIZナビ</font>",
+                "site_name": "中日BIZナビ",
+                "primary_category": "Infrastructure",
+                "reason": "地域固有の公共交通実証。",
+                "score": 70,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "岐阜県恵那市による自動運転EVバスの一般客向け実証実験開始",
+                "レベル2から将来的なレベル4（特定条件下での完全自動運転）を見据えた取り組み",
+                "観光地としての利便性向上と、地域モビリティ維持を目的とした官民連携の推進"
+            ],
+            "insight": "地方自治体での実証実験は「技術の証明」から「社会的受容性の醸成」へとフェーズが移行しています。恵那市のような観光地での実装は、ラストワンマイルの移動手段確保と景観ブランディングを両立させる好例です。鍵はレベル4移行時の安全担保コストと採算性であり、持続可能な運航体制をどう設計するかが全国のモデルケースとなるでしょう。"
+        }
+    },
+    {
+        "topic_name": "高速道路SA・PAへのNACS規格対応EV超急速充電器の設置",
+        "article_ids": [
+            782747
+        ],
+        "articles": [
+            {
+                "id": 782747,
+                "title": "NEXCO東日本・西日本の公募に採択。高速道路SA・PAで国内初のNACS（テスラ規格）対応、最大400kWのEV超急速充電器「FLASH MARK.7」をパーキングエリア18箇所に計36基設置へ - 山陽新聞",
+                "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmTzFDMU05d3pZQzdsc21yX1puTnI4RDNFMDFfdFR3Tm5ZWnJhUkdBUXF4YkdUX1hJTW45cDhpUkR0RXdvU3dCSklZUG43T1lNRkE?oc=5",
+                "published": "Sun, 11 Oct 2026 01:02:21 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmTzFDMU05d3pZQzdsc21yX1puTnI4RDNFMDFfdFR3Tm5ZWnJhUkdBUXF4YkdUX1hJTW45cDhpUkR0RXdvU3dCSklZUG43T1lNRkE?oc=5\" target=\"_blank\">NEXCO東日本・西日本の公募に採択。高速道路SA・PAで国内初のNACS（テスラ規格）対応、最大400kWのEV超急速充電器「FLASH MARK.7」をパーキングエリア18箇所に計36基設置へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
+                "site_name": "山陽新聞",
+                "primary_category": "Infrastructure",
+                "reason": "急速充電網の構築計画（重要インフラ）。",
+                "score": 85,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "高速道路のSA・PAとしては国内初となるNACS規格対応の超急速充電器（最大400kW）の導入が決定",
+                "テンフィールズファクトリーがNEXCO東日本・西日本の公募に採択され、計18箇所で36基を整備",
+                "テスラ車用アダプター不要の利便性と、高出力化による滞在時間の短縮により、EVの長距離移動ニーズに対応"
+            ],
+            "insight": "NACS採用は国内EVインフラの転換点であり、テスラ経済圏の取り込みと、アダプター排除によるUX向上が狙いです。最大400kWの「FLASH MARK.7」の投入は、高電圧車両の増加を見越した先行投資であり、NEXCOの公募選定を通じたインフラ拡充は、充電不安を解消し高速道路におけるEV移動の信頼性を決定づける重要な一手と言えます。"
+        }
+    },
+    {
+        "topic_name": "ホンダの次世代ハイブリッドシステム開発",
+        "article_ids": [
+            205065
+        ],
+        "articles": [
+            {
+                "id": 205065,
+                "title": "ホンダ、2027年から使用開始、15モデルに搭載される新ハイブリッドシステムを準備 - VOI.ID",
+                "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1vaEs2a0tHZ0FtUzItckVTTGJqUWU5amRBYlZKak5EYUxRV2ZQb0t5TWt0eEpuY3FCT0MzY3ZLRDFOWFBy0gFCQVVfeXFMTzhzZDg1REpZRTFhSEE4N1Y1SGJub2x1S3ZIWURMZkJBV3g3X05xUUt5T25EdmtfdzU1WFlNaTBsSEJB?oc=5",
+                "published": "Sat, 10 Oct 2026 16:42:12 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE1vaEs2a0tHZ0FtUzItckVTTGJqUWU5amRBYlZKak5EYUxRV2ZQb0t5TWt0eEpuY3FCT0MzY3ZLRDFOWFBy0gFCQVVfeXFMTzhzZDg1REpZRTFhSEE4N1Y1SGJub2x1S3ZIWURMZkJBV3g3X05xUUt5T25EdmtfdzU1WFlNaTBsSEJB?oc=5\" target=\"_blank\">ホンダ、2027年から使用開始、15モデルに搭載される新ハイブリッドシステムを準備</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VOI.ID</font>",
+                "site_name": "VOI.ID",
+                "primary_category": "Strategy",
+                "reason": "ホンダの技術・製品ロードマップ。",
+                "score": 75,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "EV投資の知見を内燃機関へ還元：EV開発の挫折を無駄にせず、車体剛性管理と電動化プラットフォームの設計思想を次世代HEVへ転用",
+                "モジュール戦略の深化：既存の2モーター方式を核としつつ、大型車向けに第3のモーターを加えたV6ハイブリッドで全方位的なラインナップを再構築",
+                "北米市場への最適化とスケールメリット：15モデルを一斉に刷新し、シビックから大型SUVに至るまでの商品力を2027年以降の市場競争力の基軸に据える"
+            ],
+            "insight": "ホンダのEV転換路線修正は単なる敗退ではなく、極めて冷徹な「資源再配分」だ。EV専用プラットフォームで培った剛性理論をHEVに落とし込むことで、既存の『2モーター・ハイブリッド』の強みを極限まで高める戦略に転じた。EV普及が停滞する北米市場において、収益性の高いHEVを最新鋭のプラットフォームで刷新するのは、中期経営計画の現実的な解であり、競合に対する強い牽制となる。"
         }
     }
 ]
