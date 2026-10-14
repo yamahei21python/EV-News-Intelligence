@@ -1,99 +1,141 @@
 [
     {
-        "topic_name": "ホンダと大成建設によるEV走行中無線給電の共同開発",
+        "topic_name": "ホンダと大成建設による走行中EV無線給電技術の開発",
         "article_ids": [
-            653683,
-            699368,
-            738263
+            707861,
+            72373
         ],
         "articles": [
             {
-                "id": 653683,
-                "title": "時速120kmで走るEVに給電、高速道で実証へ 大成建設とホンダ系 - 日経クロステック",
-                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WRThkaFlyTkc5MjQtbjhGZ0ExeWJZOXNiNDhtTC1uSWhaeWYyaGhrTWRwNUJ2ZThhOWtodGFkd2h3SFV1RDdsX3pXQk1yajNCTjBqaG81TUpBOWNUamYxa2dPSkNTZk0?oc=5",
-                "published": "Mon, 12 Oct 2026 20:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WRThkaFlyTkc5MjQtbjhGZ0ExeWJZOXNiNDhtTC1uSWhaeWYyaGhrTWRwNUJ2ZThhOWtodGFkd2h3SFV1RDdsX3pXQk1yajNCTjBqaG81TUpBOWNUamYxa2dPSkNTZk0?oc=5\" target=\"_blank\">時速120kmで走るEVに給電、高速道で実証へ 大成建設とホンダ系</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経クロステック</font>",
-                "site_name": "日経クロステック",
-                "primary_category": "Technology",
-                "reason": "走行中給電技術の共同開発。技術的意義が高い。",
-                "score": 80,
+                "id": 707861,
+                "title": "EVを走行中に充電！ ホンダと大成建設が世界初の技術で無線給電道路システムの基盤技術を開発 知っておきたい次世代インフラの現在地【自動車ニュースを読む】 - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kZDdlWXFNSXJqYmp5WENjODZJTjlZdks0TmZrWTV2Q0JfNWYxY1duaTFDX3NKeW5UYU5VVzZtZ3RYZXVGdkpCNkdyU05jQlZNeVg1WGFncTZ3cmQ5ZVNFelpnTmN5NDVqZDBJNDJseENfeW1RZGZnZThuTF9EaTQ?oc=5",
+                "published": "Wed, 14 Oct 2026 08:25:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1kZDdlWXFNSXJqYmp5WENjODZJTjlZdks0TmZrWTV2Q0JfNWYxY1duaTFDX3NKeW5UYU5VVzZtZ3RYZXVGdkpCNkdyU05jQlZNeVg1WGFncTZ3cmQ5ZVNFelpnTmN5NDVqZDBJNDJseENfeW1RZGZnZThuTF9EaTQ?oc=5\" target=\"_blank\">EVを走行中に充電！ ホンダと大成建設が世界初の技術で無線給電道路システムの基盤技術を開発 知っておきたい次世代インフラの現在地【自動車ニュースを読む】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Infrastructure",
+                "reason": "走行中給電技術の進展。次世代インフラとして重要度高。",
+                "score": 85,
                 "is_highly_important": true
             },
             {
-                "id": 699368,
-                "title": "ホンダがEVへの走行中無線給電の実現に向けて、大型商用車にも対応する基盤技術を大成建設と共同開発 - carview!",
-                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONF9Xck1pTmRpRi1SYks3R2lydGZHV0s1SG8zUXpFWmplN3M5UFZDQ2tNclVqZjdfNW5XS1ZIemtwQ3hGMzV6cTM1VlJxYS1VeTZDano3a1BUazlieFVrS0tRZGZRdnhPNWpkU29RZC1VRDRLcE5wSnItQ3BLX0lad3c1dG0zT1k4ZFYxWXlFd0E2c25NaEdj?oc=5",
-                "published": "Tue, 13 Oct 2026 04:00:57 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxONF9Xck1pTmRpRi1SYks3R2lydGZHV0s1SG8zUXpFWmplN3M5UFZDQ2tNclVqZjdfNW5XS1ZIemtwQ3hGMzV6cTM1VlJxYS1VeTZDano3a1BUazlieFVrS0tRZGZRdnhPNWpkU29RZC1VRDRLcE5wSnItQ3BLX0lad3c1dG0zT1k4ZFYxWXlFd0E2c25NaEdj?oc=5\" target=\"_blank\">ホンダがEVへの走行中無線給電の実現に向けて、大型商用車にも対応する基盤技術を大成建設と共同開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carview!</font>",
-                "site_name": "carview!",
+                "id": 72373,
+                "title": "ホンダら3社、走行中EVへの無線給電道路システムの基盤技術発表 - LIGARE（リガーレ）",
+                "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tZW9neGZTZTVkaHRmQnRIRDg1Yl95TVRpdUxacVVXTmc4aTlvM253VGNxWVJzQWNCVW9yeFphUmlmT1FDeE5RbnRDdE9EaFQz?oc=5",
+                "published": "Wed, 14 Oct 2026 23:34:58 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tZW9neGZTZTVkaHRmQnRIRDg1Yl95TVRpdUxacVVXTmc4aTlvM253VGNxWVJzQWNCVW9yeFphUmlmT1FDeE5RbnRDdE9EaFQz?oc=5\" target=\"_blank\">ホンダら3社、走行中EVへの無線給電道路システムの基盤技術発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LIGARE（リガーレ）</font>",
+                "site_name": "LIGARE（リガーレ）",
                 "primary_category": "Technology",
-                "reason": "走行中給電の技術開発。",
-                "score": 80,
-                "is_highly_important": true
-            },
-            {
-                "id": 738263,
-                "title": "走行中EVに道路から給電 ホンダと大成建設が共同開発：ニュース - 中日BIZナビ",
-                "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBMjNmZ1lZUjRMOUxjZHN6cnJCS05ORUdGNlpIZmc3ekk2SmFkTUhJa25GUmNjTllsMklTcFlRcXlDU0JvSGZFNnVOTGFhVGhtS0lib3pJTWwxd3hVbk5iaEZMOA?oc=5",
-                "published": "Mon, 12 Oct 2026 20:36:06 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBMjNmZ1lZUjRMOUxjZHN6cnJCS05ORUdGNlpIZmc3ekk2SmFkTUhJa25GUmNjTllsMklTcFlRcXlDU0JvSGZFNnVOTGFhVGhtS0lib3pJTWwxd3hVbk5iaEZMOA?oc=5\" target=\"_blank\">走行中EVに道路から給電 ホンダと大成建設が共同開発：ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中日BIZナビ</font>",
-                "site_name": "中日BIZナビ",
-                "primary_category": "Technology",
-                "reason": "ホンダと大成建設の給電技術開発。",
-                "score": 80,
+                "reason": "走行中給電の技術的進展。重要な技術イノベーション。",
+                "score": 85,
                 "is_highly_important": true
             }
         ],
         "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "ホンダと大成建設グループが走行中無線給電の基盤技術を確立、舗装埋設型給電ユニットの耐久性を実証済み",
-                "2027年度以降に館山自動車道での公道実証実験を予定、大型商用車を含む実運用を見据えた設計",
-                "EVの課題である充電待ちや航続距離の制約をインフラ側で解決する、モビリティ社会の次世代ソリューション"
+                "ホンダ・大成建設・大成ロテックによる世界初のインバーター一体型・直流（DC）送電システムの基盤確立",
+                "施工性と耐久性を両立させるための配線簡素化と舗装構造の最適化を実現",
+                "トヨタ・デンソー・大林組グループとの異なる技術アプローチ（交流vs直流）による開発競争の本格化"
             ],
-            "insight": "本件の核心は、無線給電が単なる車載技術から『社会インフラ』へ昇華した点にある。特に土木大手の参画で舗装の耐久性課題をクリアしたことは大きい。EVのボトルネックはバッテリー重量と充電時間だが、走行中給電はこれを無力化できる。商用車起点での導入は費用対効果も高く、将来的な『スマートハイウェイ』の礎となる重要技術だ。"
+            "insight": "本技術の核心は『施工のリアリティ』にあります。高コストな無線給電において、道路舗装の一体化とDC配電による構成簡素化は、社会実装への最大の障壁である工事負荷を直撃する現実的な解です。今後はバッテリー技術の進化によるEVの軽量化との『エネルギーコスト競争』が焦点となり、単なる給電技術を超えたインフラ・車両一体の経済合理性の証明が、普及の成否を分けるでしょう。"
         }
     },
     {
-        "topic_name": "タイ首相と岸田元首相の会談におけるEV生産の協議",
+        "topic_name": "ステランティスCEOによる米EV市場への見解",
         "article_ids": [
-            19687,
-            839151
+            621628,
+            743547
         ],
         "articles": [
             {
-                "id": 19687,
-                "title": "岸田元首相と会談、ＥＶ生産で日本に期待示す - NNAアジア",
-                "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9JbDF0aXNnT2xxN3FJYnZ5WWFKeUlLM2RrMlA4d0djSFQ0dFpxMTMteVVUSFBvRGxOZGNNeEJkWXg2b05oTEE?oc=5",
-                "published": "Tue, 13 Oct 2026 15:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE9JbDF0aXNnT2xxN3FJYnZ5WWFKeUlLM2RrMlA4d0djSFQ0dFpxMTMteVVUSFBvRGxOZGNNeEJkWXg2b05oTEE?oc=5\" target=\"_blank\">岸田元首相と会談、ＥＶ生産で日本に期待示す</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NNAアジア</font>",
-                "site_name": "NNAアジア",
-                "primary_category": "Policy",
-                "reason": "外交レベルのEV生産協力依頼。",
-                "score": 70,
+                "id": 621628,
+                "title": "ステランティスＣＥＯ、米ＥＶ市場は「規制が生んだバブル」と指摘 - BigGo ファイナンス",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2RXdXYkt3NEsxTzZzTUFJLUFpYzZZTzJURGJ2NUxCZWNXWnozdzBnckRYWjR3eDBOTVlKcTNwWlFyV1pPNmVwRy0yZ0VMVHlpVkZXUUhTdlpIT1pxRjlGdjMzdjlxejBGOGJGWGtVbVBaU0hS?oc=5",
+                "published": "Wed, 14 Oct 2026 05:55:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFB2RXdXYkt3NEsxTzZzTUFJLUFpYzZZTzJURGJ2NUxCZWNXWnozdzBnckRYWjR3eDBOTVlKcTNwWlFyV1pPNmVwRy0yZ0VMVHlpVkZXUUhTdlpIT1pxRjlGdjMzdjlxejBGOGJGWGtVbVBaU0hS?oc=5\" target=\"_blank\">ステランティスＣＥＯ、米ＥＶ市場は「規制が生んだバブル」と指摘</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+                "site_name": "BigGo ファイナンス",
+                "primary_category": "Market Trends",
+                "reason": "主要メーカーCEOによる市場分析。規制への見解は重要。",
+                "score": 80,
                 "is_highly_important": true
             },
             {
-                "id": 839151,
-                "title": "タイ首相が岸田元首相と会談 EV生産で日系メーカーにタイ活用呼び掛け - newsclip.be",
-                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kWHZKWXpGVzdHM0Mxay05bmJPaWEyMHd5RmdpU0o0UGxWeGlrb2tkYW5VVlFKdXBOZnNhZ0VqN0lPVmhPWjJZaEtMRXFZSmNELWNieXREZkd5STdGbEE?oc=5",
-                "published": "Tue, 13 Oct 2026 04:44:59 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kWHZKWXpGVzdHM0Mxay05bmJPaWEyMHd5RmdpU0o0UGxWeGlrb2tkYW5VVlFKdXBOZnNhZ0VqN0lPVmhPWjJZaEtMRXFZSmNELWNieXREZkd5STdGbEE?oc=5\" target=\"_blank\">タイ首相が岸田元首相と会談 EV生産で日系メーカーにタイ活用呼び掛け</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newsclip.be</font>",
-                "site_name": "newsclip.be",
-                "primary_category": "Policy",
-                "reason": "外交上のEV生産協力依頼。",
-                "score": 70,
+                "id": 743547,
+                "title": "ステランティスＣＥＯ、「米国も最終的に電動化を受け入れ」と予想 - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtY3gzSVBZR2xGSm1pUTBIYVBoOVZBQ2xPZmhNYW1iZTMxalQ3c0wwMDE4b3M0MExFWXRYeUh4UHd4MWtqaURZZ0xlcWFoWXJha2REUnViM0dGSjJPTnc2Z1pKNW9sbk5CWkZTd2RwS1NXYS14Y3JwMHVqamQ5QQ?oc=5",
+                "published": "Wed, 14 Oct 2026 04:42:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFAtY3gzSVBZR2xGSm1pUTBIYVBoOVZBQ2xPZmhNYW1iZTMxalQ3c0wwMDE4b3M0MExFWXRYeUh4UHd4MWtqaURZZ0xlcWFoWXJha2REUnViM0dGSjJPTnc2Z1pKNW9sbk5CWkZTd2RwS1NXYS14Y3JwMHVqamQ5QQ?oc=5\" target=\"_blank\">ステランティスＣＥＯ、「米国も最終的に電動化を受け入れ」と予想</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+                "site_name": "Reuters",
+                "primary_category": "Market Trends",
+                "reason": "米EV市場に対するメーカーCEOの展望。重要発言。",
+                "score": 85,
                 "is_highly_important": true
             }
         ],
         "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "タイ政府が中国製EV流入による国内生産拠点への影響を警戒",
-                "既存のエンジン車産業の基盤維持とEV移行の両立を最優先課題化",
-                "日系自動車メーカーに対し、サプライチェーン活用と技術移転を強く要請"
+                "米EV市場の停滞は、自然な需要ではなく政府の規制が引き起こした一時的なバブルと定義",
+                "北米の大型車需要に対し、規制主導ではなく顧客主導の解決策として『レンジエクステンダー』を重視",
+                "グローバルな相互依存から『地域化・ブロック経済化』へ移行し、パートナーシップによるコスト分担を加速"
             ],
-            "insight": "タイは「東洋のデトロイト」の死守に必死だ。中国勢の席巻で国内産業の空洞化が進む中、タイ政府は日系を単なる生産拠点ではなく、技術転移を伴うサプライチェーンの要として引き留めようとしている。日本側にとってタイは最重要市場だが、EVシフトにおける既存資産の延命と転換のバランスをどう描くか、極めて高度な経営判断が求められる局面にある。"
+            "insight": "ステランティスの戦略転換は、環境価値（EV）から実用価値（レンジエクステンダー）への『消費者の主権回復』を認めつつ、地政学リスクを合弁事業でヘッジする極めて現実的な生存戦略です。電動化の『理想』と地域市場の『物理的・経済的制約』の乖離を冷静に分析し、あえて開発投資を抑えつつ、投資家の評価を待つタフな経営姿勢が鮮明になっています。"
+        }
+    },
+    {
+        "topic_name": "欧州自動車業界の中国勢との競争と政策支援要請",
+        "article_ids": [
+            458317,
+            32970,
+            23111
+        ],
+        "articles": [
+            {
+                "id": 32970,
+                "title": "ACC、仏製EV電池セル500万個達成 欧州電池産業の自立へ弾み - 電波新聞デジタル",
+                "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4Y1l5VDYyLW9yeTdvcS1vVFFLT3VTSS1HYV9qYmVZWEpaWTZ0SHhtNnJ0ODBoSTVRempOMlZOVzFIaHljZDJGLWc1cm5HSHBoUlE?oc=5",
+                "published": "Wed, 14 Oct 2026 02:01:10 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4Y1l5VDYyLW9yeTdvcS1vVFFLT3VTSS1HYV9qYmVZWEpaWTZ0SHhtNnJ0ODBoSTVRempOMlZOVzFIaHljZDJGLWc1cm5HSHBoUlE?oc=5\" target=\"_blank\">ACC、仏製EV電池セル500万個達成 欧州電池産業の自立へ弾み</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">電波新聞デジタル</font>",
+                "site_name": "電波新聞デジタル",
+                "primary_category": "Technology",
+                "reason": "欧州の電池産業自立に向けた重要マイルストーン。",
+                "score": 80,
+                "is_highly_important": true
+            },
+            {
+                "id": 458317,
+                "title": "欧州自動車各社、中国勢との競争激化で政策支援要請 ＥＶ移行も課題（ロイター） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83WVMzbUMxNVg5cWJXX0dOYVYzLW5TNGxiU2ZTVHI3MmVZNXZEZm80Y0dWNm9qZUVNQ0NkdHJ2OHU4ekMwUUxhZFpiSUQzbmpKdG83VVZRdnhVajlyam51SEJlQVpHaGR0RzJHZjBGZURYTUwzNWtkR1pMSW1XTU0?oc=5",
+                "published": "Wed, 14 Oct 2026 02:36:57 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE83WVMzbUMxNVg5cWJXX0dOYVYzLW5TNGxiU2ZTVHI3MmVZNXZEZm80Y0dWNm9qZUVNQ0NkdHJ2OHU4ekMwUUxhZFpiSUQzbmpKdG83VVZRdnhVajlyam51SEJlQVpHaGR0RzJHZjBGZURYTUwzNWtkR1pMSW1XTU0?oc=5\" target=\"_blank\">欧州自動車各社、中国勢との競争激化で政策支援要請 ＥＶ移行も課題（ロイター）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Market Trends",
+                "reason": "欧州メーカーの対中関税・補助金要請。政策動向として最重要。",
+                "score": 95,
+                "is_highly_important": true
+            },
+            {
+                "id": 23111,
+                "title": "欧州EV「電池300万台不足」試算 域内生産優遇が裏目、脱中国難しく - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UakY4aDJ1X3NiVXRfdmFnTEFGVTA1MGkzcGg1WnR6QnI4a0RJbURRRldrMzNUek9mVVFYUEFZbE1UTUxOZlAwd0JheHc4TXl1ZkFOOVFPTkNzVHpZajl6SVVjS0UwazAtT0kyYg?oc=5",
+                "published": "Wed, 14 Oct 2026 20:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1UakY4aDJ1X3NiVXRfdmFnTEFGVTA1MGkzcGg1WnR6QnI4a0RJbURRRldrMzNUek9mVVFYUEFZbE1UTUxOZlAwd0JheHc4TXl1ZkFOOVFPTkNzVHpZajl6SVVjS0UwazAtT0kyYg?oc=5\" target=\"_blank\">欧州EV「電池300万台不足」試算 域内生産優遇が裏目、脱中国難しく</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "site_name": "日本経済新聞",
+                "primary_category": "Market Trends",
+                "reason": "欧州の電池調達課題に関する日経の深い分析。",
+                "score": 95,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "欧州自動車メーカーは、中国勢との競争激化とEV移行の加速を受け、規制の柔軟化や域内生産を支える政策支援を強く要求している。",
+                "電池供給の域内自立を目指すEUの産業政策が裏目に出ており、2028年には最大300万台分の電池不足が予測される深刻な供給構造の問題がある。",
+                "販売実績の悪化や排出削減目標の未達リスクに直面し、メーカー各社は「欧州産業基盤の維持」を盾に、保護貿易的措置を含む再編圧力を強めている。"
+            ],
+            "insight": "欧州自動車産業は、自ら招いた電池供給の「自立のパラドックス」により、中国への依存を断ち切れないまま構造的な競争力低下に直面している。政策支援を求める声は、単なる保護主義への逃避ではなく、高コスト構造の域内生産維持と排出規制の両立という『不可能なトライアングル』に陥った現状の苦しい吐露と言える。"
         }
     }
 ]
