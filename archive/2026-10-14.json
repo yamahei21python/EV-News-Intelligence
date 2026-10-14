@@ -1,0 +1,99 @@
+[
+    {
+        "topic_name": "ホンダと大成建設によるEV走行中無線給電の共同開発",
+        "article_ids": [
+            653683,
+            699368,
+            738263
+        ],
+        "articles": [
+            {
+                "id": 653683,
+                "title": "時速120kmで走るEVに給電、高速道で実証へ 大成建設とホンダ系 - 日経クロステック",
+                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WRThkaFlyTkc5MjQtbjhGZ0ExeWJZOXNiNDhtTC1uSWhaeWYyaGhrTWRwNUJ2ZThhOWtodGFkd2h3SFV1RDdsX3pXQk1yajNCTjBqaG81TUpBOWNUamYxa2dPSkNTZk0?oc=5",
+                "published": "Mon, 12 Oct 2026 20:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WRThkaFlyTkc5MjQtbjhGZ0ExeWJZOXNiNDhtTC1uSWhaeWYyaGhrTWRwNUJ2ZThhOWtodGFkd2h3SFV1RDdsX3pXQk1yajNCTjBqaG81TUpBOWNUamYxa2dPSkNTZk0?oc=5\" target=\"_blank\">時速120kmで走るEVに給電、高速道で実証へ 大成建設とホンダ系</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経クロステック</font>",
+                "site_name": "日経クロステック",
+                "primary_category": "Technology",
+                "reason": "走行中給電技術の共同開発。技術的意義が高い。",
+                "score": 80,
+                "is_highly_important": true
+            },
+            {
+                "id": 699368,
+                "title": "ホンダがEVへの走行中無線給電の実現に向けて、大型商用車にも対応する基盤技術を大成建設と共同開発 - carview!",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONF9Xck1pTmRpRi1SYks3R2lydGZHV0s1SG8zUXpFWmplN3M5UFZDQ2tNclVqZjdfNW5XS1ZIemtwQ3hGMzV6cTM1VlJxYS1VeTZDano3a1BUazlieFVrS0tRZGZRdnhPNWpkU29RZC1VRDRLcE5wSnItQ3BLX0lad3c1dG0zT1k4ZFYxWXlFd0E2c25NaEdj?oc=5",
+                "published": "Tue, 13 Oct 2026 04:00:57 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxONF9Xck1pTmRpRi1SYks3R2lydGZHV0s1SG8zUXpFWmplN3M5UFZDQ2tNclVqZjdfNW5XS1ZIemtwQ3hGMzV6cTM1VlJxYS1VeTZDano3a1BUazlieFVrS0tRZGZRdnhPNWpkU29RZC1VRDRLcE5wSnItQ3BLX0lad3c1dG0zT1k4ZFYxWXlFd0E2c25NaEdj?oc=5\" target=\"_blank\">ホンダがEVへの走行中無線給電の実現に向けて、大型商用車にも対応する基盤技術を大成建設と共同開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carview!</font>",
+                "site_name": "carview!",
+                "primary_category": "Technology",
+                "reason": "走行中給電の技術開発。",
+                "score": 80,
+                "is_highly_important": true
+            },
+            {
+                "id": 738263,
+                "title": "走行中EVに道路から給電 ホンダと大成建設が共同開発：ニュース - 中日BIZナビ",
+                "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBMjNmZ1lZUjRMOUxjZHN6cnJCS05ORUdGNlpIZmc3ekk2SmFkTUhJa25GUmNjTllsMklTcFlRcXlDU0JvSGZFNnVOTGFhVGhtS0lib3pJTWwxd3hVbk5iaEZMOA?oc=5",
+                "published": "Mon, 12 Oct 2026 20:36:06 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBMjNmZ1lZUjRMOUxjZHN6cnJCS05ORUdGNlpIZmc3ekk2SmFkTUhJa25GUmNjTllsMklTcFlRcXlDU0JvSGZFNnVOTGFhVGhtS0lib3pJTWwxd3hVbk5iaEZMOA?oc=5\" target=\"_blank\">走行中EVに道路から給電 ホンダと大成建設が共同開発：ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中日BIZナビ</font>",
+                "site_name": "中日BIZナビ",
+                "primary_category": "Technology",
+                "reason": "ホンダと大成建設の給電技術開発。",
+                "score": 80,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "ホンダと大成建設グループが走行中無線給電の基盤技術を確立、舗装埋設型給電ユニットの耐久性を実証済み",
+                "2027年度以降に館山自動車道での公道実証実験を予定、大型商用車を含む実運用を見据えた設計",
+                "EVの課題である充電待ちや航続距離の制約をインフラ側で解決する、モビリティ社会の次世代ソリューション"
+            ],
+            "insight": "本件の核心は、無線給電が単なる車載技術から『社会インフラ』へ昇華した点にある。特に土木大手の参画で舗装の耐久性課題をクリアしたことは大きい。EVのボトルネックはバッテリー重量と充電時間だが、走行中給電はこれを無力化できる。商用車起点での導入は費用対効果も高く、将来的な『スマートハイウェイ』の礎となる重要技術だ。"
+        }
+    },
+    {
+        "topic_name": "タイ首相と岸田元首相の会談におけるEV生産の協議",
+        "article_ids": [
+            19687,
+            839151
+        ],
+        "articles": [
+            {
+                "id": 19687,
+                "title": "岸田元首相と会談、ＥＶ生産で日本に期待示す - NNAアジア",
+                "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9JbDF0aXNnT2xxN3FJYnZ5WWFKeUlLM2RrMlA4d0djSFQ0dFpxMTMteVVUSFBvRGxOZGNNeEJkWXg2b05oTEE?oc=5",
+                "published": "Tue, 13 Oct 2026 15:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE9JbDF0aXNnT2xxN3FJYnZ5WWFKeUlLM2RrMlA4d0djSFQ0dFpxMTMteVVUSFBvRGxOZGNNeEJkWXg2b05oTEE?oc=5\" target=\"_blank\">岸田元首相と会談、ＥＶ生産で日本に期待示す</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NNAアジア</font>",
+                "site_name": "NNAアジア",
+                "primary_category": "Policy",
+                "reason": "外交レベルのEV生産協力依頼。",
+                "score": 70,
+                "is_highly_important": true
+            },
+            {
+                "id": 839151,
+                "title": "タイ首相が岸田元首相と会談 EV生産で日系メーカーにタイ活用呼び掛け - newsclip.be",
+                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kWHZKWXpGVzdHM0Mxay05bmJPaWEyMHd5RmdpU0o0UGxWeGlrb2tkYW5VVlFKdXBOZnNhZ0VqN0lPVmhPWjJZaEtMRXFZSmNELWNieXREZkd5STdGbEE?oc=5",
+                "published": "Tue, 13 Oct 2026 04:44:59 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kWHZKWXpGVzdHM0Mxay05bmJPaWEyMHd5RmdpU0o0UGxWeGlrb2tkYW5VVlFKdXBOZnNhZ0VqN0lPVmhPWjJZaEtMRXFZSmNELWNieXREZkd5STdGbEE?oc=5\" target=\"_blank\">タイ首相が岸田元首相と会談 EV生産で日系メーカーにタイ活用呼び掛け</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newsclip.be</font>",
+                "site_name": "newsclip.be",
+                "primary_category": "Policy",
+                "reason": "外交上のEV生産協力依頼。",
+                "score": 70,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "タイ政府が中国製EV流入による国内生産拠点への影響を警戒",
+                "既存のエンジン車産業の基盤維持とEV移行の両立を最優先課題化",
+                "日系自動車メーカーに対し、サプライチェーン活用と技術移転を強く要請"
+            ],
+            "insight": "タイは「東洋のデトロイト」の死守に必死だ。中国勢の席巻で国内産業の空洞化が進む中、タイ政府は日系を単なる生産拠点ではなく、技術転移を伴うサプライチェーンの要として引き留めようとしている。日本側にとってタイは最重要市場だが、EVシフトにおける既存資産の延命と転換のバランスをどう描くか、極めて高度な経営判断が求められる局面にある。"
+        }
+    }
+]
