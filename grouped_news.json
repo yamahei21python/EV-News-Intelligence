@@ -1,0 +1,30 @@
+[
+    {
+        "topic_name": "EUのEV優遇策における日本製除外への日本政府の抗議",
+        "article_ids": [
+            71206,
+            872684,
+            678286,
+            355443
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "三菱電機と鴻海（Foxconn）のEV駆動装置事業における提携",
+        "article_ids": [
+            114253,
+            7599,
+            102170,
+            962201
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "VWと小鵬汽車（シャオペン）の共同開発EVの販売不振",
+        "article_ids": [
+            188402,
+            456046
+        ],
+        "is_grouped": true
+    }
+]

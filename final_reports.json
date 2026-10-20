@@ -1,63 +1,91 @@
 [
     {
-        "topic_name": "三菱電機と鴻海のEV事業協業および合弁会社設立",
+        "topic_name": "EUのEV優遇策における日本製除外への日本政府の抗議",
         "article_ids": [
-            485633,
-            676779,
-            604074,
-            787729,
-            7599,
-            102170,
-            962201,
-            663355
+            71206,
+            872684,
+            678286,
+            355443
         ],
         "articles": [
             {
-                "id": 485633,
-                "title": "三菱電機と鴻海が協業 日本発EVプラットフォーム確立へ：三菱電機モビリティ株50％譲渡（1/2 ページ） - EE Times Japan",
-                "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsaDhZLUZqWTFTMzhXQXQ5R2lVaE5Cb2xiWWdraGlRSUpxT0M3Y1JTMHQ5QUZZZHVMaTRHMjFTdXo0MnFBNHBXb0ZnbWlIaWVKSmtMY3B3WDMwZVo5cVJ1SElfaWVpN0FiRkVZNTJrTQ?oc=5",
-                "published": "Mon, 19 Oct 2026 11:30:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBsaDhZLUZqWTFTMzhXQXQ5R2lVaE5Cb2xiWWdraGlRSUpxT0M3Y1JTMHQ5QUZZZHVMaTRHMjFTdXo0MnFBNHBXb0ZnbWlIaWVKSmtMY3B3WDMwZVo5cVJ1SElfaWVpN0FiRkVZNTJrTQ?oc=5\" target=\"_blank\">三菱電機と鴻海が協業 日本発EVプラットフォーム確立へ：三菱電機モビリティ株50％譲渡（1/2 ページ）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EE Times Japan</font>",
-                "site_name": "EE Times Japan",
-                "primary_category": "Strategic Partnership",
-                "reason": "三菱電機と鴻海の大型提携。EVプラットフォーム構築の動きは重要。",
+                "id": 71206,
+                "title": "赤沢経産相、EUのEV優遇策で日本除外を懸念－同等扱い要求へ - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DVHBudjc3M05VRS1mUHNDT2FBaW9pVVUtd05LenB4SmNnRHNsdlFsUFFidWtYSWdISHRKTTB2ODZ1TnlXMDVJRDVRck1sTHdyZDhhVUJHU0IxN09vbjA1SXd0dTFyWXl2cGVaLV9WZVZBSFZjcmZv?oc=5",
+                "published": "Tue, 20 Oct 2026 10:35:49 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1DVHBudjc3M05VRS1mUHNDT2FBaW9pVVUtd05LenB4SmNnRHNsdlFsUFFidWtYSWdISHRKTTB2ODZ1TnlXMDVJRDVRck1sTHdyZDhhVUJHU0IxN09vbjA1SXd0dTFyWXl2cGVaLV9WZVZBSFZjcmZv?oc=5\" target=\"_blank\">赤沢経産相、EUのEV優遇策で日本除外を懸念－同等扱い要求へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+                "site_name": "Bloomberg.com",
+                "primary_category": "Policy & Trade",
+                "reason": "EUのEV優遇策と日本除外問題。通商政策の重要事案。",
                 "score": 90,
                 "is_highly_important": true
             },
             {
-                "id": 676779,
-                "title": "三菱電機、車事業はEV制御に集中 鴻海との日台合弁通じて構造改革 - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43SWVRd05JQUhYVFhNZUpiY3dIQkMzZWxvRzh1aHBmTW9IdmIyMzJ0WWE4ZFIzMEItMTRrWl9XcVVkd0ZHVjA5TXZxV1VOTjRMbllIUWFNaGFLNnNPUk9WSzh0aG5lcWtYelVTMA?oc=5",
-                "published": "Mon, 19 Oct 2026 08:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE43SWVRd05JQUhYVFhNZUpiY3dIQkMzZWxvRzh1aHBmTW9IdmIyMzJ0WWE4ZFIzMEItMTRrWl9XcVVkd0ZHVjA5TXZxV1VOTjRMbllIUWFNaGFLNnNPUk9WSzh0aG5lcWtYelVTMA?oc=5\" target=\"_blank\">三菱電機、車事業はEV制御に集中 鴻海との日台合弁通じて構造改革</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "id": 872684,
+                "title": "EV優遇策で独仏が日本製除外、赤沢経産相が修正要望「強く働きかけ」 - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPMUlCWjhrUTB3eFVBWGxRX1ZvMzNQTFVKUjdvS0tDZmdyaUJmMk9heWppS3NjS2k4WVFZeEFHUkgyQWdvMHY1SEE3b2JrbHgzNEhrd3M3M21hQUdRaGJxbTZmcTNzYTFISnRkdA?oc=5",
+                "published": "Tue, 20 Oct 2026 11:18:16 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBPMUlCWjhrUTB3eFVBWGxRX1ZvMzNQTFVKUjdvS0tDZmdyaUJmMk9heWppS3NjS2k4WVFZeEFHUkgyQWdvMHY1SEE3b2JrbHgzNEhrd3M3M21hQUdRaGJxbTZmcTNzYTFISnRkdA?oc=5\" target=\"_blank\">EV優遇策で独仏が日本製除外、赤沢経産相が修正要望「強く働きかけ」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
                 "site_name": "日本経済新聞",
-                "primary_category": "OEM Strategy",
-                "reason": "三菱電機の事業構造改革と鴻海との連携強化。",
+                "primary_category": "Policy & Trade",
+                "reason": "EU優遇策への政府の対応。サプライチェーンへの影響大。",
+                "score": 90,
+                "is_highly_important": true
+            },
+            {
+                "id": 678286,
+                "title": "欧州検討のＥＶ法案、「目的と手段合わず」 赤沢経産相が苦言（ロイター） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1aXlMNUpkSTJ3c09ZYVNQaWtuM24tdEdCR3plVm5KeE9kZlUwbS1qN0YtVlN0TlNGMzBtUGZrUkFjcE1uaVY1SE9jd2V0YktPSGpySkZzbF9IUDZobGgwZVNuVGZ1Qm5nekdmdEVLVVM0OGpWWGVFV21UMkg1Rnc?oc=5",
+                "published": "Tue, 20 Oct 2026 10:03:07 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB1aXlMNUpkSTJ3c09ZYVNQaWtuM24tdEdCR3plVm5KeE9kZlUwbS1qN0YtVlN0TlNGMzBtUGZrUkFjcE1uaVY1SE9jd2V0YktPSGpySkZzbF9IUDZobGgwZVNuVGZ1Qm5nekdmdEVLVVM0OGpWWGVFV21UMkg1Rnc?oc=5\" target=\"_blank\">欧州検討のＥＶ法案、「目的と手段合わず」 赤沢経産相が苦言（ロイター）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Policy & Trade",
+                "reason": "欧州法案への政府見解。政策動向として重要。",
                 "score": 85,
                 "is_highly_important": true
             },
             {
-                "id": 604074,
-                "title": "三菱電機が子会社株50％譲渡 鴻海と自動車事業を共同運営 EV事業を加速（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4RmxBYUZ5UUl5MEV1cUo4OE5QdlFXcFZJNFpGcE5hekF3aW8ySXE5Sm9PaDF3aGo0RnFSNDZkOEhta2JlS19fSno4UU1ac0c4WUhQS0g3eGRpa0F3OERyZ2JXdlRtWDdfcWJsa21EMUx2dFdBbFZlNmNyYUZBc00?oc=5",
-                "published": "Mon, 19 Oct 2026 10:05:25 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFA4RmxBYUZ5UUl5MEV1cUo4OE5QdlFXcFZJNFpGcE5hekF3aW8ySXE5Sm9PaDF3aGo0RnFSNDZkOEhta2JlS19fSno4UU1ac0c4WUhQS0g3eGRpa0F3OERyZ2JXdlRtWDdfcWJsa21EMUx2dFdBbFZlNmNyYUZBc00?oc=5\" target=\"_blank\">三菱電機が子会社株50％譲渡 鴻海と自動車事業を共同運営 EV事業を加速（TBS NEWS DIG Powered by JNN）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "id": 355443,
+                "title": "赤沢経産大臣「あらゆるレベルでEU側へ懸念を伝達」 独仏の欧州製EVの優遇措置案合意めぐり - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rb2RCOEFkakJfcERvbTJ2OG4tdTNEYXBpbEhwVUlaMF9CVE04SVhWSFcwOWE0YzQ5UGJKd0FRWmNPQWNGNVFZRjl3SGZ4VWQ2NzdxZmx3dGo1bkFYYXZuN3I4bTc3UHZLVkN3RWI5MkMxb1dVOXA1MVo4YzUzYUU?oc=5",
+                "published": "Tue, 20 Oct 2026 13:18:58 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5rb2RCOEFkakJfcERvbTJ2OG4tdTNEYXBpbEhwVUlaMF9CVE04SVhWSFcwOWE0YzQ5UGJKd0FRWmNPQWNGNVFZRjl3SGZ4VWQ2NzdxZmx3dGo1bkFYYXZuN3I4bTc3UHZLVkN3RWI5MkMxb1dVOXA1MVo4YzUzYUU?oc=5\" target=\"_blank\">赤沢経産大臣「あらゆるレベルでEU側へ懸念を伝達」 独仏の欧州製EVの優遇措置案合意めぐり</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
                 "site_name": "Yahoo!ニュース",
-                "primary_category": "OEM Strategy",
-                "reason": "三菱電機・鴻海の合弁報道（ニュースメディア版）。",
-                "score": 80,
+                "primary_category": "Policy & Trade",
+                "reason": "政府の交渉姿勢。通商問題。",
+                "score": 85,
                 "is_highly_important": true
-            },
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "EUのEV優遇策における日本製の除外は、事実上の『グリーン保護主義』であり、市場の公平な競争を著しく阻害するものである。",
+                "赤沢経産相の『目的と手段が合っていない』との苦言は、環境政策を装った産業政策への強い警告であり、WTOルールの観点からも看過できない。",
+                "欧州市場での日本車の販売減少は不可避であり、サプライチェーン再編や現地生産のさらなる加速が、日本メーカーに冷徹に突きつけられた課題である。"
+            ],
+            "insight": "環境保護を錦の御旗に、自国産業の市場優位性を確保しようとする独仏の思惑は明白です。しかし、電動化の本質は『市場の囲い込み』ではなく『グローバルな脱炭素の達成』にあります。この露骨な排他策は、かえって欧州メーカーの競争力を停滞させ、イノベーションを阻害するブーメランとなり得るでしょう。日本は外交的抗議に加え、EVの『車両単体』の優遇から『LCA（ライフサイクルアセスメント）』評価への転換を国際基準として強くロビーすべきです。"
+        }
+    },
+    {
+        "topic_name": "三菱電機と鴻海（Foxconn）のEV駆動装置事業における提携",
+        "article_ids": [
+            114253,
+            7599,
+            102170,
+            962201
+        ],
+        "articles": [
             {
-                "id": 787729,
-                "title": "三菱電機・鴻海の車載合弁、2030年度に売上高1兆円へ EVソフトで攻勢 - BigGo ファイナンス",
-                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vOFBrMUhjSXRtWVhNQlI0cGVhXzhZQUZEZlBiV2ZIU3dsVmdRTEpQTWluNDFNVWtsa1R0TDViMWZ5aVVFV01kMGVpUnpnbURRVmxzYmdkT1k3OWFiQUtUeVZtTDctcHJjeDZCSXBqQTFKNXJX?oc=5",
-                "published": "Mon, 19 Oct 2026 09:05:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9vOFBrMUhjSXRtWVhNQlI0cGVhXzhZQUZEZlBiV2ZIU3dsVmdRTEpQTWluNDFNVWtsa1R0TDViMWZ5aVVFV01kMGVpUnpnbURRVmxzYmdkT1k3OWFiQUtUeVZtTDctcHJjeDZCSXBqQTFKNXJX?oc=5\" target=\"_blank\">三菱電機・鴻海の車載合弁、2030年度に売上高1兆円へ EVソフトで攻勢</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+                "id": 114253,
+                "title": "三菱電機とFoxconn、EV駆動装置の合弁会社設立へ…9,600億ウォンで株式の半数を取得 - BigGo ファイナンス",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aVlY2QTlOYkFINk1wY2czdmNsWFRVdEppc08wNGg2bWZRYU9nckpBOE51cXEtd1BnYnRBYTlWTDFSTXdSQ2FINGFpbVdHYWVJM21QNEdoRV9XRHdFVzZFanRPSk9CanE1bnBpM2d6OUpqVGdD?oc=5",
+                "published": "Tue, 20 Oct 2026 08:08:36 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9aVlY2QTlOYkFINk1wY2czdmNsWFRVdEppc08wNGg2bWZRYU9nckpBOE51cXEtd1BnYnRBYTlWTDFSTXdSQ2FINGFpbVdHYWVJM21QNEdoRV9XRHdFVzZFanRPSk9CanE1bnBpM2d6OUpqVGdD?oc=5\" target=\"_blank\">三菱電機とFoxconn、EV駆動装置の合弁会社設立へ…9,600億ウォンで株式の半数を取得</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
                 "site_name": "BigGo ファイナンス",
-                "primary_category": "Financials",
-                "reason": "合弁会社の売上目標、具体的な事業計画。",
-                "score": 75,
+                "primary_category": "Supply Chain",
+                "reason": "大手メーカー間の合弁設立。産業構造に影響。",
+                "score": 85,
                 "is_highly_important": true
             },
             {
@@ -67,9 +95,9 @@
                 "published": "Mon, 19 Oct 2026 20:00:00 GMT",
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0ZzRIclBVT2xTNGRSSmxoWVhtbmlJVWRBbFE4d0RaS2kyQ1FXQmZITlZ1Qks0cGhILUozVkNMRVh3eEdfcTczbTVQRkNHVWtZUFhDWERwelVsRWZ5?oc=5\" target=\"_blank\">三菱電機子会社に鴻海出資 ＥＶや自動運転で協業へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
                 "site_name": "朝日新聞",
-                "primary_category": "Strategic Partnership",
-                "reason": "三菱電機と鴻海の合弁提携（朝日新聞版）。",
-                "score": 80,
+                "primary_category": "Supply Chain",
+                "reason": "三菱電機・鴻海提携の詳報。業界重要案件。",
+                "score": 85,
                 "is_highly_important": true
             },
             {
@@ -79,9 +107,9 @@
                 "published": "Mon, 19 Oct 2026 21:04:58 GMT",
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fVWx1eEtlNnBnOXVBdmJocFo2N3ZXQzlmeFpuRHdKRE9Id3ltUUQ3ODFDRjZaYXNsV0ZtOUYtdUlSUzVsZ3FVNTF6U2o3aGUyS3VXTXpXRQ?oc=5\" target=\"_blank\">三菱電機、鴻海とＥＶ共同運営へ契約／日本発基盤を提供 –</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">電気新聞ウェブサイト</font>",
                 "site_name": "電気新聞ウェブサイト",
-                "primary_category": "Strategic Partnership",
-                "reason": "三菱電機と鴻海の共同運営契約詳細。",
-                "score": 80,
+                "primary_category": "Supply Chain",
+                "reason": "三菱電機・鴻海提携の詳細。戦略的提携のため重要。",
+                "score": 85,
                 "is_highly_important": true
             },
             {
@@ -91,200 +119,62 @@
                 "published": "Mon, 19 Oct 2026 20:00:00 GMT",
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE8wUjVka0FmSTBCbWVmeXNEWi15OW4wRnFTb3k1X1dva0dKeFBYUTc1WC1tT2tZcGczZEFLZ1BhUVVkbnhuN00yUWwtRzIwbkk5bmRmejV2dlZfaXlJUmZUZk56dHhHZ2JsYXNUZFI3XzhCYTFmZ0pYcV9qdG1mc1k?oc=5\" target=\"_blank\">鴻海､三菱電機子会社に1150億円出資 日台でEVユニット</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
                 "site_name": "日本経済新聞",
-                "primary_category": "Strategic Partnership",
-                "reason": "鴻海による巨額出資とEVユニット事業の明確化。",
-                "score": 90,
-                "is_highly_important": true
-            },
-            {
-                "id": 663355,
-                "title": "EV開発加速へ 三菱電機と鴻海 車機器で提携 - テレ東BIZ",
-                "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzandYMVJpbHo4OXBWOEp6Zm13emFjUjY0VVNEMGNyeFBOTkIweEtCSnlsZkNjUGU4bnF1aDRGaUxMdXdEV2h1aFFHSTRDcDFhcUNiTXBjb3JmRWhmeUdZ?oc=5",
-                "published": "Mon, 19 Oct 2026 13:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzandYMVJpbHo4OXBWOEp6Zm13emFjUjY0VVNEMGNyeFBOTkIweEtCSnlsZkNjUGU4bnF1aDRGaUxMdXdEV2h1aFFHSTRDcDFhcUNiTXBjb3JmRWhmeUdZ?oc=5\" target=\"_blank\">EV開発加速へ 三菱電機と鴻海 車機器で提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">テレ東BIZ</font>",
-                "site_name": "テレ東BIZ",
-                "primary_category": "Strategic Partnership",
-                "reason": "三菱電機と鴻海の提携概要。",
-                "score": 80,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "三菱電機は自動車機器子会社『三菱電機モビリティ』の株式50%を鴻海精密工業へ1,150億円で譲渡し、共同運営を開始",
-                "三菱電機の電子制御技術・パワー半導体と、鴻海の圧倒的な製造スピード・開発リソースを融合し、EVプラットフォームの確立を目指す",
-                "合弁会社は2030年度に売上高1兆円超を目標に掲げ、将来的には独立上場（IPO）も視野に入れたグローバルEV戦略を推進"
-            ],
-            "insight": "日本の自動車部品サプライヤーが陥っていた『技術はあるが開発速度が遅い』というジレンマを、鴻海のスピードと資本で解決しようとする野心的な構造改革です。ハードウェアとソフトウェアを統合するSDV化が加速する中、老舗電機メーカーの重厚な技術力を鴻海のEMS的な開発力でテコ入れし、中国EV勢の価格競争力と速度に対抗する『日台連合』の最適解と言えます。"
-        }
-    },
-    {
-        "topic_name": "独仏の日本製EV排除に対する日本政府の対応",
-        "article_ids": [
-            146530,
-            341649
-        ],
-        "articles": [
-            {
-                "id": 146530,
-                "title": "独仏の日本製EV除外、官房長官「動向注視し公平な競争確保に対応」 - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83OEtPSW45dVhLUWE2Q0dDUm9zYnhTLTVhUjVManVLajJhcHJBNnVYUzVCR1JYSXdnRko0QXl6Y0UyN1dGNlViMXN6WWhCU01peUZVbEhWLVFYREZVbnBEOURIdjFIMXQySGxnNw?oc=5",
-                "published": "Mon, 19 Oct 2026 04:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE83OEtPSW45dVhLUWE2Q0dDUm9zYnhTLTVhUjVManVLajJhcHJBNnVYUzVCR1JYSXdnRko0QXl6Y0UyN1dGNlViMXN6WWhCU01peUZVbEhWLVFYREZVbnBEOURIdjFIMXQySGxnNw?oc=5\" target=\"_blank\">独仏の日本製EV除外、官房長官「動向注視し公平な競争確保に対応」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-                "site_name": "日本経済新聞",
-                "primary_category": "Policy",
-                "reason": "政府レベルの通商・公平競争に関する重要な公式見解。",
-                "score": 85,
-                "is_highly_important": true
-            },
-            {
-                "id": 341649,
-                "title": "欧州検討のＥＶ法案、日本企業の公平な競争確保へ対応＝官房長官 (ロイター) - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT2M5MDJWeHNKMVdNNnlxSlJJS21LbzI2LVV1ZWtBeDhMQTVEUVI1SkFWZmxzOVFIbG0zX0o4VXYyNTNIbUFlSDUzZjJrMl9sdmdXNDlZYnVOZjRWdDBjeVoxUGhBSmNSLVVoQ3A1S0tzZDYwTFFyN1RxQWxhdFhBTnBJSXNwUGNJM3FvX2pR?oc=5",
-                "published": "Mon, 19 Oct 2026 03:17:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQT2M5MDJWeHNKMVdNNnlxSlJJS21LbzI2LVV1ZWtBeDhMQTVEUVI1SkFWZmxzOVFIbG0zX0o4VXYyNTNIbUFlSDUzZjJrMl9sdmdXNDlZYnVOZjRWdDBjeVoxUGhBSmNSLVVoQ3A1S0tzZDYwTFFyN1RxQWxhdFhBTnBJSXNwUGNJM3FvX2pR?oc=5\" target=\"_blank\">欧州検討のＥＶ法案、日本企業の公平な競争確保へ対応＝官房長官 (ロイター)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-                "site_name": "Yahoo!ニュース",
-                "primary_category": "Policy",
-                "reason": "政府による公平競争確保への対応方針。",
-                "score": 85,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "独仏が主導する欧州製EV優遇策に対し、日本政府が『日本産EVをEU製と同等に扱うべき』と公的に反論を開始",
-                "木原官房長官が公平な競争環境の確保を強調し、市場アクセス制限に対する強い懸念を表明",
-                "EU側の保護主義的動きが、日本企業の競争力を削ぐ非関税障壁として機能するリスクが顕在化"
-            ],
-            "insight": "EUによる露骨な『EV排他主義』は、域内産業の競争力低下に対する焦りの裏返しです。日本政府の『同等扱い』要求は、WTOルールに基づいた正当な防衛ですが、もはや交渉は経済論理を超えた政治闘争のフェーズです。日本は単なる反論に留まらず、欧州現地生産網やサプライチェーンの依存度をカードに、報復関税も辞さない『タフな外交』へ舵を切る必要があります。"
-        }
-    },
-    {
-        "topic_name": "EVバスのパンタグラフ式急速充電実証実験",
-        "article_ids": [
-            949002,
-            673425
-        ],
-        "articles": [
-            {
-                "id": 949002,
-                "title": "EVバスにパンタグラフ＋東芝SCiBで充電時間が10分に 公道で実証開始 - 環境ビジネスオンライン",
-                "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01aV9VVlZBTlVKMU5uUzE3aWYxbl9YUWxWOXhLRFV3c3hRMHlRdWtSWGR0bXhBaW9YVWFnZEp2SmpXcXEyRXNJRDJfYW5pZnd5YThxZ1FOZjNBdHdZd1dpa0RaMVRJUmJrRm1tNFZucGhGQTE5bEJ5blRlNmY?oc=5",
-                "published": "Mon, 19 Oct 2026 05:47:01 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE01aV9VVlZBTlVKMU5uUzE3aWYxbl9YUWxWOXhLRFV3c3hRMHlRdWtSWGR0bXhBaW9YVWFnZEp2SmpXcXEyRXNJRDJfYW5pZnd5YThxZ1FOZjNBdHdZd1dpa0RaMVRJUmJrRm1tNFZucGhGQTE5bEJ5blRlNmY?oc=5\" target=\"_blank\">EVバスにパンタグラフ＋東芝SCiBで充電時間が10分に 公道で実証開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">環境ビジネスオンライン</font>",
-                "site_name": "環境ビジネスオンライン",
-                "primary_category": "Infrastructure",
-                "reason": "充電時間短縮技術の実証はEV利便性の鍵。",
-                "score": 65,
-                "is_highly_important": true
-            },
-            {
-                "id": 673425,
-                "title": "「パンタグラフ式」10分で充電…EVバス、国内初の商業運行へ（ニュースイッチ） - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pdzUwbjJnS1ZfelN2cjZZTVhOUU1lNjU1S3hBd21ORDVxdjhJY1UtN2lHak1SUW1PWTlLeW5iTkduYkJnQVh2NURRUVY4V2NBajJ4Z2h4Q1BlOTZOY0lNcGhRV3U5TkI5R2JhWXdyaUpaSTVIdjRQWUNxOC1INUE?oc=5",
-                "published": "Mon, 19 Oct 2026 00:40:02 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5pdzUwbjJnS1ZfelN2cjZZTVhOUU1lNjU1S3hBd21ORDVxdjhJY1UtN2lHak1SUW1PWTlLeW5iTkduYkJnQVh2NURRUVY4V2NBajJ4Z2h4Q1BlOTZOY0lNcGhRV3U5TkI5R2JhWXdyaUpaSTVIdjRQWUNxOC1INUE?oc=5\" target=\"_blank\">「パンタグラフ式」10分で充電…EVバス、国内初の商業運行へ（ニュースイッチ）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-                "site_name": "Yahoo!ニュース",
-                "primary_category": "Infrastructure",
-                "reason": "パンタグラフ充電の商業運行開始。EVバスの利便性向上。",
-                "score": 60,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "東芝製SCiB電池とパンタグラフ式急速充電の組み合わせにより、EVバスの充電時間を10分まで短縮",
-                "既存ディーゼル車のレトロフィット改造による導入で、車両コストを抑えつつEV化を実現",
-                "営業所での継ぎ足し充電により、バスのバッテリー容量を最適化し、長時間の連続運行が可能に"
-            ],
-            "insight": "EVバス普及の最大のボトルネックである「充電時間」と「バッテリー重量」に対し、運行効率を最大化する実用解を提示した。車載電池を小型化し、高出力の短時間補充電で運用するモデルは、欧州の標準（OppCharge）に近いアプローチだ。このレトロフィット方式が成功すれば、既存車両の資産価値を活かした現実的な脱炭素シナリオとして、地方・民間バス事業者への波及効果は極めて大きい。"
-        }
-    },
-    {
-        "topic_name": "BYD日本での苦戦と現状",
-        "article_ids": [
-            986058,
-            402930
-        ],
-        "articles": [
-            {
-                "id": 986058,
-                "title": "BYDの軽EV「ラッコ」、受注2000台超す 発売から約2カ月半で - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmenVyQlpicDd6UFhaTjI4dG5wV0Y4RnViQy03bk1WVUltZVFCR0FtSFRmSGdNZ0NJTk1yajBpbXF4aWhVcUgxbjJHWml1ankxWEJma1BuWC1nSFZDbjM3LW5XSTdlVWVzNW9lNQ?oc=5",
-                "published": "Mon, 19 Oct 2026 09:41:31 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBmenVyQlpicDd6UFhaTjI4dG5wV0Y4RnViQy03bk1WVUltZVFCR0FtSFRmSGdNZ0NJTk1yajBpbXF4aWhVcUgxbjJHWml1ankxWEJma1BuWC1nSFZDbjM3LW5XSTdlVWVzNW9lNQ?oc=5\" target=\"_blank\">BYDの軽EV「ラッコ」、受注2000台超す 発売から約2カ月半で</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-                "site_name": "日本経済新聞",
-                "primary_category": "Market Data",
-                "reason": "BYDの日本市場での普及状況を示す重要指標。",
-                "score": 75,
-                "is_highly_important": true
-            },
-            {
-                "id": 402930,
-                "title": "トヨタ超えの野望に暗礁！ 中国BYDが陥った「日本市場分析ゼロ」の失態 - Infoseek",
-                "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DeFkwVEZiUzdLOC1TZ1ItUHZtWWlRYjVIMHQ1QnpwN091elNUMXJMSExvZ2pMaU5vZGlSaWhuSTdQX3JaSGo0enlnaUFxUXViaGxtTXREcHB5X2dMT0xjWmRQaVhLSERtZnpOOVVn0gFuQVVfeXFMTUN4WTBURmJTN0s4LVNnUi1Qdm1ZaVFiNUgwdDVCenA3T3V6U1QxckxITG9nakxpTm9kaVJpaG5JN1BfclpIajR6eWdpQXFRdWJobG1NdERwcHlfZ0xPTGNaZFBpWEtIRG1mek45VWc?oc=5",
-                "published": "Mon, 19 Oct 2026 23:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1DeFkwVEZiUzdLOC1TZ1ItUHZtWWlRYjVIMHQ1QnpwN091elNUMXJMSExvZ2pMaU5vZGlSaWhuSTdQX3JaSGo0enlnaUFxUXViaGxtTXREcHB5X2dMT0xjWmRQaVhLSERtZnpOOVVn0gFuQVVfeXFMTUN4WTBURmJTN0s4LVNnUi1Qdm1ZaVFiNUgwdDVCenA3T3V6U1QxckxITG9nakxpTm9kaVJpaG5JN1BfclpIajR6eWdpQXFRdWJobG1NdERwcHlfZ0xPTGNaZFBpWEtIRG1mek45VWc?oc=5\" target=\"_blank\">トヨタ超えの野望に暗礁！ 中国BYDが陥った「日本市場分析ゼロ」の失態</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
-                "site_name": "Infoseek",
-                "primary_category": "Market Data",
-                "reason": "日本市場進出における中国メーカーの失敗分析。",
-                "score": 65,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "軽EV「ラッコ」は発売約2カ月半で受注2000台を超え、BYDの日本国内では過去最速のペースを記録。",
-                "受注の8割が最上位グレードに集中しており、単なる価格訴求だけでなく、装備の充実度に対する評価が一定数存在する。",
-                "しかし、年内目標の1万台に対しては計画乖離が大きく、強固な既存ディーラー網やアフターサービスを重視する日本市場の厚い壁が依然として高い。"
-            ],
-            "insight": "「ラッコ」の受注速度はBYDの日本適応能力の向上を示唆するが、年間1万台という大台には程遠い。問題の本質は『ハードウェアの競争力』と『日本の軽自動車が提供する安心の総量』の乖離にある。充電インフラやリセールバリューを気にする層に対し、単なる中国製EVという括りを超えて、スズキ等の国産勢が支配する「生活インフラ」としての信頼を勝ち取れるか。この壁はスペック競争以上に、整備網の持続可能性とブランドの定着という、長期的な“信頼の積み上げコスト”が試されている。"
-        }
-    },
-    {
-        "topic_name": "リープモーターのタイ事業と技術動向",
-        "article_ids": [
-            837970,
-            185809
-        ],
-        "articles": [
-            {
-                "id": 837970,
-                "title": "中国EVメーカーのリープモーター、タイ事業を直轄運営 現地生産も検討 - 電波新聞デジタル",
-                "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TRm1mblRYc3c5c2VybDZEY3laamMwamxvbkFtYUhocnhUZW5HM1ppUTVFN1FOWnZyU3c4b3kxeXM1Y1lTeExGU0FkOFJISUpYMlE?oc=5",
-                "published": "Mon, 19 Oct 2026 07:43:51 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TRm1mblRYc3c5c2VybDZEY3laamMwamxvbkFtYUhocnhUZW5HM1ppUTVFN1FOWnZyU3c4b3kxeXM1Y1lTeExGU0FkOFJISUpYMlE?oc=5\" target=\"_blank\">中国EVメーカーのリープモーター、タイ事業を直轄運営 現地生産も検討</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">電波新聞デジタル</font>",
-                "site_name": "電波新聞デジタル",
                 "primary_category": "Supply Chain",
-                "reason": "中国新興メーカーによるグローバル生産拠点の戦略的展開。",
+                "reason": "三菱電機・鴻海の合弁設立のニュース。",
+                "score": 85,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "三菱電機モビリティの株式50%を鴻海(Foxconn)が取得し、折半出資の合弁会社化（2027年10月完了予定）",
+                "モーター・インバーター・ソフトを統合した電動駆動ユニット(EDU)の共同開発による競争力強化",
+                "三菱電機のパワー半導体・制御技術と鴻海の開発スピードを融合し、中国勢に対抗するサプライチェーンを構築"
+            ],
+            "insight": "本提携は、単なる部品供給を超えた『日本の信頼性×台湾のEMSモデル』の融合です。三菱電機は高付加価値化による収益構造改善を狙い、鴻海はZFとの協業に続き、日本メーカーの門戸を叩くことでEV受託生産の顧客基盤を盤石化させました。特に「開発期間の短縮」が鍵であり、欧州勢のリストラを尻目に、日台連合が車載ソフトウェア領域でどこまで俊敏性を発揮できるかが勝負です。"
+        }
+    },
+    {
+        "topic_name": "VWと小鵬汽車（シャオペン）の共同開発EVの販売不振",
+        "article_ids": [
+            188402,
+            456046
+        ],
+        "articles": [
+            {
+                "id": 188402,
+                "title": "VW中国再建の誤算、シャオペン共同開発EV「ID. UNYX 08」月販267台止まり - BigGo ファイナンス",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zZ3paWDdpbFRXMWtITlFFUVJCTEtpNnBtUXFEazBzTVpmVFlLTS15eEhob19VQzRHV1ZmeXBOVmZJbUwxT2pMMWJjMEM4NFVaalpGdEFkY0tvejlxRVdCbUM3Q19QcmhZY2FVRU9RNlIydmc2?oc=5",
+                "published": "Tue, 20 Oct 2026 07:08:42 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9zZ3paWDdpbFRXMWtITlFFUVJCTEtpNnBtUXFEazBzTVpmVFlLTS15eEhob19VQzRHV1ZmeXBOVmZJbUwxT2pMMWJjMEM4NFVaalpGdEFkY0tvejlxRVdCbUM3Q19QcmhZY2FVRU9RNlIydmc2?oc=5\" target=\"_blank\">VW中国再建の誤算、シャオペン共同開発EV「ID. UNYX 08」月販267台止まり</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+                "site_name": "BigGo ファイナンス",
+                "primary_category": "Corporate Performance",
+                "reason": "VW中国事業の苦戦。経営戦略上の重要事例。",
                 "score": 70,
                 "is_highly_important": true
             },
             {
-                "id": 185809,
-                "title": "中国EVの熱マネ回路を独自図解、モーター熱で電池加温 HVACはサンデン製 - 日経クロステック",
-                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WY0xEUnN0MnctaTY2VmZiY0VYdU5VaGNBUWo0dTk2U1lOcnp5WFR5RmRLUEhLNzF5c3haM180M1ZHYy1HWWo2bGp3QnI4UVVOemVNN1g0UmdLYnhoMXF3VG5na0JCN3JtZ2JZMg?oc=5",
-                "published": "Sun, 18 Oct 2026 20:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9WY0xEUnN0MnctaTY2VmZiY0VYdU5VaGNBUWo0dTk2U1lOcnp5WFR5RmRLUEhLNzF5c3haM180M1ZHYy1HWWo2bGp3QnI4UVVOemVNN1g0UmdLYnhoMXF3VG5na0JCN3JtZ2JZMg?oc=5\" target=\"_blank\">中国EVの熱マネ回路を独自図解、モーター熱で電池加温 HVACはサンデン製</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経クロステック</font>",
-                "site_name": "日経クロステック",
-                "primary_category": "Technology",
-                "reason": "競合メーカーの熱マネジメント回路の技術解析。",
-                "score": 75,
+                "id": 456046,
+                "title": "ＶＷ、中国事業復活進まず シャオペンとの共同開発車が販売不振 - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPNFJxOTZvdDctWGVSbWZObER0R0RHd3FoXzk5bVBZZVBlbDljUWxvQU10amxfR1RKY0ZRSndsWEF3TklFMUQteHdjbmcxX0VvNkhBZThOMlp4QzhLQUd5V2l2YWNhWm1UejFvdEhrUjI5eWJTUWh2VDhILVlJQQ?oc=5",
+                "published": "Tue, 20 Oct 2026 05:48:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBPNFJxOTZvdDctWGVSbWZObER0R0RHd3FoXzk5bVBZZVBlbDljUWxvQU10amxfR1RKY0ZRSndsWEF3TklFMUQteHdjbmcxX0VvNkhBZThOMlp4QzhLQUd5V2l2YWNhWm1UejFvdEhrUjI5eWJTUWh2VDhILVlJQQ?oc=5\" target=\"_blank\">ＶＷ、中国事業復活進まず シャオペンとの共同開発車が販売不振</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+                "site_name": "Reuters",
+                "primary_category": "Corporate Performance",
+                "reason": "VW中国事業の不振の詳報。戦略失敗の重要事例。",
+                "score": 70,
                 "is_highly_important": true
             }
         ],
         "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "ステランティスの出資を受けるリープモーターが、タイ市場で代理店販売から直轄運営へシフトし、現地生産も視野に入れている",
-                "分解調査により、リープモーターの車両は高度な熱マネジメントや内製化を駆使し、低コストと高性能を両立させていることが判明した",
-                "自動運転支援技術や熱マネ部品にサンデン製品を採用するなど、国際的なサプライチェーンを戦略的に組み込み、世界戦略車としての競争力を高めている"
+                "VWとシャオペン共同開発「ID. UNYX 08」が販売計画の1割未満と惨敗",
+                "中国市場での競争力不足に加え、独自の小規模販売網構築が消費者の認知を阻害",
+                "VWの中国シェアは5年で半減、かつての高収益源から利益寄与度1割の重荷へ転落"
             ],
-            "insight": "リープモーターのタイ事業直轄化は、単なる販売網再編ではなく、ステランティスのインフラを活用したグローバル展開の試金石である。部品レベルの徹底した内製化と、熱マネジメント等の高付加価値技術を武器に、コスト競争力と車両品質を両立させる姿勢は、先行するBYDに続く第二の衝撃を市場に与える可能性がある。"
+            "insight": "VWの苦境は「技術の外部調達」が万能ではないことを突きつけた。ハードの品質だけでなく、中国EV市場の生死を分けるのはソフトウェアによる体験の差別化と、泥臭い販売網の展開速度だ。VWは「安く売る」ことではなく、「中国ブランドに負けないUXと最新装備」をVWのブランド価値で再定義できなければ、ノキアの轍を踏むリスクが高い。"
         }
     }
 ]
