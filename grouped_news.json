@@ -1,0 +1,76 @@
+[
+    {
+        "topic_name": "2027年1月からのEV補助金減額",
+        "article_ids": [
+            408078,
+            637854,
+            441301
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "在日米軍嘉手納基地でのBYD車乗り入れ禁止",
+        "article_ids": [
+            314182,
+            890551,
+            811419
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "デンソーの走行中無線給電実証",
+        "article_ids": [
+            470265
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "韓国における中国製EVのシェア拡大と税額控除検討",
+        "article_ids": [
+            839929
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "米テスラ2026年7-9月期決算",
+        "article_ids": [
+            99997
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "いすゞの米国新工場におけるガソリン車優先生産",
+        "article_ids": [
+            740429
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "高速道路SA・PAへのNACS規格超急速充電器設置",
+        "article_ids": [
+            782747
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "ジャガーの全車EV化方針",
+        "article_ids": [
+            911021
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "BYDの新型SUV「ATTO 8」発表",
+        "article_ids": [
+            697952
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "日独首脳会談におけるEV優遇策修正要求",
+        "article_ids": [
+            230815
+        ],
+        "is_grouped": false
+    }
+]
