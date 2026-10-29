@@ -1,160 +1,180 @@
 [
     {
-        "topic_name": "中部電力グループEV充電設備助成金不正申請による取り消し",
+        "topic_name": "日独首脳会談における欧州EV優遇策への懸念伝達",
         "article_ids": [
-            17403,
-            625981
+            630268,
+            873903,
+            468221,
+            972288,
+            621431,
+            496198,
+            178748,
+            764841,
+            915771,
+            72591
         ],
         "articles": [
             {
-                "id": 17403,
-                "title": "東京都、中部電系への助成金を取り消し EV充電設備で不適切申請 - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85b2gycHh2Wmdwbjhjd3ExSzZ0N3BEaThzZ0NKQ0VMSHAweFNSbXpwUlBDN0g0VE1md1NHYzdEZVd5NkRuZl9kQkRnZ3FkQ1phUWFXNjduSF80N1ptNTJ1SkVjbExlV0ZzZHRrRg?oc=5",
-                "published": "Tue, 27 Oct 2026 10:45:29 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE85b2gycHh2Wmdwbjhjd3ExSzZ0N3BEaThzZ0NKQ0VMSHAweFNSbXpwUlBDN0g0VE1md1NHYzdEZVd5NkRuZl9kQkRnZ3FkQ1phUWFXNjduSF80N1ptNTJ1SkVjbExlV0ZzZHRrRg?oc=5\" target=\"_blank\">東京都、中部電系への助成金を取り消し EV充電設備で不適切申請</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "id": 630268,
+                "title": "高市早苗首相、メルツ独首相にEV優遇除外の修正要求 強い懸念を伝達 - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5bnNYcW95bEVnWkFpZ2VZZm5ZVXctN2FaMm9ycFJoQTJYZDBCNXdzUVhTV19Za2lwbTdSQ1ZLSzBpVWpVU0p2M0tfdXc5S2RfTXRVNjVfT3NVc3hjNS15TUlYSHRvM2lsRF9iSA?oc=5",
+                "published": "Wed, 28 Oct 2026 11:45:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFB5bnNYcW95bEVnWkFpZ2VZZm5ZVXctN2FaMm9ycFJoQTJYZDBCNXdzUVhTV19Za2lwbTdSQ1ZLSzBpVWpVU0p2M0tfdXc5S2RfTXRVNjVfT3NVc3hjNS15TUlYSHRvM2lsRF9iSA?oc=5\" target=\"_blank\">高市早苗首相、メルツ独首相にEV優遇除外の修正要求 強い懸念を伝達</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
                 "site_name": "日本経済新聞",
-                "primary_category": "Policy/Governance",
-                "reason": "補助金不正申請による助成取消しは行政指導として重要。",
+                "primary_category": "Policy",
+                "reason": "首脳レベルの通商摩擦に関する重要情報のため",
+                "score": 95,
+                "is_highly_important": true
+            },
+            {
+                "id": 873903,
+                "title": "【速報】高市首相、欧州のEV優遇策へ強い懸念伝達 - 47NEWS",
+                "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE41QkwxWEZMUVJId2N1aVlaeE4taWlkZ081Ykl2RDl3MWVWWEZRTkx3N0c3WGJmOTJjZWRiWW40N3dXUnAwV25YMHEwcw?oc=5",
+                "published": "Wed, 28 Oct 2026 13:42:31 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE41QkwxWEZMUVJId2N1aVlaeE4taWlkZ081Ykl2RDl3MWVWWEZRTkx3N0c3WGJmOTJjZWRiWW40N3dXUnAwV25YMHEwcw?oc=5\" target=\"_blank\">【速報】高市首相、欧州のEV優遇策へ強い懸念伝達</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
+                "site_name": "47NEWS",
+                "primary_category": "Policy",
+                "reason": "首脳間のEV優遇策懸念、主要な外交政策ニュース",
+                "score": 90,
+                "is_highly_important": true
+            },
+            {
+                "id": 468221,
+                "title": "日独首脳が会談、戦闘機の共同開発参加にメルツ氏意欲 高市氏はＥＶ問題に強い懸念伝える - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSE1TdW5faVloVHBaOXdGYUxNeUlERWNDbUVEOGNPaWdwVUt2V3FCX1RyRWlOU2h4Z1FaU0U4eU1WVkxpRldyRHNxWkkyakp2MHppTlQxM3pNMUNDQy1JdHpWb1JtWmI0b1pkWHZ4RGQ3UEotRnpJUjNWYktHZVNwYnk5ejVUdUU?oc=5",
+                "published": "Wed, 28 Oct 2026 14:13:49 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOSE1TdW5faVloVHBaOXdGYUxNeUlERWNDbUVEOGNPaWdwVUt2V3FCX1RyRWlOU2h4Z1FaU0U4eU1WVkxpRldyRHNxWkkyakp2MHppTlQxM3pNMUNDQy1JdHpWb1JtWmI0b1pkWHZ4RGQ3UEotRnpJUjNWYktHZVNwYnk5ejVUdUU?oc=5\" target=\"_blank\">日独首脳が会談、戦闘機の共同開発参加にメルツ氏意欲 高市氏はＥＶ問題に強い懸念伝える</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+                "site_name": "Reuters",
+                "primary_category": "Policy",
+                "reason": "首脳会談におけるEV問題の重要性が高い",
+                "score": 92,
+                "is_highly_important": true
+            },
+            {
+                "id": 972288,
+                "title": "独首相、先端技術の協力拡大呼び掛け 経産相は日本製ＥＶで懸念表明（ロイター） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCUE5PeGtEYWdqbEhqUmwzUVlCV244R3ZnZTJDa19MY2RmaGEwbnNVTjgyRjZ6eW52VHlTcUEwdXpROXZNSFVMVHNBLU1mR1o3Zi1mWUFZZFR5dWE1LXlIaFZKdVRDeGFSTVhrT2JHbUY0TkowQmRESFRaUHZoV1E?oc=5",
+                "published": "Wed, 28 Oct 2026 09:05:03 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBCUE5PeGtEYWdqbEhqUmwzUVlCV244R3ZnZTJDa19MY2RmaGEwbnNVTjgyRjZ6eW52VHlTcUEwdXpROXZNSFVMVHNBLU1mR1o3Zi1mWUFZZFR5dWE1LXlIaFZKdVRDeGFSTVhrT2JHbUY0TkowQmRESFRaUHZoV1E?oc=5\" target=\"_blank\">独首相、先端技術の協力拡大呼び掛け 経産相は日本製ＥＶで懸念表明（ロイター）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Policy",
+                "reason": "独日首脳会談のEV懸念表明",
                 "score": 85,
                 "is_highly_important": true
             },
             {
-                "id": 625981,
-                "title": "中部電力Ｇ「ミライズエネチェンジ」子会社２社の助成金取り消し…東京都、ＥＶ充電設備巡り不正申請と判断 - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DVnBlb3pMeC15TkZMUE9IMzNLZFhLNUtiSENtckNydUJ6eHNYNllKT0VRellZTjZ6dFFWVjdJM2VuMHA1NkU5amNNeUYxVUQ4OFdjbnl4MEloNXh2cm5YR0dkVFh1aDJ3UlExaDdkNnBCdkJsMWxMY3YzTFFsUGM?oc=5",
-                "published": "Tue, 27 Oct 2026 09:32:13 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9DVnBlb3pMeC15TkZMUE9IMzNLZFhLNUtiSENtckNydUJ6eHNYNllKT0VRellZTjZ6dFFWVjdJM2VuMHA1NkU5amNNeUYxVUQ4OFdjbnl4MEloNXh2cm5YR0dkVFh1aDJ3UlExaDdkNnBCdkJsMWxMY3YzTFFsUGM?oc=5\" target=\"_blank\">中部電力Ｇ「ミライズエネチェンジ」子会社２社の助成金取り消し…東京都、ＥＶ充電設備巡り不正申請と判断</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-                "site_name": "Yahoo!ニュース",
-                "primary_category": "Policy/Governance",
-                "reason": "同上ニュースの追随報道。重要度は高い。",
-                "score": 75,
+                "id": 72591,
+                "title": "独仏合意の域内EV優遇、修正の壁高く EUでの日本車戦略を左右 - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QU0N6WENtTjdVTF9TdlF2YUN4bVRjSlk2Tl9YcWsxRmk4NHhHekdCdzE3bG9FMmgyRFNJTkYyN2ZLeWMzWE4zc0Z2bHkwcTZoYS1WUXJJVk1vU3FwS21PUUJwNnp2bFpRM04xYg?oc=5",
+                "published": "Wed, 28 Oct 2026 17:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9QU0N6WENtTjdVTF9TdlF2YUN4bVRjSlk2Tl9YcWsxRmk4NHhHekdCdzE3bG9FMmgyRFNJTkYyN2ZLeWMzWE4zc0Z2bHkwcTZoYS1WUXJJVk1vU3FwS21PUUJwNnp2bFpRM04xYg?oc=5\" target=\"_blank\">独仏合意の域内EV優遇、修正の壁高く EUでの日本車戦略を左右</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "site_name": "日本経済新聞",
+                "primary_category": "Policy",
+                "reason": "通商政策の構造的分析、重要",
+                "score": 80,
                 "is_highly_important": true
-            }
-        ],
-        "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "中部電力系「ミライズエネチェンジ」子会社によるEV充電設備助成金の不正申請が発覚",
-                "グループ内取引による利益相当額を控除する義務を免れるため、第三者を介在させる工作を実施",
-                "助成金交付の取り消しおよび不交付が決定、対象は延べ39件、総額4546万円の不正受給を阻止"
-            ],
-            "insight": "インフラ系企業のグループ会社において、コンプライアンスよりも目先の「助成金最大化」という収益至上主義が先行した点は深刻です。民事再生手続き中の苦境下で、本来は経営再建の基盤となるべきEV事業でルールを潜脱するガバナンス不全を露呈しました。これは単なる個社の不正を超え、脱炭素インフラ構築を担う電力業界への信頼を根底から揺るがす構造的な慢心と言えます。"
-        }
-    },
-    {
-        "topic_name": "BYDの日本国内向け軽規格EV「ラッコ」発売",
-        "article_ids": [
-            733145,
-            421985
-        ],
-        "articles": [
+            },
             {
-                "id": 733145,
-                "title": "BYDが軽規格EV「ラッコ」で日本上陸、214万円台からN-BOX市場に挑む - BigGo ファイナンス",
-                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82Tm1HT0xscUhGVk1zaWVVbEpVa2lyNTZBOVdtbk5XVzVFVnptZGJRQk5zbkhBY1JWY0pPdm9KYmN4Sm9KdUoxa0hmUkxrNkJXeWVhWGc3V05TLW9RQTFiamtuV0tJVTRtdEZtQUZodnlkdjZP?oc=5",
-                "published": "Tue, 27 Oct 2026 03:05:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE82Tm1HT0xscUhGVk1zaWVVbEpVa2lyNTZBOVdtbk5XVzVFVnptZGJRQk5zbkhBY1JWY0pPdm9KYmN4Sm9KdUoxa0hmUkxrNkJXeWVhWGc3V05TLW9RQTFiamtuV0tJVTRtdEZtQUZodnlkdjZP?oc=5\" target=\"_blank\">BYDが軽規格EV「ラッコ」で日本上陸、214万円台からN-BOX市場に挑む</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+                "id": 621431,
+                "title": "高市首相、日本製EV排除を警戒－メルツ独首相「改めて協議必要」 - Bloomberg",
+                "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DX3I2c00xemtiU2xkcTJlVEJxOGI0d0NscTVhZUFzREV1UmtrZFBQaDlHbVc4d3Y0cW1YMFZqZHRFQ2ZLSnZERjdUcmVHR19iaGxlOG5sVVRmZElyTnVueFBfdV82QmhOVGpZSjAwc2JlVFVQRlZF?oc=5",
+                "published": "Wed, 28 Oct 2026 16:31:46 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9DX3I2c00xemtiU2xkcTJlVEJxOGI0d0NscTVhZUFzREV1UmtrZFBQaDlHbVc4d3Y0cW1YMFZqZHRFQ2ZLSnZERjdUcmVHR19iaGxlOG5sVVRmZElyTnVueFBfdV82QmhOVGpZSjAwc2JlVFVQRlZF?oc=5\" target=\"_blank\">高市首相、日本製EV排除を警戒－メルツ独首相「改めて協議必要」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+                "site_name": "Bloomberg",
+                "primary_category": "Policy",
+                "reason": "日本製EV排除に関する政治的懸念表明",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 496198,
+                "title": "独メルツ首相 半導体など日独の得意分野で協力拡大呼びかけ 日本からEV巡る懸念も - KAB 熊本朝日放送",
+                "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYSzZvRjhRZUFwLUxyYnpjRVNfc1VfNlNCX1czSFJUVzNDd0VEN1pUNnJRYXRDQ0xWd05fS2pzbHNJVXlZTVFVTndScGg0RF9IY05xTU5R?oc=5",
+                "published": "Thu, 29 Oct 2026 00:19:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYSzZvRjhRZUFwLUxyYnpjRVNfc1VfNlNCX1czSFJUVzNDd0VEN1pUNnJRYXRDQ0xWd05fS2pzbHNJVXlZTVFVTndScGg0RF9IY05xTU5R?oc=5\" target=\"_blank\">独メルツ首相 半導体など日独の得意分野で協力拡大呼びかけ 日本からEV巡る懸念も</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KAB 熊本朝日放送</font>",
+                "site_name": "KAB 熊本朝日放送",
+                "primary_category": "Policy",
+                "reason": "首脳間会合での政策動向",
+                "score": 80,
+                "is_highly_important": true
+            },
+            {
+                "id": 178748,
+                "title": "日本製EV排除に経産相が「強く懸念」、独首相に直接伝達 - BigGo ファイナンス",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WWGZBZG56MDdvTWtnMk9UMmFVcVpxaFJGNGw1enBKcFRuTjBZT3Z4MzVWX1pKSk5qWUZ6SnpKTDNCTW5xWGIwY2pySVJWdWZCaENUaElQNktoejdlQWZNVjZjbUtsMVJ5U0tHSjdmdGY4amxL?oc=5",
+                "published": "Wed, 28 Oct 2026 10:25:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9WWGZBZG56MDdvTWtnMk9UMmFVcVpxaFJGNGw1enBKcFRuTjBZT3Z4MzVWX1pKSk5qWUZ6SnpKTDNCTW5xWGIwY2pySVJWdWZCaENUaElQNktoejdlQWZNVjZjbUtsMVJ5U0tHSjdmdGY4amxL?oc=5\" target=\"_blank\">日本製EV排除に経産相が「強く懸念」、独首相に直接伝達</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
                 "site_name": "BigGo ファイナンス",
-                "primary_category": "Strategy",
-                "reason": "BYDの日本市場本格投入。",
-                "score": 80,
-                "is_highly_important": true
-            },
-            {
-                "id": 421985,
-                "title": "BYDが日本の軽規格に合わせた新型EVラッコを投入、N-BOX勢に挑む (2026年10月27日掲載) - ライブドアニュース",
-                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14Vk9FQzdnTWMyOWVkMi1EemJlX3NsRmU0dlNJdHV2NlA5a0lPd3k5SVBOLWUtSmNMd29rWkdzMkFJWklIU0YzSUN0ZjR1TlZKVVJPWUtiV1E2Q1ZMLWc?oc=5",
-                "published": "Tue, 27 Oct 2026 01:10:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE14Vk9FQzdnTWMyOWVkMi1EemJlX3NsRmU0dlNJdHV2NlA5a0lPd3k5SVBOLWUtSmNMd29rWkdzMkFJWklIU0YzSUN0ZjR1TlZKVVJPWUtiV1E2Q1ZMLWc?oc=5\" target=\"_blank\">BYDが日本の軽規格に合わせた新型EVラッコを投入、N-BOX勢に挑む (2026年10月27日掲載)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ライブドアニュース</font>",
-                "site_name": "ライブドアニュース",
-                "primary_category": "Strategy",
-                "reason": "BYDの市場投入戦略。",
-                "score": 75,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "軽自動車の制約（全幅1475mm）を逆手に取ったパッケージングと、EV特有のフラットなフロアによる居住性・実用性の最大化",
-                "約214万円からの価格設定と、LFP電池による航続距離210km-320kmの実現による軽自動車市場の「脱ガソリン」への圧力",
-                "受注の8割が最上級グレードに集中しており、軽セグメントにおいても『安さ』より『装備の付加価値』を求める層を確実に射抜いている点"
-            ],
-            "insight": "BYDの『ラッコ』は単なる安売り攻勢ではなく、N-BOXで完成された日本のパッケージング作法をEVで最適化した極めて合理的な製品です。特筆すべきは受注の8割が最上級グレードに集中している点。これは軽自動車ユーザーが『EV＝安価な足車』ではなく、『EV＝先進性と高級感』というクラスレスな価値を軽のサイズ感に求めていることを証明しています。国内勢にとって最も恐ろしいのは、価格破壊ではなく、この『日本市場のツボ』を完璧に押さえた商品企画力です。"
-        }
-    },
-    {
-        "topic_name": "ホンダと大成建設による走行中ワイヤレスEV給電の実証実験",
-        "article_ids": [
-            813166,
-            841962
-        ],
-        "articles": [
-            {
-                "id": 813166,
-                "title": "時速120kmの走行中EVに無線給電 大成建設など3社、高速道で実証へ - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvOUhiV2dNWnd4U3ZVbWpranA3M1BveTh4MWd3QjMtMnl0enU1WFB6aWZHeFhNSFVGOVpjaGRTTlRWRnEyWXBYaDhfUVBMTWNUM3U2ZXFaSW1FYWhQamUwdERmZmhJMVgxNXNpdw?oc=5",
-                "published": "Mon, 26 Oct 2026 20:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBvOUhiV2dNWnd4U3ZVbWpranA3M1BveTh4MWd3QjMtMnl0enU1WFB6aWZHeFhNSFVGOVpjaGRTTlRWRnEyWXBYaDhfUVBMTWNUM3U2ZXFaSW1FYWhQamUwdERmZmhJMVgxNXNpdw?oc=5\" target=\"_blank\">時速120kmの走行中EVに無線給電 大成建設など3社、高速道で実証へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-                "site_name": "日本経済新聞",
-                "primary_category": "Technology",
-                "reason": "走行中ワイヤレス給電の技術的進展。",
+                "primary_category": "Policy",
+                "reason": "閣僚による政策懸念表明",
                 "score": 85,
                 "is_highly_important": true
             },
             {
-                "id": 841962,
-                "title": "ホンダと大成建設、走るだけでワイヤレス充電できる無線給電道路システムを開発。大型トラックにも対応した走行中ワイヤレスEV給電の公道実証をまもなく開始（スマートモビリティJP） - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LeklKZGhsMU5NZU9SMHZ6M21DS01IS2U3d0JVVjVwdG4zaUNJVDFUcHVSTkFxc1lQcEtrNXlSXzV1TzJOVENmWmc0dVZ1aUtuS1RyQnlES3hHRHJPODY4WE8wMzFrVmxheTdYZkxBQ0dqd284Tk5KVDF1Y0xza2s?oc=5",
-                "published": "Tue, 27 Oct 2026 08:30:29 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5LeklKZGhsMU5NZU9SMHZ6M21DS01IS2U3d0JVVjVwdG4zaUNJVDFUcHVSTkFxc1lQcEtrNXlSXzV1TzJOVENmWmc0dVZ1aUtuS1RyQnlES3hHRHJPODY4WE8wMzFrVmxheTdYZkxBQ0dqd284Tk5KVDF1Y0xza2s?oc=5\" target=\"_blank\">ホンダと大成建設、走るだけでワイヤレス充電できる無線給電道路システムを開発。大型トラックにも対応した走行中ワイヤレスEV給電の公道実証をまもなく開始（スマートモビリティJP）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-                "site_name": "Yahoo!ニュース",
-                "primary_category": "Technology/Infrastructure",
-                "reason": "ワイヤレス給電のインフラ実証実験。",
-                "score": 80,
+                "id": 764841,
+                "title": "経産大臣「日本車を対象に」 欧州EV優遇策を巡り - テレ東BIZ",
+                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mZVpUZnFQbmEzVGpuTl9oNVBlRDFYQ1lLOFgySmUtWHRZaGp1WUlMTG5lMjB5eWVGajRMclRHOHAwMEpLSFdzdnQ1XzNQLXpyODhKX0tpQ2w2R3dDN2c?oc=5",
+                "published": "Wed, 28 Oct 2026 13:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mZVpUZnFQbmEzVGpuTl9oNVBlRDFYQ1lLOFgySmUtWHRZaGp1WUlMTG5lMjB5eWVGajRMclRHOHAwMEpLSFdzdnQ1XzNQLXpyODhKX0tpQ2w2R3dDN2c?oc=5\" target=\"_blank\">経産大臣「日本車を対象に」 欧州EV優遇策を巡り</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">テレ東BIZ</font>",
+                "site_name": "テレ東BIZ",
+                "primary_category": "Policy",
+                "reason": "経産大臣による政策表明",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 915771,
+                "title": "赤沢経産相、メルツ独首相出席の会合で日本製ＥＶ排除巡る懸念表明 - Infoseek",
+                "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fT05CbTZTcDdzUFg3SFFOamVMYW9idzFkWndwN0VzY3hPdGNJLXFocEkwVk5PWkFXTnYxQTVwV2V6cEVBWDJKTjdoSVVsMVlIdnF6cEx3NzR0WVhibFRkdTlCX1FYREFlOTRrYW13?oc=5",
+                "published": "Wed, 28 Oct 2026 09:05:03 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9fT05CbTZTcDdzUFg3SFFOamVMYW9idzFkWndwN0VzY3hPdGNJLXFocEkwVk5PWkFXTnYxQTVwV2V6cEVBWDJKTjdoSVVsMVlIdnF6cEx3NzR0WVhibFRkdTlCX1FYREFlOTRrYW13?oc=5\" target=\"_blank\">赤沢経産相、メルツ独首相出席の会合で日本製ＥＶ排除巡る懸念表明</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
+                "site_name": "Infoseek",
+                "primary_category": "Policy",
+                "reason": "政府間の政策交渉",
+                "score": 85,
                 "is_highly_important": true
             }
         ],
         "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "ホンダ・大成建設・大成ロテックの3社が、時速120kmでの走行中ワイヤレス給電技術を確立",
-                "インバータとコイルを一体化し、大型商用車の荷重に耐えうる舗装構造と施工性を実現",
-                "2027年度より千葉県の高速道路で実証実験を開始し、EVの航続距離・充電課題の解決へ"
+                "日本政府はEUのEV優遇策による日本製車両の排除懸念をドイツへ直接伝達し、修正を要求した。",
+                "独仏のEV優遇合意に対し、日本はサプライチェーンの補完関係を強調し、独側へ政策的配慮を求めた。",
+                "両国はAI対話創設や先端技術での連携を確認する一方、中国の過剰生産力への対応という共通課題に直面している。"
             ],
-            "insight": "EVの商用利用における「充電待ち時間」という最大のボトルネックをインフラ側で解決する野心的な試みだ。単なる技術実証に留まらず、舗装更新を見据えた施工性と大型車対応という実用性の両立を追求している点が秀逸。今後は給電コストの採算性や電力インフラとの統合といった経済的・社会的な「実装の壁」をどう突破するかが、技術以上に問われる。"
+            "insight": "独自動車産業の衰退と中国市場での苦戦を背景に、独仏は域内保護主義を強めていますが、日本は『磁石供給』等の不可欠な川上サプライチェーンを盾に、欧州市場への接続維持を交渉カードとして使っています。単なる保護主義への抗議を超え、中国の過剰生産への対抗という大義名分のもと、独側を揺さぶる『同志国連携』の再定義が求められています。"
         }
     },
     {
-        "topic_name": "2027年以降のEV購入補助金の減額見直し",
+        "topic_name": "EV補助金、上限引き下げへ",
         "article_ids": [
-            122879,
+            318453,
             767384,
             366834
         ],
         "articles": [
             {
-                "id": 122879,
-                "title": "EV補助金2027年の行方は 大幅減狙う財務省、経産省は減額公表で先手 - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hY25SdUpucGVkMjdENzZLR1MwTEVGdjhNeWtxdk5teHVpQ1EzekpCSXo4eVJQSmttSVdTdDJud3IteUF5bHdFU09FSE1DWHJqRmZCbzJsdEo4RDVMS083aFlhSXpyclpRX3BUOA?oc=5",
-                "published": "Mon, 26 Oct 2026 20:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9hY25SdUpucGVkMjdENzZLR1MwTEVGdjhNeWtxdk5teHVpQ1EzekpCSXo4eVJQSmttSVdTdDJud3IteUF5bHdFU09FSE1DWHJqRmZCbzJsdEo4RDVMS083aFlhSXpyclpRX3BUOA?oc=5\" target=\"_blank\">EV補助金2027年の行方は 大幅減狙う財務省、経産省は減額公表で先手</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-                "site_name": "日本経済新聞",
+                "id": 318453,
+                "title": "CEV補助金の申請受け付け、早ければ12月上旬にも終了 販売好調なEVは反動減に警戒 - 日刊自動車新聞",
+                "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OLVlrTjdzZGVaOUVuU3RNd3RaMHI1VmZ0eHNmWWpiYW9oNm9DbGNCTlJKVjB4UEdMN3JiZWg3QThKa0laU1R1NFJLQkpoUGJwZHc?oc=5",
+                "published": "Wed, 28 Oct 2026 10:21:59 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OLVlrTjdzZGVaOUVuU3RNd3RaMHI1VmZ0eHNmWWpiYW9oNm9DbGNCTlJKVjB4UEdMN3JiZWg3QThKa0laU1R1NFJLQkpoUGJwZHc?oc=5\" target=\"_blank\">CEV補助金の申請受け付け、早ければ12月上旬にも終了 販売好調なEVは反動減に警戒</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日刊自動車新聞</font>",
+                "site_name": "日刊自動車新聞",
                 "primary_category": "Policy",
-                "reason": "2027年以降の補助金減額方針は市場の戦略転換に影響。",
-                "score": 95,
+                "reason": "国内補助金動向は販売戦略に直結するため",
+                "score": 75,
                 "is_highly_important": true
             },
             {
                 "id": 767384,
                 "title": "EV補助金見直しで上限125万円から75万円に、27年1月以降 「現予算で継続図る」経産省 - LIGARE（リガーレ）",
                 "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzcDFWbVlubmJoVXFSall1QThOTDVCN1dma3RFcmIxRWJIZGttX1U1clF1WUh4ekpsbjJQdGtOXzRFcThFMm9uR1BqSVE?oc=5",
-                "published": "Tue, 27 Oct 2026 23:30:29 GMT",
+                "published": "Wed, 28 Oct 2026 10:55:41 GMT",
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzcDFWbVlubmJoVXFSall1QThOTDVCN1dma3RFcmIxRWJIZGttX1U1clF1WUh4ekpsbjJQdGtOXzRFcThFMm9uR1BqSVE?oc=5\" target=\"_blank\">EV補助金見直しで上限125万円から75万円に、27年1月以降 「現予算で継続図る」経産省</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LIGARE（リガーレ）</font>",
                 "site_name": "LIGARE（リガーレ）",
                 "primary_category": "Policy",
-                "reason": "補助金見直しの具体的数値情報。",
-                "score": 90,
+                "reason": "国内補助金制度の具体的変更内容のため重要",
+                "score": 80,
                 "is_highly_important": true
             },
             {
@@ -165,62 +185,49 @@
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9VNXYycHNhdHhKaVl5QjBiZkhLRUs1RVFRcEExdXFkcGlNWXQyV0JVMTMxNWZkaldNQXFQVXQ0Q212Wmd1dHdfUTg4NHNUSHlGbW9MOEpOdkdFUEl6N2VWNWlyM01FMk04STdWMUotVmJxbEdHdXFyTVZua1BvN2c?oc=5\" target=\"_blank\">27年1月以降のEV補助､車種別一覧 トヨタbZ4Xは78万円</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
                 "site_name": "日本経済新聞",
                 "primary_category": "Policy",
-                "reason": "車種別補助金一覧。",
-                "score": 85,
-                "is_highly_important": true
+                "reason": "補助金の詳細情報、実用性が高い",
+                "score": 70,
+                "is_highly_important": false
             }
         ],
         "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "2027年1月以降、EV購入補助金の上限額が従来の130万円から78万円へと大幅に引き下げられる",
-                "財務省の財政規律重視の姿勢と、補助金による市場育成の継続を望む経産省との間で綱引きが発生",
-                "補助金減額を前倒しで公表することで、制度の先行き不透明感による消費者の買い控えを抑制する意図がある"
+                "補助金枯渇に伴う駆け込み需要の反動と、2027年1月からの最大50万円規模の減額による市場の冷え込みが懸念される。",
+                "政府は電池の国内生産認定などの経済安全保障要件を厳格化し、補助金の「産業政策的側面」をより強く打ち出している。",
+                "EV販売台数は増加基調にあるものの、補助金依存度の高い市場構造からの脱却が急務であり、販売現場は顧客への丁寧な説明を迫られている。"
             ],
-            "insight": "日本のEV普及政策は「育成」から「自律」への過渡期にあります。財務省の緊縮志向に対し、経産省が減額をあえて公表して制度維持を図る構図は、補助金依存体質からの脱却が急務であることを示唆。しかし、市場の自律的成長に向けた明確なロードマップが不在であり、単なる「薄く広く」のバラマキ継続では、産業としての競争力強化には直結しない懸念が残ります。"
+            "insight": "今回の見直しは、単なる予算管理の域を超え、EVを「環境支援」から「経済安保と産業育成のカード」へと完全に再定義した動きだ。補助額削減は市場の自律的成長への転換期を意味するが、販売現場での混乱は不可避。今後は、補助金による買い得感ではなく、車両本来の価値や充電インフラの利便性でいかに購入動機を創出できるか、各社のマーケティング力が真に問われるフェーズに入った。"
         }
     },
     {
-        "topic_name": "中国製EVによる安全保障上の情報漏洩懸念",
+        "topic_name": "米GMのEV戦略転換とハイブリッド車投入",
         "article_ids": [
-            142707,
-            933775,
-            522013
+            839262,
+            287313
         ],
         "articles": [
             {
-                "id": 142707,
-                "title": "車内データも暗証番号も丸裸…中国製EVの恐るべき情報収集手口｜和田憲治 スタンダードジャーナル - YouTube",
-                "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBJMkxUY3V3MTNleU1SYXVvZWg4dTU4T25wRkU2Mk45U082U0dxM0tkWGYwSDNzdjhOR1pfX3pSNENQd1J0Q3REQ2I2RGY?oc=5",
-                "published": "Tue, 27 Oct 2026 03:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBJMkxUY3V3MTNleU1SYXVvZWg4dTU4T25wRkU2Mk45U082U0dxM0tkWGYwSDNzdjhOR1pfX3pSNENQd1J0Q3REQ2I2RGY?oc=5\" target=\"_blank\">車内データも暗証番号も丸裸…中国製EVの恐るべき情報収集手口｜和田憲治 スタンダードジャーナル</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YouTube</font>",
-                "site_name": "YouTube",
-                "primary_category": "Security",
-                "reason": "中国製EVのセキュリティリスク指摘。",
-                "score": 75,
-                "is_highly_important": true
-            },
-            {
-                "id": 933775,
-                "title": "【中国EV車問題】中国EV車がノルウェー軍事演習の機密情報を録画 安全保障上の懸念高まる #時事フォーカス - YouTube",
-                "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTZm1ZMklqZGhLMkwyWUN2T1oyYXlIM2V2YnZicGZ4d1FLd0tvb2lfZEFQRm52SUlWNzNvT01CcUVXVWswakVJUzJNSHQ5R0VwNjdKdFlmZ2FQYmtj?oc=5",
-                "published": "Tue, 27 Oct 2026 12:15:09 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTZm1ZMklqZGhLMkwyWUN2T1oyYXlIM2V2YnZicGZ4d1FLd0tvb2lfZEFQRm52SUlWNzNvT01CcUVXVWswakVJUzJNSHQ5R0VwNjdKdFlmZ2FQYmtj?oc=5\" target=\"_blank\">【中国EV車問題】中国EV車がノルウェー軍事演習の機密情報を録画 安全保障上の懸念高まる #時事フォーカス</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YouTube</font>",
-                "site_name": "YouTube",
-                "primary_category": "Security",
-                "reason": "安全保障上の懸念。",
-                "score": 85,
-                "is_highly_important": true
-            },
-            {
-                "id": 522013,
-                "title": "米軍嘉手納基地が乗り入れ禁止した車とは 情報流出を懸念か（沖縄タイムス） - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LVXFpc0xtSi1nVWZUSmFNenJMZWtYQjlZYWlOVzY0YlRQVU5JSEFKRUpTZW8xclhhaDlVVTA4Q3ZrWDhwTlljVWVuejdNS2tQVzN1Z1laQnhsVDhleXg5bjVnNkNqZzVJclZWTDdJSGZ3NTJLTzhXbkx6YXg3bkU?oc=5",
-                "published": "Tue, 27 Oct 2026 02:01:19 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9LVXFpc0xtSi1nVWZUSmFNenJMZWtYQjlZYWlOVzY0YlRQVU5JSEFKRUpTZW8xclhhaDlVVTA4Q3ZrWDhwTlljVWVuejdNS2tQVzN1Z1laQnhsVDhleXg5bjVnNkNqZzVJclZWTDdJSGZ3NTJLTzhXbkx6YXg3bkU?oc=5\" target=\"_blank\">米軍嘉手納基地が乗り入れ禁止した車とは 情報流出を懸念か（沖縄タイムス）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "id": 839262,
+                "title": "ＧＭ、ハイブリッドＳＵＶ投入へ ＥＶ重視から戦略転換＝関係筋（ロイター） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fbjFFOTlsZG9oME04Q1I3bzFtZDNyYU9DR2NiREY2SEx0T0RYNjctQkNDRk5TNDl2UVR4cjc4RnJPeVU3ZEpVQ2lWYVBRalJ5bjV0NjhnU2dZMlNZeXBEc0dFTllMOGNoNG1HdjkwUUh1RERiVXFsOWF3TGE3R1k?oc=5",
+                "published": "Wed, 28 Oct 2026 00:40:45 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5fbjFFOTlsZG9oME04Q1I3bzFtZDNyYU9DR2NiREY2SEx0T0RYNjctQkNDRk5TNDl2UVR4cjc4RnJPeVU3ZEpVQ2lWYVBRalJ5bjV0NjhnU2dZMlNZeXBEc0dFTllMOGNoNG1HdjkwUUh1RERiVXFsOWF3TGE3R1k?oc=5\" target=\"_blank\">ＧＭ、ハイブリッドＳＵＶ投入へ ＥＶ重視から戦略転換＝関係筋（ロイター）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
                 "site_name": "Yahoo!ニュース",
-                "primary_category": "Security",
-                "reason": "安全保障上の立ち入り制限。",
+                "primary_category": "Strategy",
+                "reason": "GMの戦略転換、重要",
+                "score": 80,
+                "is_highly_important": true
+            },
+            {
+                "id": 287313,
+                "title": "米GM、最量販3列SUVにハイブリッド版追加へ EV一本足打法から転換 - BigGo ファイナンス",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zQVQ5am0ycm1fTHhWWTRaRFVYektUQVlKaTRZN0gwWXpGaWcwaFNwNmI2SmNUQS10LTY5enJFYmxraGV5aUZOUmhSTllXOGM0b2FPOTRFMUhIWlRfczNIMl9sZ19McURPbUlGOTluMFFPM0Zt?oc=5",
+                "published": "Wed, 28 Oct 2026 01:55:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE8zQVQ5am0ycm1fTHhWWTRaRFVYektUQVlKaTRZN0gwWXpGaWcwaFNwNmI2SmNUQS10LTY5enJFYmxraGV5aUZOUmhSTllXOGM0b2FPOTRFMUhIWlRfczNIMl9sZ19McURPbUlGOTluMFFPM0Zt?oc=5\" target=\"_blank\">米GM、最量販3列SUVにハイブリッド版追加へ EV一本足打法から転換</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+                "site_name": "BigGo ファイナンス",
+                "primary_category": "Strategy",
+                "reason": "GMの戦略見直し、重要",
                 "score": 80,
                 "is_highly_important": true
             }
@@ -228,11 +235,127 @@
         "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "中国製EVの車載カメラやセンサーによる機密情報収集・流出のリスクが現実化し、米軍基地等での利用制限へと発展している",
-                "ノルウェーの軍事演習等の事例が示す通り、中国製EVは単なる移動手段ではなく、高度な情報収集デバイスとして機能する懸念が極めて高い",
-                "通信機能を持つコネクテッドカーの普及に伴い、自動車産業におけるサプライチェーンと情報セキュリティの境界線が完全に消滅した"
+                "GMが収益の柱である3列シートSUVにハイブリッド車(HV)を導入し、EV一本足打法から現実的なマルチパスウェイ戦略へ転換。",
+                "販売現場からの強い要請と市場のHV需要急増を受け、利益最大化と消費者の受容性向上を優先する判断。",
+                "サプライチェーンのEVシフトが先行する中、エンジン生産体制の再構築という製造上の大きな難題に直面。"
             ],
-            "insight": "自動車のスマート化により、車両は『走るスマートフォン』を通り越し『走る監視カメラ』へと変貌しました。BYD等の急速な普及に対し、米軍が乗り入れを即座に禁止したのは、地政学的リスクが物理的な国防領域に侵食した証左です。今後は自動車のハード性能以上に、データ管理の透明性がメーカーの市場存続を左右する決定的な競争軸となるでしょう。"
+            "insight": "GMの戦略転換は「EVへの理想」と「足元の収益・販売現場の苦境」の乖離が限界に達したことを示唆します。トヨタが提唱し続けてきた現実路線への回帰とも取れますが、最大の問題は製造現場です。EVシフトに伴い廃業・転換したサプライヤー網を、今さら内燃機関向けに再起動させるのは極めて困難であり、生産キャパシティの確保がボトルネックとなる「過渡期の歪み」が同社の業績を今後数年間にわたり圧迫するリスクを孕んでいます。"
+        }
+    },
+    {
+        "topic_name": "欧州のEV優遇策における中国製への警戒",
+        "article_ids": [
+            51147
+        ],
+        "articles": [
+            {
+                "id": 51147,
+                "title": "【欧州ＥＶ優遇政策】中国猛攻、強まる産業保護 日本製除外に補助金の影 - 山陽新聞",
+                "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkZXcwM2JxQ1pibWNkTGtPYWhaRlBWWkhhWVhsTHoyM00yNEI0WlRCbUN6cEs3RHJvcE5EZktpbnJpNlZINC1mR0lhazFrUnF1RFE?oc=5",
+                "published": "Wed, 28 Oct 2026 10:16:37 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkZXcwM2JxQ1pibWNkTGtPYWhaRlBWWkhhWVhsTHoyM00yNEI0WlRCbUN6cEs3RHJvcE5EZktpbnJpNlZINC1mR0lhazFrUnF1RFE?oc=5\" target=\"_blank\">【欧州ＥＶ優遇政策】中国猛攻、強まる産業保護 日本製除外に補助金の影</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
+                "site_name": "山陽新聞",
+                "primary_category": "Policy",
+                "reason": "通商政策と保護主義の動向に関する分析",
+                "score": 70,
+                "is_highly_important": false
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "EUのEV優遇政策が中国勢の台頭に対する防衛策として機能し始めている",
+                "域内産業保護の色が濃くなり、日本メーカーが補助金対象から除外されるリスクが浮上",
+                "グローバルな電動化競争において、環境政策と産業政策が融合したブロック経済的な囲い込みが加速している"
+            ],
+            "insight": "EUが推進するEV政策は、環境保護の仮面を被った事実上の産業防衛策です。中国製EVの低価格攻勢に対し、補助金要件で選別を行うのは、グローバルな自由競争から保護貿易への回帰を示唆しています。日本メーカーにとっては、域内現地生産の有無やサプライチェーンの透明性が死活問題となっており、欧州市場での戦略的再構築を迫られる局面です。"
+        }
+    },
+    {
+        "topic_name": "タイのEV用電池TIS強制規格導入",
+        "article_ids": [
+            109536
+        ],
+        "articles": [
+            {
+                "id": 109536,
+                "title": "【車両】タイ、EV用電池をTIS強制規格へ、2027年5月施行で安全基準を強化 - バンコク週報",
+                "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZMm9fanVYT3VYRUk2SDljMlg2MUxEM1hDbnZLTnB5b3VzaHU3bWdtdHZIay1YYWIzYkhrZjE5TmJVWUxfa1NXZnNaR3psQWt5?oc=5",
+                "published": "Wed, 28 Oct 2026 12:01:43 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZMm9fanVYT3VYRUk2SDljMlg2MUxEM1hDbnZLTnB5b3VzaHU3bWdtdHZIay1YYWIzYkhrZjE5TmJVWUxfa1NXZnNaR3psQWt5?oc=5\" target=\"_blank\">【車両】タイ、EV用電池をTIS強制規格へ、2027年5月施行で安全基準を強化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">バンコク週報</font>",
+                "site_name": "バンコク週報",
+                "primary_category": "Policy",
+                "reason": "海外市場の規制強化に関する重要情報",
+                "score": 70,
+                "is_highly_important": false
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "タイ工業省がEVおよび電動バイク用電池を2027年5月からTIS強制規格へ指定",
+                "国連の安全基準UN R100/R136準拠が必須となり、非適合品の製造・輸入・販売を全面的に禁止",
+                "急拡大するEV市場での安全性確保が狙いだが、中古電池の管理など次なる制度的課題も浮上"
+            ],
+            "insight": "今回のTIS強制規格化は、ASEANのEVハブを目指すタイが、安価な低品質品を排除し「市場の信頼性」を確立する防衛策だ。しかし、UN基準への適合認証は多大なコストと時間を要し、進出企業にとっては参入障壁となる。特に循環経済（サーキュラーエコノミー）を見据えた中古電池の流通管理が未整備な中、製造責任の所在と認定プロセスは今後大きな外交・貿易摩擦の火種になり得る。"
+        }
+    },
+    {
+        "topic_name": "ポルシェの純利益急増とEV見直し影響",
+        "article_ids": [
+            998815
+        ],
+        "articles": [
+            {
+                "id": 998815,
+                "title": "ポルシェの1〜9月期の純利益16倍 EV見直しで前年損失計上の反動 - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OVFBWQkJmZDJyaTNBNVJJMEZNQU5nOTJvVzJOZklic195YUU5ZjAxTWNxWHlodHdZWFVWMVdUZUZhanZRRm8tV0tPN1k0dFBfRHItMWljdGZTSzl4YURmVHhNcUJ2VWJmZjhXeQ?oc=5",
+                "published": "Wed, 28 Oct 2026 00:00:51 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1OVFBWQkJmZDJyaTNBNVJJMEZNQU5nOTJvVzJOZklic195YUU5ZjAxTWNxWHlodHdZWFVWMVdUZUZhanZRRm8tV0tPN1k0dFBfRHItMWljdGZTSzl4YURmVHhNcUJ2VWJmZjhXeQ?oc=5\" target=\"_blank\">ポルシェの1〜9月期の純利益16倍 EV見直しで前年損失計上の反動</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "site_name": "日本経済新聞",
+                "primary_category": "Strategy",
+                "reason": "メーカーの業績変動とEV戦略の見直し",
+                "score": 75,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "純利益16倍は前年の大規模EV関連損失に対する反動増であり、実質的な事業回復を意味しない",
+                "売上高営業利益率6.9%という水準は、プレミアムブランドとしての収益性に依然として強い懸念がある",
+                "度重なる人員削減の検討とEV戦略の迷走は、ポルシェのブランド価値と持続可能性を揺るがしている"
+            ],
+            "insight": "今回の数字は会計上の「見かけ上の好転」に過ぎません。EV移行の拙速な失敗による損失処理が重なり、ポルシェは『高級車の代名詞』としての収益基盤を維持できているのか、という厳しい問いに直面しています。エンジン回帰という戦術的転換は喫緊の延命策ですが、組織の縮小と開発コストの増大というジレンマを打破できぬ限り、真の利益回復は見通せません。"
+        }
+    },
+    {
+        "topic_name": "米自動車大手、HV生産へ補助金を転換",
+        "article_ids": [
+            271876
+        ],
+        "articles": [
+            {
+                "id": 271876,
+                "title": "米国の伝統的自動車メーカーが電気自動車（EV）シフトを推進、連邦補助金の使途をハイブリッド車（HV）生産向けに調整 - Moomoo",
+                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTQ3NoNUdtVjJtN09Sa2E5eHg2bHpNWjU5V2pzRDFXQmcwc183aFFNbzBMSFI0aHB6UlFwRXprRlRMZndmbTJkTm1CQ1ZHVUVRSXFGLWhzVWtxdw?oc=5",
+                "published": "Wed, 28 Oct 2026 09:41:52 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTQ3NoNUdtVjJtN09Sa2E5eHg2bHpNWjU5V2pzRDFXQmcwc183aFFNbzBMSFI0aHB6UlFwRXprRlRMZndmbTJkTm1CQ1ZHVUVRSXFGLWhzVWtxdw?oc=5\" target=\"_blank\">米国の伝統的自動車メーカーが電気自動車（EV）シフトを推進、連邦補助金の使途をハイブリッド車（HV）生産向けに調整</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moomoo</font>",
+                "site_name": "Moomoo",
+                "primary_category": "Strategy",
+                "reason": "米メーカーの戦略的方針転換",
+                "score": 75,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "GMが米エネルギー省の既存補助金の使途を純EVからハイブリッド車（HV）生産へと柔軟に転換",
+                "EV一本足打法からの脱却を図り、需要の強いHVのラインナップ拡充で市場シェア奪還を狙う",
+                "既存のガソリン車工場をHV対応へ改修し、設備投資の効率化と政策の逆風を同時にクリアする戦略"
+            ],
+            "insight": "GMの戦略転換は、EV一本足打法の脆さと、米市場におけるトヨタ・ホンダ等のHV先行優位に対する焦燥の表れです。補助金の使途変更は、政治的・市場的リスクを管理しつつ、既存の利益源であるガソリン車に近いHVに注力する「現実路線」への回帰といえます。EV投資を維持しつつ収益の柱を確保する、痛みを伴う過渡期の調整です。"
         }
     }
 ]

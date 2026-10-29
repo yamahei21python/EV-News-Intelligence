@@ -1,0 +1,63 @@
+[
+    {
+        "topic_name": "日独首脳会談における欧州EV優遇策への懸念伝達",
+        "article_ids": [
+            630268,
+            873903,
+            468221,
+            972288,
+            621431,
+            496198,
+            178748,
+            764841,
+            915771,
+            72591
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "日本国内のEV補助金制度の見直し",
+        "article_ids": [
+            318453,
+            767384,
+            366834
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "米GMのEV戦略転換とハイブリッド車投入",
+        "article_ids": [
+            839262,
+            287313
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "欧州のEV優遇策における中国製への警戒",
+        "article_ids": [
+            51147
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "タイのEV用電池TIS強制規格導入",
+        "article_ids": [
+            109536
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "ポルシェの純利益急増とEV見直し影響",
+        "article_ids": [
+            998815
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "米国自動車メーカーのハイブリッド車生産への補助金活用",
+        "article_ids": [
+            271876
+        ],
+        "is_grouped": false
+    }
+]
