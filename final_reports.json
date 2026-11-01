@@ -1,15 +1,12 @@
 [
     {
-        "topic_name": "トヨタ・Waymoの自動運転タクシー運行提携",
+        "topic_name": "トヨタとWaymoによる自動運転EVタクシーの2027年商用運行",
         "article_ids": [
             110204,
-            444834,
-            27791,
-            520810,
-            290369,
-            314131,
-            476399,
-            252547
+            931280,
+            974971,
+            564064,
+            26595
         ],
         "articles": [
             {
@@ -19,92 +16,56 @@
                 "published": "Fri, 30 Oct 2026 20:00:00 GMT",
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE00TFBOdnNTTVdwVlROeHpLQlN0YWN2dmtXbTdMVWRLMTg0QmwzMjQ3c3d6bUg5TkJ2X0pxdjM5Vi1kYk5BZlJFc1o3MDZ1QkZSUDRGUWFwRWZlNVpk?oc=5\" target=\"_blank\">トヨタ、ロボタクシーに専用ＥＶ ウェイモ、初期運行来年開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
                 "site_name": "朝日新聞",
-                "primary_category": "Strategic Partnership",
-                "reason": "Toyota and Waymo's collaboration on autonomous EV taxis is highly strategic.",
+                "primary_category": "Strategy",
+                "reason": "トヨタとWaymoの自動運転EV連携、商用戦略の重要項目。",
                 "score": 85,
                 "is_highly_important": true
             },
             {
-                "id": 444834,
-                "title": "トヨタ、無人のＥＶタクシー運行へ 米ウェイモと、来年日本で - 時事ドットコム",
-                "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KNEtUcnNJNUtuT1M2LU44RFozRjhsWDhnX1N6TDVsNGtHd3FyMWF5dGxLUFFFelZNYXctTXczYktmM0FmM045UW9HczV3a1RvamE2dDc0ZkcwdGl4ZHRFX0tPNA?oc=5",
-                "published": "Fri, 30 Oct 2026 07:04:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KNEtUcnNJNUtuT1M2LU44RFozRjhsWDhnX1N6TDVsNGtHd3FyMWF5dGxLUFFFelZNYXctTXczYktmM0FmM045UW9HczV3a1RvamE2dDc0ZkcwdGl4ZHRFX0tPNA?oc=5\" target=\"_blank\">トヨタ、無人のＥＶタクシー運行へ 米ウェイモと、来年日本で</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事ドットコム</font>",
-                "site_name": "時事ドットコム",
-                "primary_category": "Strategic Partnership",
-                "reason": "Same as ID 110204, high relevance for autonomous driving and EV integration.",
-                "score": 85,
-                "is_highly_important": true
-            },
-            {
-                "id": 27791,
-                "title": "トヨタ、Waymoと協業しバッテリEV「bZ4X」の無人運転タクシーを2027年運行開始 国内生産の量産車による日本初の完全自動運転タクシーサービス - Car Watch",
-                "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02bEk3eGoySjRPa1BLaHBhNkNoOU53RFRlckJkQ1NtUTd6SGRQUV91UmFVcFUtSkdGQUotMEZaaVhuc0xoZ240eUFtMGdrQk0wNHdMRU1JelA5R2xMajJGanEtUHg?oc=5",
-                "published": "Fri, 30 Oct 2026 07:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE02bEk3eGoySjRPa1BLaHBhNkNoOU53RFRlckJkQ1NtUTd6SGRQUV91UmFVcFUtSkdGQUotMEZaaVhuc0xoZ240eUFtMGdrQk0wNHdMRU1JelA5R2xMajJGanEtUHg?oc=5\" target=\"_blank\">トヨタ、Waymoと協業しバッテリEV「bZ4X」の無人運転タクシーを2027年運行開始 国内生産の量産車による日本初の完全自動運転タクシーサービス</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Car Watch</font>",
-                "site_name": "Car Watch",
-                "primary_category": "Strategic Partnership",
-                "reason": "Detailed report on Toyota-Waymo implementation.",
-                "score": 85,
-                "is_highly_important": true
-            },
-            {
-                "id": 520810,
-                "title": "トヨタとWaymoが自動運転タクシーを2027年から運行 EVで許可地域での試験運行から徐々に商用化へ - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JR1hHNloxUExPOTh5eHhPYVBCeUhGQXR4SmY1Skw2UnBfYzBUYkdIU0NCT0J5Z1ROcHc1cVFiaGhnMi1MYXJmUkFVUURSbFppUjBSRmh3YWNCakJZMklYUURseXBJVmZ6MlRtNEhTTDAzbkZFU3JiQjRZYW1veW8?oc=5",
-                "published": "Fri, 30 Oct 2026 11:10:31 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1JR1hHNloxUExPOTh5eHhPYVBCeUhGQXR4SmY1Skw2UnBfYzBUYkdIU0NCT0J5Z1ROcHc1cVFiaGhnMi1MYXJmUkFVUURSbFppUjBSRmh3YWNCakJZMklYUURseXBJVmZ6MlRtNEhTTDAzbkZFU3JiQjRZYW1veW8?oc=5\" target=\"_blank\">トヨタとWaymoが自動運転タクシーを2027年から運行 EVで許可地域での試験運行から徐々に商用化へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "id": 931280,
+                "title": "トヨタとWaymo、2027年に自動運転EVを試験──東京の狭い道路と乗客の信頼が鍵 - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdmdKcm43YnN2cko0MklNTE9GVGI5U2cxM2w3ZHI2OXcxNzNDaUFrZEw1aHpUNVhXOC0zSmpaN3ZkTUdyeEVucWt3Rk8wem5jU21ndmt6di1NdE8yZUlJVng4dzN6XzhzWDBnZ2JlTzQyTlJMSVhrOWd6NVkyZFR3bUxVNGRQcVpMVzB5ck53?oc=5",
+                "published": "Sat, 31 Oct 2026 02:15:02 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQdmdKcm43YnN2cko0MklNTE9GVGI5U2cxM2w3ZHI2OXcxNzNDaUFrZEw1aHpUNVhXOC0zSmpaN3ZkTUdyeEVucWt3Rk8wem5jU21ndmt6di1NdE8yZUlJVng4dzN6XzhzWDBnZ2JlTzQyTlJMSVhrOWd6NVkyZFR3bUxVNGRQcVpMVzB5ck53?oc=5\" target=\"_blank\">トヨタとWaymo、2027年に自動運転EVを試験──東京の狭い道路と乗客の信頼が鍵</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
                 "site_name": "Yahoo!ニュース",
-                "primary_category": "Strategic Partnership",
-                "reason": "Summary of Toyota-Waymo project.",
+                "primary_category": "Strategy",
+                "reason": "110204と同様、Waymoとの自動運転協業は重要度高。",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 974971,
+                "title": "【動画】トヨタが２７年自動運転タクシー 国内でＥＶ運行、早期の商用化へ - 山陰中央新報デジタル",
+                "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnTzVJX3lfSmNIUmhiSFU1eFpxa3p5eXZzWDU5V1FBMTNfTTVwUlA5SFYtcE00VGFfR055RndBVnRDSnVJZFpYY2o4U25CTWlVVEJPaGhFbGFtenc?oc=5",
+                "published": "Fri, 30 Oct 2026 19:11:07 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnTzVJX3lfSmNIUmhiSFU1eFpxa3p5eXZzWDU5V1FBMTNfTTVwUlA5SFYtcE00VGFfR055RndBVnRDSnVJZFpYY2o4U25CTWlVVEJPaGhFbGFtenc?oc=5\" target=\"_blank\">【動画】トヨタが２７年自動運転タクシー 国内でＥＶ運行、早期の商用化へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陰中央新報デジタル</font>",
+                "site_name": "山陰中央新報デジタル",
+                "primary_category": "Strategy",
+                "reason": "トヨタの自動運転EV運行、商用戦略の一次情報。",
                 "score": 80,
                 "is_highly_important": true
             },
             {
-                "id": 290369,
-                "title": "【速報】トヨタが自動運転タクシー 2027年、国内でEV運行 - 47NEWS",
-                "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoOGptZTBhcHRZTnFhTjdoZlRETWFKNEVZX05zYVE3cXFiVkNVOG8tdkhPcWhVRkdNdUtid2VXUlNBTUNHb2hWbmhLQQ?oc=5",
-                "published": "Fri, 30 Oct 2026 08:38:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoOGptZTBhcHRZTnFhTjdoZlRETWFKNEVZX05zYVE3cXFiVkNVOG8tdkhPcWhVRkdNdUtid2VXUlNBTUNHb2hWbmhLQQ?oc=5\" target=\"_blank\">【速報】トヨタが自動運転タクシー 2027年、国内でEV運行</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
-                "site_name": "47NEWS",
-                "primary_category": "Strategic Partnership",
-                "reason": "Breaking news on Toyota-Waymo.",
-                "score": 80,
-                "is_highly_important": true
-            },
-            {
-                "id": 314131,
-                "title": "トヨタが２７年自動運転タクシー 国内でＥＶ運行、早期の商用化へ - 新潟日報",
-                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53Rjg5SmZSa0NQZ1JLb3k5ZjNjc0hMelUxeGJsSjRaNnRkQ0xTWUxXWVZiak9EZmNhN0EwNFlnOXpLMjhJZU9VQUx5QVkyR21QZksweFNsekFSRzFHOFE?oc=5",
-                "published": "Fri, 30 Oct 2026 07:00:01 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE53Rjg5SmZSa0NQZ1JLb3k5ZjNjc0hMelUxeGJsSjRaNnRkQ0xTWUxXWVZiak9EZmNhN0EwNFlnOXpLMjhJZU9VQUx5QVkyR21QZksweFNsekFSRzFHOFE?oc=5\" target=\"_blank\">トヨタが２７年自動運転タクシー 国内でＥＶ運行、早期の商用化へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新潟日報</font>",
-                "site_name": "新潟日報",
-                "primary_category": "Strategic Partnership",
-                "reason": "Regional report on Toyota-Waymo.",
-                "score": 70,
-                "is_highly_important": false
-            },
-            {
-                "id": 476399,
-                "title": "トヨタの「bZ4X」がWaymoの自動運転タクシーに、2027年から日本国内で実証開始 - MONOist",
-                "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13MElKc2laYXo0RkswU01zYUgtZms0bUc1WjI5WDQxRmRXSF9mQTNHN29GTF8tSU94dWNaNFJDTzhyZG0xOGNOYnF1emVoaURhOERIWEM3ZDMxVDV5bGJGdXFUU2NFX05CVWc1YVFKQQ?oc=5",
-                "published": "Fri, 30 Oct 2026 07:30:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE13MElKc2laYXo0RkswU01zYUgtZms0bUc1WjI5WDQxRmRXSF9mQTNHN29GTF8tSU94dWNaNFJDTzhyZG0xOGNOYnF1emVoaURhOERIWEM3ZDMxVDV5bGJGdXFUU2NFX05CVWc1YVFKQQ?oc=5\" target=\"_blank\">トヨタの「bZ4X」がWaymoの自動運転タクシーに、2027年から日本国内で実証開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MONOist</font>",
-                "site_name": "MONOist",
-                "primary_category": "Strategic Partnership",
-                "reason": "Technical analysis of Toyota-Waymo implementation.",
+                "id": 564064,
+                "title": "トヨタとウェイモ、自動運転タクシー用bZ4Xの運行を2027年に日本で開始 - EVcafe",
+                "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1qWW8xZmVMaDB0OW5nNUVTYW8wTFR5RE81a0NNY2RIVmQxUXFENmlzclVxS1ZrQ2QxdzM0ZlVHZ1VxeXN1VUxVQzBn?oc=5",
+                "published": "Sat, 31 Oct 2026 08:23:29 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE1qWW8xZmVMaDB0OW5nNUVTYW8wTFR5RE81a0NNY2RIVmQxUXFENmlzclVxS1ZrQ2QxdzM0ZlVHZ1VxeXN1VUxVQzBn?oc=5\" target=\"_blank\">トヨタとウェイモ、自動運転タクシー用bZ4Xの運行を2027年に日本で開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EVcafe</font>",
+                "site_name": "EVcafe",
+                "primary_category": "Strategy",
+                "reason": "自動運転タクシー商用化の動向。",
                 "score": 75,
                 "is_highly_important": true
             },
             {
-                "id": 252547,
-                "title": "トヨタと米ウェイモ、27年に日本で自動運転タクシー運行 ＥＶ「ｂＺ４Ｘ」で（ロイター） - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrNXdlU2U1MFBEV002NHFZcHpzOV9VbzBkcVhNQlVQOTdveVZpX3hjLXhrZDM2NFRZTkxFTW5nZ3c4MjZrTGV5SlVSQmZ0ektGZFROamNlZEttMzFYMmtCbjVBNUFqcHVlS0JWUkZfNXRTaWU4N0k1cV9TRHZ2cHM?oc=5",
-                "published": "Fri, 30 Oct 2026 07:05:13 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBrNXdlU2U1MFBEV002NHFZcHpzOV9VbzBkcVhNQlVQOTdveVZpX3hjLXhrZDM2NFRZTkxFTW5nZ3c4MjZrTGV5SlVSQmZ0ektGZFROamNlZEttMzFYMmtCbjVBNUFqcHVlS0JWUkZfNXRTaWU4N0k1cV9TRHZ2cHM?oc=5\" target=\"_blank\">トヨタと米ウェイモ、27年に日本で自動運転タクシー運行 ＥＶ「ｂＺ４Ｘ」で（ロイター）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-                "site_name": "Yahoo!ニュース",
-                "primary_category": "Strategic Partnership",
-                "reason": "Reuters summary of Toyota-Waymo.",
+                "id": 26595,
+                "title": "トヨタが自動運転タクシー 米ウェイモと商用化へ ２７年 - 琉球新報デジタル",
+                "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqVVoyMlpodFdpOFR0ZU9ydGFXSnlDMEk0SGFjSmhpM1F5ZzlGSVpiV2JwSVlwN2JJTUZ5VnYzUm9EOXp0Rk91S2huRXpsY1ZzYzR0Mll5TWdKVXpjc1J2Y0hR?oc=5",
+                "published": "Fri, 30 Oct 2026 20:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqVVoyMlpodFdpOFR0ZU9ydGFXSnlDMEk0SGFjSmhpM1F5ZzlGSVpiV2JwSVlwN2JJTUZ5VnYzUm9EOXp0Rk91S2huRXpsY1ZzYzR0Mll5TWdKVXpjc1J2Y0hR?oc=5\" target=\"_blank\">トヨタが自動運転タクシー 米ウェイモと商用化へ ２７年</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">琉球新報デジタル</font>",
+                "site_name": "琉球新報デジタル",
+                "primary_category": "Strategy",
+                "reason": "トヨタの商用化戦略。",
                 "score": 80,
                 "is_highly_important": true
             }
@@ -112,76 +73,85 @@
         "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "トヨタとWaymoが協業し、EV『bZ4X』を用いたレベル4の無人自動運転タクシー運行を2027年に日本で開始",
-                "車両生産からWaymoの自動運転システム搭載までをトヨタ高岡工場で一貫して行う「メイド・イン・ジャパン」の量産体制を構築",
-                "日本初の完全無人タクシーサービスとして、まずは試験運行から商用化への段階的な拡大を計画"
+                "トヨタとWaymoが協業し、2027年に日本国内で「bZ4X」をベースとしたロボタクシーの初期運行を開始",
+                "単なる車両供給にとどまらず、高岡工場での自動運転ハードウェア統合までを一貫して行う体制を構築",
+                "GO、日本交通らと連携し、レベル4自動運転による商用化を目指すことで、日本市場における移動の質と安全性の向上を狙う"
             ],
-            "insight": "トヨタにとってこれは単なる車両供給ではなく、自社工場での高付加価値生産（自動運転統合）を通じた『製造とITの融合』の試金石だ。また、Waymoとの提携は、自社開発のAI技術に加え、他社プラットフォームを取り込むことで日本特有の道路環境や規制という難所を早期に突破しようとするトヨタの現実的かつしたたかな戦略転換を示唆している。"
+            "insight": "トヨタにとって本作戦は、自社開発に固執せず、圧倒的な運行データと実績を持つWaymoのOSを迎え入れることで、日本特有の過密かつ複雑な道路環境における「レベル4」の早期実装という最短ルートを確保した歴史的転換点です。単なる車両供給ではなく、工場で統合生産する垂直統合モデルを組むことで、安全性と量産品質を担保し、他社を圧倒する先行者利益の獲得を狙っています。"
         }
     },
     {
-        "topic_name": "独首相、EUのEV優遇策を協議",
+        "topic_name": "フォルクスワーゲンによる電動ゴルフ開発の一時停止",
         "article_ids": [
-            29717,
-            627905,
-            508742
+            535500,
+            845135,
+            547859,
+            735976
         ],
         "articles": [
             {
-                "id": 29717,
-                "title": "ドイツのメルツ首相、EV優遇策をEUで協議へ 日本の懸念受け - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83LW5ydS15UnZQY3pMakprNGN0M1VKTW9hYV9aQlNwdFVnb0l6bk5hbkZILXFjdXhGelAyazdTc3dlUk5WT0RoMGdwLUZMelR5VlE3cEZFWmttSlE0V3N3bzRIXzA3azlkaHRMMA?oc=5",
-                "published": "Fri, 30 Oct 2026 12:38:55 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE83LW5ydS15UnZQY3pMakprNGN0M1VKTW9hYV9aQlNwdFVnb0l6bk5hbkZILXFjdXhGelAyazdTc3dlUk5WT0RoMGdwLUZMelR5VlE3cEZFWmttSlE0V3N3bzRIXzA3azlkaHRMMA?oc=5\" target=\"_blank\">ドイツのメルツ首相、EV優遇策をEUで協議へ 日本の懸念受け</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-                "site_name": "日本経済新聞",
-                "primary_category": "Policy",
-                "reason": "International policy coordination between Germany, EU, and Japan on EV subsidies.",
-                "score": 90,
-                "is_highly_important": true
-            },
-            {
-                "id": 627905,
-                "title": "EV優遇、EUで協議へ 日本懸念受けドイツ首相 - 西日本新聞me",
-                "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SZ1pHQ2czR2U1NF9BeVBOckh1bWdpNVVaSGVCemxYV1o3Uk9kV2VZYXZuX0wtSTI0N3JJaVNhN3FPLUFXMUxlMTVPZFloQmFEdmFwNlZB?oc=5",
-                "published": "Fri, 30 Oct 2026 12:39:40 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SZ1pHQ2czR2U1NF9BeVBOckh1bWdpNVVaSGVCemxYV1o3Uk9kV2VZYXZuX0wtSTI0N3JJaVNhN3FPLUFXMUxlMTVPZFloQmFEdmFwNlZB?oc=5\" target=\"_blank\">EV優遇、EUで協議へ 日本懸念受けドイツ首相</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">西日本新聞me</font>",
-                "site_name": "西日本新聞me",
-                "primary_category": "Policy",
-                "reason": "Consistent with top policy news; high importance.",
+                "id": 535500,
+                "title": "独ＶＷ、主力ＥＶの開発を一時停止 コスト削減が影響 - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uZHM3NExDd05Qci05THZmZms5aUo4TnAtS0RUNWFVTjg4dGc0bEpiNG01WUdLa3lVeTJVMHprdlMxV29vZ2UyTy1pVHBhOUtVUnVycnB2T1U5VnFlTlRCeEd3bDNmVk5rMld4anJJRU5SaFFiWnk4aUh2WkNDQQ?oc=5",
+                "published": "Fri, 30 Oct 2026 16:01:44 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1uZHM3NExDd05Qci05THZmZms5aUo4TnAtS0RUNWFVTjg4dGc0bEpiNG01WUdLa3lVeTJVMHprdlMxV29vZ2UyTy1pVHBhOUtVUnVycnB2T1U5VnFlTlRCeEd3bDNmVk5rMld4anJJRU5SaFFiWnk4aUh2WkNDQQ?oc=5\" target=\"_blank\">独ＶＷ、主力ＥＶの開発を一時停止 コスト削減が影響</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+                "site_name": "Reuters",
+                "primary_category": "Strategy",
+                "reason": "VWのコスト削減に伴うEV開発凍結は重要指標。",
                 "score": 80,
                 "is_highly_important": true
             },
             {
-                "id": 508742,
-                "title": "【速報】独首相、欧州EV優遇策懸念をEU協議意向 - 47NEWS",
-                "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBiRF9hc2g1UE4zRkJMdHB0SnNhMUtGNnhtSDdtVHZGYmxVX09GOVdPNUJVckVYLTVidjljWFc4TGwxZUNlSUFnbXRZUQ?oc=5",
-                "published": "Fri, 30 Oct 2026 12:21:08 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBiRF9hc2g1UE4zRkJMdHB0SnNhMUtGNnhtSDdtVHZGYmxVX09GOVdPNUJVckVYLTVidjljWFc4TGwxZUNlSUFnbXRZUQ?oc=5\" target=\"_blank\">【速報】独首相、欧州EV優遇策懸念をEU協議意向</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
-                "site_name": "47NEWS",
-                "primary_category": "Policy",
-                "reason": "Flash report on EU-Germany policy friction.",
+                "id": 845135,
+                "title": "VW、電動「ID. Golf」の開発を一時休止、必要な投資の確保を優先 - 財経新聞",
+                "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Qa3dEOTlxdDNpRnVibC1qUnVSOHhuZkhGdnRoY1lKMDZIR0F4MHJJbEtrem80WGl1ZnlFdXBsNWw3ZFZBVURMZTVZeXY0T1haemNLMW1FN3ExUjc0MDlXM1ZVcFpqYm050gFoQVVfeXFMTlBrd0Q5OXF0M2lGdWJsLWpSdVI4eG5mSEZ2dGhjWUowNkhHQXgwcklsS2t6bzRYaXVmeUV1cGw1bDdkVkFVRExlNVl5djRPWFp6Y0sxbUU3cTFSNzQwOVczVlVwWmpibTk?oc=5",
+                "published": "Sat, 31 Oct 2026 08:50:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Qa3dEOTlxdDNpRnVibC1qUnVSOHhuZkhGdnRoY1lKMDZIR0F4MHJJbEtrem80WGl1ZnlFdXBsNWw3ZFZBVURMZTVZeXY0T1haemNLMW1FN3ExUjc0MDlXM1ZVcFpqYm050gFoQVVfeXFMTlBrd0Q5OXF0M2lGdWJsLWpSdVI4eG5mSEZ2dGhjWUowNkhHQXgwcklsS2t6bzRYaXVmeUV1cGw1bDdkVkFVRExlNVl5djRPWFp6Y0sxbUU3cTFSNzQwOVczVlVwWmpibTk?oc=5\" target=\"_blank\">VW、電動「ID. Golf」の開発を一時休止、必要な投資の確保を優先</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">財経新聞</font>",
+                "site_name": "財経新聞",
+                "primary_category": "Strategy",
+                "reason": "VWの開発凍結、業界全体の減速を象徴する重要案件。",
                 "score": 80,
+                "is_highly_important": true
+            },
+            {
+                "id": 547859,
+                "title": "VW、電動ゴルフ開発を凍結 本社工場に530億円の削減不足 - BigGo ファイナンス",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UMkNsRE5KeWJ3cVhnUURTM0J1Z0JwT2R0RkFvX3pwYTZWeThOcDRGS3R4SGFmQWlrX3BjQTRHTjViYmJfcUlVMEktTDF5Z2VRNnFnNVVPTEVPRWJjTmI0cUNBRUNsS05wTzRJWjRjcDB3Y0tX?oc=5",
+                "published": "Fri, 30 Oct 2026 16:25:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9UMkNsRE5KeWJ3cVhnUURTM0J1Z0JwT2R0RkFvX3pwYTZWeThOcDRGS3R4SGFmQWlrX3BjQTRHTjViYmJfcUlVMEktTDF5Z2VRNnFnNVVPTEVPRWJjTmI0cUNBRUNsS05wTzRJWjRjcDB3Y0tX?oc=5\" target=\"_blank\">VW、電動ゴルフ開発を凍結 本社工場に530億円の削減不足</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+                "site_name": "BigGo ファイナンス",
+                "primary_category": "Strategy",
+                "reason": "コスト削減と投資動向に関する経営層への警鐘。",
+                "score": 80,
+                "is_highly_important": true
+            },
+            {
+                "id": 735976,
+                "title": "VWが次期「ID.ゴルフ」の開発を一時停止すると発表。2026年第3四半期決算では厳しい現実が明らかになり、営業利益の低下が顕著に - https://intensive911.com/",
+                "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PTnlodWpxZzlXT0xaNnJJdGxjU0ctOHJRNUtYNVpzY1VlNVJ3MHh3XzRENzJDQW9STjR6U2RWTmFMbnV5cXgwWGU5VmVrLXpOc0Z6NW9sc0w2dXFSeHJkS3ZIU0xlN1BiajV0eDg3RQ?oc=5",
+                "published": "Sat, 31 Oct 2026 08:11:01 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9PTnlodWpxZzlXT0xaNnJJdGxjU0ctOHJRNUtYNVpzY1VlNVJ3MHh3XzRENzJDQW9STjR6U2RWTmFMbnV5cXgwWGU5VmVrLXpOc0Z6NW9sc0w2dXFSeHJkS3ZIU0xlN1BiajV0eDg3RQ?oc=5\" target=\"_blank\">VWが次期「ID.ゴルフ」の開発を一時停止すると発表。2026年第3四半期決算では厳しい現実が明らかになり、営業利益の低下が顕著に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">https://intensive911.com/</font>",
+                "site_name": "https://intensive911.com/",
+                "primary_category": "Strategy",
+                "reason": "VWの開発凍結に関する追加分析。",
+                "score": 75,
                 "is_highly_important": true
             }
         ],
         "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "ドイツのメルツ首相が、EUのEV優遇策における日本製車両除外に対する日本の強い懸念を認識し、ブリュッセルでの再協議を言及。",
-                "独仏合意による「域内生産EVへの限定的優遇」という保護主義的方針に対し、日本側からトヨタ等が強く反発し、外交ルートでの修正要請が奏功。",
-                "欧州の自動車産業保護と市場開放のバランスが問われており、優遇対象の拡大に向けた調整が焦点となるが、修正へのハードルは依然として高い。"
+                "次世代EV基盤『SSP』の初期重要モデルである『ID. Golf』の開発を無期限凍結し、グループの危機的財務状況を露呈",
+                "過去10年で最大の四半期赤字を計上し、本体の営業利益率は1.3%まで低迷、聖域なきコスト削減が不可避の状況",
+                "電動化の先行投資負担が重く、収益性の高い内燃機関車の減少が利益を直接的に圧迫する「負のジレンマ」に陥っている"
             ],
-            "insight": "本件は単なる貿易摩擦の域を超え、欧州自動車産業がEVシフトで直面する競争力低下の危機感の裏返しです。独仏合意は域内産業の延命を図る保護主義的な防壁ですが、日本のグローバルサプライチェーンへの悪影響は避けられず、メルツ首相の言及は、対中牽制やウクライナ情勢等における日本との協力関係を維持するための政治的配慮の側面が強いと言えます。"
+            "insight": "VWの聖域であるゴルフの電動化凍結は、単なる開発遅延ではなく『EV普及＝利益率低下』という構造的欠陥への白旗だ。電動車で中国勢に対抗するには製造コストを劇的に下げる必要があるが、足元の収益悪化がそのための投資余力を奪っている。伝統あるドイツ製造業の誇りよりも、生き残るための冷徹なキャッシュ・マネジメントを優先せざるを得ない限界点が露呈した。"
         }
     },
     {
-        "topic_name": "鴻海（フォックスコン）のEVモデル「モデルK」発表と日本市場参入",
+        "topic_name": "鴻海（Foxconn）のEV 3車種発表",
         "article_ids": [
             260567,
-            420076,
-            399380,
-            103750,
-            525477,
             653278
         ],
         "articles": [
@@ -192,57 +162,9 @@
                 "published": "Fri, 30 Oct 2026 20:00:00 GMT",
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xTkJjMnhUdktQSThCSm1fSXphcUE3N3F3SEs3MThBMmVCWkhkbGQzQ2tmY1RuUmdwaWZNQ1cwdENrRUZEX3BRRVh6MjBIaW5kSHkzbFNpdGROSHhH?oc=5\" target=\"_blank\">鴻海ＥＶ、乗り込む「軽」 日本市場見据え、３車種発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
                 "site_name": "朝日新聞",
-                "primary_category": "Strategy",
-                "reason": "Foxconn's strategic push into the Japanese EV market.",
-                "score": 75,
-                "is_highly_important": true
-            },
-            {
-                "id": 420076,
-                "title": "鴻海、EV小型車で3モデル発表 「軽トラ」やSUV - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jWVZDTE1yQ1RiVGpacGJxSDZTbTR4NXh0a1gzMGszX3B4N0k3ZlMyV2VXNUhVZFdLTHdXRGFubHRBeGpEbmxEWG1EbXd1NVlRQ3BkOGcwclAwU3NxWkktOUc5V2p0WEpMWUxrYQ?oc=5",
-                "published": "Fri, 30 Oct 2026 10:24:55 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1jWVZDTE1yQ1RiVGpacGJxSDZTbTR4NXh0a1gzMGszX3B4N0k3ZlMyV2VXNUhVZFdLTHdXRGFubHRBeGpEbmxEWG1EbXd1NVlRQ3BkOGcwclAwU3NxWkktOUc5V2p0WEpMWUxrYQ?oc=5\" target=\"_blank\">鴻海、EV小型車で3モデル発表 「軽トラ」やSUV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-                "site_name": "日本経済新聞",
-                "primary_category": "Strategy",
-                "reason": "Foxconn product launch; market expansion strategy.",
-                "score": 75,
-                "is_highly_important": true
-            },
-            {
-                "id": 399380,
-                "title": "日本の提携先「三菱電機通じた広がりも」 鴻海EVトップの会見詳報 - 朝日新聞",
-                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05Q1dIemNmVGlEMlEyUlFod05JT3d5SmdGSDBQSzZ5MmJsbmFiQ1VzeURzeFp1QzJTUGJTR3hJeTQyQ0tzQzZHRHF1Tl8wV0czRnl0LUNBSTJpMmtzQm9Edmo4UHdPR0k?oc=5",
-                "published": "Fri, 30 Oct 2026 13:20:47 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05Q1dIemNmVGlEMlEyUlFod05JT3d5SmdGSDBQSzZ5MmJsbmFiQ1VzeURzeFp1QzJTUGJTR3hJeTQyQ0tzQzZHRHF1Tl8wV0czRnl0LUNBSTJpMmtzQm9Edmo4UHdPR0k?oc=5\" target=\"_blank\">日本の提携先「三菱電機通じた広がりも」 鴻海EVトップの会見詳報</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
-                "site_name": "朝日新聞",
-                "primary_category": "Strategy",
-                "reason": "Foxconn management detailing expansion plans in Japan.",
-                "score": 70,
-                "is_highly_important": true
-            },
-            {
-                "id": 103750,
-                "title": "「追い風が吹いている」鴻海EVトップが語る、日本メーカーとの協業 - 朝日新聞",
-                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16N2FqTm5oZTNmcUJqSDRUbEctazNFY3NETm5NS2xiVUREQVRYNzQ2VDdrZEFfclBSTFlVVUNiRUxiV2xpTTNmTGFGcmt1NmN2T1E5N0Iwc2NLUlRQSDNDRHZlTWJtemM?oc=5",
-                "published": "Fri, 30 Oct 2026 12:15:03 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16N2FqTm5oZTNmcUJqSDRUbEctazNFY3NETm5NS2xiVUREQVRYNzQ2VDdrZEFfclBSTFlVVUNiRUxiV2xpTTNmTGFGcmt1NmN2T1E5N0Iwc2NLUlRQSDNDRHZlTWJtemM?oc=5\" target=\"_blank\">「追い風が吹いている」鴻海EVトップが語る、日本メーカーとの協業</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
-                "site_name": "朝日新聞",
-                "primary_category": "Strategy",
-                "reason": "Industry perspective on Foxconn's collaborative strategy.",
-                "score": 70,
-                "is_highly_important": true
-            },
-            {
-                "id": 525477,
-                "title": "鴻海、日本の「軽」市場に照準 テックデーでEV「モデルK」発表 (朝日新聞) - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRjJpdzJ1UkF3LWZMeGQzRnlDT0R5cW16aWNkU1BmdjUyejRQOWlMTC12ZlhrclZBQW96WmowR25hdjgzN05sNkVqTWZ0ZXJqYjkxT3lDdVA1M0JnSjZSZ0FjR21rbW1lWGZmZHFmZmJDcGVFdWNaaXVHNUhJYjRGRkd6X3BzR0ZsenJLLWV3?oc=5",
-                "published": "Fri, 30 Oct 2026 11:57:24 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPRjJpdzJ1UkF3LWZMeGQzRnlDT0R5cW16aWNkU1BmdjUyejRQOWlMTC12ZlhrclZBQW96WmowR25hdjgzN05sNkVqTWZ0ZXJqYjkxT3lDdVA1M0JnSjZSZ0FjR21rbW1lWGZmZHFmZmJDcGVFdWNaaXVHNUhJYjRGRkd6X3BzR0ZsenJLLWV3?oc=5\" target=\"_blank\">鴻海、日本の「軽」市場に照準 テックデーでEV「モデルK」発表 (朝日新聞)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-                "site_name": "Yahoo!ニュース",
-                "primary_category": "Strategy",
-                "reason": "Foxconn market entry summary.",
-                "score": 70,
+                "primary_category": "Supply Chain",
+                "reason": "鴻海（Foxconn）の日本市場参入戦略として注目度が高い。",
+                "score": 65,
                 "is_highly_important": true
             },
             {
@@ -253,61 +175,19 @@
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FQXhIQ1ZIdzJUVnN6NldONDBDLTd4TVJWMm1nMkdYcTZJbFNWa2VRMzZ3WGZJdkxQa3lqS2VYS1l2N25kajIzdWk2UjdGSWptM2p2d253a0trNVBf?oc=5\" target=\"_blank\">Hon Hai Technology Group (Foxconn) 、HHTD26で3つの特徴的なEVモデルを発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事ドットコム</font>",
                 "site_name": "時事ドットコム",
                 "primary_category": "Strategy",
-                "reason": "Foxconn's technical showcase and strategy.",
-                "score": 70,
+                "reason": "FoxconnのEVプラットフォーム発表、業界トレンド。",
+                "score": 65,
                 "is_highly_important": true
             }
         ],
         "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "鴻海（フォックスコン）が日本市場の軽自動車規格に適合するEV「モデルK」を発表し、受託生産モデルとして参入の意思を鮮明にした。",
-                "元日産COOの関潤氏が戦略を主導。自動車メーカーの「自前主義」の限界を突き、開発効率を武器にしたプラットフォーム供給ビジネスを加速させる。",
-                "三菱電機との協業や三菱自動車への供給など、日本国内の既存サプライチェーンや生産能力との融合を図る現実的な戦略を提示した。"
+                "鴻海（Foxconn）が軽トラEV「モデルK」など3車種を発表し、日本市場の軽自動車セグメントに本格照準。",
+                "CDMS（受託設計・製造サービス）を武器に、既存OEMや異業種参入企業へ開発・製造のプラットフォームを提供。",
+                "モデルK+ではシティポップ風の意匠を採用するなど、ニッチかつパーソナライズされた市場ニーズを的確に突く戦略。"
             ],
-            "insight": "鴻海の動きは単なる「安価なEV参入」ではない。軽自動車という日本固有の閉鎖的かつ高コストな市場に対し、モジュラープラットフォームによる開発効率と受託生産（EMS）の融合という黒船を投入している。関潤氏による「日本の自前主義の限界」という指摘は鋭く、生き残りを賭ける国内勢にとって、鴻海への依存か、独自路線の維持かという究極の選択を迫る戦略的な揺さぶりと言える。"
-        }
-    },
-    {
-        "topic_name": "VWのEV開発停止と業績悪化",
-        "article_ids": [
-            535500,
-            645826
-        ],
-        "articles": [
-            {
-                "id": 535500,
-                "title": "独ＶＷ、主力ＥＶの開発を一時停止 コスト削減が影響 - Reuters",
-                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uZHM3NExDd05Qci05THZmZms5aUo4TnAtS0RUNWFVTjg4dGc0bEpiNG01WUdLa3lVeTJVMHprdlMxV29vZ2UyTy1pVHBhOUtVUnVycnB2T1U5VnFlTlRCeEd3bDNmVk5rMld4anJJRU5SaFFiWnk4aUh2WkNDQQ?oc=5",
-                "published": "Fri, 30 Oct 2026 16:01:44 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1uZHM3NExDd05Qci05THZmZms5aUo4TnAtS0RUNWFVTjg4dGc0bEpiNG01WUdLa3lVeTJVMHprdlMxV29vZ2UyTy1pVHBhOUtVUnVycnB2T1U5VnFlTlRCeEd3bDNmVk5rMld4anJJRU5SaFFiWnk4aUh2WkNDQQ?oc=5\" target=\"_blank\">独ＶＷ、主力ＥＶの開発を一時停止 コスト削減が影響</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-                "site_name": "Reuters",
-                "primary_category": "Supply Chain/Strategy",
-                "reason": "VW's shift in EV development strategy signals industry-wide challenges.",
-                "score": 80,
-                "is_highly_important": true
-            },
-            {
-                "id": 645826,
-                "title": "Volkswagen、欧州EV拡大でも採算悪化 減損と再編費用が業績圧迫 - 디지털투데이",
-                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdUNLMHNJbU9IS0VBdU9CZF91RmZ4UzFmbkVyZWdVYnhuRnpDZlBtR25hN1BRdzVhZkl1dGFYQ3BJVzFGeHItVjR1RDJSN0l5c0ZCYzc0NEM0cElxeEx3aktMbV9TLWtqQmpCVmV2MU5RRG5la3NpQVNmSVRfYkdia3NuallNdGFSWnlYa2RoSjB4NHFVN0doTFVZUkxCcUdFd3ltY1JQTEw?oc=5",
-                "published": "Fri, 30 Oct 2026 00:37:12 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdUNLMHNJbU9IS0VBdU9CZF91RmZ4UzFmbkVyZWdVYnhuRnpDZlBtR25hN1BRdzVhZkl1dGFYQ3BJVzFGeHItVjR1RDJSN0l5c0ZCYzc0NEM0cElxeEx3aktMbV9TLWtqQmpCVmV2MU5RRG5la3NpQVNmSVRfYkdia3NuallNdGFSWnlYa2RoSjB4NHFVN0doTFVZUkxCcUdFd3ltY1JQTEw?oc=5\" target=\"_blank\">Volkswagen、欧州EV拡大でも採算悪化 減損と再編費用が業績圧迫</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">디지털투데이</font>",
-                "site_name": "디지털투데이",
-                "primary_category": "Strategy",
-                "reason": "Analysis of VW's profitability issues in electrification.",
-                "score": 80,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "EV販売増でも利益率が低い構造から抜け出せず、欧州主導の電動化が逆に業績を圧迫している",
-                "中国・米国市場での苦戦に加え、ポルシェ関連の巨額減損や再編費用が収益を大きく毀損した",
-                "将来投資と財務健全性の維持のため、主力EVの開発中断を含む310億ユーロ規模の抜本的なコスト削減を余儀なくされている"
-            ],
-            "insight": "VWの苦境は単なるEV戦略の失敗ではなく、内燃機関で稼いだ利益をEVの赤字で相殺し、かつ本業の収益基盤までもが中国市場で揺らいでいることに本質がある。今後は『規模の経済』を追う量産モデルから、再編と車種絞り込みによる利益率優先の『生存戦略』へと大きく舵を切る必要があり、欧州自動車産業の構造的な転換点を示している。"
+            "insight": "鴻海の狙いは単なるEV販売ではなく、軽自動車という日本固有の閉鎖的かつ高効率な市場における「開発プラットフォームの覇権」です。モジュール化されたCDMSモデルは、開発コストを劇的に下げ、異業種からのEV市場参入を容易にします。日本の軽市場が本来持つ強固な障壁に対し、鴻海は「黒衣」としてエコシステムを差し込むことで、既存メーカーの存在意義を根底から揺さぶる破壊的イノベーションを仕掛けています。"
         }
     }
 ]
