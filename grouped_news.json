@@ -1,0 +1,45 @@
+[
+    {
+        "topic_name": "スズキ新型軽EV「e SKY」発売",
+        "article_ids": [
+            268166,
+            837106
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "トヨタとWaymoによる日本国内での自動運転タクシー運行",
+        "article_ids": [
+            974971,
+            958191,
+            394320
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "EV購入支援補助金（CEV補助金）の継続・運用見直し",
+        "article_ids": [
+            618726,
+            940865,
+            629623,
+            318453
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "スバルの欧州市場におけるEV専売化方針",
+        "article_ids": [
+            302626,
+            497731
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "Xiaomiの10月EV納車台数5万台突破",
+        "article_ids": [
+            486973,
+            930918
+        ],
+        "is_grouped": true
+    }
+]
