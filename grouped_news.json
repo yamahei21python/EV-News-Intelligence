@@ -1,0 +1,102 @@
+[
+    {
+        "topic_name": "BYDのEV販売台数および輸出動向",
+        "article_ids": [
+            470392,
+            833768,
+            937980
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "中国製EVの韓国市場参入と保護策",
+        "article_ids": [
+            606648,
+            881757
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "ヤマトモビリティ＆Mfg.による日産アトラスEVコンバージョンの量産・販売開始",
+        "article_ids": [
+            863104,
+            416296,
+            372753
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "トヨタとWaymoによる日本国内でのbZ4X無人タクシー運行計画",
+        "article_ids": [
+            394320,
+            150025,
+            322314
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "スズキの軽乗用EV「eスカイ」の公開",
+        "article_ids": [
+            837106,
+            383044
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "鴻海（Foxconn）のEV新型3モデル発表",
+        "article_ids": [
+            567176,
+            246305
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "InfineonのEV向け1200V SiC PCB埋め込み技術",
+        "article_ids": [
+            740447
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "シャオミEVのオーストラリア市場参入",
+        "article_ids": [
+            187132
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "インドネシアの官民会合によるEV開発促進",
+        "article_ids": [
+            904317
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "日本特殊陶業のEV化に伴う事業転換",
+        "article_ids": [
+            835274
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "寧徳時代のEV電池出荷記録更新",
+        "article_ids": [
+            259716
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "フォルクスワーゲンによるEV「ID. Golf」開発停止",
+        "article_ids": [
+            307096
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "AIデータセンター需要による電力用蓄電池の急増",
+        "article_ids": [
+            702999
+        ],
+        "is_grouped": false
+    }
+]
