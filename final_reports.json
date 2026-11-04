@@ -1,496 +1,193 @@
 [
     {
-        "topic_name": "BYDの10月販売台数急増",
+        "topic_name": "タイにおける輸入EV物品税の35%への引き上げ",
         "article_ids": [
-            470392,
-            833768,
-            937980
+            164350,
+            758339,
+            433375,
+            327593,
+            477536,
+            603025
         ],
         "articles": [
             {
-                "id": 470392,
-                "title": "中国ＥＶ大手ＢＹＤ、輸出好調で6カ月連続販売増（ロイター） - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tZWZUNnlHUEIxQjVOTmI2NHdVY1JDZ1RsMjVUNllYSWlXSDF2eWpYMTAtZWdSSUhRYlZrbEdiSldscnRwb0lzMHBKTjluQmhYbFVGZ1hheVlGc2M4Uy14VDBqel9oamdRNzFBRlBJbUkwWjNmdG1DNUg2Q3kzWEU?oc=5",
-                "published": "Mon, 02 Nov 2026 00:28:36 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5tZWZUNnlHUEIxQjVOTmI2NHdVY1JDZ1RsMjVUNllYSWlXSDF2eWpYMTAtZWdSSUhRYlZrbEdiSldscnRwb0lzMHBKTjluQmhYbFVGZ1hheVlGc2M4Uy14VDBqel9oamdRNzFBRlBJbUkwWjNmdG1DNUg2Q3kzWEU?oc=5\" target=\"_blank\">中国ＥＶ大手ＢＹＤ、輸出好調で6カ月連続販売増（ロイター）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "id": 164350,
+                "title": "タイ 輸入EVの物品税引き上げへ - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RaFBid3NuZWxQM1U3YWRFU1V4bW9zeDNGOUdiLUdPTFdaNERMaTlaUUg4TDNZNks3SV9BUXVMZFkweG9objZNTXg5cXYzVk5K?oc=5",
+                "published": "Tue, 03 Nov 2026 14:40:16 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RaFBid3NuZWxQM1U3YWRFU1V4bW9zeDNGOUdiLUdPTFdaNERMaTlaUUg4TDNZNks3SV9BUXVMZFkweG9objZNTXg5cXYzVk5K?oc=5\" target=\"_blank\">タイ 輸入EVの物品税引き上げへ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
                 "site_name": "Yahoo!ニュース",
-                "primary_category": "Sales",
-                "reason": "BYDの販売動向はグローバルEV市場の重要指標。",
+                "primary_category": "Policy",
+                "reason": "タイのEV輸入物品税引き上げという市場環境変化。",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 758339,
+                "title": "タイ、輸入EVの物品税35%に引き上げ 国内生産促す - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rMDl0M2FoSDk5S0J2NThNXzg2TDREaUswNmFrYm9YbnEwa0I0UkQwQzBDWFgtLTAxcVItXzZhVm45WFMzRHF1U1UzZG1mNlRybG1kV2tHT1hQLWp3UzVyUVhyajYtM1FvWENRaQ?oc=5",
+                "published": "Tue, 03 Nov 2026 09:45:50 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5rMDl0M2FoSDk5S0J2NThNXzg2TDREaUswNmFrYm9YbnEwa0I0UkQwQzBDWFgtLTAxcVItXzZhVm45WFMzRHF1U1UzZG1mNlRybG1kV2tHT1hQLWp3UzVyUVhyajYtM1FvWENRaQ?oc=5\" target=\"_blank\">タイ、輸入EVの物品税35%に引き上げ 国内生産促す</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "site_name": "日本経済新聞",
+                "primary_category": "Policy",
+                "reason": "タイのEV政策変更によるサプライチェーンへの影響。",
+                "score": 90,
+                "is_highly_important": true
+            },
+            {
+                "id": 433375,
+                "title": "タイ、輸入ＥＶ増税へ - OANDA証券",
+                "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4MjNYLXJqQnNNbzZvZHAwcmdtSl9vQVc5MXp0a2pWZ0pRMDA4bzRJM2pPeGJpZEdxVkc1OHkycHhWZVZCRkFXTzR0WWhPOXRKWkVOaWY5aEVIdFoyTEE1SUdOTFQyTm01dkhNcVRRaVI4UmgwNkE?oc=5",
+                "published": "Tue, 03 Nov 2026 10:16:55 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFA4MjNYLXJqQnNNbzZvZHAwcmdtSl9vQVc5MXp0a2pWZ0pRMDA4bzRJM2pPeGJpZEdxVkc1OHkycHhWZVZCRkFXTzR0WWhPOXRKWkVOaWY5aEVIdFoyTEE1SUdOTFQyTm01dkhNcVRRaVI4UmgwNkE?oc=5\" target=\"_blank\">タイ、輸入ＥＶ増税へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OANDA証券</font>",
+                "site_name": "OANDA証券",
+                "primary_category": "Policy",
+                "reason": "タイの輸入EV増税に関する速報。",
+                "score": 75,
+                "is_highly_important": false
+            },
+            {
+                "id": 327593,
+                "title": "タイ、輸入EV増税へ 来年1月、国内投資促す（共同通信） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfbjBIRFQ3X0xmLTV1NWk5Tm40UmgyNElnaWp4NHJsNHhIeGI3Vk1BQ3ktM2ZvSE4yVTd3eUloSU9yRjR2UllBRDMzQW9fSmFhQVUwcmIwQTVZQVdpLUtRTnRmNGxXTUFDZVNUdlI3RkNZREg3alR1WGlNLUNWN2s?oc=5",
+                "published": "Tue, 03 Nov 2026 10:16:09 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBfbjBIRFQ3X0xmLTV1NWk5Tm40UmgyNElnaWp4NHJsNHhIeGI3Vk1BQ3ktM2ZvSE4yVTd3eUloSU9yRjR2UllBRDMzQW9fSmFhQVUwcmIwQTVZQVdpLUtRTnRmNGxXTUFDZVNUdlI3RkNZREg3alR1WGlNLUNWN2s?oc=5\" target=\"_blank\">タイ、輸入EV増税へ 来年1月、国内投資促す（共同通信）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Policy",
+                "reason": "タイの輸入EV増税に関する一次情報。",
                 "score": 80,
                 "is_highly_important": true
             },
             {
-                "id": 833768,
-                "title": "BYD、305,743台のEVを10月に販売 米国の第3四半期の販売台数を上回る - Mezha.net",
-                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZXhNTUhzemdmbWlXemszbVJDeS1rc3B3T0lWaW9hX1laYmZUOHlkanJvaVlQelZZeTFtSDROYnpyOGJYay1CWXRCR0EzRFRHWVJ3Z3RVc2FrZnJhaUhPYjFTUVVaV1pvNHZ0czA0dmZQNi15WmxuMkVUMURIYUtoUzE5aVZjTFNU?oc=5",
-                "published": "Mon, 02 Nov 2026 10:31:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZXhNTUhzemdmbWlXemszbVJDeS1rc3B3T0lWaW9hX1laYmZUOHlkanJvaVlQelZZeTFtSDROYnpyOGJYay1CWXRCR0EzRFRHWVJ3Z3RVc2FrZnJhaUhPYjFTUVVaV1pvNHZ0czA0dmZQNi15WmxuMkVUMURIYUtoUzE5aVZjTFNU?oc=5\" target=\"_blank\">BYD、305,743台のEVを10月に販売 米国の第3四半期の販売台数を上回る</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mezha.net</font>",
-                "site_name": "Mezha.net",
-                "primary_category": "Sales",
-                "reason": "BYDの販売台数急増は業界の勢力図に関わる重要事項。",
-                "score": 80,
-                "is_highly_important": true
-            },
-            {
-                "id": 937980,
-                "title": "BYD、10月販売49万台で22カ月ぶり高水準 EVは初の30万台超え - 36Kr Japan",
-                "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE03LU1iZGlRNDNFOUpVNmRhU0k1TUNQZm13SmRydUM5UERMQzJkdU9MN2I3N1BuWWdORVNB?oc=5",
-                "published": "Mon, 02 Nov 2026 23:04:33 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiO0FVX3lxTE03LU1iZGlRNDNFOUpVNmRhU0k1TUNQZm13SmRydUM5UERMQzJkdU9MN2I3N1BuWWdORVNB?oc=5\" target=\"_blank\">BYD、10月販売49万台で22カ月ぶり高水準 EVは初の30万台超え</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">36Kr Japan</font>",
-                "site_name": "36Kr Japan",
-                "primary_category": "Sales",
-                "reason": "BYDの販売記録更新。",
-                "score": 80,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "BYDの10月販売は49万台超と堅調だが、国内販売の減速を海外市場の急拡大（前年比2倍超）で補う構図が鮮明化。",
-                "BEV販売が初の月間30万台突破。かつての稼ぎ頭であったPHEVの失速を補い、BEV純粋EVメーカーとしての体質強化が加速。",
-                "過剰供給と競争激化による国内利益率の低下が懸念される中、欧州の規制強化等の地政学的リスクが次なる経営課題に浮上。"
-            ],
-            "insight": "BYDの成長は「国内の出血を海外の輸血で止める」段階から、BEV純粋EVメーカーへの構造転換期に入った。国内の価格競争に疲弊しつつも、圧倒的なコスト競争力を武器にグローバル市場で販売規模を維持する戦略は、欧州の保護貿易主義という壁に突き当たっている。今後は『量』から『利益率』を維持する法規制対応力が真価を問う。"
-        }
-    },
-    {
-        "topic_name": "中国EVの韓国浸透と政府の保護策",
-        "article_ids": [
-            606648,
-            881757
-        ],
-        "articles": [
-            {
-                "id": 606648,
-                "title": "中国製EVが新たな戦線を開く：BYDは韓国で首位、日本は依然として難攻不落 - BigGo ファイナンス",
-                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Hbm9UNXc3N0VmbWJqMl9DdWpRVERza0Z6RUdrNEQzQ0RYTzdLMGZ2TUhzWWFEVUt4WTF3N1JKbVI3QzRNSWd3UFowV0NycC1vam5fSE1rOHRoZF84dVh3SzZWRFc0RTU1ZzEyQnVOaEFlV0NB?oc=5",
-                "published": "Mon, 02 Nov 2026 17:31:56 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9Hbm9UNXc3N0VmbWJqMl9DdWpRVERza0Z6RUdrNEQzQ0RYTzdLMGZ2TUhzWWFEVUt4WTF3N1JKbVI3QzRNSWd3UFowV0NycC1vam5fSE1rOHRoZF84dVh3SzZWRFc0RTU1ZzEyQnVOaEFlV0NB?oc=5\" target=\"_blank\">中国製EVが新たな戦線を開く：BYDは韓国で首位、日本は依然として難攻不落</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+                "id": 477536,
+                "title": "タイ、完全輸入EVに1月から35%の物品税を課税へ - BigGo ファイナンス",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zRFlUOU9NeDUxTlZ6SzZoZWNLSF9xOGQtNnBmYVlHaGFPZTFVMm43QjdYSnBDcUZtMnczSS1YU0U3RW9RWUpwdkJhdlZYbEZsdmN1ZEdPZTVHdXdqNDlaN25nQ29LX3hVUm5BZWE0elpxRVRB?oc=5",
+                "published": "Tue, 03 Nov 2026 07:26:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE0zRFlUOU9NeDUxTlZ6SzZoZWNLSF9xOGQtNnBmYVlHaGFPZTFVMm43QjdYSnBDcUZtMnczSS1YU0U3RW9RWUpwdkJhdlZYbEZsdmN1ZEdPZTVHdXdqNDlaN25nQ29LX3hVUm5BZWE0elpxRVRB?oc=5\" target=\"_blank\">タイ、完全輸入EVに1月から35%の物品税を課税へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
                 "site_name": "BigGo ファイナンス",
-                "primary_category": "Market Analysis",
-                "reason": "BYDの市場戦略と地域シェアに関する分析のため重要。",
-                "score": 75,
-                "is_highly_important": true
-            },
-            {
-                "id": 881757,
-                "title": "中国製EVが韓国市場の38％を占める中…韓国政府、「国産車保護策」を検討（中央日報日本語版） - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GTGtMbjZTYlI2azZ1dzZkc2ZiNzFsNXhlaEFMWUZZb3l5RUxTdlZPZUNKS25JY25kWXhqVC1La0Z3UWJEV1FTUTlHWUMtQ09kNFhOaTljOTR5ZUdnbDdDcjZaSW9rLVpJaS14TFhRanVfRTZvckNaS0I0UHNIUTg?oc=5",
-                "published": "Tue, 03 Nov 2026 01:10:39 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1GTGtMbjZTYlI2azZ1dzZkc2ZiNzFsNXhlaEFMWUZZb3l5RUxTdlZPZUNKS25JY25kWXhqVC1La0Z3UWJEV1FTUTlHWUMtQ09kNFhOaTljOTR5ZUdnbDdDcjZaSW9rLVpJaS14TFhRanVfRTZvckNaS0I0UHNIUTg?oc=5\" target=\"_blank\">中国製EVが韓国市場の38％を占める中…韓国政府、「国産車保護策」を検討（中央日報日本語版）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-                "site_name": "Yahoo!ニュース",
                 "primary_category": "Policy",
-                "reason": "韓国の保護主義的対応。",
-                "score": 70,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "韓国市場における中国製EVのシェア急増（電気乗用車で43.5%）による国内産業への危機感の高まり",
-                "現代自動車・起亜が高級EVに注力する隙を突き、BYD等の低価格モデルが中間層需要を強奪",
-                "韓国政府がEV生産の税額控除導入を検討するなど、保護貿易的な政策転換を模索する事態へ発展"
-            ],
-            "insight": "韓国市場はEV普及率の高さゆえに、中国製EVの「低価格・高コスパ」という破壊的武器を最も鋭く受け止める最前線となった。一方、ハイブリッド依存の日本市場は、心理的・インフラ的障壁によって中国勢の浸透を遅らせている。韓国における保護策の検討は、中国の過剰生産能力に対する供給側（完成車メーカー）の防衛行動であり、世界的なEV貿易摩擦の象徴的事例と言える。"
-        }
-    },
-    {
-        "topic_name": "ヤマトモビリティ＆Mfg.による日産アトラスEVコンバージョンの量産・販売開始",
-        "article_ids": [
-            863104,
-            416296,
-            372753
-        ],
-        "articles": [
-            {
-                "id": 863104,
-                "title": "ヤマト モビリティ＆Mfg.／日産アトラスF24型EVコンバージョンの量産・受注を開始 - トラックニュース",
-                "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4eDdWVGRWaThNTDB3Zm5qcmYtNkFGWjEtb0MzcmNTZlNGTHFROHFncVh2enFjNHpKSE1BR1loOW5HWUlYVV95MW1lQkVzMENXcEhpbA?oc=5",
-                "published": "Mon, 02 Nov 2026 04:36:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4eDdWVGRWaThNTDB3Zm5qcmYtNkFGWjEtb0MzcmNTZlNGTHFROHFncVh2enFjNHpKSE1BR1loOW5HWUlYVV95MW1lQkVzMENXcEhpbA?oc=5\" target=\"_blank\">ヤマト モビリティ＆Mfg.／日産アトラスF24型EVコンバージョンの量産・受注を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">トラックニュース</font>",
-                "site_name": "トラックニュース",
-                "primary_category": "Supply Chain",
-                "reason": "商用車のEV量産化は物流業界の脱炭素化として重要。",
-                "score": 70,
+                "reason": "タイのEV輸入税に関する重要な政策変更。",
+                "score": 80,
                 "is_highly_important": true
             },
             {
-                "id": 416296,
-                "title": "ヤマトモビリティ＆Ｍｆｇ．[7886]：日産アトラスEVコンバージョントラックの量産・販売を開始 2026年11月2日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtdnNwdnhyQS15YUVnb1hldzZwdW12dk1FcHp4a3Y1YUxXT0tIUHZPZUFPYTZHd2w1cjVRYXIySlpTWkJIVG11ZUp6UHhpY05tWEZyLTZOWE90VVJ2dVdtcFRzMF9CdjFmZVE?oc=5",
-                "published": "Mon, 02 Nov 2026 02:50:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBtdnNwdnhyQS15YUVnb1hldzZwdW12dk1FcHp4a3Y1YUxXT0tIUHZPZUFPYTZHd2w1cjVRYXIySlpTWkJIVG11ZUp6UHhpY05tWEZyLTZOWE90VVJ2dVdtcFRzMF9CdjFmZVE?oc=5\" target=\"_blank\">ヤマトモビリティ＆Ｍｆｇ．[7886]：日産アトラスEVコンバージョントラックの量産・販売を開始 2026年11月2日(適時開示) ：日経会社情報DIGITAL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-                "site_name": "日本経済新聞",
-                "primary_category": "Supply Chain",
-                "reason": "適時開示情報に基づく商用EVの量産開始のため重要。",
-                "score": 75,
-                "is_highly_important": true
-            },
-            {
-                "id": 372753,
-                "title": "日産アトラスEVコンバージョントラックの量産・販売を開始 - PR TIMES",
-                "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DUUYzazNVdXVsRTJkNEtrUk1wdnBEQUI2Z2VSVmNNRlVXTkk5WDdKRTc4TWxmTUhQaVp2dTJXMXMyWWZlTWlTUlg5VzBWc2NVcFI5NGlBR2QyWDNYREdYRk1wUlVDenFwWEE?oc=5",
-                "published": "Mon, 02 Nov 2026 03:05:34 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1DUUYzazNVdXVsRTJkNEtrUk1wdnBEQUI2Z2VSVmNNRlVXTkk5WDdKRTc4TWxmTUhQaVp2dTJXMXMyWWZlTWlTUlg5VzBWc2NVcFI5NGlBR2QyWDNYREdYRk1wUlVDenFwWEE?oc=5\" target=\"_blank\">日産アトラスEVコンバージョントラックの量産・販売を開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>",
-                "site_name": "PR TIMES",
-                "primary_category": "Supply Chain",
-                "reason": "商用EVの量産・販売開始情報。",
-                "score": 70,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "日産アトラスF24型をベースとしたEVコンバージョン車両の量産・受注販売を開始",
-                "普通免許対応モデルを含むラインナップで、物流業界のドライバー不足と脱炭素ニーズに直結",
-                "オートワークス京都との連携により、製造品質と安全性を担保した量産体制を確立"
-            ],
-            "insight": "物流危機における「車両の再利用」という戦略は、新車納期や価格高騰に悩む現場の切実な解だ。特にオートワークス京都との提携は、改造車両に不可欠な信頼性の担保として秀逸。メーカー純正EVを待てない中小運送事業者が、既存のアセット（車両）を活かして即座に脱炭素へ移行できるルートを確保したことは、ラストワンマイルの電動化を加速させる極めて合理的な一手と言える。"
-        }
-    },
-    {
-        "topic_name": "トヨタとWaymoによる日本国内でのbZ4X無人タクシー運行計画",
-        "article_ids": [
-            394320,
-            150025,
-            322314
-        ],
-        "articles": [
-            {
-                "id": 394320,
-                "title": "トヨタとウェイモ､27年から日本でロボタク bZ4X活用 - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XaGNOaGpXbDY3TWVVaHNNbzRKZWNHR0VvN1dIZ1pETGx0ZTJJbTZyNlYyeUk1Z2hZWi1Ld3Vfd1lyVk1PeDBpOFpwdUpvX2FmYWhwWnoySmR5MnB0OVhZUlI3eGZrVmRJQWRXSVZ0aWktb21tZkd1Z043VGpnUGs?oc=5",
-                "published": "Sun, 01 Nov 2026 20:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5XaGNOaGpXbDY3TWVVaHNNbzRKZWNHR0VvN1dIZ1pETGx0ZTJJbTZyNlYyeUk1Z2hZWi1Ld3Vfd1lyVk1PeDBpOFpwdUpvX2FmYWhwWnoySmR5MnB0OVhZUlI3eGZrVmRJQWRXSVZ0aWktb21tZkd1Z043VGpnUGs?oc=5\" target=\"_blank\">トヨタとウェイモ､27年から日本でロボタク bZ4X活用</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-                "site_name": "日本経済新聞",
-                "primary_category": "Strategic Partnership",
-                "reason": "トヨタとWaymoの自動運転タクシー協業は重要。",
-                "score": 90,
-                "is_highly_important": true
-            },
-            {
-                "id": 150025,
-                "title": "【トヨタ】Waymoと協業 EV「bZ4X」の無人自動運転タクシーを2027年に国内で初期運行（Auto Prove） | 自動車情報・ニュース - carview!",
-                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRU1LN1d4T00xNjRDTnBrck5MdjVPalJkTXNVV3QyNWJseXlKTmN5S0dGQ2lvZEZZWUx6Q0lUaldxbzUwaWd2RFNpSEIzb3NVb2g4SDM3cE5mZUhGa19VREoxaE1YY1l3TDJMazI4WTZCSEl6QXFtSWRjMnBDaDZGQ2RjaHJKY1ZLUGF3dTJ5MEhkQUF5?oc=5",
-                "published": "Tue, 03 Nov 2026 01:30:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNRU1LN1d4T00xNjRDTnBrck5MdjVPalJkTXNVV3QyNWJseXlKTmN5S0dGQ2lvZEZZWUx6Q0lUaldxbzUwaWd2RFNpSEIzb3NVb2g4SDM3cE5mZUhGa19VREoxaE1YY1l3TDJMazI4WTZCSEl6QXFtSWRjMnBDaDZGQ2RjaHJKY1ZLUGF3dTJ5MEhkQUF5?oc=5\" target=\"_blank\">【トヨタ】Waymoと協業 EV「bZ4X」の無人自動運転タクシーを2027年に国内で初期運行（Auto Prove） | 自動車情報・ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">carview!</font>",
-                "site_name": "carview!",
-                "primary_category": "Strategic Partnership",
-                "reason": "トヨタとWaymoの協業詳細。",
-                "score": 90,
-                "is_highly_important": true
-            },
-            {
-                "id": 322314,
-                "title": "トヨタ自動車とWaymo、自動運転分野で協業拡大 「bZ4X」ベースの自動運転タクシーを2027年に日本で運行開始 - LIGARE（リガーレ）",
-                "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCYTlVckQtcU1BSmxEQlQydTYyLVJqYTBJUHZnaU15SlpYRDQzSDY3UzNHb3Y3UHF2YzZTNWNNMUlNZGxyNHFhX3RpNEp0bVptUDRRX3Q1MkZpVjJ5?oc=5",
-                "published": "Mon, 02 Nov 2026 23:30:31 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCYTlVckQtcU1BSmxEQlQydTYyLVJqYTBJUHZnaU15SlpYRDQzSDY3UzNHb3Y3UHF2YzZTNWNNMUlNZGxyNHFhX3RpNEp0bVptUDRRX3Q1MkZpVjJ5?oc=5\" target=\"_blank\">トヨタ自動車とWaymo、自動運転分野で協業拡大 「bZ4X」ベースの自動運転タクシーを2027年に日本で運行開始</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LIGARE（リガーレ）</font>",
-                "site_name": "LIGARE（リガーレ）",
-                "primary_category": "Strategic Partnership",
-                "reason": "Waymoとの自動運転協業。",
-                "score": 90,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "トヨタとWaymoが戦略的提携を深め、2027年に国内でbZ4Xベースのレベル4無人タクシーを実用化。",
-                "車両生産はトヨタ高岡工場が担い、Waymoの自動運転スタックを工場出荷段階で統合する垂直統合モデルを採用。",
-                "日本国内を皮切りに、英国など右ハンドル市場へ順次展開し、グローバルでのロボタクシー覇権を狙う。"
-            ],
-            "insight": "トヨタの強みであるハードウェアの製造品質と、Waymoの圧倒的なソフトウェア知見の「最適解」を融合させた提携です。単なる改造車両ではなく、工場出荷時からの統合により安全性を担保する姿勢は、自動運転の社会実装における信頼性の壁を突破する鍵となります。特に右ハンドル市場への展開を見据えた動きは、都市部が複雑な日本での成功がそのままグローバル標準への近道であることを示唆しています。"
-        }
-    },
-    {
-        "topic_name": "スズキの軽乗用EV「eスカイ」の公開",
-        "article_ids": [
-            837106,
-            383044
-        ],
-        "articles": [
-            {
-                "id": 837106,
-                "title": "スズキeスカイ､EVでも｢省く｣徹底 最安･最軽にこだわり - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jYjdUaXhGQ3NPUjBzbmVlejROcFpYMm1XZnVZc2JRMDdvUVNzVFZYcmhGUm9PX3d4cjRidVZkSXptOEEySVJDbFdJTUpvTGhyV3I1X1dDc25DSFpobURTdUpmOWpPa2swOTNTSDBTT0piS1FBT1pOT3AtbjZTaVk?oc=5",
-                "published": "Sun, 01 Nov 2026 20:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5jYjdUaXhGQ3NPUjBzbmVlejROcFpYMm1XZnVZc2JRMDdvUVNzVFZYcmhGUm9PX3d4cjRidVZkSXptOEEySVJDbFdJTUpvTGhyV3I1X1dDc25DSFpobURTdUpmOWpPa2swOTNTSDBTT0piS1FBT1pOT3AtbjZTaVk?oc=5\" target=\"_blank\">スズキeスカイ､EVでも｢省く｣徹底 最安･最軽にこだわり</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-                "site_name": "日本経済新聞",
-                "primary_category": "Product Strategy",
-                "reason": "スズキのコスト競争力戦略は軽EV市場を左右する。",
-                "score": 70,
-                "is_highly_important": true
-            },
-            {
-                "id": 383044,
-                "title": "スズキ、初の軽乗用EV「eスカイ」を公開 今秋に詳細発表 航続距離は310km ガソリン車と違和感ない乗り味追求 - 日刊自動車新聞",
-                "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tc18tUGJ1UE5scE5acmdtWVdrTHg5dFFBR0pqTURhU1NWa2hFeTNTcnBSZnBCVXVRTlVrVm9NUXdBb2E5eFpIcC1va09mSExOOHc?oc=5",
-                "published": "Mon, 02 Nov 2026 10:13:18 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tc18tUGJ1UE5scE5acmdtWVdrTHg5dFFBR0pqTURhU1NWa2hFeTNTcnBSZnBCVXVRTlVrVm9NUXdBb2E5eFpIcC1va09mSExOOHc?oc=5\" target=\"_blank\">スズキ、初の軽乗用EV「eスカイ」を公開 今秋に詳細発表 航続距離は310km ガソリン車と違和感ない乗り味追求</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日刊自動車新聞</font>",
-                "site_name": "日刊自動車新聞",
-                "primary_category": "Product Strategy",
-                "reason": "スズキの軽EV戦略。",
-                "score": 70,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "「省く」思想の徹底による究極のコストダウンと軽量化の実現",
-                "ガソリン車ユーザーの違和感を払拭する操作性と走行性能の追求",
-                "LFP電池と自社開発eアクスルによる高電費と航続距離の最適化"
-            ],
-            "insight": "スズキの真骨頂は『機能の取捨選択』による価格破壊にある。EV化を単なる技術移行と捉えず、軽自動車の本質である生活の道具へ昇華させた。BYD等の新興勢力が装備で攻める中、操作感の連続性や徹底した削ぎ落としで『既存ユーザーの迷い』を消す戦略は、国内市場におけるEVの社会実装を加速させる現実的な最適解である。"
-        }
-    },
-    {
-        "topic_name": "鴻海（Foxconn）のEV新型3モデル発表",
-        "article_ids": [
-            567176,
-            246305
-        ],
-        "articles": [
-            {
-                "id": 567176,
-                "title": "【台湾―その他】鴻海がＥＶの新型３モデル発表、ＳＵＶと軽トラック - 国際自動車ニュース",
-                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2bHd0Y2ZVSE4xT21PbjlibDAxeXV0QVdZbmptQWJmejV2SHNnZnFoWWVCQ0FaOXF0R1VxUkVodXY2R0YycFJXZHllMTNnQXU0aFRrak5HRk4wT1VLU1NZdEwxSTI1UEhkQmpHZ2lNX05wTmlrVWsyRng5S2J4Zw?oc=5",
-                "published": "Mon, 02 Nov 2026 05:07:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFA2bHd0Y2ZVSE4xT21PbjlibDAxeXV0QVdZbmptQWJmejV2SHNnZnFoWWVCQ0FaOXF0R1VxUkVodXY2R0YycFJXZHllMTNnQXU0aFRrak5HRk4wT1VLU1NZdEwxSTI1UEhkQmpHZ2lNX05wTmlrVWsyRng5S2J4Zw?oc=5\" target=\"_blank\">【台湾―その他】鴻海がＥＶの新型３モデル発表、ＳＵＶと軽トラック</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">国際自動車ニュース</font>",
-                "site_name": "国際自動車ニュース",
-                "primary_category": "Product Strategy",
-                "reason": "鴻海（Foxconn）のEVプラットフォーム戦略の進捗。",
-                "score": 70,
-                "is_highly_important": true
-            },
-            {
-                "id": 246305,
-                "title": "Hon Hai Technology Group (Foxconn) 、HHTD26で3つの特徴的なEVモデルを発表 - Infoseek",
-                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jTHZOQUxrSGRZN1NkWEg5SHJHVU1mNXUybldtcGhxWHpPSEZBOFBfeEc1WF91QVNTZ1YtNVFVUHRHYUZuVW1TMUJRb0VXZDhpYTdFU0tSZzgwRmRrUkl3eUxDaTdSWjg?oc=5",
-                "published": "Mon, 02 Nov 2026 01:46:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jTHZOQUxrSGRZN1NkWEg5SHJHVU1mNXUybldtcGhxWHpPSEZBOFBfeEc1WF91QVNTZ1YtNVFVUHRHYUZuVW1TMUJRb0VXZDhpYTdFU0tSZzgwRmRrUkl3eUxDaTdSWjg?oc=5\" target=\"_blank\">Hon Hai Technology Group (Foxconn) 、HHTD26で3つの特徴的なEVモデルを発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
-                "site_name": "Infoseek",
-                "primary_category": "Product Strategy",
-                "reason": "FoxconnのEVモデル発表は生産委託モデルとして重要。",
-                "score": 70,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "鴻海（Foxconn）がEVリファレンスモデルを計12車種に拡充し、SUVと商用軽トラ市場へ攻勢を強める",
-                "「CDMS（受託設計・製造サービス）」モデルを強化し、インホイールモーターや可変式EEAなど柔軟なプラットフォームを訴求",
-                "若年層向けデザインやラストマイル配送向けモデルを投入し、特定のニッチ層や新規EV参入企業への供給網を拡大"
-            ],
-            "insight": "鴻海の狙いは単なる受託製造から、EV版「Android」のようなプラットフォームの覇権掌握にある。設計の自由度を担保しつつ、材料からBMSまで自社完結するフルスタック供給能力を誇示することで、開発リソースを持たない異業種や新興メーカーの参入障壁を劇的に下げ、自動車業界の「水平分業」を決定的に促している。"
-        }
-    },
-    {
-        "topic_name": "InfineonのEV向け1200V SiC PCB埋め込み技術",
-        "article_ids": [
-            740447
-        ],
-        "articles": [
-            {
-                "id": 740447,
-                "title": "Infineon、1200V SiCをPCBに埋め込み EV向け：開発期間を最大3分の1に - EE Times Japan",
-                "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ROHpCb1MyX1N0NHAxZHRHclBwQVB5Y0Y4by1nV0ZTOUhDaFVyOEZCZW1pVURod0NTZWJfcFVPcndYUU1XOUwxOGRmbW5oMnpMd0JKUlBjTDVvOVFjVHVhSzJSb0ZKNjhtVFc0d21rUQ?oc=5",
-                "published": "Mon, 02 Nov 2026 09:25:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5ROHpCb1MyX1N0NHAxZHRHclBwQVB5Y0Y4by1nV0ZTOUhDaFVyOEZCZW1pVURod0NTZWJfcFVPcndYUU1XOUwxOGRmbW5oMnpMd0JKUlBjTDVvOVFjVHVhSzJSb0ZKNjhtVFc0d21rUQ?oc=5\" target=\"_blank\">Infineon、1200V SiCをPCBに埋め込み EV向け：開発期間を最大3分の1に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EE Times Japan</font>",
-                "site_name": "EE Times Japan",
-                "primary_category": "Technology",
-                "reason": "パワー半導体の開発期間短縮はサプライチェーン効率化に寄与。",
-                "score": 75,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "1200V SiC MOSFETのPCB内部埋め込み技術「ENDOPACK Cell」による寄生インダクタンスの劇的低減（20nH→2nH未満）",
-                "EVインバータの設計自由度向上と共通プラットフォーム化による開発期間の最大3分の1短縮を実現",
-                "電力密度200kW/L、システム効率99.5%を達成し、2027年の車両量産を見据えた高電圧SiC実装のパラダイムシフト"
-            ],
-            "insight": "本技術は「モジュールパッケージの制約」というパワーエレクトロニクスの長年の足枷を、PCB製造プロセスへの統合で排除した点に真の価値がある。設計のモジュール化・標準化を可能にすることで、OEMは車種毎の過剰な開発コストを削減し、真のプラットフォーム共通化へ踏み込める。SiC性能を極限まで引き出す「実装革命」であり、Tier1の存在意義を根底から揺るがす構造転換だ。"
-        }
-    },
-    {
-        "topic_name": "シャオミEVのオーストラリア市場参入",
-        "article_ids": [
-            187132
-        ],
-        "articles": [
-            {
-                "id": 187132,
-                "title": "中国シャオミのＥＶ、28年に豪市場参入へ - NNAアジア",
-                "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9MTmg3Zk1wS0oxVkxIcGJRMkVTczZiQ2hfOHBhMjFGS3l6TDh3cFpsWmJ2RnlTYkNsOERidkFjWTVKQlotN2c?oc=5",
-                "published": "Mon, 02 Nov 2026 07:54:42 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE9MTmg3Zk1wS0oxVkxIcGJRMkVTczZiQ2hfOHBhMjFGS3l6TDh3cFpsWmJ2RnlTYkNsOERidkFjWTVKQlotN2c?oc=5\" target=\"_blank\">中国シャオミのＥＶ、28年に豪市場参入へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NNAアジア</font>",
+                "id": 603025,
+                "title": "輸入ＥＶの物品税35％に引き上げ、来年１月から - NNAアジア",
+                "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9yUzkyOF9MdXRRSXY5MFhZV3U0alRuMUF6b2dPTUQ4RXhVbjh4LW1rSG10RVZOS2ZzeGVHSFZQLVhqQ1V1S1E?oc=5",
+                "published": "Tue, 03 Nov 2026 19:17:40 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE9yUzkyOF9MdXRRSXY5MFhZV3U0alRuMUF6b2dPTUQ4RXhVbjh4LW1rSG10RVZOS2ZzeGVHSFZQLVhqQ1V1S1E?oc=5\" target=\"_blank\">輸入ＥＶの物品税35％に引き上げ、来年１月から</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NNAアジア</font>",
                 "site_name": "NNAアジア",
-                "primary_category": "Expansion",
-                "reason": "シャオミのグローバル展開戦略として重要な動き。",
-                "score": 65,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "2028年の豪市場参入を視野に、シャオミがグローバル展開を加速",
-                "既存のスマートフォン等で培ったデジタルエコシステムを武器にEVブランドの定着を図る",
-                "中国国内での生産規模拡大を背景に、テスラを意識した国際的市場シェア獲得への布石"
-            ],
-            "insight": "シャオミの狙いは単なる車両販売ではなく、スマホ・家電・EVを統合した『ヒューマン×カー×ホーム』エコシステムの海外輸出にある。オーストラリアは先進的なデジタル需要を持つ一方、自動車産業を持たず輸入依存度が高いため、同社のブランド力とソフトウェア統合力が試される絶好の試験場となる。レガシーメーカーが苦戦するソフトウェアのユーザー体験（UX）領域で、既存のテスラ一強体制をどこまで切り崩せるかが今後の焦点だ。"
-        }
-    },
-    {
-        "topic_name": "インドネシアの官民会合によるEV開発促進",
-        "article_ids": [
-            904317
-        ],
-        "articles": [
-            {
-                "id": 904317,
-                "title": "【インドネシア】未来産業見据え官民会合、ＥＶ開発など促進へ（NNA） - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WRG1nLV96bUN1OUFQQTNFLWRSNXdpLXpwdjFuZFpaczFOb0dJWXVDTXI4Yl90VUp2VDV3VnBzY2o0eFZ5Z1QzYUt1Q09oMzBIVkRRd0ZoZnVfdWN5SkdmOFRIVWR6alFzSE5ZcGZvZ2JGUHA4UWJXTUkyZkNpYUk?oc=5",
-                "published": "Mon, 02 Nov 2026 02:30:56 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5WRG1nLV96bUN1OUFQQTNFLWRSNXdpLXpwdjFuZFpaczFOb0dJWXVDTXI4Yl90VUp2VDV3VnBzY2o0eFZ5Z1QzYUt1Q09oMzBIVkRRd0ZoZnVfdWN5SkdmOFRIVWR6alFzSE5ZcGZvZ2JGUHA4UWJXTUkyZkNpYUk?oc=5\" target=\"_blank\">【インドネシア】未来産業見据え官民会合、ＥＶ開発など促進へ（NNA）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-                "site_name": "Yahoo!ニュース",
                 "primary_category": "Policy",
-                "reason": "インドネシアのEV産業政策に関する官民連携案件。",
-                "score": 70,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "インドネシア政府とカディンがEV・再エネ・データセンターの3本柱を「未来産業」と位置づけ、投資誘致を加速",
-                "2029年までの5年間で1京3,000兆ルピア超の投資目標を掲げ、民間主導の産業転換を強力にバックアップ",
-                "国内直接投資（DDI）の最大業種が「運輸・通信」である点を踏まえ、EVバリューチェーンの現地化と効率的な社会インフラ構築を狙う"
-            ],
-            "insight": "プラボウォ政権は資源国からの脱皮を狙い、単なる原材料輸出からEVを中心とした「産業下流化」へと舵を切りました。特筆すべきは、政府主導ではなく商工会議所（カディン）と連携し、民間活力を取り込むことで投資の確実性を高めるアプローチです。これはASEAN内でのサプライチェーンの覇権争いにおいて、日系メーカーに供給網の現地再編を強く迫る布石となるでしょう。"
-        }
-    },
-    {
-        "topic_name": "日本特殊陶業のEV化に伴う事業転換",
-        "article_ids": [
-            835274
-        ],
-        "articles": [
-            {
-                "id": 835274,
-                "title": "EV化で「主力製品が消える」危機感から売上1兆円へ…日本特殊陶業・鈴木社長が挑む“第二の創業” - 文春オンライン",
-                "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JY0ZkdjBVMVJfWlBrWThiNWIwQXpyU3h5Tm9YelNHN1lObk1IdmNHa2hZb1lrS1ZlemZwRm9Bd1V6X2ZMQzdaRHpScw?oc=5",
-                "published": "Mon, 02 Nov 2026 02:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JY0ZkdjBVMVJfWlBrWThiNWIwQXpyU3h5Tm9YelNHN1lObk1IdmNHa2hZb1lrS1ZlemZwRm9Bd1V6X2ZMQzdaRHpScw?oc=5\" target=\"_blank\">EV化で「主力製品が消える」危機感から売上1兆円へ…日本特殊陶業・鈴木社長が挑む“第二の創業”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">文春オンライン</font>",
-                "site_name": "文春オンライン",
-                "primary_category": "Strategic Shift",
-                "reason": "サプライヤーの構造転換事例として注目すべき内容。",
+                "reason": "タイの増税はサプライチェーンの再編を促す。",
                 "score": 80,
                 "is_highly_important": true
             }
         ],
-        "is_grouped": false,
+        "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "「エンジン部品（スパークプラグ・酸素センサ）依存」からの脱却と、第二の創業としてセラミック技術を核とした事業ポートフォリオの最適化。",
-                "半導体製造装置向けコンポーネントおよびエネルギー分野（SOFC）を新たな収益の柱とする多角化戦略。",
-                "EVシフトの減速を見越しつつも、危機感を原動力とした「複数柱」構築による持続可能な成長モデルへの転換。"
+                "タイ政府が輸入EVの物品税を現行10%から35%へ大幅に引き上げ",
+                "中国製EVの流入による地元産業の圧迫を受け、国内生産と雇用維持が目的",
+                "2026年1月より適用、EV関連の投資誘致と現地組み立てへの誘導を強化"
             ],
-            "insight": "同社の強みは「セラミックス」というコア技術の横展開力にある。単なるモビリティからの撤退ではなく、アフターマーケット需要を刈り取りつつ、半導体製造装置や次世代エネルギー分野へ資源をシフトする手法は非常に合理的だ。内燃機関の火を消さず、セラミック技術のポテンシャルを最大化する経営は、製造業における「技術の資源循環」の好例となるだろう。"
+            "insight": "今回の増税は、タイが掲げる「東南アジアのEV拠点化」を達成するための戦略的転換点です。これまで関税優遇で中国勢を呼び込みましたが、今や現地企業との競合が激化。単なる市場開放から、投資と雇用を伴うローカル生産への「囲い込み」フェーズへと移行しました。日本勢にとってはHVの優位性を活かしつつ、サプライチェーン再編の好機となるか、試される局面です。"
         }
     },
     {
-        "topic_name": "寧徳時代のEV電池出荷記録更新",
+        "topic_name": "トヨタとWaymoの協業による2027年の国内無人自動運転タクシー運行",
         "article_ids": [
-            259716
+            932574,
+            496104,
+            606182
         ],
         "articles": [
             {
-                "id": 259716,
-                "title": "寧徳時代のH株が本日6.7%急騰、世界EV電池出荷が月次最高記録を更新 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-                "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZdEljdjBLS2dGZkZ1T29iN3M3bkdhV3M1R19JM1ExMkNXV0o4QTFZcTFnWVFjOWFWMFU3cGs5aDNPSF80SHhwXzlaTFcyQ25YV3lBejB3WlphYzRHcE1PNHplUUh2cWVwVlVvMXVJWk5CYzhrdVNN?oc=5",
-                "published": "Mon, 02 Nov 2026 05:04:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZdEljdjBLS2dGZkZ1T29iN3M3bkdhV3M1R19JM1ExMkNXV0o4QTFZcTFnWVFjOWFWMFU3cGs5aDNPSF80SHhwXzlaTFcyQ25YV3lBejB3WlphYzRHcE1PNHplUUh2cWVwVlVvMXVJWk5CYzhrdVNN?oc=5\" target=\"_blank\">寧徳時代のH株が本日6.7%急騰、世界EV電池出荷が月次最高記録を更新 執筆</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</font>",
-                "site_name": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-                "primary_category": "Supply Chain",
-                "reason": "電池供給能力の記録的増加は市場全体の拡大を示唆。",
-                "score": 75,
+                "id": 932574,
+                "title": "【トヨタ】Waymoと協業 EV「bZ4X」の無人自動運転タクシーを2027年に国内で初期運行 - Auto Prove",
+                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTkMxRjBkV1FXeERhamthMzhxMl83TmZCOTBUSmdLd1huVExZZjZlQ25tZWtuaWQ1TU85cVZ6VURSYWxUOUpoLUppQ2tIbGZnYlNlZ0xfV0JIVEtCenc?oc=5",
+                "published": "Tue, 03 Nov 2026 01:52:47 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OTkMxRjBkV1FXeERhamthMzhxMl83TmZCOTBUSmdLd1huVExZZjZlQ25tZWtuaWQ1TU85cVZ6VURSYWxUOUpoLUppQ2tIbGZnYlNlZ0xfV0JIVEtCenc?oc=5\" target=\"_blank\">【トヨタ】Waymoと協業 EV「bZ4X」の無人自動運転タクシーを2027年に国内で初期運行</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Auto Prove</font>",
+                "site_name": "Auto Prove",
+                "primary_category": "Strategy",
+                "reason": "トヨタの自動運転戦略の具体化。",
+                "score": 85,
                 "is_highly_important": true
+            },
+            {
+                "id": 496104,
+                "title": "トヨタ、自動運転タクシー27年に運行開始…EV「bZ4X」活用 - ニュースイッチ by 日刊工業新聞社",
+                "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBGaG0ya255UFBQd1JNalZabFpad1Fub01IS2FiSmtqT0xsZDQyaDdlS1AtVFZTaGdhOFhid2hyR3BkZw?oc=5",
+                "published": "Tue, 03 Nov 2026 21:01:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTFBGaG0ya255UFBQd1JNalZabFpad1Fub01IS2FiSmtqT0xsZDQyaDdlS1AtVFZTaGdhOFhid2hyR3BkZw?oc=5\" target=\"_blank\">トヨタ、自動運転タクシー27年に運行開始…EV「bZ4X」活用</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースイッチ by 日刊工業新聞社</font>",
+                "site_name": "ニュースイッチ by 日刊工業新聞社",
+                "primary_category": "Strategy",
+                "reason": "トヨタのロボタクシー戦略の具体化。",
+                "score": 80,
+                "is_highly_important": true
+            },
+            {
+                "id": 606182,
+                "title": "自動車業界 ニュースの見方 第68回 トヨタが2027年にロボタクシーで自動運転を始める意義とは - Infoseek",
+                "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yREZyTEtVMURDRlUzNUNFaHVXOFpIbHNCZUJRcDVMcnVwaXZuVjFCb2d6RlR4dl9rUnkzdzhIOC1sVTFXaGNkamR3YlpyUVBwdF9JZEx6ZlRmZHhEemI0NQ?oc=5",
+                "published": "Tue, 03 Nov 2026 23:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yREZyTEtVMURDRlUzNUNFaHVXOFpIbHNCZUJRcDVMcnVwaXZuVjFCb2d6RlR4dl9rUnkzdzhIOC1sVTFXaGNkamR3YlpyUVBwdF9JZEx6ZlRmZHhEemI0NQ?oc=5\" target=\"_blank\">自動車業界 ニュースの見方 第68回 トヨタが2027年にロボタクシーで自動運転を始める意義とは</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
+                "site_name": "Infoseek",
+                "primary_category": "Strategy",
+                "reason": "トヨタのロボタクシー事業の戦略的意義。",
+                "score": 75,
+                "is_highly_important": false
             }
         ],
-        "is_grouped": false,
+        "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "寧徳時代（CATL）の世界EV電池出荷量が月次最高記録を更新",
-                "市場の好感によりH株が6.7%の急騰を記録",
-                "グローバルEV市場の需要減速懸念を払拭する力強い実需の証明"
+                "トヨタ高岡工場にてWaymoの自動運転システムをbZ4Xに組み込む、車両開発と技術の分業体制を確立",
+                "2027年の初期運行を通じ、日本特有の交通環境でレベル4自動運転の知見を蓄積・検証する",
+                "ハードウェアの安全性と快適性を重視した専用設計で、移動弱者支援を含むサービス拡大を狙う"
             ],
-            "insight": "CATLの記録更新は、欧米のEV普及ペース鈍化論を嘲笑うかのような圧倒的な供給能力の誇示です。特にLFP（リン酸鉄リチウム）のコスト優位性がOEMの価格競争力に直結しており、地政学的リスクを内包しつつも、業界の「CATL依存」は不可逆的なフェーズへ移行しています。技術のコモディティ化が進む中、同社の次なる焦点は、いかに生産効率を維持しつつ供給網の囲い込みを加速させるかにあります。"
+            "insight": "トヨタの自動運転戦略が「内製への拘泥」から「Waymoとの協業による現実路線」へ明確に転換した点が重要。自社開発は2032年を見据えつつ、まずはWaymoの圧倒的な実績と安全基準を導入することで、法規制やインフラ協調が複雑な日本市場での初動を加速させる。これは「製造業としての車両生産能力」と「AIソフトの専門性」を切り分けた、極めて合理的な実利主義的アライアンスと言える。"
         }
     },
     {
-        "topic_name": "フォルクスワーゲンによるEV「ID. Golf」開発停止",
+        "topic_name": "欧州EV市場における中国メーカーの進出と関税対応",
         "article_ids": [
-            307096
+            483671,
+            326190
         ],
         "articles": [
             {
-                "id": 307096,
-                "title": "Volkswagen、EV「ID. Golf」の先行開発を停止 業績悪化でコスト削減圧力 - 디지털투데이",
-                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSVpJQjBHdElrOWFkam5uNFdBSlVuQldPRkU1bk9iVDloUUcwSGFEQjJkUEd4bV8zTG96eFBYbE9rN3EtYlVEYXBGdVZjeWhfMlY2VXlsd2h5RmtyWjNVZUdzdmRQSkFfUFAyUlJ0a0lKYlhlc0dfWW5OZHpSWnA0MEpONEhCU0U1eVIybE9rdWxDcU5aQnV2aXhCS0ZfRUVKeU5WRldBUkdEcHladkdlRXgxcUFNLTQ?oc=5",
-                "published": "Mon, 02 Nov 2026 01:43:08 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPSVpJQjBHdElrOWFkam5uNFdBSlVuQldPRkU1bk9iVDloUUcwSGFEQjJkUEd4bV8zTG96eFBYbE9rN3EtYlVEYXBGdVZjeWhfMlY2VXlsd2h5RmtyWjNVZUdzdmRQSkFfUFAyUlJ0a0lKYlhlc0dfWW5OZHpSWnA0MEpONEhCU0U1eVIybE9rdWxDcU5aQnV2aXhCS0ZfRUVKeU5WRldBUkdEcHladkdlRXgxcUFNLTQ?oc=5\" target=\"_blank\">Volkswagen、EV「ID. Golf」の先行開発を停止 業績悪化でコスト削減圧力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">디지털투데이</font>",
-                "site_name": "디지털투데이",
-                "primary_category": "Strategic Shift",
-                "reason": "VWのコスト削減に伴う開発中止は業界の停滞を象徴。",
+                "id": 483671,
+                "title": "ヨーロッパEV市場で日本車がピンチ…優遇対象から外される 中国系の猛攻受けて域内優遇にシフト - 東京新聞",
+                "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2dTkzd051MkRoTUJIX01rRkhKM2pmVWMwQ0xJM3htd1gxNWdjLTVwanNqN3hoVkdBVHRWYmxsaG13M183cFEyVmkzRDdrdnMzcVA4?oc=5",
+                "published": "Tue, 03 Nov 2026 07:31:57 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2dTkzd051MkRoTUJIX01rRkhKM2pmVWMwQ0xJM3htd1gxNWdjLTVwanNqN3hoVkdBVHRWYmxsaG13M183cFEyVmkzRDdrdnMzcVA4?oc=5\" target=\"_blank\">ヨーロッパEV市場で日本車がピンチ…優遇対象から外される 中国系の猛攻受けて域内優遇にシフト</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東京新聞</font>",
+                "site_name": "東京新聞",
+                "primary_category": "Market",
+                "reason": "欧州市場での日本車の競争環境の変化。",
                 "score": 70,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "業績悪化に伴う極度のコスト削減により、次世代EV「ID. Golf」の先行開発が一時停止",
-                "SSPプラットフォーム開発の遅延と、ヴォルフスブルク工場の収益性改善が喫緊の課題",
-                "伝統の聖地ヴォルフスブルクにおける電動化戦略が、財務的な現実の前に停滞を余儀なくされた"
-            ],
-            "insight": "VWの象徴であるGolfの電動化停滞は、単なる開発遅延ではなく、既存プラットフォームの収益不全と次世代SSPの垂直立ち上げの困難さを象徴している。中国市場での敗北とソフトウェア開発の混迷が、製品ポートフォリオの刷新を阻んでいる現状は極めて深刻だ。ドイツの製造拠点維持という政治的重圧と、EV競争における利益率確保の板挟みは、VWがかつての栄光の呪縛から脱却できていないことを如実に示している。"
-        }
-    },
-    {
-        "topic_name": "AIデータセンター需要による電力用蓄電池の急増",
-        "article_ids": [
-            702999
-        ],
-        "articles": [
+                "is_highly_important": false
+            },
             {
-                "id": 702999,
-                "title": "EV減速の裏で急増する「電力用蓄電池」 AIデータセンターが引き起こす新たな電力危機 (2026年11月2日掲載) - ライブドアニュース",
-                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoT2NiR051YmJ4VmZQRS1zTHFzTVhvelI4cWxBSXhpZzZZT0dzajIxM1ZLMlhFVUl3OVZqbkpLSXJKc09hWHZZZ2lpVkNDUS1udVd5ZU10dzZJUmhUX2c?oc=5",
-                "published": "Mon, 02 Nov 2026 05:44:06 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoT2NiR051YmJ4VmZQRS1zTHFzTVhvelI4cWxBSXhpZzZZT0dzajIxM1ZLMlhFVUl3OVZqbkpLSXJKc09hWHZZZ2lpVkNDUS1udVd5ZU10dzZJUmhUX2c?oc=5\" target=\"_blank\">EV減速の裏で急増する「電力用蓄電池」 AIデータセンターが引き起こす新たな電力危機 (2026年11月2日掲載)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ライブドアニュース</font>",
-                "site_name": "ライブドアニュース",
-                "primary_category": "Market Analysis",
-                "reason": "データセンター需要と電力問題の相関性は重要。",
-                "score": 75,
+                "id": 326190,
+                "title": "中国車がフラッグシップ戦略で欧州攻略、現地生産で関税回避へ - 日経クロステック",
+                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9URjdnMllsMEp4TWZrR1Y3aWxPZldWaThDVkNBREg4S2NLZEU5WHhvbW9MREZkTGNVZVR4bVJOV18yMWNmaHJ0S214SjFXd1dLZW01cmhqUjdoNTdzQVlma0pXdWtmbGs?oc=5",
+                "published": "Tue, 03 Nov 2026 20:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9URjdnMllsMEp4TWZrR1Y3aWxPZldWaThDVkNBREg4S2NLZEU5WHhvbW9MREZkTGNVZVR4bVJOV18yMWNmaHJ0S214SjFXd1dLZW01cmhqUjdoNTdzQVlma0pXdWtmbGs?oc=5\" target=\"_blank\">中国車がフラッグシップ戦略で欧州攻略、現地生産で関税回避へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経クロステック</font>",
+                "site_name": "日経クロステック",
+                "primary_category": "Strategy",
+                "reason": "中国メーカーの欧州現地生産による関税回避戦略。",
+                "score": 85,
                 "is_highly_important": true
             }
         ],
-        "is_grouped": false,
+        "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "EVの成長鈍化に対し、AIデータセンターの電力需要が定置用蓄電池市場を急拡大させている",
-                "再エネの変動性吸収とデータセンターの安定供給が蓄電池の投資価値を押し上げている",
-                "系統用蓄電池市場ではLFP電池が主流となり、CATLら中国勢の価格・供給支配力が盤石化している"
+                "EUの産業保護主義強化により、欧州域外メーカーへのEV優遇策が見直され、日本メーカーが市場から排除されるリスクが急浮上している。",
+                "中国メーカーは関税障壁を回避するため、欧州現地生産への移行を加速させ、旗艦モデル投入によるブランド力向上を図っている。",
+                "欧州メーカーは自国の歴史的資産（ヘリテージ）を活かした「オマージュEV」で対抗するが、市場競争の激化により産業の構造転換を余儀なくされている。"
             ],
-            "insight": "自動車産業の電化シフトの停滞は、単なる需要減ではなく「エネルギーの価値転換」を示唆する。AI社会の基盤となる電力供給網において、車載用から定置用へLFP電池の主戦場が移動しており、中国勢による垂直統合的なコスト支配は、次世代インフラ戦略においても日本メーカーが正面突破すべき極めて高い障壁となっている。"
+            "insight": "欧州市場は今、単なるEV化競争から「地産地消・域内保護」のブロック経済化へと変質した。中国勢は現地生産という現地同化戦略で関税を無効化する一方、日本メーカーは中途半端な立ち位置で『制度の網』から零れ落ちる懸念がある。単なる商品力勝負の時代は終わり、地政学的リスクを内包したサプライチェーンの再構築こそが、欧州における日本車の存亡を握る鍵となる。"
         }
     }
 ]
