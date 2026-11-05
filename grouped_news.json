@@ -1,0 +1,43 @@
+[
+    {
+        "topic_name": "EUによる日本製・中国製EVの補助対象除外と外交問題",
+        "article_ids": [
+            482877,
+            487033
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "トヨタとウェイモによる自動運転EVタクシーの2027年運行開始",
+        "article_ids": [
+            58026,
+            496104
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "日産らによる福島県でのEV中古電池循環モデル構築",
+        "article_ids": [
+            242267,
+            120908
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "フォルクスワーゲンの経営不振と工場閉鎖・リストラ",
+        "article_ids": [
+            226997,
+            614735
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "EV市場における韓国メーカーの業績と中国勢による圧迫",
+        "article_ids": [
+            747663,
+            969556,
+            744421
+        ],
+        "is_grouped": true
+    }
+]
