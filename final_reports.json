@@ -1,225 +1,271 @@
 [
     {
-        "topic_name": "EUによる日本製・中国製EVの補助対象除外と外交問題",
+        "topic_name": "EUの日本製EV優遇措置案に対する高市首相の懸念表明",
         "article_ids": [
-            482877,
-            487033
+            919273,
+            910470,
+            294428,
+            194068,
+            643028,
+            146809,
+            743671,
+            499583,
+            601143,
+            989962,
+            637417,
+            963593
         ],
         "articles": [
             {
-                "id": 482877,
-                "title": "外務次官、EUの日本製EV除外案でベルギーに「強い懸念」伝達 - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOMEFSbXNXUGhKSlIxZlZpV0F6anZwYTVaSF9TT2prNXlyUzlRd0VYSkJwMmNlTGNCeHJJUk0taEEwUlF4WnRPbzJQRjc1TDQweTBWR08tRDhxR2xjak9pRXlyVy01M0RyUFRWQg?oc=5",
-                "published": "Wed, 04 Nov 2026 09:00:25 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBOMEFSbXNXUGhKSlIxZlZpV0F6anZwYTVaSF9TT2prNXlyUzlRd0VYSkJwMmNlTGNCeHJJUk0taEEwUlF4WnRPbzJQRjc1TDQweTBWR08tRDhxR2xjak9pRXlyVy01M0RyUFRWQg?oc=5\" target=\"_blank\">外務次官、EUの日本製EV除外案でベルギーに「強い懸念」伝達</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "id": 919273,
+                "title": "［社説］欧州EV優遇策の修正を図れ - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kNFlPYzQzRFp6MHZQM1ZfNHFUYkFGSTBrYWhGb1dPWXp2Q2tYMVlIUjFBczMxN1ozY3E0WFdoRUJjdlc2NW56YWNUZmhlQUVreWpJb3UwcXdiTE5HbFpQZHNGMUhuR21yMTBlcQ?oc=5",
+                "published": "Thu, 05 Nov 2026 10:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5kNFlPYzQzRFp6MHZQM1ZfNHFUYkFGSTBrYWhGb1dPWXp2Q2tYMVlIUjFBczMxN1ozY3E0WFdoRUJjdlc2NW56YWNUZmhlQUVreWpJb3UwcXdiTE5HbFpQZHNGMUhuR21yMTBlcQ?oc=5\" target=\"_blank\">［社説］欧州EV優遇策の修正を図れ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
                 "site_name": "日本経済新聞",
-                "primary_category": "Trade/Policy",
-                "reason": "EUの日本製EV除外に対する外交交渉は極めて重要。",
-                "score": 90,
-                "is_highly_important": true
-            },
-            {
-                "id": 487033,
-                "title": "日本のハイブリッド車も､中国EVも補助対象から除外…\"自由な貿易\"を掲げるEUが懲りずに続ける二枚舌外交 - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5memRQb3p1SnhlOHZZbXlIeXgtSUw0OHlYbGhlczBaVlZob29GQUsyenJaZ3RoZ0tTQWNzeGludUtNQVE0LXJPVXNTU3FoLXAyZS1tQkIxXzVyWnp5ZHZ5MElNYUZGYVZUOUJKOV9rR0QtTVZZcFFTVGNCcDBJMzg?oc=5",
-                "published": "Wed, 04 Nov 2026 07:50:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5memRQb3p1SnhlOHZZbXlIeXgtSUw0OHlYbGhlczBaVlZob29GQUsyenJaZ3RoZ0tTQWNzeGludUtNQVE0LXJPVXNTU3FoLXAyZS1tQkIxXzVyWnp5ZHZ5MElNYUZGYVZUOUJKOV9rR0QtTVZZcFFTVGNCcDBJMzg?oc=5\" target=\"_blank\">日本のハイブリッド車も､中国EVも補助対象から除外…\"自由な貿易\"を掲げるEUが懲りずに続ける二枚舌外交</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-                "site_name": "Yahoo!ニュース",
-                "primary_category": "Trade/Policy",
-                "reason": "EUの通商政策と二枚舌外交に対する論評。",
-                "score": 70,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "EUが域内産業保護を目的に、日本や中国を含む域外産EVを補助対象から除外する方針を固め、通商摩擦が激化している",
-                "中国製車には追加関税やセーフガードが発動される一方、日本車に対してはドイツ・フランス主導の域内優遇策が障壁となっている",
-                "日本政府は外交ルートで強い懸念を伝達しているが、EUの保護主義的な政策転換の壁は高く、戦略的な再構築が急務となっている"
-            ],
-            "insight": "EUが掲げる自由貿易は、域内産業が劣勢に陥った途端に保護主義へ変貌する二枚舌の様相を呈しています。特にEV/HVを巡るルール変更は、技術優位性を持つ日本勢を閉め出す「制度的非関税障壁」です。今後は単なる外交交渉を超え、欧州現地生産の加速や、供給網の囲い込みを見越した抜本的な市場戦略の転換が求められるフェーズにあります。"
-        }
-    },
-    {
-        "topic_name": "トヨタとウェイモによる自動運転EVタクシーの2027年運行開始",
-        "article_ids": [
-            58026,
-            496104
-        ],
-        "articles": [
-            {
-                "id": 58026,
-                "title": "クルマに身を委ね、移動をシェアする時代へ。トヨタ×ウェイモが2027年に日本で開始する自動運転EVタクシー（THE EV TIMES） - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nWi1Yb3ZveExxYjBfanhBTDFFSUh0NVAxTWZDNXNTc2YxZGlBRGh3dEZUcEdReW13WEEwTzZoVDlkNjM1WTV6OWRmUUljQVJIS3htbmZYSGJ0ZjlWMEZYYUFUTEtDLV94TFhyUXRkSHowR21OU2dNVmIzWXphcHc?oc=5",
-                "published": "Wed, 04 Nov 2026 02:52:47 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5nWi1Yb3ZveExxYjBfanhBTDFFSUh0NVAxTWZDNXNTc2YxZGlBRGh3dEZUcEdReW13WEEwTzZoVDlkNjM1WTV6OWRmUUljQVJIS3htbmZYSGJ0ZjlWMEZYYUFUTEtDLV94TFhyUXRkSHowR21OU2dNVmIzWXphcHc?oc=5\" target=\"_blank\">クルマに身を委ね、移動をシェアする時代へ。トヨタ×ウェイモが2027年に日本で開始する自動運転EVタクシー（THE EV TIMES）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-                "site_name": "Yahoo!ニュース",
-                "primary_category": "Strategic",
-                "reason": "トヨタとウェイモの自動運転タクシー提携。",
+                "primary_category": "Policy",
+                "reason": "EUのEV優遇策に対する社説。政策動向として重要。",
                 "score": 85,
                 "is_highly_important": true
             },
             {
-                "id": 496104,
-                "title": "トヨタ、自動運転タクシー27年に運行開始…EV「bZ4X」活用 - ニュースイッチ by 日刊工業新聞社",
-                "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBGaG0ya255UFBQd1JNalZabFpad1Fub01IS2FiSmtqT0xsZDQyaDdlS1AtVFZTaGdhOFhid2hyR3BkZw?oc=5",
-                "published": "Tue, 03 Nov 2026 21:01:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTFBGaG0ya255UFBQd1JNalZabFpad1Fub01IS2FiSmtqT0xsZDQyaDdlS1AtVFZTaGdhOFhid2hyR3BkZw?oc=5\" target=\"_blank\">トヨタ、自動運転タクシー27年に運行開始…EV「bZ4X」活用</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースイッチ by 日刊工業新聞社</font>",
-                "site_name": "ニュースイッチ by 日刊工業新聞社",
-                "primary_category": "Strategic",
-                "reason": "自動運転タクシー事業の具体化。",
+                "id": 910470,
+                "title": "日仏首脳会談 日本製EV排除など懸念伝達 高市総理大臣 - テレ朝NEWS",
+                "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DY3J5TDBKeEl3YlhUQnM0LVRFRlJaQkRnY2Uwc0psYVpiQUdaX29yRWRISGNPdmdaVkt5c3JkWkpfSEhTUldHYVJ1M1REMFk4d3FpcUIyYjlObEh5aWI0TzFYOXV0NzJyZ1lkRE83X19RT2c?oc=5",
+                "published": "Thu, 05 Nov 2026 12:20:04 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1DY3J5TDBKeEl3YlhUQnM0LVRFRlJaQkRnY2Uwc0psYVpiQUdaX29yRWRISGNPdmdaVkt5c3JkWkpfSEhTUldHYVJ1M1REMFk4d3FpcUIyYjlObEh5aWI0TzFYOXV0NzJyZ1lkRE83X19RT2c?oc=5\" target=\"_blank\">日仏首脳会談 日本製EV排除など懸念伝達 高市総理大臣</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">テレ朝NEWS</font>",
+                "site_name": "テレ朝NEWS",
+                "primary_category": "Policy",
+                "reason": "首相レベルでの外交問題。日本製EVへの影響が大。",
+                "score": 95,
+                "is_highly_important": true
+            },
+            {
+                "id": 294428,
+                "title": "【速報】高市総理 仏・マクロン大統領にヨーロッパ製EVの優遇措置案について強い懸念を伝達 - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XRmZ1eUs3Wk1LaldEelRveEROWE9OYXBpbXFQdGJrMG81RnU2VkZBNnZGSUV6WkQ4aHJCZjF4T2JPbEtoMURuOGhGNjRmNWlUYWx3MF9LcV90eHFZZEVaN205MWdLU0Z4QXFKdVlsQkx1UGRycWlucV9WQ3JDOU0?oc=5",
+                "published": "Thu, 05 Nov 2026 10:13:14 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5XRmZ1eUs3Wk1LaldEelRveEROWE9OYXBpbXFQdGJrMG81RnU2VkZBNnZGSUV6WkQ4aHJCZjF4T2JPbEtoMURuOGhGNjRmNWlUYWx3MF9LcV90eHFZZEVaN205MWdLU0Z4QXFKdVlsQkx1UGRycWlucV9WQ3JDOU0?oc=5\" target=\"_blank\">【速報】高市総理 仏・マクロン大統領にヨーロッパ製EVの優遇措置案について強い懸念を伝達</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Policy",
+                "reason": "首相による仏大統領への懸念伝達。非常に重要。",
+                "score": 95,
+                "is_highly_important": true
+            },
+            {
+                "id": 194068,
+                "title": "高市首相、EUの欧州EV優遇法案に強い懸念伝達 マクロン仏大統領と電話会談 - 産経ニュース",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM0tSYmZrYlVLdG5pOTUxbUxiSE9YU085VmRxZVA1QWRFanUtd2pTX3JmeGdfUE5pcWotdGo5ek9IWmV5TlQ5Y3JOSFlRTHZlbWVsOElyWHh1Q1dTMFlMNk94N1JxOTRMVUVKdVc1TjhMdTFPelRLWGRXa0xaYk5zV0F5aDV4MzZyTV9LQg?oc=5",
+                "published": "Thu, 05 Nov 2026 10:28:13 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQM0tSYmZrYlVLdG5pOTUxbUxiSE9YU085VmRxZVA1QWRFanUtd2pTX3JmeGdfUE5pcWotdGo5ek9IWmV5TlQ5Y3JOSFlRTHZlbWVsOElyWHh1Q1dTMFlMNk94N1JxOTRMVUVKdVc1TjhMdTFPelRLWGRXa0xaYk5zV0F5aDV4MzZyTV9LQg?oc=5\" target=\"_blank\">高市首相、EUの欧州EV優遇法案に強い懸念伝達 マクロン仏大統領と電話会談</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">産経ニュース</font>",
+                "site_name": "産経ニュース",
+                "primary_category": "Policy",
+                "reason": "首相レベルの外交懸念。",
+                "score": 90,
+                "is_highly_important": true
+            },
+            {
+                "id": 643028,
+                "title": "高市首相、仏大統領に「強い懸念」伝達 EUの日本製EV除外案巡り - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpT3dHT0VFZFRkbUg0eUJidGx4aTFUM1JodER2RHV1RS1BVzBEVTNWQVF3Q0VIWFVSUFVfUUZycFY2NHpoUzhBNG5MN1c3X2FjZVBhWm1EX2gtRjJEckVNV2JqV1BsOTF1Y0dzaw?oc=5",
+                "published": "Thu, 05 Nov 2026 10:15:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBpT3dHT0VFZFRkbUg0eUJidGx4aTFUM1JodER2RHV1RS1BVzBEVTNWQVF3Q0VIWFVSUFVfUUZycFY2NHpoUzhBNG5MN1c3X2FjZVBhWm1EX2gtRjJEckVNV2JqV1BsOTF1Y0dzaw?oc=5\" target=\"_blank\">高市首相、仏大統領に「強い懸念」伝達 EUの日本製EV除外案巡り</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "site_name": "日本経済新聞",
+                "primary_category": "Policy",
+                "reason": "首相の対仏外交。日本製EV排除への対応。",
+                "score": 95,
+                "is_highly_important": true
+            },
+            {
+                "id": 146809,
+                "title": "高市首相、フランス大統領と電話協議 EUのEV優遇措置に懸念 - 毎日新聞",
+                "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFT3BoelpQZnBuUFAzb2Q1TGFSdERaWVp1Mi1obnNQRllJRkdhODRZd3ZkUWZNTjg4OVAteVR0bmVidzF3NFgyVmpnQmFIemhJMXlqRk9HVkZxYk1XWUJ3LXhKMVBCa3cy?oc=5",
+                "published": "Thu, 05 Nov 2026 11:09:07 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFT3BoelpQZnBuUFAzb2Q1TGFSdERaWVp1Mi1obnNQRllJRkdhODRZd3ZkUWZNTjg4OVAteVR0bmVidzF3NFgyVmpnQmFIemhJMXlqRk9HVkZxYk1XWUJ3LXhKMVBCa3cy?oc=5\" target=\"_blank\">高市首相、フランス大統領と電話協議 EUのEV優遇措置に懸念</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">毎日新聞</font>",
+                "site_name": "毎日新聞",
+                "primary_category": "Policy",
+                "reason": "高市首相のEV関連外交行動。",
+                "score": 90,
+                "is_highly_important": true
+            },
+            {
+                "id": 743671,
+                "title": "【速報】首相、仏大統領にEV優遇策への懸念伝達 - 47NEWS",
+                "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TbUVOVHBuNmZibXZTbXp4enJoY0xONHIwbldYcUQwczFtOF82TEtLVy15NXJIczNWN0NZZTVUbUg2LTlhcnlFNDNUSQ?oc=5",
+                "published": "Thu, 05 Nov 2026 09:40:26 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TbUVOVHBuNmZibXZTbXp4enJoY0xONHIwbldYcUQwczFtOF82TEtLVy15NXJIczNWN0NZZTVUbUg2LTlhcnlFNDNUSQ?oc=5\" target=\"_blank\">【速報】首相、仏大統領にEV優遇策への懸念伝達</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
+                "site_name": "47NEWS",
+                "primary_category": "Policy",
+                "reason": "速報としての外交ニュース。",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 499583,
+                "title": "首相、ＥＶ優遇へ懸念伝達 - 山陰中央新報デジタル",
+                "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkYk9ESEtnZnJ3dWJsT0htdVlEYzlRRllyU0lyajNTa3pubFlTTkRvbnB3cVVMMGNVU3hqRlZvWUJXVGRablFBdnd4c2phb1NUbm5xTkNFN1VjNFU?oc=5",
+                "published": "Thu, 05 Nov 2026 10:12:11 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkYk9ESEtnZnJ3dWJsT0htdVlEYzlRRllyU0lyajNTa3pubFlTTkRvbnB3cVVMMGNVU3hqRlZvWUJXVGRablFBdnd4c2phb1NUbm5xTkNFN1VjNFU?oc=5\" target=\"_blank\">首相、ＥＶ優遇へ懸念伝達</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陰中央新報デジタル</font>",
+                "site_name": "山陰中央新報デジタル",
+                "primary_category": "Policy",
+                "reason": "外交問題の報道。",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 601143,
+                "title": "高市首相、米中間選挙に「これからも日米関係強化」…マクロン仏大統領には日本製ＥＶ外すＥＵ法案に懸念伝える - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VdjhGU09GT1dYTDhjS0c3aS1jQW01UUVNclJ4X2Z6aktIb3NFb3ZPaHFnTHE3NTJtRFNKYzdaUnF4Z2FvWmpVbmJrY0xWNl9CSm5ITmdnWnFKbVlrb2lFOXZwNWJFV0xpMXpLSl8zVk5DRWdoN213aXlEamNudEk?oc=5",
+                "published": "Thu, 05 Nov 2026 11:58:35 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1VdjhGU09GT1dYTDhjS0c3aS1jQW01UUVNclJ4X2Z6aktIb3NFb3ZPaHFnTHE3NTJtRFNKYzdaUnF4Z2FvWmpVbmJrY0xWNl9CSm5ITmdnWnFKbVlrb2lFOXZwNWJFV0xpMXpLSl8zVk5DRWdoN213aXlEamNudEk?oc=5\" target=\"_blank\">高市首相、米中間選挙に「これからも日米関係強化」…マクロン仏大統領には日本製ＥＶ外すＥＵ法案に懸念伝える</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Policy",
+                "reason": "外交と経済の関連ニュース。重要。",
+                "score": 90,
+                "is_highly_important": true
+            },
+            {
+                "id": 989962,
+                "title": "イギリス市場で中国車のシェア急伸、1〜9月期は17.5％に EVでは3割超 EUは迂回輸出を警戒（東洋経済オンライン） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BM3YwZS1zYmN0T3JFdUZOOWZjZUdpbEdFZGdCalI1X3NHd1BhTENGVEc2RWtfWUhQZW5VbXZNUi1peUd3MFhFdDBMTzV3RDBQWmZZLUpZdy1zR1Nrb1lfaGZzQ2cwTEp5NVhQZzB0bC1KSXNxWVM5TTJMVXFZdEE?oc=5",
+                "published": "Thu, 05 Nov 2026 21:00:41 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9BM3YwZS1zYmN0T3JFdUZOOWZjZUdpbEdFZGdCalI1X3NHd1BhTENGVEc2RWtfWUhQZW5VbXZNUi1peUd3MFhFdDBMTzV3RDBQWmZZLUpZdy1zR1Nrb1lfaGZzQ2cwTEp5NVhQZzB0bC1KSXNxWVM5TTJMVXFZdEE?oc=5\" target=\"_blank\">イギリス市場で中国車のシェア急伸、1〜9月期は17.5％に EVでは3割超 EUは迂回輸出を警戒（東洋経済オンライン）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Market",
+                "reason": "中国車の英市場でのシェア。貿易政策に関わる話題。",
                 "score": 80,
+                "is_highly_important": true
+            },
+            {
+                "id": 637417,
+                "title": "EV優遇へ懸念 仏大統領に伝達 首相、電話会談で - 沖縄タイムス社",
+                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lUXZHeE4xQzlFX0xmdlh1TEpTeTdkNkVzUTFfTi0ySTAwRnF0X014aUtFNW9RWE9lRUJmTmVPZTNJeDNrME51V0lOZU96WDNwRlNQdW9wZmkzRlVMOXc?oc=5",
+                "published": "Thu, 05 Nov 2026 18:57:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lUXZHeE4xQzlFX0xmdlh1TEpTeTdkNkVzUTFfTi0ySTAwRnF0X014aUtFNW9RWE9lRUJmTmVPZTNJeDNrME51V0lOZU96WDNwRlNQdW9wZmkzRlVMOXc?oc=5\" target=\"_blank\">EV優遇へ懸念 仏大統領に伝達 首相、電話会談で</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">沖縄タイムス社</font>",
+                "site_name": "沖縄タイムス社",
+                "primary_category": "Policy",
+                "reason": "首脳外交の速報。",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 963593,
+                "title": "高市総理「強い懸念伝達した」フランス・マクロン大統領と電話会談 EU検討の欧州製EV優遇策めぐり - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CaG1oTGNYNUlYT2V1SjdVNWswcTVUQTV2bG84SkwyWGhxYkRnWE1qRXFEaEx1WEVUcTk1U0xBYWNrR0pxcFpKSW83eXFIUjRSMlR0ZTZJemdvWXRlUFA0eXpBQnU0YTRiNFhVbGZCNmVLcHJpRXlHaTRiRHlFbWs?oc=5",
+                "published": "Thu, 05 Nov 2026 12:08:21 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1CaG1oTGNYNUlYT2V1SjdVNWswcTVUQTV2bG84SkwyWGhxYkRnWE1qRXFEaEx1WEVUcTk1U0xBYWNrR0pxcFpKSW83eXFIUjRSMlR0ZTZJemdvWXRlUFA0eXpBQnU0YTRiNFhVbGZCNmVLcHJpRXlHaTRiRHlFbWs?oc=5\" target=\"_blank\">高市総理「強い懸念伝達した」フランス・マクロン大統領と電話会談 EU検討の欧州製EV優遇策めぐり</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Policy",
+                "reason": "首相の会談結果。",
+                "score": 90,
                 "is_highly_important": true
             }
         ],
         "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "トヨタ高岡工場におけるWaymoシステム組み込み生産の実現が、量産化の鍵を握る",
-                "国内における『bZ4X』活用によるレベル4自動運転サービスは、グローバル展開のショーケースとなる",
-                "単なる車両提供ではなく、ウーブン・バイ・トヨタを巻き込んだ「設計・生産・ソフト」の垂直統合的協業"
+                "EUの産業促進法（IAA）における日本製EVの優遇対象除外に対する、日本政府の懸念伝達と修正要求の激化",
+                "独仏主導の域内産業保護主義と、自動車産業の国際分業体制の乖離による通商摩擦の発生",
+                "高市首相による首脳レベルでの働きかけ強化と、今後の対EU外交努力の成否が問われる局面"
             ],
-            "insight": "本件の本質は、Waymoの知能をトヨタの製造品質（QDR）へ流し込むプロセス構築にある。特筆すべきは、車両を単に改造するのではなく、工場ラインで統合生産すること。これにより、メンテナンス性とコスト効率を両立させ、テスラのRobotaxiに対抗する地盤を固める。日本を「法整備と市場適応の実験場」とし、英国など世界市場へ水平展開するグローバル標準化戦略が極めて精緻です。"
+            "insight": "本件の本質は、域内産業空洞化を恐れる欧州の『デジタル・経済安全保障の先鋭化』と、グローバルな供給網を前提とする日本メーカーの『競争条件の不均衡』にある。単なる補助金争いに留まらず、欧州が掲げる環境戦略（EV普及）と産業保護（域内回帰）の矛盾が顕在化しており、日本は技術協力の側面で欧州側に「自滅のリスク」を突きつける高度な外交戦が求められる。"
         }
     },
     {
-        "topic_name": "日産らによる福島県でのEV中古電池循環モデル構築",
+        "topic_name": "日産など6社による福島県内の中古EV電池循環協定",
         "article_ids": [
-            242267,
-            120908
+            115057,
+            309750
         ],
         "articles": [
             {
-                "id": 242267,
-                "title": "日産、福島で使用済みEV電池の回収物流検討 - LOGISTICS TODAY",
-                "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9Tcl9qTzU0THpsWC1CdHVGdExlM2pkUlowYVRQWTk4YXN5d3BqVlFPRzBJQzNSZ0JHMFNkTi15NnAzY1VXRmk4OG1B?oc=5",
-                "published": "Wed, 04 Nov 2026 06:05:48 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE9Tcl9qTzU0THpsWC1CdHVGdExlM2pkUlowYVRQWTk4YXN5d3BqVlFPRzBJQzNSZ0JHMFNkTi15NnAzY1VXRmk4OG1B?oc=5\" target=\"_blank\">日産、福島で使用済みEV電池の回収物流検討</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
-                "site_name": "LOGISTICS TODAY",
+                "id": 115057,
+                "title": "日産など6社、中古EVと車載電池を福島県内で循環させる協定を締結。使用済み電池は浪江で再製品化 - Circular Economy Hub",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZTdaRUFmSkd0OWlscW9HOEJVNUR4MlR4QjEtU2JTMkxhUWNfbU0tNmc5b3h2N0ZQano0OGJveGJjNmFlS0VBVVNuOHNJNHlpMjRTRDZjLVJibGRMZHhSNG9velMwTTVIdkVpU0xjdFdXTTNmUk8wdU92NkdCVVQyZ0tDN2lCME0?oc=5",
+                "published": "Thu, 05 Nov 2026 01:00:40 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOZTdaRUFmSkd0OWlscW9HOEJVNUR4MlR4QjEtU2JTMkxhUWNfbU0tNmc5b3h2N0ZQano0OGJveGJjNmFlS0VBVVNuOHNJNHlpMjRTRDZjLVJibGRMZHhSNG9velMwTTVIdkVpU0xjdFdXTTNmUk8wdU92NkdCVVQyZ0tDN2lCME0?oc=5\" target=\"_blank\">日産など6社、中古EVと車載電池を福島県内で循環させる協定を締結。使用済み電池は浪江で再製品化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Circular Economy Hub</font>",
+                "site_name": "Circular Economy Hub",
                 "primary_category": "SupplyChain",
-                "reason": "電池のサーキュラーエコノミー構築に向けた動き。",
-                "score": 65,
-                "is_highly_important": true
-            },
-            {
-                "id": 120908,
-                "title": "日産や損保ジャパンら6社、福島・浪江町で中古EV・車載電池の循環モデル構築へ…連携協定を締結 - レスポンス（Response.jp）",
-                "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lMGhqdU0zd3pJQWtmSzNqVjdPa2QxQVpTUmRYLTctY3dPWXlSSXZqaXZhbVFBOXNrVElCeGlmdVEwQ1dRR2tiaHdKc2NUaVZxVngzVkZMZW8xam9OV3Zj?oc=5",
-                "published": "Tue, 03 Nov 2026 21:00:03 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lMGhqdU0zd3pJQWtmSzNqVjdPa2QxQVpTUmRYLTctY3dPWXlSSXZqaXZhbVFBOXNrVElCeGlmdVEwQ1dRR2tiaHdKc2NUaVZxVngzVkZMZW8xam9OV3Zj?oc=5\" target=\"_blank\">日産や損保ジャパンら6社、福島・浪江町で中古EV・車載電池の循環モデル構築へ…連携協定を締結</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
-                "site_name": "レスポンス（Response.jp）",
-                "primary_category": "SupplyChain",
-                "reason": "中古電池のリサイクル連携モデル。",
+                "reason": "バッテリーの資源循環・協業体制。重要。",
                 "score": 70,
-                "is_highly_important": true
+                "is_highly_important": false
+            },
+            {
+                "id": 309750,
+                "title": "日産など6社、福島で中古EVと車載電池の循環モデル構築へ - LIGARE（リガーレ）",
+                "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54enRrV0RqLXlUM005SlZIbTRiam90U1BiMmI2dm8xWWIzNHJlRGhORFJjU2UwWVh0aTZxb1J2WGc3MXFxSU90Z2c2REhfMUU?oc=5",
+                "published": "Wed, 04 Nov 2026 23:31:07 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE54enRrV0RqLXlUM005SlZIbTRiam90U1BiMmI2dm8xWWIzNHJlRGhORFJjU2UwWVh0aTZxb1J2WGc3MXFxSU90Z2c2REhfMUU?oc=5\" target=\"_blank\">日産など6社、福島で中古EVと車載電池の循環モデル構築へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LIGARE（リガーレ）</font>",
+                "site_name": "LIGARE（リガーレ）",
+                "primary_category": "SupplyChain",
+                "reason": "電池循環モデルの構築。重要。",
+                "score": 70,
+                "is_highly_important": false
             }
         ],
         "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "「中古EV・電池の域内循環」をコンセプトに、調達から再製品化まで一気通貫のローカル・サプライチェーンを構築",
-                "高年式EVの海外流出による国内バッテリー資源の枯渇リスクに対する、メーカー主導の囲い込み戦略",
-                "リース事業・物流・解体・再製品化拠点を連携させ、サーキュラーエコノミーを地域経済モデルとして具現化"
+                "中古EVの海外流出による電池資源の損失を防ぎ、地域内でのクローズドループを確立する「福島モデル」を構築",
+                "日産の診断技術とフォーアールエナジーの再製品化機能を核に、6社連携による中古EVバリューチェーンの垂直統合を実現",
+                "電池の性能保証（損保ジャパン）を付与することで、中古EVの最大の不安要素である電池劣化を払拭し、市場価値の安定化を狙う"
             ],
-            "insight": "EVの価値は車両本体から『電池の残存価値』へと重心が移っています。海外への流出は将来的な資源戦略上の痛手であり、日産がナプロアースや損保ジャパンと組み、リースの出口戦略を構造化した意義は大きい。これは単なるリサイクルではなく、浪江町を核とした『バッテリーの地域循環経済圏』という、次世代の防衛戦術です。"
+            "insight": "本モデルの真価は、電池の残存価値（SOH）を可視化・保証することで、中古車販売を単なるモノの移動から『エネルギー資産の循環』へと昇華させた点にある。従来、海外流出していた車両を地域内で留め置くには、電池の二次利用収益を車両価格に還元する金融スキームが不可欠であり、今回の6社連携はその『国内還流インセンティブ』を設計した点で極めて実戦的だ。EVシフトの本質は、電池の寿命をどう管理し、資産価値を最大化するかにあり、浪江の拠点がその戦略的ハブとして機能するかが今後の試金石となる。"
         }
     },
     {
-        "topic_name": "フォルクスワーゲンの経営不振と工場閉鎖・リストラ",
+        "topic_name": "トヨタの中国市場向けEV開発体制の再編",
         "article_ids": [
-            226997,
-            614735
+            614558,
+            737918,
+            845588
         ],
         "articles": [
             {
-                "id": 226997,
-                "title": "フォルクスワーゲン、EV版『ゴルフ』開発を一時中断 「資金不足」とCEO それでも2030年代初頭に導入目指す - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsS3cyV2lxM0tzSlFRSkIwczlXaXpULWItSEc2bnpMamRXOGJFVlVHd2Nna2VYWjdQaGtFQjZ3b3I0NU9sMmhVTXM0MVlFV3E4SE9rd05pRVVUVURycFBmME1iRTFiQkQ4dUNyaHhTRjdmNmR4VXpvZFYwWTBDcHM?oc=5",
-                "published": "Tue, 03 Nov 2026 22:25:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBsS3cyV2lxM0tzSlFRSkIwczlXaXpULWItSEc2bnpMamRXOGJFVlVHd2Nna2VYWjdQaGtFQjZ3b3I0NU9sMmhVTXM0MVlFV3E4SE9rd05pRVVUVURycFBmME1iRTFiQkQ4dUNyaHhTRjdmNmR4VXpvZFYwWTBDcHM?oc=5\" target=\"_blank\">フォルクスワーゲン、EV版『ゴルフ』開発を一時中断 「資金不足」とCEO それでも2030年代初頭に導入目指す</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "id": 614558,
+                "title": "中国不振、27年に反転攻勢へ（時事通信） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DdzFweXU0MTAtM25KYWZnNk1MVzJqbG5ZY3JlaWl1N1BIR3ZEMmNVWHNrS3Q5NVlzN3dadE9NNGJqSnp3RDduLVc0YkVKZFhBT2RYYUVodWhvc2dwRGxrcmVieFVYdXFjY2lOUjFYcURqZnRFWTFicm1xVll3TEU?oc=5",
+                "published": "Thu, 05 Nov 2026 11:01:13 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5DdzFweXU0MTAtM25KYWZnNk1MVzJqbG5ZY3JlaWl1N1BIR3ZEMmNVWHNrS3Q5NVlzN3dadE9NNGJqSnp3RDduLVc0YkVKZFhBT2RYYUVodWhvc2dwRGxrcmVieFVYdXFjY2lOUjFYcURqZnRFWTFicm1xVll3TEU?oc=5\" target=\"_blank\">中国不振、27年に反転攻勢へ（時事通信）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
                 "site_name": "Yahoo!ニュース",
-                "primary_category": "Strategic",
-                "reason": "VWのEV開発中断と苦境。",
-                "score": 75,
+                "primary_category": "Corporate",
+                "reason": "トヨタの中国戦略。業界の重要戦略変更。",
+                "score": 85,
                 "is_highly_important": true
             },
             {
-                "id": 614735,
-                "title": "「若者の憧れ」は過去のもの？　 工場閉鎖に14万人リストラで揺れるVW……アメリカ市場で見えた深刻な現実と一筋の光明 - WEB CARTOP",
-                "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01b0Zfck9KOFJ4Qms5My1udl9iT185czZjVGd5U3FlNWxkcHloYllFUXotckstcUYxZzVIWjBUVm01RzB5TkYxakZzZHpUUC1EMjVV0gFYQVVfeXFMT1JEb1h4WlRaYTRsbkU2OGZxWk9SSEdCdjVMZXl0WmZaOHcyZVFJdEJJVmhnSjAydFRHTjZndkhGMGZLaGR4cHJ5NG5QMWRxVF9wX2plQ21vSQ?oc=5",
-                "published": "Wed, 04 Nov 2026 21:20:24 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE01b0Zfck9KOFJ4Qms5My1udl9iT185czZjVGd5U3FlNWxkcHloYllFUXotckstcUYxZzVIWjBUVm01RzB5TkYxakZzZHpUUC1EMjVV0gFYQVVfeXFMT1JEb1h4WlRaYTRsbkU2OGZxWk9SSEdCdjVMZXl0WmZaOHcyZVFJdEJJVmhnSjAydFRHTjZndkhGMGZLaGR4cHJ5NG5QMWRxVF9wX2plQ21vSQ?oc=5\" target=\"_blank\">「若者の憧れ」は過去のもの？　 工場閉鎖に14万人リストラで揺れるVW……アメリカ市場で見えた深刻な現実と一筋の光明</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEB CARTOP</font>",
-                "site_name": "WEB CARTOP",
-                "primary_category": "Market",
-                "reason": "VWの工場閉鎖と市場環境。",
-                "score": 80,
+                "id": 737918,
+                "title": "中国不振、27年に反転攻勢へ 体制再編でEV開発強化 トヨタ（時事通信） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HUGd0S1ljV2RCVVVUMDI4aFNTM2lFUDNFWkhLSzM5U2lyaHViZkxaOGxHd0tyM1Jkamdkc0hXWDhHbHgxYjR2RWJRampuTm9ibmszQmJsUVNlcm1uaXdaTmlRWDNibXpPcU40Z045eG1JdTVUbmc3Qm1LX29tcjg?oc=5",
+                "published": "Thu, 05 Nov 2026 22:21:24 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5HUGd0S1ljV2RCVVVUMDI4aFNTM2lFUDNFWkhLSzM5U2lyaHViZkxaOGxHd0tyM1Jkamdkc0hXWDhHbHgxYjR2RWJRampuTm9ibmszQmJsUVNlcm1uaXdaTmlRWDNibXpPcU40Z045eG1JdTVUbmc3Qm1LX29tcjg?oc=5\" target=\"_blank\">中国不振、27年に反転攻勢へ 体制再編でEV開発強化 トヨタ（時事通信）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Corporate",
+                "reason": "トヨタの中国戦略転換。重要。",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 845588,
+                "title": "トヨタ、苦戦中国てこ入れ EV開発現地化や期間短縮 富裕層取り込みで反転攻勢 - 西日本新聞me",
+                "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXZ0FZZDctb2ZnY0prWkNraUJRcXBFbERhc2xfZERkZ1AySDdEZ1dTV3Q4c2pfNTlhemRSWEpodjlpdGFkT0k0V1lSRlhBRkNNZkF0MVln?oc=5",
+                "published": "Thu, 05 Nov 2026 21:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXZ0FZZDctb2ZnY0prWkNraUJRcXBFbERhc2xfZERkZ1AySDdEZ1dTV3Q4c2pfNTlhemRSWEpodjlpdGFkT0k0V1lSRlhBRkNNZkF0MVln?oc=5\" target=\"_blank\">トヨタ、苦戦中国てこ入れ EV開発現地化や期間短縮 富裕層取り込みで反転攻勢</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">西日本新聞me</font>",
+                "site_name": "西日本新聞me",
+                "primary_category": "Corporate",
+                "reason": "トヨタの中国戦略。",
+                "score": 85,
                 "is_highly_important": true
             }
         ],
         "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "深刻な資金繰り悪化により、ブランドの象徴であるEV版『ゴルフ』の開発を一時中断",
-                "世界規模での14万人規模のリストラやドイツ国内工場閉鎖を示唆する深刻な経営危機",
-                "北米市場における販売の低迷とEV販売の急減により、競争力低下が鮮明化"
+                "中国市場における販売不振とEVシフトの遅れを重く受け止め、合弁体制を再編して2027年の反転攻勢を目指す戦略へ移行。",
+                "開発体制を現地主導へ切り替え、車両開発期間を大幅に短縮することで、新興EVメーカーに対抗するスピード感を確保。",
+                "中国で培ったソフトウエアや原価低減のノウハウを、全社的な「ロボット技術」やグローバル戦略へ還元するシナジーを狙う。"
             ],
-            "insight": "VWの苦境は単なるEV移行の遅れではない。ドイツの「製造コスト高」と「ソフトウェア開発の遅延」が同時に襲う二重苦だ。特に利益の源泉であるゴルフの電動化迷走は、ブランドアイデンティティの喪失を意味する。もはや「安価な大衆車」の立ち位置すら揺らぐ中、ハードとソフトの融合に失敗したツケは、欧州の製造業モデルそのものの限界を突きつけている。"
-        }
-    },
-    {
-        "topic_name": "EV市場における韓国メーカーの業績と中国勢による圧迫",
-        "article_ids": [
-            747663,
-            969556,
-            744421
-        ],
-        "articles": [
-            {
-                "id": 747663,
-                "title": "BYDの海外販売倍増、ファーウェイ系EVは半減 中国自動車業界の激変 #エキスパートトピ（高口康太） - エキスパート - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNjFwNDFQMWR3OGx4d1ZRWWEwc2lRSlZYRmk0MkZUMXNrekU2SWdEVEM3QmMyVUNfMDc1bmMycDgzN3A0NGxla3FDSUNNc2F5UU55ckhfWXYyUjJZZU5OQWZ1TldoVzZmUndpOUNjbG4weHJKRUdIRlk5MUhSU0RqRXlybk1YcGVi?oc=5",
-                "published": "Wed, 04 Nov 2026 00:02:53 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNjFwNDFQMWR3OGx4d1ZRWWEwc2lRSlZYRmk0MkZUMXNrekU2SWdEVEM3QmMyVUNfMDc1bmMycDgzN3A0NGxla3FDSUNNc2F5UU55ckhfWXYyUjJZZU5OQWZ1TldoVzZmUndpOUNjbG4weHJKRUdIRlk5MUhSU0RqRXlybk1YcGVi?oc=5\" target=\"_blank\">BYDの海外販売倍増、ファーウェイ系EVは半減 中国自動車業界の激変 #エキスパートトピ（高口康太） - エキスパート</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-                "site_name": "Yahoo!ニュース",
-                "primary_category": "Market",
-                "reason": "中国市場におけるEV販売構造の変化と競争分析。",
-                "score": 75,
-                "is_highly_important": true
-            },
-            {
-                "id": 969556,
-                "title": "中国製EVに押される韓国製EV…世界シェア6年で半減、2030年の輸出2.2兆ウォン（約2,600億円）が脅威に - BigGo ファイナンス",
-                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGMFRBUTR1dVVWdldUekU4Yi1mVEpyZzltd2JfMW51ZVNWeFkySXBpT0c5bnNoUGZJbXlaM18tZGhuSHNkUzI2REpUUDZtc0VQMnlvWVd2djBlWG8tbjVRVFk4dVU5SldfSjhmMFVSVVY1NnM1?oc=5",
-                "published": "Wed, 04 Nov 2026 03:26:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBGMFRBUTR1dVVWdldUekU4Yi1mVEpyZzltd2JfMW51ZVNWeFkySXBpT0c5bnNoUGZJbXlaM18tZGhuSHNkUzI2REpUUDZtc0VQMnlvWVd2djBlWG8tbjVRVFk4dVU5SldfSjhmMFVSVVY1NnM1?oc=5\" target=\"_blank\">中国製EVに押される韓国製EV…世界シェア6年で半減、2030年の輸出2.2兆ウォン（約2,600億円）が脅威に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
-                "site_name": "BigGo ファイナンス",
-                "primary_category": "Market",
-                "reason": "中国・韓国間のEV競争力分析。",
-                "score": 75,
-                "is_highly_important": true
-            },
-            {
-                "id": 744421,
-                "title": "中国EV価格戦争が利益率を圧迫、韓国自動車メーカーに戦略再考を迫る - BigGo ファイナンス",
-                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GUTdOR1VjYTdyRFZLa2ZWZE9mM09Ya240SThjMzcycHhqV24yRnNzQ0JqajZHaWhiaVEtRzlUYmNYa3RsN1VqVHpHdVpGdWt3azNCbDQ3QUhMNmxvaEZCRzJjaUFoOFE4QlJFSndhek1XOFp5?oc=5",
-                "published": "Wed, 04 Nov 2026 02:35:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1GUTdOR1VjYTdyRFZLa2ZWZE9mM09Ya240SThjMzcycHhqV24yRnNzQ0JqajZHaWhiaVEtRzlUYmNYa3RsN1VqVHpHdVpGdWt3azNCbDQ3QUhMNmxvaEZCRzJjaUFoOFE4QlJFSndhek1XOFp5?oc=5\" target=\"_blank\">中国EV価格戦争が利益率を圧迫、韓国自動車メーカーに戦略再考を迫る</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
-                "site_name": "BigGo ファイナンス",
-                "primary_category": "Market",
-                "reason": "価格競争による収益性悪化の懸念。",
-                "score": 65,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "中国市場の低迷で過剰供給となったEVが世界市場へ雪崩を打ち、価格競争の泥沼化を招いている",
-                "韓国勢は中国ブランドの圧倒的価格競争力とシェア拡大により、欧州や東南アジアで急速に押し出されている",
-                "中国メーカー自体も消耗戦で利益率が急低下しており、EVは規模の経済だけでは生存できない限界点に達した"
-            ],
-            "insight": "EV業界は今、単なる販売台数競争から「構造的収益力の限界」を問うフェーズへ突入しました。中国勢の猛追を受けた韓国勢は、ハイブリッド車等の逃げ道があってもEV収益性の確保で苦戦。中国国内の「チキンゲーム」が世界に輸出された今、コスト削減を超えた、ソフトウエア価値と技術ブランドの再定義なしには、業界の勝ち組ですら利益を維持できない極めてシビアな選別期を迎えています。"
+            "insight": "トヨタの中国戦略は単なるモデル投入の延長線上にない。合弁の集約と開発の現地化は、彼らが「現地発のスピード」を身をもって学習した結果だ。真の狙いは単なる中国市場の奪還ではなく、中国の激しい価格競争とデジタル開発の現場を、全社的な開発プロセスの「実験場」として再定義し、その知見をロボティクスなど全社戦略へ血肉化する点にある。"
         }
     }
 ]
