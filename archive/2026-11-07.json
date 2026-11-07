@@ -1,0 +1,496 @@
+[
+    {
+        "topic_name": "日本国内のEV年間販売台数10万台突破",
+        "article_ids": [
+            923655,
+            304669,
+            368206,
+            534962,
+            244712
+        ],
+        "articles": [
+            {
+                "id": 923655,
+                "title": "EV国内販売数、初の10万台突破 購入時の補助金受け付けは終了 - 毎日新聞",
+                "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uMVB2TXhLM1NYYUFHemZCSmJnT0haUlY5UzZkY0dWRUxqN2pLX2ZoN2F6QVZZQ1Nkd0NzejVxWUlpbm8wcVpfRGZOeUMxVnBqV1U0b0pXXzZnVGhDcUp2ZUZuTF95cFVh?oc=5",
+                "published": "Fri, 06 Nov 2026 08:04:22 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uMVB2TXhLM1NYYUFHemZCSmJnT0haUlY5UzZkY0dWRUxqN2pLX2ZoN2F6QVZZQ1Nkd0NzejVxWUlpbm8wcVpfRGZOeUMxVnBqV1U0b0pXXzZnVGhDcUp2ZUZuTF95cFVh?oc=5\" target=\"_blank\">EV国内販売数、初の10万台突破 購入時の補助金受け付けは終了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">毎日新聞</font>",
+                "site_name": "毎日新聞",
+                "primary_category": "Market Trends",
+                "reason": "販売台数の節目と補助金政策の影響は重要度が高い。",
+                "score": 75,
+                "is_highly_important": true
+            },
+            {
+                "id": 304669,
+                "title": "10月国内EV販売、過去最高で5%迫る 補助終了観測で駆け込みか - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zY3p1cXF0TFJXWTQtbXhkd3pad19pS3NNbjFrWWFPdk16WEdLT3E0T2RuMUVpRE1Nd2wtQzdwR0l6T04tYmdtcnBvd1lZSkVNS0dSQjNpODktbjRycWZIQmc0WDBYUXhLQmE0Xw?oc=5",
+                "published": "Fri, 06 Nov 2026 04:21:34 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE0zY3p1cXF0TFJXWTQtbXhkd3pad19pS3NNbjFrWWFPdk16WEdLT3E0T2RuMUVpRE1Nd2wtQzdwR0l6T04tYmdtcnBvd1lZSkVNS0dSQjNpODktbjRycWZIQmc0WDBYUXhLQmE0Xw?oc=5\" target=\"_blank\">10月国内EV販売、過去最高で5%迫る 補助終了観測で駆け込みか</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "site_name": "日本経済新聞",
+                "primary_category": "Market Analysis",
+                "reason": "EV関連の部品市場予測は戦略的重要度が高い。",
+                "score": 70,
+                "is_highly_important": true
+            },
+            {
+                "id": 368206,
+                "title": "EV販売、初の10万台突破 26年、補助金で需要喚起 (共同通信) - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbENpcThDVnZ4c2JzVUxRc2lQX2o3M1ZWUVZkYkpqR0NFdDE2VjJBRVloS0NyXzhsS1JFa1FRZW5Va0ZPekk5Vk9QMXNoWkZXdFFsbnBKa2dnNFhGMzBQQkROczd3QkZmQmZpNnZqb0x3UWM0aUd2cEZ0WnBmSkpTT0dMeGtqOTluX3R5YkxR?oc=5",
+                "published": "Fri, 06 Nov 2026 03:23:23 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPbENpcThDVnZ4c2JzVUxRc2lQX2o3M1ZWUVZkYkpqR0NFdDE2VjJBRVloS0NyXzhsS1JFa1FRZW5Va0ZPekk5Vk9QMXNoWkZXdFFsbnBKa2dnNFhGMzBQQkROczd3QkZmQmZpNnZqb0x3UWM0aUd2cEZ0WnBmSkpTT0dMeGtqOTluX3R5YkxR?oc=5\" target=\"_blank\">EV販売、初の10万台突破 26年、補助金で需要喚起 (共同通信)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Market Trends",
+                "reason": "国内販売10万台突破は定量的指標。",
+                "score": 70,
+                "is_highly_important": false
+            },
+            {
+                "id": 534962,
+                "title": "26年EV販売、初の10万台突破（共同通信） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MQ0Q3WXQwMVV2UjdCdG5GaEZaMU5uOWtwSk92c2JZN2EtVnZxM0NqUDB5dHJyMS1GWjFJRUJ1ckQxZXpLM0dVUjFYLVZvWk5MNUpRWjJxbUxNNHAwZ21TN3RoZUh0Z2d4RTE4bXcxUFpYZk9lTkFRNk02OHIwZzQ?oc=5",
+                "published": "Fri, 06 Nov 2026 02:43:07 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9MQ0Q3WXQwMVV2UjdCdG5GaEZaMU5uOWtwSk92c2JZN2EtVnZxM0NqUDB5dHJyMS1GWjFJRUJ1ckQxZXpLM0dVUjFYLVZvWk5MNUpRWjJxbUxNNHAwZ21TN3RoZUh0Z2d4RTE4bXcxUFpYZk9lTkFRNk02OHIwZzQ?oc=5\" target=\"_blank\">26年EV販売、初の10万台突破（共同通信）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Market Trends",
+                "reason": "同上。",
+                "score": 70,
+                "is_highly_important": false
+            },
+            {
+                "id": 244712,
+                "title": "ＥＶ国内販売10万台突破 26年 政府支援で需要喚起 トヨタ「bZ4X」が首位 - 北海道新聞デジタル",
+                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fLUsyem5DT2FILWd0ZGtlakJLOHpDRjFlUXYxa0VONmU4YW9OWktTNkxmeDZYNF9iMks0WlFOVHZJamFidUhiUzRKcjJKQWhfNXdVU0NQYlE2dw?oc=5",
+                "published": "Fri, 06 Nov 2026 19:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fLUsyem5DT2FILWd0ZGtlakJLOHpDRjFlUXYxa0VONmU4YW9OWktTNkxmeDZYNF9iMks0WlFOVHZJamFidUhiUzRKcjJKQWhfNXdVU0NQYlE2dw?oc=5\" target=\"_blank\">ＥＶ国内販売10万台突破 26年 政府支援で需要喚起 トヨタ「bZ4X」が首位</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">北海道新聞デジタル</font>",
+                "site_name": "北海道新聞デジタル",
+                "primary_category": "Market Trends",
+                "reason": "国内EV普及の節目。",
+                "score": 70,
+                "is_highly_important": false
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "2026年、国内EV年間販売台数が初の10万台を突破し、10月単月のシェアも5%に迫る水準に達した。",
+                "販売増の主因は政府の補助金制度であり、補助金終了・減額の観測に伴う駆け込み需要が顕著に発生している。",
+                "市場の勢力図にも変化が見られ、トヨタ「bZ4X」が累計販売で首位に立ち、日産からシェアを奪う構図が鮮明となった。"
+            ],
+            "insight": "今回の10万台突破はEVの真の普及期到達というより、補助金という「官製需要」に依存した踊り場的な成果です。特に補助金減額や終了見込みによる駆け込み需要が数字を押し上げており、真の試金石は補助金が縮小・終了した後の2027年以降です。今後は価格競争力に加え、充電インフラの拡充と、日本市場に適合したモデルの供給が恒久的なシェア拡大の条件となります。"
+        }
+    },
+    {
+        "topic_name": "日本産EV排除への是正要求",
+        "article_ids": [
+            198477,
+            662897,
+            637417
+        ],
+        "articles": [
+            {
+                "id": 198477,
+                "title": "日本製のEV排除に危機感 EU優遇策に修正要求 高市首相も直談判 - 朝日新聞",
+                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfUGFsRTdCMHF4UWdNV0NDWnlQdzlFbTdoR1dIV3dEQW40X1lsbnBOY21jcXZoTWRZMTBLXzJjNlFxR0NHLUczUl9sNTNybU9OUU1nWER4WnptcDViMUtlYllVOTFTM00?oc=5",
+                "published": "Thu, 05 Nov 2026 21:30:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfUGFsRTdCMHF4UWdNV0NDWnlQdzlFbTdoR1dIV3dEQW40X1lsbnBOY21jcXZoTWRZMTBLXzJjNlFxR0NHLUczUl9sNTNybU9OUU1nWER4WnptcDViMUtlYllVOTFTM00?oc=5\" target=\"_blank\">日本製のEV排除に危機感 EU優遇策に修正要求 高市首相も直談判</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
+                "site_name": "朝日新聞",
+                "primary_category": "Policy/Geopolitics",
+                "reason": "関税や政策関与は戦略上極めて重要。",
+                "score": 90,
+                "is_highly_important": true
+            },
+            {
+                "id": 662897,
+                "title": "高市首相、EUのEV優遇法案に強い懸念 仏大統領と会談 | スマートニュース - SmartNews",
+                "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxQbEczQXd1Y3JrVU16dExmT2JTUnhVMGZkbm1faHFhUzRiQ1FKc1pWTy05bnYyWDZNSmkxNGhOSGlhWWxERHdBdVZoMWZlVHAwQ3ZqeFdUcHY2cEVDZG9vMHhrelo4M2J5UEpwbGxVYUpKUUJDYi1kRFFtWmRrMjg5a1V2Y2dJVmN2c19TWEZpVkpNMW1ZeFlPa2YtcXU3bldqVGROTWlRS0JZUTFZQk5HV0lOdmdlZFN5NkVKTE45YVQ3SXh3MmN3RTNPVEZ1Nmc3R0pOVVgzaVBzN2xtX2RqTjgxalpEUHVxSFRaTzBCTWhoWkR4Z3ltOWlTREtFYlNYWGctUTYtTGp0ZlpxN1E0cHVTMWtNUUg0Yndxc24tWUVTbHk5WEFUZzZRdjVmZy1DbWMtdC1ucTcyamdBSGxMTS1MWlVkTEhJeDgzazQ4VkJmZWY3aDU2ZWt1TUxUNnRGbUVSTENSaHRPcFhnYTBVOWphUHRPVVpRRVFkdzA0WVlTTXR0?oc=5",
+                "published": "Thu, 05 Nov 2026 21:55:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMihANBVV95cUxQbEczQXd1Y3JrVU16dExmT2JTUnhVMGZkbm1faHFhUzRiQ1FKc1pWTy05bnYyWDZNSmkxNGhOSGlhWWxERHdBdVZoMWZlVHAwQ3ZqeFdUcHY2cEVDZG9vMHhrelo4M2J5UEpwbGxVYUpKUUJDYi1kRFFtWmRrMjg5a1V2Y2dJVmN2c19TWEZpVkpNMW1ZeFlPa2YtcXU3bldqVGROTWlRS0JZUTFZQk5HV0lOdmdlZFN5NkVKTE45YVQ3SXh3MmN3RTNPVEZ1Nmc3R0pOVVgzaVBzN2xtX2RqTjgxalpEUHVxSFRaTzBCTWhoWkR4Z3ltOWlTREtFYlNYWGctUTYtTGp0ZlpxN1E0cHVTMWtNUUg0Yndxc24tWUVTbHk5WEFUZzZRdjVmZy1DbWMtdC1ucTcyamdBSGxMTS1MWlVkTEhJeDgzazQ4VkJmZWY3aDU2ZWt1TUxUNnRGbUVSTENSaHRPcFhnYTBVOWphUHRPVVpRRVFkdzA0WVlTTXR0?oc=5\" target=\"_blank\">高市首相、EUのEV優遇法案に強い懸念 仏大統領と会談 | スマートニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SmartNews</font>",
+                "site_name": "SmartNews",
+                "primary_category": "Policy",
+                "reason": "外交面でのEV優遇是正交渉は重要事項。",
+                "score": 90,
+                "is_highly_important": true
+            },
+            {
+                "id": 637417,
+                "title": "EV優遇へ懸念 仏大統領に伝達 首相、電話会談で - 沖縄タイムス社",
+                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lUXZHeE4xQzlFX0xmdlh1TEpTeTdkNkVzUTFfTi0ySTAwRnF0X014aUtFNW9RWE9lRUJmTmVPZTNJeDNrME51V0lOZU96WDNwRlNQdW9wZmkzRlVMOXc?oc=5",
+                "published": "Thu, 05 Nov 2026 18:57:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lUXZHeE4xQzlFX0xmdlh1TEpTeTdkNkVzUTFfTi0ySTAwRnF0X014aUtFNW9RWE9lRUJmTmVPZTNJeDNrME51V0lOZU96WDNwRlNQdW9wZmkzRlVMOXc?oc=5\" target=\"_blank\">EV優遇へ懸念 仏大統領に伝達 首相、電話会談で</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">沖縄タイムス社</font>",
+                "site_name": "沖縄タイムス社",
+                "primary_category": "Policy",
+                "reason": "外交面での優遇是正要請。",
+                "score": 85,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "EUの産業加速化法（IAA）による域内生産優遇が、日本メーカーの市場排除に直結する懸念の浮上",
+                "中国製EVの台頭と雇用危機への対応を急ぐ欧州の保護主義的転換に対し、日本政府が是正を直談判",
+                "独仏の枠組みで『過去の域内市場パートナー』を優遇対象とする合意がなされ、日本が排除されるリスクが濃厚"
+            ],
+            "insight": "EUが掲げる「産業加速化法」は、環境政策を錦の御旗とした精緻な産業保護策です。欧州が中国製EVへの対抗と域内雇用確保を優先する中で、日本企業は『欧州の客人』から『競合する外部者』へと位置付けが変化しています。単なる市場アクセス問題ではなく、カーボンニュートラルというルール形成権を巡る日欧の政治経済的パワーゲームの現れであり、外交的解決は極めて困難な局面です。"
+        }
+    },
+    {
+        "topic_name": "トヨタの中国市場におけるEV戦略転換と体制再編",
+        "article_ids": [
+            876279,
+            845588,
+            898594
+        ],
+        "articles": [
+            {
+                "id": 876279,
+                "title": "中国不振、２７年に反転攻勢へ 体制再編でＥＶ開発強化―トヨタ - 時事ドットコム",
+                "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpTzFxcG5weGQ1bTkzT2o2WUFiLUQyZk4yYTFMYm1JWWNwbFlmdUZ6SzlVMDJ1WHBYZGJCblA1ZFp5dXlSX0hYZGw2VHJ6WUFGUWcxUi11LTJZaTZxSExhbXhhTQ?oc=5",
+                "published": "Thu, 05 Nov 2026 23:34:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpTzFxcG5weGQ1bTkzT2o2WUFiLUQyZk4yYTFMYm1JWWNwbFlmdUZ6SzlVMDJ1WHBYZGJCblA1ZFp5dXlSX0hYZGw2VHJ6WUFGUWcxUi11LTJZaTZxSExhbXhhTQ?oc=5\" target=\"_blank\">中国不振、２７年に反転攻勢へ 体制再編でＥＶ開発強化―トヨタ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事ドットコム</font>",
+                "site_name": "時事ドットコム",
+                "primary_category": "Strategy",
+                "reason": "トヨタの中国戦略変更は業界への影響大。",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 845588,
+                "title": "トヨタ、苦戦中国てこ入れ EV開発現地化や期間短縮 富裕層取り込みで反転攻勢 - 西日本新聞me",
+                "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXZ0FZZDctb2ZnY0prWkNraUJRcXBFbERhc2xfZERkZ1AySDdEZ1dTV3Q4c2pfNTlhemRSWEpodjlpdGFkT0k0V1lSRlhBRkNNZkF0MVln?oc=5",
+                "published": "Thu, 05 Nov 2026 21:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXZ0FZZDctb2ZnY0prWkNraUJRcXBFbERhc2xfZERkZ1AySDdEZ1dTV3Q4c2pfNTlhemRSWEpodjlpdGFkT0k0V1lSRlhBRkNNZkF0MVln?oc=5\" target=\"_blank\">トヨタ、苦戦中国てこ入れ EV開発現地化や期間短縮 富裕層取り込みで反転攻勢</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">西日本新聞me</font>",
+                "site_name": "西日本新聞me",
+                "primary_category": "Strategy",
+                "reason": "トヨタの中国戦略変更。",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 898594,
+                "title": "トヨタ中国市場でＥＶ攻勢 ＨＶ中心の戦略転換へ ：地域ニュース - 読売新聞",
+                "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iNU80bjZhWGgtX2F5cmtVOUlBVXlWQzN3ZzFXNnZETDJQYVRyelhWYkt3ZmxDSDJWNElBTzFmV3M5LTctU0V4OU92RVZ5VDFvcWFTdzQ2anFmeGc0UkI5cWtYY0dyT09ERTg3Z2g0a2I?oc=5",
+                "published": "Fri, 06 Nov 2026 20:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5iNU80bjZhWGgtX2F5cmtVOUlBVXlWQzN3ZzFXNnZETDJQYVRyelhWYkt3ZmxDSDJWNElBTzFmV3M5LTctU0V4OU92RVZ5VDFvcWFTdzQ2anFmeGc0UkI5cWtYY0dyT09ERTg3Z2g0a2I?oc=5\" target=\"_blank\">トヨタ中国市場でＥＶ攻勢 ＨＶ中心の戦略転換へ ：地域ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">読売新聞</font>",
+                "site_name": "読売新聞",
+                "primary_category": "Strategy",
+                "reason": "トヨタの中国戦略転換。",
+                "score": 85,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "中国市場におけるトヨタのシェア低下を受け、合弁体制の集約化と意思決定の迅速化によるEV開発体制の抜本的改革に着手",
+                "開発サイクルを従来の3年以上から2年余りに短縮し、現地企業並みのスピード感で次世代EVを2027年から順次投入",
+                "車両販売依存からの脱却を目指し、ロボット事業やバリューチェーン（アフターサービス）を収益の柱とする多角化を加速"
+            ],
+            "insight": "トヨタの中国戦略は『慎重な技術的中立』から『現地適応型のEVファストフォロワー』への転換を意味する。最大の特徴は、ガソリン・HVで築いた既存の合弁構造を解体し、現地市場に最適化した「中国発」の原価競争力と開発速度を、グローバル展開のベンチマークに据え直した点にある。これは単なるEV化ではなく、ロボット等の付加価値ビジネスも含めた『サービス・デファインド・ビークル』への生存戦略への移行と言える。"
+        }
+    },
+    {
+        "topic_name": "自治体・民間によるEV活用等の脱炭素連携協定",
+        "article_ids": [
+            367106,
+            690232
+        ],
+        "articles": [
+            {
+                "id": 367106,
+                "title": "プレスリリース：島根県隠岐の島町・島根日産自動車・テンフィールズファクトリーが「EVを活用した脱炭素社会構築に向けた連携協定」を11月6日に締結（PR TIMES） - 毎日新聞",
+                "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DM081bjZSZG42dmlVd05HUWZwWDFkczBDWDNib0ZiQlhMZzRUaEY2d1BmdTNSS1hRaF9mcTQ2Y3QwNXpuc04zdExGcVBhcmh4MkNtb1U4Z0JoUTQ3Q3EyZzFJQlZyVTJE?oc=5",
+                "published": "Fri, 06 Nov 2026 09:52:48 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DM081bjZSZG42dmlVd05HUWZwWDFkczBDWDNib0ZiQlhMZzRUaEY2d1BmdTNSS1hRaF9mcTQ2Y3QwNXpuc04zdExGcVBhcmh4MkNtb1U4Z0JoUTQ3Q3EyZzFJQlZyVTJE?oc=5\" target=\"_blank\">プレスリリース：島根県隠岐の島町・島根日産自動車・テンフィールズファクトリーが「EVを活用した脱炭素社会構築に向けた連携協定」を11月6日に締結（PR TIMES）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">毎日新聞</font>",
+                "site_name": "毎日新聞",
+                "primary_category": "Policy/Partnership",
+                "reason": "地方での脱炭素連携協定であり地域固有の情報。",
+                "score": 75,
+                "is_highly_important": true
+            },
+            {
+                "id": 690232,
+                "title": "福島日産など6社が「福島県及び浪江町での循環型社会の実現に向けた取組みに関する連携協定」を締結 中古EVと車載電池を浪江拠点で再製品化 - MSRweb",
+                "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9CWl9GZDJPSjllN2ZNbG10Q3NLY25fNjhqNXZlMmFueE1JU0ZMSFh0Rjdld0VIdlpEWEg1NlJrQWpCY2ktYlNV?oc=5",
+                "published": "Fri, 06 Nov 2026 01:53:14 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE9CWl9GZDJPSjllN2ZNbG10Q3NLY25fNjhqNXZlMmFueE1JU0ZMSFh0Rjdld0VIdlpEWEg1NlJrQWpCY2ktYlNV?oc=5\" target=\"_blank\">福島日産など6社が「福島県及び浪江町での循環型社会の実現に向けた取組みに関する連携協定」を締結 中古EVと車載電池を浪江拠点で再製品化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSRweb</font>",
+                "site_name": "MSRweb",
+                "primary_category": "Sustainability",
+                "reason": "中古電池再製品化は資源戦略の重要事例。",
+                "score": 75,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "EVの地域内循環モデル：中古車両の再流通と車載電池の再製品化を地域拠点（浪江町等）で完結させるエコシステムの構築",
+                "自治体と民間によるインフラ共創：EV充電器の遠隔管理技術を活用した災害時のBCP対応と観光地への導入加速",
+                "車載電池のリユース推進：新品製造時のCO2排出を抑制し、地域エネルギーの蓄電池として活用する循環型経済（サーキュラーエコノミー）の具体化"
+            ],
+            "insight": "自動車産業の競争軸が『単なる車両販売』から『車両・電池のライフサイクルマネジメント』へ完全に移行しました。特に中古EVの海外流出防止と国内での電池再製品化は、資源戦略上の急務です。日産系販売会社がハブとなり、解体・再製品化・リース金融を垂直統合する本モデルは、脱炭素と地域防災を両立させる、次世代のディーラー経営のロールモデルとなるでしょう。"
+        }
+    },
+    {
+        "topic_name": "アウディの中国向けEV開発拠点「AITC」開設",
+        "article_ids": [
+            59665
+        ],
+        "articles": [
+            {
+                "id": 59665,
+                "title": "アウディが上海に新技術拠点「AITC」を開設。上汽集団（SAIC）と連携し中国向けEV開発を加速、なんとか「中国に追いつく」ことを目指す - https://intensive911.com/",
+                "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14LU50ZkJTM3ZQbkhieW1NZm1wSmpZOTQ0ajFiT0otX2QyV2VVNHNmQzJJWHJiaXA2MGtIX3YxYXZrU2pOTWloT2NHaFhTM21EWHRmbFdIRHRFV1BDb05TZGZZYw?oc=5",
+                "published": "Fri, 06 Nov 2026 02:55:58 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE14LU50ZkJTM3ZQbkhieW1NZm1wSmpZOTQ0ajFiT0otX2QyV2VVNHNmQzJJWHJiaXA2MGtIX3YxYXZrU2pOTWloT2NHaFhTM21EWHRmbFdIRHRFV1BDb05TZGZZYw?oc=5\" target=\"_blank\">アウディが上海に新技術拠点「AITC」を開設。上汽集団（SAIC）と連携し中国向けEV開発を加速、なんとか「中国に追いつく」ことを目指す</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">https://intensive911.com/</font>",
+                "site_name": "https://intensive911.com/",
+                "primary_category": "Strategy",
+                "reason": "独中合弁開発の加速戦略。",
+                "score": 75,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "アウディが上海に技術拠点「AITC」を開設し、SAICとの共同開発体制を現地完結型へ強化",
+                "中国市場専用ブランド「AUDI」を通じ、デジタル・AI領域での現地適合性を最優先する戦略へ転換",
+                "市場の変化速度に対応するための「追いつき（キャッチアップ）」が主目的であり、グローバルブランドとの乖離が鮮明化"
+            ],
+            "insight": "本拠点はアウディの「中国市場における生存戦略」の極致です。自社主導の垂直統合モデルを捨て、中国のエコシステムへ自らをローカライズさせる決断は、長期的には伝統的OEMとしての独自性（ブランドDNA）の希釈と、中国勢による技術の空洞化を招くリスクを孕んでいます。追いつくことはできても、追い越すことは難しい構造的ジレンマに陥っています。"
+        }
+    },
+    {
+        "topic_name": "蔚来(NIO)によるEV重量増への警告",
+        "article_ids": [
+            916586
+        ],
+        "articles": [
+            {
+                "id": 916586,
+                "title": "蔚来トップがＥＶ重量増に警鐘、「２割増で路面損傷２倍」(サーチナ) - Yahoo!ファイナンス",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVHdmbmo0WHhuOURwQ3QwWHBEVDR4dC0zaG9yNjE4Z1lfZmRYR3dwVU82ZGtGUUc1MC1Jck5vb2pqUlBzWDlaekFESURIakhxNUl1cUZlVUVtMEFvZlJmVi1hLTNXN29xYkpRcXVNQks1RmxFNTJwV0hoNGVGWGFEZnB1RFF1TTg?oc=5",
+                "published": "Fri, 06 Nov 2026 05:42:17 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOVHdmbmo0WHhuOURwQ3QwWHBEVDR4dC0zaG9yNjE4Z1lfZmRYR3dwVU82ZGtGUUc1MC1Jck5vb2pqUlBzWDlaekFESURIakhxNUl1cUZlVUVtMEFvZlJmVi1hLTNXN29xYkpRcXVNQks1RmxFNTJwV0hoNGVGWGFEZnB1RFF1TTg?oc=5\" target=\"_blank\">蔚来トップがＥＶ重量増に警鐘、「２割増で路面損傷２倍」(サーチナ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ファイナンス</font>",
+                "site_name": "Yahoo!ファイナンス",
+                "primary_category": "Industry",
+                "reason": "EV技術課題（車重問題）への言及は重要。",
+                "score": 70,
+                "is_highly_important": false
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "EVの重量増加が引き起こすインフラ（路面）への負荷増大を指摘",
+                "「重量の2割増で路面損傷は2倍」という非線形的な破壊リスクへの警告",
+                "NIOが電池交換式技術を通じて、車両の超重量化に歯止めをかける意図"
+            ],
+            "insight": "EVの重量問題は単なる航続距離のトレードオフではなく、インフラ維持コストという『外部不経済』を内包しています。NIOがこの課題を提起するのは、自社の交換式バッテリー技術が車両の軽量化や電池容量の最適化に優位であると主張するブランディング戦略です。今後、重量課税や規制の議論が本格化すれば、技術アプローチの差が市場評価を分けることになるでしょう。"
+        }
+    },
+    {
+        "topic_name": "イギリスにおける新築・大規模修繕建物のEV充電設備設置義務化検討",
+        "article_ids": [
+            611664
+        ],
+        "articles": [
+            {
+                "id": 611664,
+                "title": "【イギリス】政府、新築・大規模修繕建物のEV充電設備設置義務拡大を検討。屋根付き駐車場も | Sustainable Japan | 世界のサステナビリティ・ESG投資・SDGs - Sustainable Japan",
+                "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qMkF2Z1lhMExYNEZjRWtPWGQxMi1EV3hocUpFajNGQktSbG9QUnEzMmh0S3k3ZXRneEV5ek53N0dBOXlRVjdkbzNfelF5dkFpbkYwWkpkMzdWMm0tODNfT0xydGdwUGFTZEhlcjZPYnpNWXEzRGtLSHpB0gF_QVVfeXFMT1Rnd1VxQnB5T0ZZaGkzRGZvSHlMRXoyNGRMNlFGS1F0LUswM0VaanYzSllTX20tUDFEel9QeU04Vm5lcW5YNXJxQVI4UVltOWhkUzlSWVZ0TVhESDhneTA0OUdLMlJ3emEweTJENFpsRkUzOFphQXhGNExjSFUxcw?oc=5",
+                "published": "Thu, 05 Nov 2026 22:46:46 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9qMkF2Z1lhMExYNEZjRWtPWGQxMi1EV3hocUpFajNGQktSbG9QUnEzMmh0S3k3ZXRneEV5ek53N0dBOXlRVjdkbzNfelF5dkFpbkYwWkpkMzdWMm0tODNfT0xydGdwUGFTZEhlcjZPYnpNWXEzRGtLSHpB0gF_QVVfeXFMT1Rnd1VxQnB5T0ZZaGkzRGZvSHlMRXoyNGRMNlFGS1F0LUswM0VaanYzSllTX20tUDFEel9QeU04Vm5lcW5YNXJxQVI4UVltOWhkUzlSWVZ0TVhESDhneTA0OUdLMlJ3emEweTJENFpsRkUzOFphQXhGNExjSFUxcw?oc=5\" target=\"_blank\">【イギリス】政府、新築・大規模修繕建物のEV充電設備設置義務拡大を検討。屋根付き駐車場も | Sustainable Japan | 世界のサステナビリティ・ESG投資・SDGs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sustainable Japan</font>",
+                "site_name": "Sustainable Japan",
+                "primary_category": "Policy",
+                "reason": "英国の充電インフラ義務化は市場の先行指標。",
+                "score": 80,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "イングランドが新築・大規模修繕建物へのEV充電設備設置義務を強化",
+                "従来対象外だった屋根付き駐車場を義務化の射程に含める方針",
+                "設置コストの適正化を狙い、充電設備接続費用の法的上限額を見直し"
+            ],
+            "insight": "英国の規制強化は、単なる充電器設置から『建物一体型インフラ』への転換を示唆します。特に屋根付き駐車場への拡大は、V2B/V2Gを見据えた電力グリッド負荷管理の布石。今後、建設・不動産は『モビリティ起点』のエネルギーマネジメントが競争力の源泉となり、EVインフラは不動産の資産価値を左右する決定的なスペックとなります。"
+        }
+    },
+    {
+        "topic_name": "メルセデスベンツ日本の認定中古EVバッテリー残存性能開示",
+        "article_ids": [
+            889859
+        ],
+        "articles": [
+            {
+                "id": 889859,
+                "title": "メルセデスベンツ日本、認定中古EVのバッテリー残存性能を開示…商談時に確認可能に - レスポンス（Response.jp）",
+                "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1VF9XZ0QxRmhPX1NFSDBhNjRYdkxESU40RGFQc21YV1dmYVdwVGVkV1daRE1jN29Wb1BiRDZiSVZuSWxseHo1bk1vWjRKbG9ybm1KWkg3VFZfWS1oWm9N?oc=5",
+                "published": "Fri, 06 Nov 2026 00:00:03 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1VF9XZ0QxRmhPX1NFSDBhNjRYdkxESU40RGFQc21YV1dmYVdwVGVkV1daRE1jN29Wb1BiRDZiSVZuSWxseHo1bk1vWjRKbG9ybm1KWkg3VFZfWS1oWm9N?oc=5\" target=\"_blank\">メルセデスベンツ日本、認定中古EVのバッテリー残存性能を開示…商談時に確認可能に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
+                "site_name": "レスポンス（Response.jp）",
+                "primary_category": "Business Model",
+                "reason": "中古EVのバッテリー性能開示は市場透明性に貢献。",
+                "score": 70,
+                "is_highly_important": false
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "認定中古EV全車を対象に専用診断機によるSOH（残存性能）の開示を標準化",
+                "可視化によるバッテリー不安の払拭で、中古EV市場の流動性を向上",
+                "70%未満を無償交換基準とする長期特別保証と連動させた品質保証体制の構築"
+            ],
+            "insight": "EV中古車取引における最大のリスク因子「電池劣化」のブラックボックスを解消し、資産価値の透明性を高めた点は評価される。特にメーカー公式がSOHを商談のフロントエンドで開示することで、ディーラー側には品質管理の負荷が増す一方、中古EVの残価設定や再販価格の安定化、さらには将来的なバッテリーリサイクルへのトレーサビリティ確保を見据えた戦略的な動きと読むべきだ。"
+        }
+    },
+    {
+        "topic_name": "EV先端素材のDynamic Designへの増資",
+        "article_ids": [
+            598723
+        ],
+        "articles": [
+            {
+                "id": 598723,
+                "title": "EV先端素材がDynamic Designへ50億増資 持株34％に引き上げ - Chosunbiz",
+                "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaEFaTHJTTjlNOFJ3eTg1WDVYN3NGUFhhTTdWakh5NG9nTUIyZV9qZmhiUkxnX1hCNmQtUXh0T0NXQ1daUXRWbmhjdTFzV1R4SXZfMWI4THltSWRhWThWLUU5SzFGaVdqV3o1NmlhQWpxNVpoX3VOdzNNeVBLZjBiN9IBlAFBVV95cUxNVjg3enJ0Qm53NTFGMzZBamdjOTgwR3VKME4wdFk1S0FyWEZwU1ZCLURxYTc4SlNVUk84RjNPcmFxNDVBNXVFS2M0WGdhU3h0VVZ3ZU1TOGpLU0pJX20wVWVDMU0tQk9IQWtiZm4zTkk2Tk5pUEpubWlsNWxfRkMyLS1DS29lUXBnSFE4dm5wYTZoT29m?oc=5",
+                "published": "Fri, 06 Nov 2026 08:56:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOaEFaTHJTTjlNOFJ3eTg1WDVYN3NGUFhhTTdWakh5NG9nTUIyZV9qZmhiUkxnX1hCNmQtUXh0T0NXQ1daUXRWbmhjdTFzV1R4SXZfMWI4THltSWRhWThWLUU5SzFGaVdqV3o1NmlhQWpxNVpoX3VOdzNNeVBLZjBiN9IBlAFBVV95cUxNVjg3enJ0Qm53NTFGMzZBamdjOTgwR3VKME4wdFk1S0FyWEZwU1ZCLURxYTc4SlNVUk84RjNPcmFxNDVBNXVFS2M0WGdhU3h0VVZ3ZU1TOGpLU0pJX20wVWVDMU0tQk9IQWtiZm4zTkk2Tk5pUEpubWlsNWxfRkMyLS1DS29lUXBnSFE4dm5wYTZoT29m?oc=5\" target=\"_blank\">EV先端素材がDynamic Designへ50億増資 持株34％に引き上げ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+                "site_name": "Chosunbiz",
+                "primary_category": "Investment",
+                "reason": "先端素材への増資はサプライチェーン上の重要情報。",
+                "score": 75,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "EV先端素材がDynamic Designへの出資比率を18.92%から34.44%へ引き上げ、経営支配力を強化",
+                "当初予定していた第三者割当増資先を外部から親会社へ切り替え、資金繰りとガバナンスの安定を図る",
+                "売買停止中のDynamic Designにおいて、財務改善と業績黒字化を軸とした上場維持・売買再開への背水の陣"
+            ],
+            "insight": "経営危機の渦中にある企業が、外部資本ではなく親会社による直接出資を選択した点は、外部からの買収防衛と同時に、上場廃止リスクを回避するための『身内による延命措置』と見なすべきです。タイヤ金型というレガシー領域からEV関連へのピボットは容易ではなく、経営権を完全に掌握した親会社が、いかにして実効性のある再建シナリオを描けるかが焦点となります。"
+        }
+    },
+    {
+        "topic_name": "Amazonインドのタタ製EVトラック導入",
+        "article_ids": [
+            334970
+        ],
+        "articles": [
+            {
+                "id": 334970,
+                "title": "インドの商用車市場で電動化が急加速！ アマゾンがタタのバッテリーEVトラックを3000台導入（ベストカーWeb） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fTUliUlRIN2dSbHNmZTNYdllzNkVJTjhoRWdhUkpVU3dpVmZsM0RIN3JKdXotWkk0YkdWV0hFbXpCTVVMZ245c1FLT0c2RWs0QzNGell3Zk1Ic1drbWxFcVVncUJ2YXNkOGNheGduQ28wT0twUk9CSVZWd2g4U1U?oc=5",
+                "published": "Fri, 06 Nov 2026 01:01:03 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5fTUliUlRIN2dSbHNmZTNYdllzNkVJTjhoRWdhUkpVU3dpVmZsM0RIN3JKdXotWkk0YkdWV0hFbXpCTVVMZ245c1FLT0c2RWs0QzNGell3Zk1Ic1drbWxFcVVncUJ2YXNkOGNheGduQ28wT0twUk9CSVZWd2g4U1U?oc=5\" target=\"_blank\">インドの商用車市場で電動化が急加速！ アマゾンがタタのバッテリーEVトラックを3000台導入（ベストカーWeb）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Market Trends",
+                "reason": "インドでの商用EV大規模導入事例。",
+                "score": 75,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "アマゾンとタタ・モーターズがインドでBEVトラック3000台を導入、ミドルマイル輸送の電動化を本格化",
+                "政府の「PM E-DRIVE」スキームを活用し、車両からインフラ、運行ソリューションまで一体的なエコシステムを構築",
+                "ラストマイルからミドルマイルへの電動化領域の拡大が、インド物流市場におけるBEV普及の転換点となる"
+            ],
+            "insight": "本件の核心は、単なる台数規模ではなく『ミドルマイルの構造転換』にある。インド特有の都市間物流の非効率性を、アマゾンの巨額投資とタタの垂直統合力でBEV化し、政府の政策支援に乗せる手法は、新興国におけるグリーン物流の最適解となる。中国メーカーが躍起になる中、現地覇者の強固なインフラが勝負を分ける。"
+        }
+    },
+    {
+        "topic_name": "世界のEVバッテリー市場における中国のシェア",
+        "article_ids": [
+            350135
+        ],
+        "articles": [
+            {
+                "id": 350135,
+                "title": "世界のEVバッテリーの2個に1個は中国製··· 海外市場制覇の加速化 - 스타뉴스",
+                "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSndZb2hWaTdfeXN0WUl0UEJ6SkF1ell1SzVpYkFpM0VaMkxhWHd5ZUFLcGpic1JCN2VqQ2Fpenp0dXhhZ3Zsenh3NGxjRDJqZTJycThTdk11aVpTYVVLSlNHM2lLaXlhSjh0YmRtbU9iR1o4R1NDRGdmaXdDak9QSUZmSQ?oc=5",
+                "published": "Fri, 06 Nov 2026 04:55:15 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOSndZb2hWaTdfeXN0WUl0UEJ6SkF1ell1SzVpYkFpM0VaMkxhWHd5ZUFLcGpic1JCN2VqQ2Fpenp0dXhhZ3Zsenh3NGxjRDJqZTJycThTdk11aVpTYVVLSlNHM2lLaXlhSjh0YmRtbU9iR1o4R1NDRGdmaXdDak9QSUZmSQ?oc=5\" target=\"_blank\">世界のEVバッテリーの2個に1個は中国製··· 海外市場制覇の加速化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">스타뉴스</font>",
+                "site_name": "스타뉴스",
+                "primary_category": "Industry",
+                "reason": "グローバルバッテリー市場のシェア支配。",
+                "score": 80,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "中国勢が海外市場シェア56.4%を占め、世界的な圧倒的優位を確立",
+                "韓国バッテリー大手3社の海外シェアが26.5%へと急落し、北米市場の需要減速と競合激化が浮き彫りに",
+                "CATL、BYDに続き後発企業群も3桁成長を見せており、価格と投資戦略の両面で中国の攻勢が加速"
+            ],
+            "insight": "EV市場の踊り場において、中国勢は価格競争力に加え、欧米拠点への先行投資というリスクテイクでシェアを強奪しています。もはや単なるボリューム勝負ではなく、LFP等の技術的多角化で中低価格帯のデファクトを握りつつあるのが脅威です。韓国勢は高付加価値戦略への回帰が急務ですが、汎用品のコスト競争力で太刀打ちできない現状、生き残るには次世代電池での技術的優位性の再定義と、地政学的リスクを逆手に取ったサプライチェーンの囲い込みが不可欠です。"
+        }
+    },
+    {
+        "topic_name": "テスラのサイバートラック生産縮小とロボタクシー増産",
+        "article_ids": [
+            778765
+        ],
+        "articles": [
+            {
+                "id": 778765,
+                "title": "テスラ、サイバートラック生産を2027年半ばに縮小へ 空く工場でロボタクシー増産 ｜Seizo Trend - ビジネス+IT",
+                "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nMmV0eE8xRjhKZTBETmFobW0yckFoTnlDejFWZGVMaXJyR29pcHdmaHZQendsV2R4ZXR5cnctR1VGVWFER05lWUNMSzJuZ0k?oc=5",
+                "published": "Fri, 06 Nov 2026 11:16:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nMmV0eE8xRjhKZTBETmFobW0yckFoTnlDejFWZGVMaXJyR29pcHdmaHZQendsV2R4ZXR5cnctR1VGVWFER05lWUNMSzJuZ0k?oc=5\" target=\"_blank\">テスラ、サイバートラック生産を2027年半ばに縮小へ 空く工場でロボタクシー増産 ｜Seizo Trend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ビジネス+IT</font>",
+                "site_name": "ビジネス+IT",
+                "primary_category": "Strategy",
+                "reason": "テスラの生産戦略変更は重要。",
+                "score": 75,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "サイバートラックの生産縮小とロボタクシーへのリソース集中",
+                "2027年を境にしたテスラの製品ポートフォリオの構造的転換",
+                "既存製造拠点の稼働効率を最大化する戦略的ピボット"
+            ],
+            "insight": "サイバートラックはブランドのアイコンとしては成功したが、収益性と量産性という実益面では限界に達した。テスラは今、ハードウェア企業から『移動のサービス』企業への脱皮を急いでおり、低利益率の高級ピックアップよりも、高収益が見込める自動運転エコシステムに工場リソースを充てる判断は、極めて冷徹かつ合理的なテスラ流の意思決定と言える。"
+        }
+    },
+    {
+        "topic_name": "中国メーカーのイギリス市場におけるシェア急伸",
+        "article_ids": [
+            834356
+        ],
+        "articles": [
+            {
+                "id": 834356,
+                "title": "イギリス市場で中国車のシェア急伸､1～9月期は17.5%に…EVでは3割超､EUは迂回輸出を警戒 2ページ目 | ビジネス - 東洋経済オンライン",
+                "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoenpXLUJEQWdUV2FGbGRSUFY4TkV3bXQ0elUwT3FsbFhDNVF4ZDU5RmdWb1d4eUt6NXRrRlR6dXNZZ2lZWTRVSE1YSGhUbDl4Z3d5VjE5ckwwRE0?oc=5",
+                "published": "Thu, 05 Nov 2026 21:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoenpXLUJEQWdUV2FGbGRSUFY4TkV3bXQ0elUwT3FsbFhDNVF4ZDU5RmdWb1d4eUt6NXRrRlR6dXNZZ2lZWTRVSE1YSGhUbDl4Z3d5VjE5ckwwRE0?oc=5\" target=\"_blank\">イギリス市場で中国車のシェア急伸､1～9月期は17.5%に…EVでは3割超､EUは迂回輸出を警戒 2ページ目 | ビジネス</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東洋経済オンライン</font>",
+                "site_name": "東洋経済オンライン",
+                "primary_category": "Geopolitics",
+                "reason": "中国製EVへの警戒と迂回輸出調査は重要。",
+                "score": 85,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "中国製自動車のイギリス市場シェアが急拡大し、1-9月期で全車種17.5%、EVでは3割超に到達",
+                "EUの対中関税発動に伴う輸出先のシフトが鮮明で、イギリスが「迂回ルート」となることをEUが警戒",
+                "アフターサービス網の構築とデータセキュリティの懸念払拭が、持続的なシェア拡大への喫緊の課題"
+            ],
+            "insight": "中国メーカーにとって、EUの反補助金関税による閉鎖的な障壁を「右ハンドル市場」という非EU圏の隙間へ迂回させる戦術は合理的だ。しかし、英政府がEUと足並みを揃えた関税強化に踏み切れば、価格優位性は霧散する。単なる安価な輸出から、現地サポートとデータ主権の信頼性獲得へ転換できるかが、一過性のシェア拡大に留まらないための生死を分ける分岐点となる。"
+        }
+    }
+]
