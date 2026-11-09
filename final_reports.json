@@ -1,113 +1,58 @@
 [
     {
-        "topic_name": "国内EV販売台数10万台突破",
+        "topic_name": "テスラ「サイバートラック」の生産縮小および終了計画",
         "article_ids": [
-            946508,
-            157431
+            347608,
+            596714,
+            709520,
+            739760
         ],
         "articles": [
             {
-                "id": 946508,
-                "title": "ＥＶ販売、初の１０万台突破 ２６年 政府支援で需要喚起 - 福井新聞社",
-                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mWmg0Tko4LWlRZElBck5KTGxSanZWMlVubWM1Sk1vSWh4aE5vUzM4cXNlNnY2UEtOVTc5eFg1aFNUVTRMYTdEX1VndHp4aXFWUmZ0UVdqaXBGakxOcHc?oc=5",
-                "published": "Fri, 06 Nov 2026 20:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mWmg0Tko4LWlRZElBck5KTGxSanZWMlVubWM1Sk1vSWh4aE5vUzM4cXNlNnY2UEtOVTc5eFg1aFNUVTRMYTdEX1VndHp4aXFWUmZ0UVdqaXBGakxOcHc?oc=5\" target=\"_blank\">ＥＶ販売、初の１０万台突破 ２６年 政府支援で需要喚起</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">福井新聞社</font>",
-                "site_name": "福井新聞社",
-                "primary_category": "Policy",
-                "reason": "国内EV販売台数の節目と政府支援方針は重要",
-                "score": 80,
-                "is_highly_important": true
-            },
-            {
-                "id": 157431,
-                "title": "【初の10万台】国内EV販売、1〜10月で11万1,876台〜10月のシェアは5%目前 - Touch Lab",
-                "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TSlo5QkR3THpZRTZhX0x6Rk5xd2tmU2laek16TVQ1SUNoc2pmM2c4NUUwMDQ3YnFOQnpySVRQM20wdDd5Q2JzN3RtcF8xSmkxSGk0bTZwTmtZSXRrNVZtSQ?oc=5",
-                "published": "Sat, 07 Nov 2026 02:09:17 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TSlo5QkR3THpZRTZhX0x6Rk5xd2tmU2laek16TVQ1SUNoc2pmM2c4NUUwMDQ3YnFOQnpySVRQM20wdDd5Q2JzN3RtcF8xSmkxSGk0bTZwTmtZSXRrNVZtSQ?oc=5\" target=\"_blank\">【初の10万台】国内EV販売、1〜10月で11万1,876台〜10月のシェアは5%目前</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Touch Lab</font>",
-                "site_name": "Touch Lab",
-                "primary_category": "Market Data",
-                "reason": "国内EV販売シェアの推移は重要な先行指標",
-                "score": 70,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "2026年の国内EV販売台数が初の10万台を突破、補助金による強力な需要喚起が主因",
-                "トヨタがEV販売で日産を抜き国内メーカー首位に浮上、市場競争の構造変化が鮮明に",
-                "2027年からの補助金減額を控えた駆け込み需要が顕著であり、翌年以降の成長持続性に懸念"
-            ],
-            "insight": "国内EV市場はついに大台に乗ったが、実態は政策的インセンティブへの極端な依存が否めない。補助金で無理やり押し上げた「官製需要」の側面が強く、テスラやトヨタがシェアを競う一方で、2027年の補助金縮小は成長急減速のトリガーとなり得る。真の需要創出には、充電インフラの拡充と車種の多様化による「自律的な購買動機」の醸成が不可欠である。"
-        }
-    },
-    {
-        "topic_name": "テスラ・サイバートラック生産終了",
-        "article_ids": [
-            576240,
-            397483,
-            387874,
-            173971,
-            133385
-        ],
-        "articles": [
-            {
-                "id": 576240,
-                "title": "米テスラ、EVトラック生産縮小 来年半ばに - 西日本新聞me",
-                "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGeGQxYjFHU1B4UFg3Mm9SazFjaHFRTEttc0hubmtuUV9wNHZzNVVNaUFoTnNXZ2N0cHhCdmtOWnV4WURtdlBFRGdUR0ZkUHE3UFR1QWdn?oc=5",
-                "published": "Fri, 06 Nov 2026 23:54:36 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGeGQxYjFHU1B4UFg3Mm9SazFjaHFRTEttc0hubmtuUV9wNHZzNVVNaUFoTnNXZ2N0cHhCdmtOWnV4WURtdlBFRGdUR0ZkUHE3UFR1QWdn?oc=5\" target=\"_blank\">米テスラ、EVトラック生産縮小 来年半ばに</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">西日本新聞me</font>",
-                "site_name": "西日本新聞me",
+                "id": 347608,
+                "title": "ＥＶトラック 生産を縮小へ 米テスラ、来年半ばに - 琉球新報デジタル",
+                "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1raDg2TlFqek9mRGZGOU03RTBuUGk5MWJMWUVQMFhlTnlVMGsxNzZUVUtJdlF3ZWVyaGJxYTV6RWNRcTdPS3VPNV82U0lHWXdkWFNmVi1SNGJ0ZExUR3NQcHdR?oc=5",
+                "published": "Sat, 07 Nov 2026 20:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1raDg2TlFqek9mRGZGOU03RTBuUGk5MWJMWUVQMFhlTnlVMGsxNzZUVUtJdlF3ZWVyaGJxYTV6RWNRcTdPS3VPNV82U0lHWXdkWFNmVi1SNGJ0ZExUR3NQcHdR?oc=5\" target=\"_blank\">ＥＶトラック 生産を縮小へ 米テスラ、来年半ばに</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">琉球新報デジタル</font>",
+                "site_name": "琉球新報デジタル",
                 "primary_category": "Corporate Strategy",
-                "reason": "テスラの製品戦略修正は市場に影響を与える",
-                "score": 70,
-                "is_highly_important": true
-            },
-            {
-                "id": 397483,
-                "title": "テスラ・サイバートラック、わずか3年半で生産終了へ！ 日本への導入は幻に - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPODdMZWFmdzNwMFhjWTNLY3BiSXhXLTc4RUlWbHJaQ3pfTWpqd19HZmxsWDZvNExWSmNjQVRVS2xWbnhkMGpBTlhvNzhTUURjMnlHYmUwbjRSTzA3WGd2aVpXd1hvNXVFMHZvXzNxYnN6Qy1BdTlJN2JEX055a3hVUW1GNng0TGlX?oc=5",
-                "published": "Sat, 07 Nov 2026 05:43:12 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPODdMZWFmdzNwMFhjWTNLY3BiSXhXLTc4RUlWbHJaQ3pfTWpqd19HZmxsWDZvNExWSmNjQVRVS2xWbnhkMGpBTlhvNzhTUURjMnlHYmUwbjRSTzA3WGd2aVpXd1hvNXVFMHZvXzNxYnN6Qy1BdTlJN2JEX055a3hVUW1GNng0TGlX?oc=5\" target=\"_blank\">テスラ・サイバートラック、わずか3年半で生産終了へ！ 日本への導入は幻に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-                "site_name": "Yahoo!ニュース",
-                "primary_category": "Corporate Strategy",
-                "reason": "テスラの戦略転換、生産計画の修正は重要",
-                "score": 80,
-                "is_highly_important": true
-            },
-            {
-                "id": 387874,
-                "title": "テスラが「サイバートラック」生産縮小へ、リコール相次ぎ販売伸び悩み…「無人運転タクシー」車両を増産（読売新聞オンライン） - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9na1BRZ0F5Z0RpLWFpZVNjYnBpamEzZEowLVVPVmk4RHlrYTRMOURGV0NQVUZTdUNlT0NhMVFoMGI1UXV5UE16ZmVPUjkyMXhOSXA2aVFURHJrT1NtQmRpemtQNExMN0lGdUxNZEFpUkVfcVBXdmlCckhma3FucW8?oc=5",
-                "published": "Sat, 07 Nov 2026 06:22:10 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9na1BRZ0F5Z0RpLWFpZVNjYnBpamEzZEowLVVPVmk4RHlrYTRMOURGV0NQVUZTdUNlT0NhMVFoMGI1UXV5UE16ZmVPUjkyMXhOSXA2aVFURHJrT1NtQmRpemtQNExMN0lGdUxNZEFpUkVfcVBXdmlCckhma3FucW8?oc=5\" target=\"_blank\">テスラが「サイバートラック」生産縮小へ、リコール相次ぎ販売伸び悩み…「無人運転タクシー」車両を増産（読売新聞オンライン）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-                "site_name": "Yahoo!ニュース",
-                "primary_category": "Corporate Strategy",
-                "reason": "テスラの生産縮小と戦略修正は経営上の重大事案",
+                "reason": "テスラのトラック生産縮小は市場動向に直結する重要情報。",
                 "score": 85,
                 "is_highly_important": true
             },
             {
-                "id": 173971,
-                "title": "テスラ、テキサス工場での「サイバートラック」生産終了へ 2027年半ば（ＡＦＰ＝時事） - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqSWVXd1UtSW9QOE9fZUstNHJZWDc4LW9RN25YVkxFZTJPbktMSHlVeTlEbjQ0TUU3UW1kNUZ6bTNMNW5xQ3pKNVJ6LWZnYkhmOTdYbHhSbjZGVkRxRDEwOHRrMlJIUVUtZlp2bGxJOEhBRlpUazJ4U2lxaG1tVjQ?oc=5",
-                "published": "Sat, 07 Nov 2026 01:52:26 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBqSWVXd1UtSW9QOE9fZUstNHJZWDc4LW9RN25YVkxFZTJPbktMSHlVeTlEbjQ0TUU3UW1kNUZ6bTNMNW5xQ3pKNVJ6LWZnYkhmOTdYbHhSbjZGVkRxRDEwOHRrMlJIUVUtZlp2bGxJOEhBRlpUazJ4U2lxaG1tVjQ?oc=5\" target=\"_blank\">テスラ、テキサス工場での「サイバートラック」生産終了へ 2027年半ば（ＡＦＰ＝時事）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-                "site_name": "Yahoo!ニュース",
+                "id": 596714,
+                "title": "テスラ、サイバートラック生産を2027年半ばに終了へ―販売不振でロボタクシー「サイバーキャブ」増産に軸足 - 財経新聞",
+                "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xcXlpUlBsTVFvN3Z5dkpGWWZkaENWM1hDSG1IQlUyRWhOTDRySWdVRWlqckc5VHkzbTdlUFRUVS1QdXl5aGpNU2VnM2VwUmxLekxuZW9tVm80SVN1ejcxZnhjVdIBaEFVX3lxTFA4UnhTcHRmSWRrMTk1VURmUl9aQnpmZ3NoeC1kaXJiTFJPdEdJN2dYZE5oZ0dJWmxaaWstTFdQeGxmaDFUY1hWTnJXVkhOZWpJbzRkUXJzZnJDNlFnbmcxSmxaR01LNk4z?oc=5",
+                "published": "Sun, 08 Nov 2026 05:34:50 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xcXlpUlBsTVFvN3Z5dkpGWWZkaENWM1hDSG1IQlUyRWhOTDRySWdVRWlqckc5VHkzbTdlUFRUVS1QdXl5aGpNU2VnM2VwUmxLekxuZW9tVm80SVN1ejcxZnhjVdIBaEFVX3lxTFA4UnhTcHRmSWRrMTk1VURmUl9aQnpmZ3NoeC1kaXJiTFJPdEdJN2dYZE5oZ0dJWmxaaWstTFdQeGxmaDFUY1hWTnJXVkhOZWpJbzRkUXJzZnJDNlFnbmcxSmxaR01LNk4z?oc=5\" target=\"_blank\">テスラ、サイバートラック生産を2027年半ばに終了へ―販売不振でロボタクシー「サイバーキャブ」増産に軸足</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">財経新聞</font>",
+                "site_name": "財経新聞",
                 "primary_category": "Corporate Strategy",
-                "reason": "主力製品の生産終了とロードマップ変更は重要",
+                "reason": "生産体制の大きな変更を示す重要トピック。",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 709520,
+                "title": "テスラ、サイバートラックの生産を縮小へ。ギガテキサスをサイバーキャブ増産に振り向け - EVcafe",
+                "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE54V0hoRDRIdzhXZkRoMkN0ZU5VUUJvc3hONHdYN3NIQkpJR3pLQTh0QW1xYnFWVW9MUFBmRlh4Y2lkaC1CUDkzTjl3?oc=5",
+                "published": "Sat, 07 Nov 2026 23:24:53 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE54V0hoRDRIdzhXZkRoMkN0ZU5VUUJvc3hONHdYN3NIQkpJR3pLQTh0QW1xYnFWVW9MUFBmRlh4Y2lkaC1CUDkzTjl3?oc=5\" target=\"_blank\">テスラ、サイバートラックの生産を縮小へ。ギガテキサスをサイバーキャブ増産に振り向け</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EVcafe</font>",
+                "site_name": "EVcafe",
+                "primary_category": "Corporate Strategy",
+                "reason": "テスラの生産戦略変更は重要。",
                 "score": 80,
                 "is_highly_important": true
             },
             {
-                "id": 133385,
-                "title": "テスラ、サイバートラックの生産終了へ。マスク氏いわく、理由は「サイバーキャブ生産のため」 - テクノエッジ TechnoEdge",
-                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zaktOWVdPb0JmSVdZLWdjYkljRUZBemFSR3pSXzhuM2VQSXhybV9SUFlvNm5Pa3c4VkFEbTYzaVk3WE5SZGVNQVYyRGpmZndlc2FVVFFRYnV4QVBOUG1DRG9GclhzYkU?oc=5",
-                "published": "Fri, 06 Nov 2026 21:30:03 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zaktOWVdPb0JmSVdZLWdjYkljRUZBemFSR3pSXzhuM2VQSXhybV9SUFlvNm5Pa3c4VkFEbTYzaVk3WE5SZGVNQVYyRGpmZndlc2FVVFFRYnV4QVBOUG1DRG9GclhzYkU?oc=5\" target=\"_blank\">テスラ、サイバートラックの生産終了へ。マスク氏いわく、理由は「サイバーキャブ生産のため」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">テクノエッジ TechnoEdge</font>",
-                "site_name": "テクノエッジ TechnoEdge",
+                "id": 739760,
+                "title": "サイバートラックに終焉の時：イーロン・マスク氏、テスラが最も賛否を呼んだEVの生産を縮小すると発言 - Business Insider Japan",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONWI3T09EQ2J2dVNta3c5TThGMXYtLWRZeFBDbHZjUzZfODNaSUJtc3dqRHBhZ0dGV09YMG9rdzBZNzFSd0FYQjloSE1IUjdVZzRXREN0QzJZZ1haOUVMOFR2VjN5dFBiLWREY2pSZ0RSZU15NFdRVWQ0RFluUGZXY0MtRTNEbGVtZXNnX0VYT1lQajJHWnFGYkZPLTNJcTBRLW1GOHZBWFQwS2c?oc=5",
+                "published": "Sun, 08 Nov 2026 23:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxONWI3T09EQ2J2dVNta3c5TThGMXYtLWRZeFBDbHZjUzZfODNaSUJtc3dqRHBhZ0dGV09YMG9rdzBZNzFSd0FYQjloSE1IUjdVZzRXREN0QzJZZ1haOUVMOFR2VjN5dFBiLWREY2pSZ0RSZU15NFdRVWQ0RFluUGZXY0MtRTNEbGVtZXNnX0VYT1lQajJHWnFGYkZPLTNJcTBRLW1GOHZBWFQwS2c?oc=5\" target=\"_blank\">サイバートラックに終焉の時：イーロン・マスク氏、テスラが最も賛否を呼んだEVの生産を縮小すると発言</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider Japan</font>",
+                "site_name": "Business Insider Japan",
                 "primary_category": "Corporate Strategy",
-                "reason": "テスラの戦略的生産シフトの公式発表は重要",
+                "reason": "テスラ動向の重要記事。",
                 "score": 80,
                 "is_highly_important": true
             }
@@ -115,11 +60,11 @@
         "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "「サイバートラック」は3年半の販売を経て2027年半ばに生産縮小・終了へ。極端なデザインと政治的イデオロギー化が、実用車を求める層からの乖離を招いた。",
-                "販売不振の背景には、EVピックアップトラック市場全体の成長鈍化に加え、度重なるリコールによる品質への不信感と初期需要の枯渇がある。",
-                "テスラは経営資源を「サイバーキャブ（無人ロボタクシー）」へ集約し、AI・自動運転企業への完全転換を加速させるための戦略的撤退である。"
+                "テスラが象徴的モデル『サイバートラック』の生産を2027年半ばに終了へ",
+                "販売低迷に加え、経営資源をロボタクシー『サイバーキャブ』の増産へ全面転換",
+                "オプティマス等の次世代事業を優先し、従来の乗用車ラインナップを急速に整理"
             ],
-            "insight": "サイバートラックは「自動車」ではなく、テスラの技術革新（48V電装系やステア・バイ・ワイヤ等）を実証する「巨大なプロトタイプ」でした。商業的には失敗でも、その技術資産が次世代のロボタクシーに転用される以上、マスク氏にとっては「役割を終えた資産」に過ぎません。特定の象徴的価値に頼るニッチモデルから、AIによるスケーラブルなプラットフォームへ軸足を移す、極めて冷徹な事業再編です。"
+            "insight": "サイバートラックは高度な技術デモとしての役割は果たしたが、生産効率と収益性で失敗した。今回の決定は、テスラが単なる「EVメーカー」から「自律移動・ロボティクス企業」へと脱皮し、物理的資産の過剰保有を嫌うイーロン・マスクの計算高いリアリズムが、ブランドのアイコンよりもビジネスの転換速度を優先した結果である。"
         }
     }
 ]
