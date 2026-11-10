@@ -1,0 +1,115 @@
+[
+    {
+        "topic_name": "英国のEV販売目標見直し報道",
+        "article_ids": [
+            741951,
+            427331,
+            949075
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "EUの日本製EV除外案に対する日本政府の懸念表明",
+        "article_ids": [
+            454944,
+            874292,
+            591032,
+            632469,
+            352311,
+            777595,
+            129803
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "ホンダの米国ハイブリッド車新工場建設",
+        "article_ids": [
+            930413,
+            332490,
+            211518,
+            75141,
+            962490,
+            439564,
+            212142
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "ルノーの英国EV市場への展望",
+        "article_ids": [
+            966809
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "東京都のEV充電補助金における不正申請",
+        "article_ids": [
+            892197
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "EV生産支援策の申請受付開始",
+        "article_ids": [
+            52650
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "トヨタの自動運転EVに関する実証実験",
+        "article_ids": [
+            841601
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "三菱電機モビリティの鴻海向けEV部品開発",
+        "article_ids": [
+            861065
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "テスラ・サイバートラックの生産縮小",
+        "article_ids": [
+            739760,
+            292023
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "ホンダの次世代EV「ゼロアルファ」公開予定",
+        "article_ids": [
+            266507
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "トヨタのHV特許出願動向",
+        "article_ids": [
+            95950
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "EUの電池セル義務化によるEVコスト増",
+        "article_ids": [
+            867613
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "サムスンと現代自動車グループの車載AI連携",
+        "article_ids": [
+            55537
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "EUの2035年排出ガス規制緩和",
+        "article_ids": [
+            883262
+        ],
+        "is_grouped": false
+    }
+]

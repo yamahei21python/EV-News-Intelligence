@@ -1,0 +1,603 @@
+[
+    {
+        "topic_name": "英国のEV販売目標見直し報道",
+        "article_ids": [
+            741951,
+            427331,
+            949075
+        ],
+        "articles": [
+            {
+                "id": 741951,
+                "title": "英ＥＶ販売、目標緩和報道は「憶測」と首相 引き続き検討中（ロイター） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WU25tVFc1RUIxblMxSmFHZFJOSDZRUTdkZzdKNzNCVXlWOEFsSV93T0VMMXBEZS1oajdvaW02OFU2SkJUQmptWkt0QlNXQnFvU3lSeV91RklNMS1Pd0owTXE0WE5IWVZfNWhHeGxwQ3g1SHN2dnl5TE0zWVYwUzg?oc=5",
+                "published": "Mon, 09 Nov 2026 13:10:04 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1WU25tVFc1RUIxblMxSmFHZFJOSDZRUTdkZzdKNzNCVXlWOEFsSV93T0VMMXBEZS1oajdvaW02OFU2SkJUQmptWkt0QlNXQnFvU3lSeV91RklNMS1Pd0owTXE0WE5IWVZfNWhHeGxwQ3g1SHN2dnl5TE0zWVYwUzg?oc=5\" target=\"_blank\">英ＥＶ販売、目標緩和報道は「憶測」と首相 引き続き検討中（ロイター）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "政策",
+                "reason": "英国のEV販売目標に関する重要な政策動向。",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 427331,
+                "title": "英ＥＶ販売、30年目標を約60％に緩和へ 柔軟運用も延長＝英紙（ロイター） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KQ2YtYjdOR0RGQVZiOHBBeWlWb0RNY1huZ2RweHNaaWxnTjR1YWcxajhPNFFIakhKQkdqc0d2R25KcU9EYjJoazJZQTlSSThUQWlTbWtkRlkzY0ZVNGpIeFk0bXdQdnVxY2NyMWZ0eGxtSkdXOG9Ha2tKLVh3OWc?oc=5",
+                "published": "Mon, 09 Nov 2026 02:23:23 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1KQ2YtYjdOR0RGQVZiOHBBeWlWb0RNY1huZ2RweHNaaWxnTjR1YWcxajhPNFFIakhKQkdqc0d2R25KcU9EYjJoazJZQTlSSThUQWlTbWtkRlkzY0ZVNGpIeFk0bXdQdnVxY2NyMWZ0eGxtSkdXOG9Ha2tKLVh3OWc?oc=5\" target=\"_blank\">英ＥＶ販売、30年目標を約60％に緩和へ 柔軟運用も延長＝英紙（ロイター）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "政策",
+                "reason": "英国の販売目標緩和の詳細は市場への影響大。",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 949075,
+                "title": "英首相、EV販売目標の緩和報道を「憶測」と否定 2030年60％案はなお審議中 - BigGo ファイナンス",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNZUZSQ2k0bklZRkUxZHBWRWEwLV9xakVJb1VUZnhTWHNxeEpOakk2dzFNVEJPSXA3NWYzWnUzZWZ4dnJIdjlfWTRLck1pU1EzcERreXhWa0dKZnJlV3IxVDBaRjFWay1YUWhQcGcxMHlFYWF5?oc=5",
+                "published": "Mon, 09 Nov 2026 13:29:46 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBNZUZSQ2k0bklZRkUxZHBWRWEwLV9xakVJb1VUZnhTWHNxeEpOakk2dzFNVEJPSXA3NWYzWnUzZWZ4dnJIdjlfWTRLck1pU1EzcERreXhWa0dKZnJlV3IxVDBaRjFWay1YUWhQcGcxMHlFYWF5?oc=5\" target=\"_blank\">英首相、EV販売目標の緩和報道を「憶測」と否定 2030年60％案はなお審議中</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+                "site_name": "BigGo ファイナンス",
+                "primary_category": "政策",
+                "reason": "英国の目標緩和報道に対する政府否定。",
+                "score": 75,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "英政府による2030年EV販売目標（80%）を60%へ緩和するとの報道に対し、首相は「憶測」として公式決定を否定",
+                "業界団体SMMTの指摘通り、現状のBEV普及率は2026年目標（33%）に届いておらず、メーカーからは供給・需要双方の観点から目標の現実化を求める声が根強い",
+                "2035年の100%販売終了という大枠の方針は維持しつつも、柔軟運用の延長や中間目標の調整でメーカーの負担軽減を図る妥協案が水面下で協議されている"
+            ],
+            "insight": "今回の英政府の反応は、欧州全体で顕在化する『規制と需要の乖離』に対する政治的な苦悩を象徴しています。2030年80%という高いハードルは、メーカーにクレジット購入や過度な値引きという「収益を食いつぶす電動化」を強いています。政策を維持する「建前」と、産業空洞化を防ぐ「実利」の間の調整であり、同様の悩みを抱えるEU圏への影響は避けられません。"
+        }
+    },
+    {
+        "topic_name": "EUの日本製EV除外案に対する日本政府の懸念表明",
+        "article_ids": [
+            454944,
+            874292,
+            591032,
+            632469,
+            352311,
+            777595,
+            129803
+        ],
+        "articles": [
+            {
+                "id": 454944,
+                "title": "茂木氏、仏外相にＥＶ優遇策への懸念伝達 - 京都新聞デジタル",
+                "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZdFpVTml0cGFnajJEcE1LR2tWczQta0xtZTU4NGtHRXZ1bU9qWXRZX3Y1UjFyM3MyaGFRbl82eVVWOEZnS3ZVOXlXdE92RGM2MlRjNHFYY00?oc=5",
+                "published": "Mon, 09 Nov 2026 15:22:12 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZdFpVTml0cGFnajJEcE1LR2tWczQta0xtZTU4NGtHRXZ1bU9qWXRZX3Y1UjFyM3MyaGFRbl82eVVWOEZnS3ZVOXlXdE92RGM2MlRjNHFYY00?oc=5\" target=\"_blank\">茂木氏、仏外相にＥＶ優遇策への懸念伝達</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">京都新聞デジタル</font>",
+                "site_name": "京都新聞デジタル",
+                "primary_category": "政策",
+                "reason": "EV優遇策を巡る国際的な対立と懸念。",
+                "score": 80,
+                "is_highly_important": true
+            },
+            {
+                "id": 874292,
+                "title": "茂木外相、仏外相に「強い懸念」伝達 EUの日本製EV除外案巡り - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2TzdrNFVfdjZvOUN4YUVVZ3JTWTJ0YW1zeEhicUI5TWVURmdNTXFNelNYYV9hcjJZbG9Rb0pENkc3YVhFOVFkc01NaFp6VkFWcDdmcWxjWDlJNnpYX2pJNFRRck5oN3ItTklQbQ?oc=5",
+                "published": "Mon, 09 Nov 2026 17:28:26 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFA2TzdrNFVfdjZvOUN4YUVVZ3JTWTJ0YW1zeEhicUI5TWVURmdNTXFNelNYYV9hcjJZbG9Rb0pENkc3YVhFOVFkc01NaFp6VkFWcDdmcWxjWDlJNnpYX2pJNFRRck5oN3ItTklQbQ?oc=5\" target=\"_blank\">茂木外相、仏外相に「強い懸念」伝達 EUの日本製EV除外案巡り</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "site_name": "日本経済新聞",
+                "primary_category": "政策",
+                "reason": "EU域内の日本製EV除外案への外交的対応。",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 591032,
+                "title": "日本製ＥＶ、ＥＵで「排除」危機 域内生産優遇法案 - 朝日新聞",
+                "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1UENHczBNUFQyenhORVgxZmgyMDI5UW5pZVJCX091QW5sMzI2WXdzOGZuWjQwR2J2QjFaakN1ZDF5NDNpMnAtOWpqSUd6ZDRNdVZzNWdseE5yUVFq?oc=5",
+                "published": "Mon, 09 Nov 2026 20:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1UENHczBNUFQyenhORVgxZmgyMDI5UW5pZVJCX091QW5sMzI2WXdzOGZuWjQwR2J2QjFaakN1ZDF5NDNpMnAtOWpqSUd6ZDRNdVZzNWdseE5yUVFq?oc=5\" target=\"_blank\">日本製ＥＶ、ＥＵで「排除」危機 域内生産優遇法案</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
+                "site_name": "朝日新聞",
+                "primary_category": "政策",
+                "reason": "域内優遇法案が与える経済的リスク。",
+                "score": 80,
+                "is_highly_important": true
+            },
+            {
+                "id": 632469,
+                "title": "茂木外相、EUの欧州製EV優遇策に強い懸念 仏外相に伝達 - 毎日新聞",
+                "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BOThvUGNwcFdoQm5Mb2N4TmlKbGowN3ctakE1ZGNTRnI3YUdZRnRUQ2JibGpmTzlCenRoV3BzNy1ncDEyejBpMHBVbVMxcG1ETzdGYk9aOUNlLTBrYnc2THU3aEltbFY0?oc=5",
+                "published": "Tue, 10 Nov 2026 01:09:36 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BOThvUGNwcFdoQm5Mb2N4TmlKbGowN3ctakE1ZGNTRnI3YUdZRnRUQ2JibGpmTzlCenRoV3BzNy1ncDEyejBpMHBVbVMxcG1ETzdGYk9aOUNlLTBrYnc2THU3aEltbFY0?oc=5\" target=\"_blank\">茂木外相、EUの欧州製EV優遇策に強い懸念 仏外相に伝達</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">毎日新聞</font>",
+                "site_name": "毎日新聞",
+                "primary_category": "政策",
+                "reason": "欧州の政策に関する懸念伝達。",
+                "score": 80,
+                "is_highly_important": true
+            },
+            {
+                "id": 352311,
+                "title": "「欧州EV優遇策」に強い懸念、茂木外相が仏外相へ伝達 日本製車両が対象外の可能性 - 産経ニュース",
+                "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TUzY1Mk9hdlNIYUdkNFZpaUFwcjlOTzRJalF3bElSQXV3OUVxeFJDdHozdUFTaVFLZl83bERDMC1Fd05kR29nNkxXVmVIdExvaFY1bS1WZjQ0aXdDT3ZhRWd5WFhfcHIyUm1RZU41MDJycGZvdEE?oc=5",
+                "published": "Mon, 09 Nov 2026 21:30:03 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9TUzY1Mk9hdlNIYUdkNFZpaUFwcjlOTzRJalF3bElSQXV3OUVxeFJDdHozdUFTaVFLZl83bERDMC1Fd05kR29nNkxXVmVIdExvaFY1bS1WZjQ0aXdDT3ZhRWd5WFhfcHIyUm1RZU41MDJycGZvdEE?oc=5\" target=\"_blank\">「欧州EV優遇策」に強い懸念、茂木外相が仏外相へ伝達 日本製車両が対象外の可能性</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">産経ニュース</font>",
+                "site_name": "産経ニュース",
+                "primary_category": "政策",
+                "reason": "欧州政策への外交通商懸念。",
+                "score": 80,
+                "is_highly_important": true
+            },
+            {
+                "id": 777595,
+                "title": "パリで日仏外相会談 茂木氏「欧州EV優遇法案」に懸念表明、バロ氏は日本に「説明した」（産経新聞） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wVkl5T0Mwdm41TmpsYm9mTWFVb2Y2ZjhUVnpSV245ajdTcDl0TWtVd3cyX1FzVUVJRkdXU0tVZzRZcWhuU0tSeWV6MTVoNmNRQVhUckZ0azlCUkRTekpNMFVaZFd4akF5WXY0LTRtXzhSWVNzQU13d2dUU2xQS2c?oc=5",
+                "published": "Mon, 09 Nov 2026 23:22:53 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE0wVkl5T0Mwdm41TmpsYm9mTWFVb2Y2ZjhUVnpSV245ajdTcDl0TWtVd3cyX1FzVUVJRkdXU0tVZzRZcWhuU0tSeWV6MTVoNmNRQVhUckZ0azlCUkRTekpNMFVaZFd4akF5WXY0LTRtXzhSWVNzQU13d2dUU2xQS2c?oc=5\" target=\"_blank\">パリで日仏外相会談 茂木氏「欧州EV優遇法案」に懸念表明、バロ氏は日本に「説明した」（産経新聞）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "政策",
+                "reason": "通商政策の交渉。",
+                "score": 80,
+                "is_highly_important": true
+            },
+            {
+                "id": 129803,
+                "title": "首相、ＥＶ優遇へ懸念伝達 仏大統領と電話会談 - 山陽新聞",
+                "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uWWY0U2VxOEswVlFGYzVDbHlLdWVDM29KYWI5MUR3NTg5NkdOOXZrcnUwTjMzNUp2RVdSZjZxRnJreEFXdXJUaEZpaUFNYnAxd0E?oc=5",
+                "published": "Mon, 09 Nov 2026 21:09:24 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uWWY0U2VxOEswVlFGYzVDbHlLdWVDM29KYWI5MUR3NTg5NkdOOXZrcnUwTjMzNUp2RVdSZjZxRnJreEFXdXJUaEZpaUFNYnAxd0E?oc=5\" target=\"_blank\">首相、ＥＶ優遇へ懸念伝達 仏大統領と電話会談</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
+                "site_name": "山陽新聞",
+                "primary_category": "政策",
+                "reason": "外交面での懸念伝達。",
+                "score": 80,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "EUが検討中の産業加速化法（IAA）において、域外生産のEVが公的支援・優遇措置から除外されるリスクが浮上。",
+                "茂木外相がフランスのバロ外相に対し、日本政府として公式に強い懸念を伝達し、公正な競争環境の維持を要求。",
+                "高市首相による首脳レベルの働きかけに続き、外相級での直接交渉により、ルール形成段階での是正を狙う外交的圧力を強化。"
+            ],
+            "insight": "本件は単なる通商摩擦を超えた、欧州による『グリーン保護主義』の先鋭化です。欧州が環境価値を盾に域内産業を囲い込む動きは、グローバルサプライチェーンに依拠する日本車メーカーにとって死活問題。特に競争の激化するEV市場において、公的補助金が勝敗を分けるため、日本政府はWTO整合性も視野に入れたより強硬な対抗カード（報復関税や通商交渉）を切る覚悟が問われています。"
+        }
+    },
+    {
+        "topic_name": "ホンダの米国ハイブリッド車新工場建設",
+        "article_ids": [
+            930413,
+            332490,
+            211518,
+            75141,
+            962490,
+            439564,
+            212142
+        ],
+        "articles": [
+            {
+                "id": 930413,
+                "title": "ホンダが米国で約20年ぶり完成車工場 4700億円、EV減速でHVに照準 - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wNVdVQ1pQV1E1ZWtwakQzZVE2X1pjeDQ0TVRPOFVTWkNydlp3c19XWk9tUHotUGtkMEMwdjhKN1JsWmxpRm1RYnBrSzRVWFUwWU10WU5uYWU3V0VTQXpJcUphbmdqbm42Tmt0SQ?oc=5",
+                "published": "Mon, 09 Nov 2026 16:57:57 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5wNVdVQ1pQV1E1ZWtwakQzZVE2X1pjeDQ0TVRPOFVTWkNydlp3c19XWk9tUHotUGtkMEMwdjhKN1JsWmxpRm1RYnBrSzRVWFUwWU10WU5uYWU3V0VTQXpJcUphbmdqbm42Tmt0SQ?oc=5\" target=\"_blank\">ホンダが米国で約20年ぶり完成車工場 4700億円、EV減速でHVに照準</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "site_name": "日本経済新聞",
+                "primary_category": "サプライチェーン",
+                "reason": "ホンダの米国生産戦略の転換と設備投資。",
+                "score": 90,
+                "is_highly_important": true
+            },
+            {
+                "id": 332490,
+                "title": "ホンダ、米国に新工場建設へ HVシフト鮮明に、29年にも稼働 - 朝日新聞",
+                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vRnFhRGlQY0xkUVdoSk81YzVDZEg2S2pCVDRYaVJicGJvRUh3eFhfd0NPU0diTV9Uc2dqcEF4Q2RiWlFRcFhRdDhIV2s0ZXQzUjVCb0RSUFZjRnR0bmx2N3VGYkMtRlE?oc=5",
+                "published": "Mon, 09 Nov 2026 08:04:52 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vRnFhRGlQY0xkUVdoSk81YzVDZEg2S2pCVDRYaVJicGJvRUh3eFhfd0NPU0diTV9Uc2dqcEF4Q2RiWlFRcFhRdDhIV2s0ZXQzUjVCb0RSUFZjRnR0bmx2N3VGYkMtRlE?oc=5\" target=\"_blank\">ホンダ、米国に新工場建設へ HVシフト鮮明に、29年にも稼働</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
+                "site_name": "朝日新聞",
+                "primary_category": "戦略",
+                "reason": "メーカーのグローバル生産戦略の修正。",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 211518,
+                "title": "ホンダがオハイオ州にハイブリッド車工場建設へ－30億ドル規模 - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVFlocmJIWUJodHM0S3VjMVZROEhVSHJab2Z4V0tfN0hRZmFNN2pZa1U0QmNQZzJtNm1tbzYyai05WUkyT1NyelBNLVg0QzRaNlA0SXBaaXEtZG0tdWZqREN4c2JQYkdYTVF6emVncHBzZXY0U0ZoWUY5c2dFWlN0dVZISlhZdElpNXhjNklB?oc=5",
+                "published": "Mon, 09 Nov 2026 17:22:28 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNVFlocmJIWUJodHM0S3VjMVZROEhVSHJab2Z4V0tfN0hRZmFNN2pZa1U0QmNQZzJtNm1tbzYyai05WUkyT1NyelBNLVg0QzRaNlA0SXBaaXEtZG0tdWZqREN4c2JQYkdYTVF6emVncHBzZXY0U0ZoWUY5c2dFWlN0dVZISlhZdElpNXhjNklB?oc=5\" target=\"_blank\">ホンダがオハイオ州にハイブリッド車工場建設へ－30億ドル規模</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+                "site_name": "Bloomberg.com",
+                "primary_category": "サプライチェーン",
+                "reason": "ホンダの米国投資戦略。",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 75141,
+                "title": "ホンダ、米HV新工場は「EV生産に切り替え可能」 巨額損失の教訓 - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10TEFhMEhKMlA2Sjl5VFVkb2NVdUk5M3dYZWVmbFkwaFRRdkJqY0hUY0o3LVRuZ0dCQnJJV1lubHduTjNJSEJ5UXNqZUlJVGpoUl9ER1QwVnZ5bUloUm5CS3VJYXRkNTd6SDZRcg?oc=5",
+                "published": "Tue, 10 Nov 2026 02:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE10TEFhMEhKMlA2Sjl5VFVkb2NVdUk5M3dYZWVmbFkwaFRRdkJqY0hUY0o3LVRuZ0dCQnJJV1lubHduTjNJSEJ5UXNqZUlJVGpoUl9ER1QwVnZ5bUloUm5CS3VJYXRkNTd6SDZRcg?oc=5\" target=\"_blank\">ホンダ、米HV新工場は「EV生産に切り替え可能」 巨額損失の教訓</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "site_name": "日本経済新聞",
+                "primary_category": "戦略",
+                "reason": "ホンダの投資戦略背景分析。",
+                "score": 80,
+                "is_highly_important": true
+            },
+            {
+                "id": 962490,
+                "title": "ホンダ、米国で新工場建設を発表 4700億円投じ、HV生産増強 - 朝日新聞",
+                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02ZjRGT1F2YmdsY2dNV0s0YnJkUHhodDVseEF1WEVHa2dCLXZSdEI3WVppaW04NU9ZS3NEM1J3WmV5NUwzUXV5cHRYakluNWJMNjBrTlN3Y0ZudGxUcWJyMWdJQW1zVWM?oc=5",
+                "published": "Tue, 10 Nov 2026 00:19:29 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02ZjRGT1F2YmdsY2dNV0s0YnJkUHhodDVseEF1WEVHa2dCLXZSdEI3WVppaW04NU9ZS3NEM1J3WmV5NUwzUXV5cHRYakluNWJMNjBrTlN3Y0ZudGxUcWJyMWdJQW1zVWM?oc=5\" target=\"_blank\">ホンダ、米国で新工場建設を発表 4700億円投じ、HV生産増強</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
+                "site_name": "朝日新聞",
+                "primary_category": "サプライチェーン",
+                "reason": "ホンダの設備投資計画。",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 439564,
+                "title": "ホンダ、米に車工場新設 ２９年稼働、５千億円弱投資 | 全国のニュース | 福井新聞ONLINE - 福井新聞社",
+                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4NXRWQldDam5DOVdXc0oxR0pKRVVGNXBFYTNDX21zSEsyaGFyNkxwRFAwc2F6eTNncG15QTNvZzQwQjBFQ2V0UFMzeHNVQUVBRjRzMHhkcEoyOTZ6alE?oc=5",
+                "published": "Mon, 09 Nov 2026 22:00:23 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4NXRWQldDam5DOVdXc0oxR0pKRVVGNXBFYTNDX21zSEsyaGFyNkxwRFAwc2F6eTNncG15QTNvZzQwQjBFQ2V0UFMzeHNVQUVBRjRzMHhkcEoyOTZ6alE?oc=5\" target=\"_blank\">ホンダ、米に車工場新設 ２９年稼働、５千億円弱投資 | 全国のニュース | 福井新聞ONLINE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">福井新聞社</font>",
+                "site_name": "福井新聞社",
+                "primary_category": "戦略",
+                "reason": "ホンダの投資計画。",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 212142,
+                "title": "ホンダ、30億ドル規模のハイブリッド専用工場をオハイオ州に建設へ、2,000人雇用創出 - BigGo ファイナンス",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRYzdyamdIV19scUJPRnRweUo5b0d1RV9HUm9HRTdUUGw3X192WWNDT2Y2RkdEbkR6ZWtsSzRUeUcyWnVyR0tEY3h2T0I1UHFoQUhvb2tnaldyQmdONFBzUWdYak5CR3JYektUc0g0UktmM0xZ?oc=5",
+                "published": "Mon, 09 Nov 2026 18:00:15 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBRYzdyamdIV19scUJPRnRweUo5b0d1RV9HUm9HRTdUUGw3X192WWNDT2Y2RkdEbkR6ZWtsSzRUeUcyWnVyR0tEY3h2T0I1UHFoQUhvb2tnaldyQmdONFBzUWdYak5CR3JYektUc0g0UktmM0xZ?oc=5\" target=\"_blank\">ホンダ、30億ドル規模のハイブリッド専用工場をオハイオ州に建設へ、2,000人雇用創出</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+                "site_name": "BigGo ファイナンス",
+                "primary_category": "戦略",
+                "reason": "ホンダの米投資戦略。",
+                "score": 85,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "北米のHV需要急増に伴い、オハイオ州へ約20年ぶりとなる新完成車工場を建設（投資額約4,700億円、2029年稼働）",
+                "既存のオハイオ州拠点近郊に配置することで、開発から生産までの連携を強化し、北米生産能力を増強",
+                "HVを軸としつつ、EV需要や政治・政策変動に対応可能な混流生産体制を構築する「プランB」の柔軟性を確保"
+            ],
+            "insight": "ホンダの投資は、単なるHV回帰ではなく「不確実性への経営的ヘッジ」です。EV一本足打法からの修正により、北米という高収益市場での稼働率を維持しつつ、将来のEVシフトや政権交代という政治リスクにも適応可能な製造資産を残した点は戦略的です。サプライチェーンの現地化を加速させることで、対米圧力への対応力も同時に高めています。"
+        }
+    },
+    {
+        "topic_name": "ルノーの英国EV市場への展望",
+        "article_ids": [
+            966809
+        ],
+        "articles": [
+            {
+                "id": 966809,
+                "title": "ルノーCEO 、英国でEVの「黄金期」到来を予想 中国勢に対抗 - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01ekRhWHN5MVlGYi1sYnVSS2RSVnVyTW5mOEhVV2NTM3dHWFkzRG5EUV8wTmpjVTdQNVp1WWV1Y0xZWUl1VU9leVhpNmhiMWpYRUJ2VjhzWFMwaWpGMS1fdlBMc1ZBenhIN3JTcEZyZnVpal9KUWFJ?oc=5",
+                "published": "Mon, 09 Nov 2026 15:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE01ekRhWHN5MVlGYi1sYnVSS2RSVnVyTW5mOEhVV2NTM3dHWFkzRG5EUV8wTmpjVTdQNVp1WWV1Y0xZWUl1VU9leVhpNmhiMWpYRUJ2VjhzWFMwaWpGMS1fdlBMc1ZBenhIN3JTcEZyZnVpal9KUWFJ?oc=5\" target=\"_blank\">ルノーCEO 、英国でEVの「黄金期」到来を予想 中国勢に対抗</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "site_name": "日本経済新聞",
+                "primary_category": "戦略",
+                "reason": "主要メーカーCEOによる市場展望と戦略的対抗策。",
+                "score": 75,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "ルノーCEOが英国市場でのEV「黄金期」到来を予見し、攻勢を強化",
+                "英国でシェア20%に達する中国勢に対し、欧州メーカーとしての優位性を模索",
+                "大規模なリストラが相次ぐ欧州勢の中で、ルノー独自の回復力が際立つ"
+            ],
+            "insight": "ルノーの強みは、アライアンスを再編し経営を軽量化したことによる機動力です。中国勢が価格競争で先行する中、ブランド価値と欧州内サプライチェーンを武器に、『地政学的リスクを厭う保守層』を取り込めるかが鍵。単なる電動化の追随ではなく、英国市場で『信頼と持続可能性』という付加価値をどう再定義し収益化できるかが勝負の分かれ目となります。"
+        }
+    },
+    {
+        "topic_name": "東京都のEV充電補助金における不正申請",
+        "article_ids": [
+            892197
+        ],
+        "articles": [
+            {
+                "id": 892197,
+                "title": "EV充電補助金、都が不正申請認定 105億円交付の国はOK？なぜ - 朝日新聞",
+                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kNU5sd0NaZk45enI5TF9vZ3JKZkZ6SmpvaGlRb25ZMzBhWHk1WFZIUko5Nllwa3o1MHh0emYzSlptbHFnTmRaYWpySVE4MjNIdk1INTdabkpMb0ItcWpZMFFoVnFRM1U?oc=5",
+                "published": "Sun, 08 Nov 2026 21:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kNU5sd0NaZk45enI5TF9vZ3JKZkZ6SmpvaGlRb25ZMzBhWHk1WFZIUko5Nllwa3o1MHh0emYzSlptbHFnTmRaYWpySVE4MjNIdk1INTdabkpMb0ItcWpZMFFoVnFRM1U?oc=5\" target=\"_blank\">EV充電補助金、都が不正申請認定 105億円交付の国はOK？なぜ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
+                "site_name": "朝日新聞",
+                "primary_category": "政策",
+                "reason": "補助金制度の運用と不正リスクに関わる行政課題。",
+                "score": 70,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "EV充電インフラ普及の補助金を巡るグループ内取引による価格操作疑惑",
+                "東京都による交付決定取り消しと、国レベルでの対応の乖離によるガバナンスの不透明性",
+                "インフラ補助事業における「人件費・資材費の不透明な上乗せ」という構造的なコンプライアンスリスク"
+            ],
+            "insight": "EV普及を急ぐ余り、需給ギャップを埋める補助金が「錬金術」の温床化している点は深刻です。特に親会社が大手電力系であっても、グループ内取引による価格不透明化が防げない現状は、政策遂行における審査・モニタリング能力の限界を露呈しています。都と国の判断分断は、インフラ政策全体の信頼性を根底から揺るがす重大な火種となります。"
+        }
+    },
+    {
+        "topic_name": "EV生産支援策の申請受付開始",
+        "article_ids": [
+            52650
+        ],
+        "articles": [
+            {
+                "id": 52650,
+                "title": "ＥＶ生産支援策、１月にも受け付け開始へ - NNAアジア",
+                "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1SQjd5ZUVEajV0NzhINnFQanlLa0thRUdrNXJ3SVQwRmpiTkNXVGx1RVFHUS1tU1VScnpxNGl0Tm9fRjR0c3c?oc=5",
+                "published": "Mon, 09 Nov 2026 15:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1SQjd5ZUVEajV0NzhINnFQanlLa0thRUdrNXJ3SVQwRmpiTkNXVGx1RVFHUS1tU1VScnpxNGl0Tm9fRjR0c3c?oc=5\" target=\"_blank\">ＥＶ生産支援策、１月にも受け付け開始へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NNAアジア</font>",
+                "site_name": "NNAアジア",
+                "primary_category": "政策",
+                "reason": "生産支援策の運用開始時期は重要。",
+                "score": 70,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "フィリピン政府がEV生産支援策（EVIS）の施行細則を11月中に公布予定",
+                "2026年1月より補助金やインセンティブの申請受付を開始する見込み",
+                "ASEAN域内でEV生産拠点としての競争力を高め、外資誘致を加速させる狙い"
+            ],
+            "insight": "ASEANのEV市場はタイの独壇場が続いたが、フィリピンが本格的なインセンティブ導入に動いたことで勢力図が変化する兆しだ。インフラ整備とコスト競争力が課題となる中、単なる組立誘致ではなく、現地サプライチェーンの構築をどの程度誘発できるかが、メーカー側の投資判断を分ける決定打となるだろう。"
+        }
+    },
+    {
+        "topic_name": "トヨタの自動運転EVに関する実証実験",
+        "article_ids": [
+            841601
+        ],
+        "articles": [
+            {
+                "id": 841601,
+                "title": "トヨタ、Google系ウェイモとロボットタクシー実証 EVを自動運転化 - 環境ビジネスオンライン",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SLWIybHdpTldKM05odDhaLWt3TDhia2VZdndsSjA0RjV5ZmJ5bFltbXpZa3Exeld5RkQ4a2VHZlh1dmdVem5JNkQ3dlg0d3Jld3p5ZllZXzhEYXFPSXU1bnMwM1djRTRqTkVjajBEdFdZeUh1U0k5aC01Wk5xTTg?oc=5",
+                "published": "Mon, 09 Nov 2026 05:49:15 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9SLWIybHdpTldKM05odDhaLWt3TDhia2VZdndsSjA0RjV5ZmJ5bFltbXpZa3Exeld5RkQ4a2VHZlh1dmdVem5JNkQ3dlg0d3Jld3p5ZllZXzhEYXFPSXU1bnMwM1djRTRqTkVjajBEdFdZeUh1U0k5aC01Wk5xTTg?oc=5\" target=\"_blank\">トヨタ、Google系ウェイモとロボットタクシー実証 EVを自動運転化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">環境ビジネスオンライン</font>",
+                "site_name": "環境ビジネスオンライン",
+                "primary_category": "戦略的提携",
+                "reason": "自動運転技術とEVの融合に向けた提携。",
+                "score": 75,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "トヨタとWaymoが協業し、EV『bZ4X』に自動運転システムを搭載して2027年から日本で実証実験を開始",
+                "Waymoの知見を導入することで、トヨタは自社開発と外部リソース活用のハイブリッド戦略を加速させる",
+                "米国で先行するロボットタクシーの社会実装モデルを、日本市場の法規制や交通環境下へ適応させる意図がある"
+            ],
+            "insight": "トヨタの戦略的転換点です。これまで独自技術にこだわった自動運転開発を、圧倒的な実績を持つWaymoとの提携に切り替えました。これは『ハードウェアのトヨタ』が『ソフトのWaymo』を取り込むことで、自動運転の社会実装という時間軸の勝負に勝つための極めて現実的な経営判断であり、日本のMaaS市場におけるゲームチェンジャーとなります。"
+        }
+    },
+    {
+        "topic_name": "三菱電機モビリティの鴻海向けEV部品開発",
+        "article_ids": [
+            861065
+        ],
+        "articles": [
+            {
+                "id": 861065,
+                "title": "三菱電機モビ社長｢鴻海EVにeアクスル」 アイシンと開発 - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SclY1UVEyRzh3MmZnOVRGTDkySW9NeE95U3c1VmhkMTQzWmhjN2drX0QtaEh0dWU0QWZicmNmUmdDR193RUZlX0VDZjNwY3NRODVwM1I0anRablR0d2oyNDVEZk9PNnIwamUxTXlKSm5idDduWWxReU1NV0wydjQ?oc=5",
+                "published": "Sun, 08 Nov 2026 20:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1SclY1UVEyRzh3MmZnOVRGTDkySW9NeE95U3c1VmhkMTQzWmhjN2drX0QtaEh0dWU0QWZicmNmUmdDR193RUZlX0VDZjNwY3NRODVwM1I0anRablR0d2oyNDVEZk9PNnIwamUxTXlKSm5idDduWWxReU1NV0wydjQ?oc=5\" target=\"_blank\">三菱電機モビ社長｢鴻海EVにeアクスル」 アイシンと開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "site_name": "日本経済新聞",
+                "primary_category": "戦略的提携",
+                "reason": "モーター分野のサプライヤー連携。",
+                "score": 75,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "三菱電機モビリティと鴻海の資本提携による、EV駆動系ユニットのグローバル供給網構築",
+                "競合関係にあったアイシンとの協業による開発効率の最大化とeアクスルの競争力強化",
+                "「黒子（サプライヤー）」に徹することで鴻海のEV受託生産プラットフォームを攻略する戦略"
+            ],
+            "insight": "鴻海の圧倒的な生産スピードと三菱電機・アイシンの技術力を掛け合わせ、コモディティ化が進むeアクスル市場での覇権を狙う一手です。特筆すべきは日系サプライヤーの垣根を越えた連携で、中国勢の台頭に対する防衛戦であると同時に、鴻海というプラットフォーマーを取り込むことで、次世代EVの標準化を主導しようとする非常に現実的かつ野心的な生存戦略です。"
+        }
+    },
+    {
+        "topic_name": "テスラ・サイバートラックの生産縮小",
+        "article_ids": [
+            739760,
+            292023
+        ],
+        "articles": [
+            {
+                "id": 739760,
+                "title": "サイバートラックに終焉の時：イーロン・マスク氏、テスラが最も賛否を呼んだEVの生産を縮小すると発言 - Business Insider Japan",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONWI3T09EQ2J2dVNta3c5TThGMXYtLWRZeFBDbHZjUzZfODNaSUJtc3dqRHBhZ0dGV09YMG9rdzBZNzFSd0FYQjloSE1IUjdVZzRXREN0QzJZZ1haOUVMOFR2VjN5dFBiLWREY2pSZ0RSZU15NFdRVWQ0RFluUGZXY0MtRTNEbGVtZXNnX0VYT1lQajJHWnFGYkZPLTNJcTBRLW1GOHZBWFQwS2c?oc=5",
+                "published": "Sun, 08 Nov 2026 23:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxONWI3T09EQ2J2dVNta3c5TThGMXYtLWRZeFBDbHZjUzZfODNaSUJtc3dqRHBhZ0dGV09YMG9rdzBZNzFSd0FYQjloSE1IUjdVZzRXREN0QzJZZ1haOUVMOFR2VjN5dFBiLWREY2pSZ0RSZU15NFdRVWQ0RFluUGZXY0MtRTNEbGVtZXNnX0VYT1lQajJHWnFGYkZPLTNJcTBRLW1GOHZBWFQwS2c?oc=5\" target=\"_blank\">サイバートラックに終焉の時：イーロン・マスク氏、テスラが最も賛否を呼んだEVの生産を縮小すると発言</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider Japan</font>",
+                "site_name": "Business Insider Japan",
+                "primary_category": "戦略",
+                "reason": "テスラの生産戦略修正。主要な市場動向。",
+                "score": 75,
+                "is_highly_important": true
+            },
+            {
+                "id": 292023,
+                "title": "サイバートラックも生産終了へ…大型EVトラックが大失敗した理由と「小型・低価格化」の勝算（海外） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pNHg3MTJwZ3dDb2p4ak0tNzB0MmZ0UlVlTXRmUzJ3TmtGNnktSjBpVEtjYkhCSjBZWkJYTHFSclJoNkhzajV6czFackFuMGVyZjZNSkkxNmNGaUItZl8xLXhjbkFBZ2QxbjI0Ylp5ZnNCeVRBYllRak5qTEZUdXM?oc=5",
+                "published": "Tue, 10 Nov 2026 02:10:01 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9pNHg3MTJwZ3dDb2p4ak0tNzB0MmZ0UlVlTXRmUzJ3TmtGNnktSjBpVEtjYkhCSjBZWkJYTHFSclJoNkhzajV6czFackFuMGVyZjZNSkkxNmNGaUItZl8xLXhjbkFBZ2QxbjI0Ylp5ZnNCeVRBYllRak5qTEZUdXM?oc=5\" target=\"_blank\">サイバートラックも生産終了へ…大型EVトラックが大失敗した理由と「小型・低価格化」の勝算（海外）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "戦略",
+                "reason": "大型EVの失敗と市場トレンドの転換。",
+                "score": 70,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "製品の失敗と戦略的転換：独創的すぎたデザインと価格設定により販売が低迷、リソースをロボタクシーやAIへ再配分",
+                "大型EVピックアップの苦境：テスラだけでなく、GMやフォード、ステランティスも巨額の減損を計上し市場の冷え込みが浮き彫りに",
+                "経営のリソース集中：SpaceXとの合併観測やロボット事業「Optimus」への傾倒など、ハードウェアからAI・自動運転企業への構造変革が加速"
+            ],
+            "insight": "サイバートラックの打ち切りは、単なる車種廃止ではない。「ハードウェアの差別化」が限界に達したテスラが、収益の柱を完全な「ソフトウェア・AI・ロボティクス」へシフトする象徴的事件です。大型EVトラックの販売不振は、ニッチな趣味性よりも実利とコストを重視する市場の現実を突きつけました。イーロン・マスク氏が進める「ロボタクシーへの全力投球」は、収益体質を根本から改善し、メガコングロマリットへ進化するための痛み分けと言えます。"
+        }
+    },
+    {
+        "topic_name": "ホンダの次世代EV「ゼロアルファ」公開予定",
+        "article_ids": [
+            266507
+        ],
+        "articles": [
+            {
+                "id": 266507,
+                "title": "ホンダ、次世代EV「ゼロアルファ」12月に世界初公開 インドで生産 日本でも2027年度に発売 - 日刊自動車新聞",
+                "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1b1hibEk0amNETzBRc3JNb3F4c1ZrOUl2Rzk5VFMtVmJ4RXE3eUw1RmswZUwwc3l6bzRMeTk2dlFGNGdKcERiSUhhaHcycHpmaVE?oc=5",
+                "published": "Sun, 08 Nov 2026 20:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1b1hibEk0amNETzBRc3JNb3F4c1ZrOUl2Rzk5VFMtVmJ4RXE3eUw1RmswZUwwc3l6bzRMeTk2dlFGNGdKcERiSUhhaHcycHpmaVE?oc=5\" target=\"_blank\">ホンダ、次世代EV「ゼロアルファ」12月に世界初公開 インドで生産 日本でも2027年度に発売</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日刊自動車新聞</font>",
+                "site_name": "日刊自動車新聞",
+                "primary_category": "戦略",
+                "reason": "ホンダのグローバルEV生産戦略。",
+                "score": 85,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "ホンダのインド生産初となる次世代EV『ゼロアルファ』の12月公開が決定",
+                "2026年までの赤字転落と戦略見直しを経て、現実的な最適地生産モデルへと回帰",
+                "インド発のグローバル展開モデルとして、2027年度に日本市場へも投入"
+            ],
+            "insight": "かつて掲げたEV化目標の撤回や開発中止という痛みを伴う構造改革を経て、ホンダは『身の丈に合った電動化』に舵を切った。高コストな高級EV路線から、インドというマザー工場を起点とした小型SUVへの注力は、収益性と台数のバランスを重視する現実路線の現れ。グローバルブランドとしての再起を懸けた戦略的な一歩と言える。"
+        }
+    },
+    {
+        "topic_name": "トヨタHV特許5年で1000件",
+        "article_ids": [
+            95950
+        ],
+        "articles": [
+            {
+                "id": 95950,
+                "title": "トヨタHV特許出願､5年1000件と突出 中国勢は方式集約 - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fb0pCVkRaSXpjNWtqcnFmVFlhUElBbEdSaGdRQTd5NFp1ZHpoQjZYX3lzcnpTcThMNmVhVVBncXZ6MzZrU0FMdzFhcXFYQ0ttN3dRRmxiWUxSdjlGNm9LMWJwUnl5NzlPSVphLWkzeDZTNk9rRU1aWnlXcFBlbU0?oc=5",
+                "published": "Sun, 08 Nov 2026 20:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1fb0pCVkRaSXpjNWtqcnFmVFlhUElBbEdSaGdRQTd5NFp1ZHpoQjZYX3lzcnpTcThMNmVhVVBncXZ6MzZrU0FMdzFhcXFYQ0ttN3dRRmxiWUxSdjlGNm9LMWJwUnl5NzlPSVphLWkzeDZTNk9rRU1aWnlXcFBlbU0?oc=5\" target=\"_blank\">トヨタHV特許出願､5年1000件と突出 中国勢は方式集約</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "site_name": "日本経済新聞",
+                "primary_category": "戦略",
+                "reason": "トヨタの知財戦略分析。",
+                "score": 75,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "トヨタによる過去5年間で1000件という圧倒的なHV特許出願数",
+                "EV一本足打法からの揺り戻しによる、HV技術の再評価と競争激化",
+                "中国勢が特定方式への集約でコスト効率化を図る中、トヨタは厚い知財防壁で追随を許さない構え"
+            ],
+            "insight": "トヨタの知財戦略は単なる技術蓄積ではなく、長年の実走データと制御ノウハウという『模倣困難な資産』の結晶だ。欧米のEV戦略後退により、トヨタのHV優位性は中長期的にさらに強化される。中国勢が効率性重視で方式を収束させる一方、トヨタは全方位的な特許網で市場の主導権を確保しており、競合の参入障壁は極めて高い。"
+        }
+    },
+    {
+        "topic_name": "EUの電池セル義務化によるEVコスト増",
+        "article_ids": [
+            867613
+        ],
+        "articles": [
+            {
+                "id": 867613,
+                "title": "EU域内産電池セル義務化でEVコスト増 1台最大2100ユーロ、保護政策に副作用 - 디지털투데이",
+                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLU5YRnR0emhKWmFwSWJ3a2pUM2VVSzFnektOaHhKWlFPMy1XZFJwb2NRMFlfUEpFZER2LThIeXh0RzdLZzc2VG5kbEVMX2JmMGhEX2gtRGR4WUIxa3BTVVNIYmJySWt3VjktWGVGRzhJUzR5akFlU1hkOVNLTUttdDkxemUwVkk4SmRZdTNYQWRHZXlRb0wxSHVFUXVfTzliOXBfTUR6OA?oc=5",
+                "published": "Mon, 09 Nov 2026 01:21:25 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQLU5YRnR0emhKWmFwSWJ3a2pUM2VVSzFnektOaHhKWlFPMy1XZFJwb2NRMFlfUEpFZER2LThIeXh0RzdLZzc2VG5kbEVMX2JmMGhEX2gtRGR4WUIxa3BTVVNIYmJySWt3VjktWGVGRzhJUzR5akFlU1hkOVNLTUttdDkxemUwVkk4SmRZdTNYQWRHZXlRb0wxSHVFUXVfTzliOXBfTUR6OA?oc=5\" target=\"_blank\">EU域内産電池セル義務化でEVコスト増 1台最大2100ユーロ、保護政策に副作用</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">디지털투데이</font>",
+                "site_name": "디지털투데이",
+                "primary_category": "政策",
+                "reason": "EU域内規制がもたらすコスト影響分析。",
+                "score": 70,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "EU域内産電池セル義務化により、EV1台あたり最大2100ユーロのコスト増が発生する試算",
+                "域内の電池生産能力の多くを韓中企業が占める中、サプライチェーンの囲い込みが逆説的にEV普及の足枷となるリスク",
+                "中国製EVへの関税政策はハイブリッド車の輸入増を招いており、保護主義的な措置の限界が露呈"
+            ],
+            "insight": "EUが目指す「戦略的自律」のコストが、市場の価格弾力性を無視し始めている点が最大の問題です。Northvoltの破綻が示す通り、域内生産の育成には時間と膨大な資本が必要であり、無理な義務化は欧州メーカーの価格競争力を致命的に毀損します。結局、保護政策がEVシフトを停滞させ、結果的に中国勢のハイブリッド車攻勢を許すという皮肉な構造に陥っています。"
+        }
+    },
+    {
+        "topic_name": "サムスンと現代自動車グループの車載AI連携",
+        "article_ids": [
+            55537
+        ],
+        "articles": [
+            {
+                "id": 55537,
+                "title": "Samsung Electronicsと現代自動車グループ、車載・ロボット・フィジカルAIで連携拡大 - 디지털투데이",
+                "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVlE2RF9ZVTBscHJsQmNHNEJqaTc4RHhKblV4SkxRSUEwWmZNS1pfYXF2T1htQjdVaDlVTlpJYUpyRHlnTUN3YXc2OHRzUWZiY29oT3VRd0M4TEZHR2FpdmloVTJDRWRWR1VlZWhXUXZxaXluRWNJWnZvTDJ5QnRGV3RMTnJ2ZEdhQ0NJT0pSam9EV0tUdTdWOVdWMEdCWkMtcmhwZ24zYW02NGY1aURUYUw4dWpXNmphc3VpdGxPSDlXQWd5TElBeTF2c1NWbEprdjNLYnVHUlVUenBQVmc?oc=5",
+                "published": "Mon, 09 Nov 2026 08:12:51 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVlE2RF9ZVTBscHJsQmNHNEJqaTc4RHhKblV4SkxRSUEwWmZNS1pfYXF2T1htQjdVaDlVTlpJYUpyRHlnTUN3YXc2OHRzUWZiY29oT3VRd0M4TEZHR2FpdmloVTJDRWRWR1VlZWhXUXZxaXluRWNJWnZvTDJ5QnRGV3RMTnJ2ZEdhQ0NJT0pSam9EV0tUdTdWOVdWMEdCWkMtcmhwZ24zYW02NGY1aURUYUw4dWpXNmphc3VpdGxPSDlXQWd5TElBeTF2c1NWbEprdjNLYnVHUlVUenBQVmc?oc=5\" target=\"_blank\">Samsung Electronicsと現代自動車グループ、車載・ロボット・フィジカルAIで連携拡大</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">디지털투데이</font>",
+                "site_name": "디지털투데이",
+                "primary_category": "戦略的提携",
+                "reason": "大手メーカー間の技術提携。",
+                "score": 80,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "韓国最大の財閥2社が過去最大級の戦略的提携を構築し、車載バッテリーからフィジカルAIまで領域を垂直統合的に拡大",
+                "EV向け部品供給の枠を超え、SDV実現に不可欠な車載半導体、カメラモジュール、AI計算基盤の共同開発へシフト",
+                "製造現場と日常生活を包含する「フィジカルAI」を中核に据え、次世代ロボティクス分野での覇権確保を狙う"
+            ],
+            "insight": "両社の提携は、単なる部品供給の枠を超えた『韓国版インダストリアル・連合軍』の形成である。テスラや中国勢が垂直統合でモビリティを再定義する中、SamsungのAI半導体・電池技術と、現代自動車の製造・実装力を掛け合わせることで、SDV化に伴うハードとソフトの複雑な境界を共同で突破しようという意図が見える。まさに国家レベルの強固なサプライチェーン基盤を再構築する動きだ。"
+        }
+    },
+    {
+        "topic_name": "EUの2035年排出ガス規制緩和",
+        "article_ids": [
+            883262
+        ],
+        "articles": [
+            {
+                "id": 883262,
+                "title": "EUが2035年排出ガス規制を緩和、自動車メーカーに猶予 CO2削減目標87.5％へ引き下げ 域内小型EVに「スーパークレジット」創設 - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pRlBVRzVXcl9DVnNaODA0OFhUdTZFbG9pb2hsMTBRMzZSTlotYUt6bkN6dVNORlNqaGhjTndNWk5saE1IcW9OLWVycTFkV1JiU2J6OGk3c2k4czRwNUN6elRxTHBmZ0ZfMTRrNm1teDBnUzhPakpiejl5aFlZckk?oc=5",
+                "published": "Mon, 09 Nov 2026 22:25:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5pRlBVRzVXcl9DVnNaODA0OFhUdTZFbG9pb2hsMTBRMzZSTlotYUt6bkN6dVNORlNqaGhjTndNWk5saE1IcW9OLWVycTFkV1JiU2J6OGk3c2k4czRwNUN6elRxTHBmZ0ZfMTRrNm1teDBnUzhPakpiejl5aFlZckk?oc=5\" target=\"_blank\">EUが2035年排出ガス規制を緩和、自動車メーカーに猶予 CO2削減目標87.5％へ引き下げ 域内小型EVに「スーパークレジット」創設</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "政策",
+                "reason": "EUの排出ガス規制緩和と施策変更。",
+                "score": 85,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "2035年のCO2削減目標を100%から87.5%へ引き下げ、内燃機関車の存続を容認",
+                "域内生産の小型EVに「スーパークレジット」を導入し、欧州域内の産業保護を強化",
+                "EVのコスト高と利益率の低迷を背景に、現実的な柔軟措置へ方針転換"
+            ],
+            "insight": "この決定は、単なる環境目標の修正ではない。EV普及の鈍化と中国勢の台頭に対する「欧州産業防衛」の色彩が極めて強い。内燃機関の延命でメーカーの収益力を確保しつつ、域内生産の小型EVへ優遇を集中させることで、安価な中国製EVの浸食を阻止する狙いだ。脱炭素の理想を掲げた理想主義から、経済安全保障を優先するリアリズムへの転換を意味する。"
+        }
+    }
+]
