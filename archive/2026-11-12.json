@@ -1,0 +1,342 @@
+[
+    {
+        "topic_name": "万博EVバス補助金返還",
+        "article_ids": [
+            147563,
+            224747,
+            574982
+        ],
+        "articles": [
+            {
+                "id": 147563,
+                "title": "万博のEVバス補助金 返還は半分 - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9abWhrQWhoQ1F2VjlleG9pWHRHbGNiLV9Nemo2STRVZTAyOTRLbjBHclEweHVMOVVfVUstcjZaWDJvcG9PR1RZVXN6SnlnanZm?oc=5",
+                "published": "Tue, 10 Nov 2026 13:32:36 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9abWhrQWhoQ1F2VjlleG9pWHRHbGNiLV9Nemo2STRVZTAyOTRLbjBHclEweHVMOVVfVUstcjZaWDJvcG9PR1RZVXN6SnlnanZm?oc=5\" target=\"_blank\">万博のEVバス補助金 返還は半分</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Policy",
+                "reason": "万博EVバスの補助金返還という公的資金の不正・管理問題は重要",
+                "score": 75,
+                "is_highly_important": true
+            },
+            {
+                "id": 224747,
+                "title": "大阪メトロがＥＶバスの補助金を返金 トラブル続き国や大阪府・市に２９億７０００万円 受け取った金額の約半分 - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53bFhmTjJEUHRUTi1qLTJhXzVUWFl2eXRtUmdVV09XemppX29aa2VMSGp1QVhvbl9sWHg4enh2c0s3QURJNHVVam1YT3VZMFVObHE2ZGp3am5DMHRVTm91Nmo1ZGlUYkFnUk41aGx3U29DR3RPaElncGtROXY4ZW8?oc=5",
+                "published": "Tue, 10 Nov 2026 09:51:52 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE53bFhmTjJEUHRUTi1qLTJhXzVUWFl2eXRtUmdVV09XemppX29aa2VMSGp1QVhvbl9sWHg4enh2c0s3QURJNHVVam1YT3VZMFVObHE2ZGp3am5DMHRVTm91Nmo1ZGlUYkFnUk41aGx3U29DR3RPaElncGtROXY4ZW8?oc=5\" target=\"_blank\">大阪メトロがＥＶバスの補助金を返金 トラブル続き国や大阪府・市に２９億７０００万円 受け取った金額の約半分</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Policy",
+                "reason": "公的金銭トラブルとして自治体レベルの重大な案件",
+                "score": 80,
+                "is_highly_important": true
+            },
+            {
+                "id": 574982,
+                "title": "【独自】万博のEVバス補助金、返還半分 国や府・市が58億円交付 (共同通信) - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMVVUaks3aWktdVRzSnBLUzVjUEUzbm9PM0tZYmJBbHhKMGJVbnVMaVlpQTIwYXgzM3ljTHBLQnlDS05CY1dTRnNYVmVmUGF0T09iT1ZqUkUzaHUyUXUxMDNiTGJUOGJtSERQTUNvVlVQZEV5OWhObnNtNFk4NEFNbHQtLVoyRXZpV1ZjRXB3?oc=5",
+                "published": "Tue, 10 Nov 2026 08:31:37 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOMVVUaks3aWktdVRzSnBLUzVjUEUzbm9PM0tZYmJBbHhKMGJVbnVMaVlpQTIwYXgzM3ljTHBLQnlDS05CY1dTRnNYVmVmUGF0T09iT1ZqUkUzaHUyUXUxMDNiTGJUOGJtSERQTUNvVlVQZEV5OWhObnNtNFk4NEFNbHQtLVoyRXZpV1ZjRXB3?oc=5\" target=\"_blank\">【独自】万博のEVバス補助金、返還半分 国や府・市が58億円交付 (共同通信)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Policy",
+                "reason": "公的金銭管理問題として重要",
+                "score": 80,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "補助金約58.5億円のうち、半額の約29.7億円が返還対象外となった。",
+                "車両トラブルの頻発により万博終了後の路線バス転用計画が事実上破綻。",
+                "補助金運用の正当性を問う声がある一方、メトロ側は交付元の算定ルールに基づいた対応と主張。"
+            ],
+            "insight": "本件は単なる「補助金の返還問題」に留まりません。新興EVメーカーの技術的未熟さと、万博という国家的イベントの納期優先姿勢が招いた、必然の政策失敗です。残存価値がほぼゼロに近い車両に対し、補助金の半分を返還不要とした算定根拠は極めて不透明であり、公金投入のガバナンス欠如を露呈させました。EV導入の拙速なモデルケースとして、業界の負の遺産となるでしょう。"
+        }
+    },
+    {
+        "topic_name": "スズキ 軽EV受注好調と過去最高益",
+        "article_ids": [
+            388371,
+            407258,
+            528697,
+            367889
+        ],
+        "articles": [
+            {
+                "id": 388371,
+                "title": "スズキの軽EV「eスカイ」、1カ月で受注4000台超 BYDのラッコ超え - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GWWpNNEw0QmlVdFVCU3JPQlZCemN2VWdSZmR0N2RMUnR6YlNXQUZuN1VqZVdjUHZoZ2ZEeWVQMUU2dkVoVVdZX0h2aURXVTlydXNDMVBWbGF3ZHF0d2ZKd2dZeEZheklseXA3Ug?oc=5",
+                "published": "Tue, 10 Nov 2026 09:13:28 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1GWWpNNEw0QmlVdFVCU3JPQlZCemN2VWdSZmR0N2RMUnR6YlNXQUZuN1VqZVdjUHZoZ2ZEeWVQMUU2dkVoVVdZX0h2aURXVTlydXNDMVBWbGF3ZHF0d2ZKd2dZeEZheklseXA3Ug?oc=5\" target=\"_blank\">スズキの軽EV「eスカイ」、1カ月で受注4000台超 BYDのラッコ超え</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "site_name": "日本経済新聞",
+                "primary_category": "Market",
+                "reason": "主要メーカーの新型軽EVの市場浸透状況を示す指標として重要",
+                "score": 70,
+                "is_highly_important": true
+            },
+            {
+                "id": 407258,
+                "title": "スズキ、新型軽EV「e SKY」が約1か月で4036台受注 2026年度第2四半期決算は売上収益19.4％増の3兆4192億円で過去最高 - Car Watch",
+                "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CZDd2dWxVQVFWZ2ZDV2RfT1lDVDdtN0VRNmt3b1BqeTJBWjUxd3M0dWUtZjc3c3FnTTBmMUIzMHpNU2tYMTlRc0VhSExGanhJendVdTQ4SDFKSE13aXJ2dDYySnY?oc=5",
+                "published": "Tue, 10 Nov 2026 11:01:15 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CZDd2dWxVQVFWZ2ZDV2RfT1lDVDdtN0VRNmt3b1BqeTJBWjUxd3M0dWUtZjc3c3FnTTBmMUIzMHpNU2tYMTlRc0VhSExGanhJendVdTQ4SDFKSE13aXJ2dDYySnY?oc=5\" target=\"_blank\">スズキ、新型軽EV「e SKY」が約1か月で4036台受注 2026年度第2四半期決算は売上収益19.4％増の3兆4192億円で過去最高</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Car Watch</font>",
+                "site_name": "Car Watch",
+                "primary_category": "Market",
+                "reason": "企業決算と受注状況の公表。定量データとして信頼性が高い",
+                "score": 70,
+                "is_highly_important": true
+            },
+            {
+                "id": 528697,
+                "title": "スズキは増収増益 中間決算を発表 売上収益3兆4,192億円で過去最高 軽EV「eSKY」受注1か月で4,000台超え - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LOUZsMnNDaThEWjV0NUR4eEd6TjR6SHIzTzhBU1laeFFfeTg1Ym5SdEhxdkR1dkhMVzB6dHBGcnYzcXc3X045d1I5eWh2TGtaQTdaODNVdER1UXh0QWJNS1QzaGs4TTJQV0FDY2FXNWdTRHNwY1F2UFluVEJ5TmM?oc=5",
+                "published": "Tue, 10 Nov 2026 09:47:14 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1LOUZsMnNDaThEWjV0NUR4eEd6TjR6SHIzTzhBU1laeFFfeTg1Ym5SdEhxdkR1dkhMVzB6dHBGcnYzcXc3X045d1I5eWh2TGtaQTdaODNVdER1UXh0QWJNS1QzaGs4TTJQV0FDY2FXNWdTRHNwY1F2UFluVEJ5TmM?oc=5\" target=\"_blank\">スズキは増収増益 中間決算を発表 売上収益3兆4,192億円で過去最高 軽EV「eSKY」受注1か月で4,000台超え</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Market",
+                "reason": "企業決算と受注状況のまとめ",
+                "score": 70,
+                "is_highly_important": true
+            },
+            {
+                "id": 367889,
+                "title": "スズキ、インド好調で4─9月期純利益31％増 軽ＥＶ受注も順調（ロイター） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vSlVPdXdQVy16dDVaUzI4b0RXbEtYOHRxVU9mY0hBVlJOaTVfN0h1Q3VmeEoyNmo2TG9zRl9fWWZjLXlFYXVKMkczem1EVC14VGJEQUlxWDRaVjFNcFAzRi1senZ6cTFYYklxam91U3Rkdl9QVWZBZUkyVG1oR0k?oc=5",
+                "published": "Tue, 10 Nov 2026 10:04:17 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5vSlVPdXdQVy16dDVaUzI4b0RXbEtYOHRxVU9mY0hBVlJOaTVfN0h1Q3VmeEoyNmo2TG9zRl9fWWZjLXlFYXVKMkczem1EVC14VGJEQUlxWDRaVjFNcFAzRi1senZ6cTFYYklxam91U3Rkdl9QVWZBZUkyVG1oR0k?oc=5\" target=\"_blank\">スズキ、インド好調で4─9月期純利益31％増 軽ＥＶ受注も順調（ロイター）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Market",
+                "reason": "好調な決算とEV受注は業界動向として重要",
+                "score": 75,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "軽EV「eスカイ」が受注1カ月で4000台を超え、BYD「ラッコ」の初動を凌駕する高い市場受容性を証明",
+                "スズキの2026年度第2四半期決算は、インド市場の圧倒的成功により売上収益が過去最高を更新",
+                "EV参入でも「実用性」と「価格（212万円）」というスズキの強みを最大限に発揮し、競合を寄せ付けない実力を見せつけた"
+            ],
+            "insight": "スズキの真骨頂は、EVという新領域においても「生活の道具」としての本質を一切ブレさせない点にあります。eスカイの好調は、高級志向のEV市場とは一線を画す「安価で長航続距離」という合理的な解が、地方を中心とした日本の実需と完璧に合致した証左。先行する中国勢の脅威を、自社ブランドの信頼性と圧倒的なコスト競争力で無力化する盤石の構造は、まさに王者の経営です。"
+        }
+    },
+    {
+        "topic_name": "茂木外相によるEUの日本製EV優遇除外への懸念伝達",
+        "article_ids": [
+            390625,
+            212419,
+            35937,
+            632469,
+            352311,
+            369911,
+            678959
+        ],
+        "articles": [
+            {
+                "id": 390625,
+                "title": "茂木外相がフランス外相と会談、ＥＵの日本製ＥＶ優遇除外に適切な対応要求…イタリアや英国の外相とも個別に会談 - 読売新聞",
+                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtYUJOMUExYVlqVDF2S3M1S25EdkQyRllNMlBlYjlfeVJlM19kMndFZ242NkE2eVdQc3ZyTno0M2JJUjhTNzd0NzI3NkxFVzMwNTFscng5VVduYlZRZDdkWm9rSkExQQ?oc=5",
+                "published": "Tue, 10 Nov 2026 07:10:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtYUJOMUExYVlqVDF2S3M1S25EdkQyRllNMlBlYjlfeVJlM19kMndFZ242NkE2eVdQc3ZyTno0M2JJUjhTNzd0NzI3NkxFVzMwNTFscng5VVduYlZRZDdkWm9rSkExQQ?oc=5\" target=\"_blank\">茂木外相がフランス外相と会談、ＥＵの日本製ＥＶ優遇除外に適切な対応要求…イタリアや英国の外相とも個別に会談</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">読売新聞</font>",
+                "site_name": "読売新聞",
+                "primary_category": "Policy",
+                "reason": "EUのEV優遇政策と日本の外交交渉は通商上の重要事項",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 212419,
+                "title": "欧州ＥＶ優遇策に強い懸念、茂木氏 - NNAアジア",
+                "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1HTC1KaHJDR2g2TzNNSUgwUzhVSkw4b3pZNVpwaWVGSFI0ZV8ySGdIQlUxZnlPZUpKV1dhYmxkSGdZNm1HU3c?oc=5",
+                "published": "Tue, 10 Nov 2026 15:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1HTC1KaHJDR2g2TzNNSUgwUzhVSkw4b3pZNVpwaWVGSFI0ZV8ySGdIQlUxZnlPZUpKV1dhYmxkSGdZNm1HU3c?oc=5\" target=\"_blank\">欧州ＥＶ優遇策に強い懸念、茂木氏</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NNAアジア</font>",
+                "site_name": "NNAアジア",
+                "primary_category": "Policy",
+                "reason": "国際的な通商懸念の表明であり重要",
+                "score": 80,
+                "is_highly_important": true
+            },
+            {
+                "id": 35937,
+                "title": "茂木外相「EUで適切に対応を」 伊外相にもEV優遇策懸念伝達 - 毎日新聞",
+                "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjdVdQQVgtZVNiNnM0QTVVUmR6Tm1WSHZlSDkyQ05vdnhkYndQUTYtQTdiVEhGX19LeFplNGdCekk3ZEo1M3dEN2tXWV9ZeHVqeHNuUHRJMmFrSXpET3NBVkRER2hhY2hR?oc=5",
+                "published": "Tue, 10 Nov 2026 04:21:18 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjdVdQQVgtZVNiNnM0QTVVUmR6Tm1WSHZlSDkyQ05vdnhkYndQUTYtQTdiVEhGX19LeFplNGdCekk3ZEo1M3dEN2tXWV9ZeHVqeHNuUHRJMmFrSXpET3NBVkRER2hhY2hR?oc=5\" target=\"_blank\">茂木外相「EUで適切に対応を」 伊外相にもEV優遇策懸念伝達</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">毎日新聞</font>",
+                "site_name": "毎日新聞",
+                "primary_category": "Policy",
+                "reason": "外交問題として重要なEV通商政策の交渉",
+                "score": 80,
+                "is_highly_important": true
+            },
+            {
+                "id": 632469,
+                "title": "茂木外相、EUの欧州製EV優遇策に強い懸念 仏外相に伝達 - 毎日新聞",
+                "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BOThvUGNwcFdoQm5Mb2N4TmlKbGowN3ctakE1ZGNTRnI3YUdZRnRUQ2JibGpmTzlCenRoV3BzNy1ncDEyejBpMHBVbVMxcG1ETzdGYk9aOUNlLTBrYnc2THU3aEltbFY0?oc=5",
+                "published": "Tue, 10 Nov 2026 01:09:36 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BOThvUGNwcFdoQm5Mb2N4TmlKbGowN3ctakE1ZGNTRnI3YUdZRnRUQ2JibGpmTzlCenRoV3BzNy1ncDEyejBpMHBVbVMxcG1ETzdGYk9aOUNlLTBrYnc2THU3aEltbFY0?oc=5\" target=\"_blank\">茂木外相、EUの欧州製EV優遇策に強い懸念 仏外相に伝達</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">毎日新聞</font>",
+                "site_name": "毎日新聞",
+                "primary_category": "Policy",
+                "reason": "外交ルートによる通商への懸念伝達",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 352311,
+                "title": "「欧州EV優遇策」に強い懸念、茂木外相が仏外相へ伝達 日本製車両が対象外の可能性 - 産経ニュース",
+                "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TUzY1Mk9hdlNIYUdkNFZpaUFwcjlOTzRJalF3bElSQXV3OUVxeFJDdHozdUFTaVFLZl83bERDMC1Fd05kR29nNkxXVmVIdExvaFY1bS1WZjQ0aXdDT3ZhRWd5WFhfcHIyUm1RZU41MDJycGZvdEE?oc=5",
+                "published": "Mon, 09 Nov 2026 21:30:03 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9TUzY1Mk9hdlNIYUdkNFZpaUFwcjlOTzRJalF3bElSQXV3OUVxeFJDdHozdUFTaVFLZl83bERDMC1Fd05kR29nNkxXVmVIdExvaFY1bS1WZjQ0aXdDT3ZhRWd5WFhfcHIyUm1RZU41MDJycGZvdEE?oc=5\" target=\"_blank\">「欧州EV優遇策」に強い懸念、茂木外相が仏外相へ伝達 日本製車両が対象外の可能性</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">産経ニュース</font>",
+                "site_name": "産経ニュース",
+                "primary_category": "Policy",
+                "reason": "外交ルートによる通商政策への懸念",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 369911,
+                "title": "パリで日仏外相会談 茂木氏「欧州EV優遇法案」に懸念表明、バロ氏は日本に「説明した」 - 産経ニュース",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVVpyY2pSRnVhbE83M3BmTVBVNjV2VG81eTY3YWM2T3o5ejg0U2kxUGZQOWtDYXJpQlZ4QnJ4QUpqU2wtRkh1d0RoZ3UzYnlEeFdGZGVucmpxSGptaWQ5cXl2N3ZyN2E4cmFfZjl0aG1tNnpfT3BuWURtb0JLUmluUVluWmwxUFdiSzBxSw?oc=5",
+                "published": "Mon, 09 Nov 2026 23:14:39 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPVVpyY2pSRnVhbE83M3BmTVBVNjV2VG81eTY3YWM2T3o5ejg0U2kxUGZQOWtDYXJpQlZ4QnJ4QUpqU2wtRkh1d0RoZ3UzYnlEeFdGZGVucmpxSGptaWQ5cXl2N3ZyN2E4cmFfZjl0aG1tNnpfT3BuWURtb0JLUmluUVluWmwxUFdiSzBxSw?oc=5\" target=\"_blank\">パリで日仏外相会談 茂木氏「欧州EV優遇法案」に懸念表明、バロ氏は日本に「説明した」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">産経ニュース</font>",
+                "site_name": "産経ニュース",
+                "primary_category": "Policy",
+                "reason": "日仏外相会談でのEV通商政策交渉",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 678959,
+                "title": "日英外相が会談、次期戦闘機開発で協力進展 茂木氏、伊外相に欧州製EV優遇策に懸念伝達 - 産経ニュース",
+                "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EY3c4STZUMWxSWlJjN0t1U1hpaTBEY05vSFVlcmZuQzBOaFgybnpUSGtjenlUWmQ0WmFHdl91RGNYQ1BvVTExRlJ0NEpha19DRVN0alA1OXlMM01xZFpEczVnanQ1MzhNSFU5Y01vM0cxeXFZRGc?oc=5",
+                "published": "Tue, 10 Nov 2026 05:08:10 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5EY3c4STZUMWxSWlJjN0t1U1hpaTBEY05vSFVlcmZuQzBOaFgybnpUSGtjenlUWmQ0WmFHdl91RGNYQ1BvVTExRlJ0NEpha19DRVN0alA1OXlMM01xZFpEczVnanQ1MzhNSFU5Y01vM0cxeXFZRGc?oc=5\" target=\"_blank\">日英外相が会談、次期戦闘機開発で協力進展 茂木氏、伊外相に欧州製EV優遇策に懸念伝達</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">産経ニュース</font>",
+                "site_name": "産経ニュース",
+                "primary_category": "Policy",
+                "reason": "外交・通商上の懸念伝達",
+                "score": 85,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "EUの産業加速法案における日本製EV優遇除外に対し、茂木外相が仏・伊・英の各外相と個別に会談し強い懸念を伝達",
+                "当該法案は中国製EVの流入を阻止する対抗策であり、仏独主導で推進されている構造的課題",
+                "GCAP（日英伊次期戦闘機開発）など安保協力の枠組みを維持しつつ、経済安保上の通商摩擦を切り分ける難しい外交折衝が求められている"
+            ],
+            "insight": "本件は単なる通商問題ではなく、仏独が旗振り役となる『EU域内産業保護主義』と、中国EV排除という大義名分が衝突する構造的摩擦です。日本車排除は中国潰しの副作用ではなく、欧州産業の延命措置。外交安保の協力を維持しつつ、市場開放を勝ち取るには、単なる抗議以上の『脱炭素サプライチェーンの囲い込み』に対する日本独自の対抗カードが不可欠です。"
+        }
+    },
+    {
+        "topic_name": "ホンダ25年3月期上期決算詳細",
+        "article_ids": [
+            803145,
+            182521,
+            874820,
+            568360
+        ],
+        "articles": [
+            {
+                "id": 803145,
+                "title": "ホンダ、EV関連費用で第2四半期利益急減も通期利益予想を20%上方修正 - BigGo ファイナンス",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9STjFheEhmZy1MUmc1aG11UkJ0blZjNUtvejJCTzl5dTFSUmdFbk5GSjVEZ1FWSGhOVVRVWnNiX3dpU0k3ejk4NTBMVFhHRTVYcmlQSU5hazk5cHNjQkgyMVY2V3JMcUdQZjVGZ3J1QlktekRV?oc=5",
+                "published": "Tue, 10 Nov 2026 08:25:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9STjFheEhmZy1MUmc1aG11UkJ0blZjNUtvejJCTzl5dTFSUmdFbk5GSjVEZ1FWSGhOVVRVWnNiX3dpU0k3ejk4NTBMVFhHRTVYcmlQSU5hazk5cHNjQkgyMVY2V3JMcUdQZjVGZ3J1QlktekRV?oc=5\" target=\"_blank\">ホンダ、EV関連費用で第2四半期利益急減も通期利益予想を20%上方修正</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+                "site_name": "BigGo ファイナンス",
+                "primary_category": "Market",
+                "reason": "大手メーカーの収益とEV投資のバランスは投資家重要事項",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 874820,
+                "title": "ホンダ、上半期利益が大幅増も株価下落―中国不振とEV損失が重荷 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+                "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DRFVPWVI1ZjlnQ2hKS1Z3RnpUVFRaVUQ5UC0wZmNwRXpfM09KWlNOb2lTSmNUUEdyenFQYXN0QW5tSGtuTks2eGt0Yk85d1BfWUU3Wkg1UloyNTVrTFhSSzk1N3ZZMW05YnkxZzJ0RQ?oc=5",
+                "published": "Tue, 10 Nov 2026 14:50:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5DRFVPWVI1ZjlnQ2hKS1Z3RnpUVFRaVUQ5UC0wZmNwRXpfM09KWlNOb2lTSmNUUEdyenFQYXN0QW5tSGtuTks2eGt0Yk85d1BfWUU3Wkg1UloyNTVrTFhSSzk1N3ZZMW05YnkxZzJ0RQ?oc=5\" target=\"_blank\">ホンダ、上半期利益が大幅増も株価下落―中国不振とEV損失が重荷</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</font>",
+                "site_name": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+                "primary_category": "Market",
+                "reason": "ホンダの決算とEV戦略の影響分析",
+                "score": 80,
+                "is_highly_important": true
+            },
+            {
+                "id": 182521,
+                "title": "【Honda FY2026 Q2 決算説明会】ホンダ、調整後営業利益1兆1,336億円で過去最高更新 通期見通しを1,300億円上方修正、北米ハイブリッド需要を捉えEV損失4,848億円を吸収 - BigGo ファイナンス",
+                "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WMV9oY2lONnVkR0RkVlRXaWkwd3hwV3Y3ZHd2b25IRWJob2VMNjZIZ3dHbVdzT25pQ1JDemVWMUFRSzRucl9qb2pUVVljSUw1V1BkVEJ1allQX2N4bFlB?oc=5",
+                "published": "Tue, 10 Nov 2026 09:34:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WMV9oY2lONnVkR0RkVlRXaWkwd3hwV3Y3ZHd2b25IRWJob2VMNjZIZ3dHbVdzT25pQ1JDemVWMUFRSzRucl9qb2pUVVljSUw1V1BkVEJ1allQX2N4bFlB?oc=5\" target=\"_blank\">【Honda FY2026 Q2 決算説明会】ホンダ、調整後営業利益1兆1,336億円で過去最高更新 通期見通しを1,300億円上方修正、北米ハイブリッド需要を捉えEV損失4,848億円を吸収</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+                "site_name": "BigGo ファイナンス",
+                "primary_category": "Market",
+                "reason": "決算説明会に基づくEV事業の収益構造分析",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 568360,
+                "title": "【Honda FY2026 Q2 決算説明会】ホンダ、通期営業利益を1,300億円上方修正し7,800億円へ EV損失4,848億円計上も二輪・北米四輪が牽引 - BigGo ファイナンス",
+                "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYZ09NZ0FQOVFuWFh5bXBqOWdNMXVURUUtaHlUTERGZ29DZnAyR3IzYWZCNkUtSnN3aDJyZ1dMa3RQazZ6cHFmTXpuNW1QT1NvQlRmMGw3dWRkanZrd3Y0?oc=5",
+                "published": "Tue, 10 Nov 2026 21:04:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYZ09NZ0FQOVFuWFh5bXBqOWdNMXVURUUtaHlUTERGZ29DZnAyR3IzYWZCNkUtSnN3aDJyZ1dMa3RQazZ6cHFmTXpuNW1QT1NvQlRmMGw3dWRkanZrd3Y0?oc=5\" target=\"_blank\">【Honda FY2026 Q2 決算説明会】ホンダ、通期営業利益を1,300億円上方修正し7,800億円へ EV損失4,848億円計上も二輪・北米四輪が牽引</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+                "site_name": "BigGo ファイナンス",
+                "primary_category": "Market",
+                "reason": "決算説明に基づく収益分析",
+                "score": 85,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "EV事業再編に伴う4,848億円の巨額費用を計上したものの、二輪事業の過去最高益と北米ハイブリッド需要の取り込みで吸収し、調整後営業利益は過去最高を記録した。",
+                "通期の業績見通しを上方修正したが、その内実は訴訟和解に伴う引当金戻入や関税還付など、一過性の利益寄与が大きく、実力値ベースでは慎重な見通しを維持している。",
+                "中国市場の構造的なEVシフトによる不振を認めた一方、北米ではハイブリッド車需要に応えるためオハイオ州への大型投資を決定し、EV/HV/エンジン車の柔軟な生産体制へ舵を切った。"
+            ],
+            "insight": "EV投資の出血を二輪の高収益と北米HV需要で止める「対症療法」は成功したが、真の課題は構造不況に陥った中国事業と、次世代モビリティでの競争力維持だ。北米新工場はハイブリッドを軸にしつつも、EVへ即応できる「逃げ道」を作った現実的な判断。一過性利益に依存した上方修正は投資家の警戒を解くには至らず、本質的な収益改善が問われる局面。"
+        }
+    },
+    {
+        "topic_name": "ホンダの北米におけるEV・HV戦略",
+        "article_ids": [
+            75141,
+            523279
+        ],
+        "articles": [
+            {
+                "id": 75141,
+                "title": "ホンダ米HV新工場に攻めと守り 需要獲得貪欲に、EV切り替えも可能 - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10TEFhMEhKMlA2Sjl5VFVkb2NVdUk5M3dYZWVmbFkwaFRRdkJqY0hUY0o3LVRuZ0dCQnJJV1lubHduTjNJSEJ5UXNqZUlJVGpoUl9ER1QwVnZ5bUloUm5CS3VJYXRkNTd6SDZRcg?oc=5",
+                "published": "Tue, 10 Nov 2026 02:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE10TEFhMEhKMlA2Sjl5VFVkb2NVdUk5M3dYZWVmbFkwaFRRdkJqY0hUY0o3LVRuZ0dCQnJJV1lubHduTjNJSEJ5UXNqZUlJVGpoUl9ER1QwVnZ5bUloUm5CS3VJYXRkNTd6SDZRcg?oc=5\" target=\"_blank\">ホンダ米HV新工場に攻めと守り 需要獲得貪欲に、EV切り替えも可能</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "site_name": "日本経済新聞",
+                "primary_category": "Market",
+                "reason": "戦略的投資と柔軟な生産計画への言及",
+                "score": 75,
+                "is_highly_important": true
+            },
+            {
+                "id": 523279,
+                "title": "ホンダ 米でＨＶ攻勢へ ２０年ぶり新工場 ＥＶ重視転換 - 読売新聞",
+                "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tY25qWk8ySFhGQ18wdEFMN0hqVE1ad1l1dnF5OEJaTTlUUEZCOEJBRUx4N1hLalpCZWJla1hzeGx6djN3MUlqU1hEcHBfOW5rTDQwdkY5WWxkNU9UWGota0NIQQ?oc=5",
+                "published": "Tue, 10 Nov 2026 20:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tY25qWk8ySFhGQ18wdEFMN0hqVE1ad1l1dnF5OEJaTTlUUEZCOEJBRUx4N1hLalpCZWJla1hzeGx6djN3MUlqU1hEcHBfOW5rTDQwdkY5WWxkNU9UWGota0NIQQ?oc=5\" target=\"_blank\">ホンダ 米でＨＶ攻勢へ ２０年ぶり新工場 ＥＶ重視転換</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">読売新聞</font>",
+                "site_name": "読売新聞",
+                "primary_category": "Market",
+                "reason": "ホンダの米EV転換戦略",
+                "score": 80,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "北米におけるHV需要の急伸を捉えるため、オハイオ州への新工場建設（30億ドル規模）を決定。",
+                "過去の政策翻弄経験を踏まえ、将来的なEVシフトにも柔軟に対応可能な「プランB」を組み込んだ生産体制を構築。",
+                "EV一本足打法からの脱却を加速させ、HVを収益の柱としつつ市場変動に備える現実的なリスクヘッジ戦略へ転換。"
+            ],
+            "insight": "ホンダの今回の決断は、EV先行戦略の修正というよりも、市場の現実に対する『経営の適応能力の最大化』を意味する。トランプ政権下での規制緩和や補助金変更のリスクを織り込み、HVでキャッシュを稼ぎつつ、EV転換の時期を市場動向に応じてコントロールする構えだ。これは単なるHV回帰ではなく、生産拠点の可変性を高めることで、地政学リスクと需要の不確実性を同時に管理する極めて高度なサプライチェーン戦略である。"
+        }
+    }
+]
