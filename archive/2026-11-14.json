@@ -1,0 +1,99 @@
+[
+    {
+        "topic_name": "EV電池の再利用・資源循環を目的とした一般社団法人の設立",
+        "article_ids": [
+            788422,
+            732391,
+            29341
+        ],
+        "articles": [
+            {
+                "id": 788422,
+                "title": "EV電池の海外流出を防げ 再利用・資源循環を目指す法人を設立 - 朝日新聞",
+                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LNHNrcmpSMWx6cnRGbkpiSWRFSlZZZjlmaWJ4WlpyT0VmSG93MG9Uel9PNC03ZThuYU9HamJtV24tMGNKelFsU2txX1Zja253eHlrNVpaTGxrX2V6Yi1JSjBnODBfZTA?oc=5",
+                "published": "Thu, 12 Nov 2026 23:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LNHNrcmpSMWx6cnRGbkpiSWRFSlZZZjlmaWJ4WlpyT0VmSG93MG9Uel9PNC03ZThuYU9HamJtV24tMGNKelFsU2txX1Zja253eHlrNVpaTGxrX2V6Yi1JSjBnODBfZTA?oc=5\" target=\"_blank\">EV電池の海外流出を防げ 再利用・資源循環を目指す法人を設立</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
+                "site_name": "朝日新聞",
+                "primary_category": "Supply Chain",
+                "reason": "電池の資源循環と海外流出防止は重要なサプライチェーン課題。",
+                "score": 75,
+                "is_highly_important": true
+            },
+            {
+                "id": 732391,
+                "title": "日本総研、EV電池の協議会を一般社団法人に。中古EVの海外流出など課題解決へ体制強化 - Circular Economy Hub",
+                "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCUzBMVTkzbWNEVUVCSTh6a0kydFVXbkdHVl9PRmRfWWRPQ0NqWVJDRHJyQV84SC1rb0lpQ1FvZlIyYVlxU3RnanVyYUMzSXJIWjlFa0ZaSzRyX0diNGdRMElZTFU0RVFOUDg2NmZwVndnd3VLZWNPYg?oc=5",
+                "published": "Fri, 13 Nov 2026 03:00:05 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBCUzBMVTkzbWNEVUVCSTh6a0kydFVXbkdHVl9PRmRfWWRPQ0NqWVJDRHJyQV84SC1rb0lpQ1FvZlIyYVlxU3RnanVyYUMzSXJIWjlFa0ZaSzRyX0diNGdRMElZTFU0RVFOUDg2NmZwVndnd3VLZWNPYg?oc=5\" target=\"_blank\">日本総研、EV電池の協議会を一般社団法人に。中古EVの海外流出など課題解決へ体制強化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Circular Economy Hub</font>",
+                "site_name": "Circular Economy Hub",
+                "primary_category": "Supply Chain",
+                "reason": "電池リサイクル協議会の組織化は産業インフラとして重要。",
+                "score": 70,
+                "is_highly_important": true
+            },
+            {
+                "id": 29341,
+                "title": "EV電池リサイクルへ協議会 日本総研など、資源流出防ぐ - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13akl3Y0U5OHBVblk1UTFIMzEyT0tNb1lRODZyR0JLSnV5NkVzTlB4UG5ZTVJyNGQ4YURQYkkwaFZETWIyZ1FsYVB0bmFVWkN6dEdKdlR3aDRaZzRYN0c3bkVtTU9FdUphRFFVRTVnemdLYjBIVExZ?oc=5",
+                "published": "Thu, 12 Nov 2026 20:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE13akl3Y0U5OHBVblk1UTFIMzEyT0tNb1lRODZyR0JLSnV5NkVzTlB4UG5ZTVJyNGQ4YURQYkkwaFZETWIyZ1FsYVB0bmFVWkN6dEdKdlR3aDRaZzRYN0c3bkVtTU9FdUphRFFVRTVnemdLYjBIVExZ?oc=5\" target=\"_blank\">EV電池リサイクルへ協議会 日本総研など、資源流出防ぐ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "site_name": "日本経済新聞",
+                "primary_category": "Supply Chain",
+                "reason": "電池リサイクル協議会発足は業界の資源循環戦略。",
+                "score": 75,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "中古EVの約8割が海外へ流出し、希少金属資源（レアメタル）が国内から消失する「資源漏洩」が深刻な課題となっている。",
+                "電池の劣化診断技術や規格が未整備で、中古電池の価値算定が困難であることが、国内還流を阻む最大の障壁。",
+                "任意団体を一般社団法人化し、産官学の中立的プラットフォームとして、資源循環の市場構築と制度設計、地域実装を加速させる。"
+            ],
+            "insight": "EV電池の「資源流出」は、単なる貿易の問題ではなく、再資源化の評価基盤（診断規格・価格指標）が国内にないことによる市場の機能不全です。今回の法人化は、川上の診断から川下の再利用・リサイクルまでを繋ぐ「規格の標準化」が本質。これを基点としたクレジット化などの政策提言が、日本のバッテリーエコシステム防衛の最後の砦となるでしょう。"
+        }
+    },
+    {
+        "topic_name": "2027年1月以降のCEV（クリーンエネルギー自動車）補助金継続と減額",
+        "article_ids": [
+            618726,
+            218917
+        ],
+        "articles": [
+            {
+                "id": 618726,
+                "title": "EVなどのCEV補助金、2027年1月以降も継続へ 補助額は6～8割ほどに抑制 切れ目ない補助で買い控え回避 - 日刊自動車新聞",
+                "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pTk9KSENmS3FzdnpHdi12TVEwc1JJZXhpcFlEM2c3OV9xdXdNWktLY2EyOVNMbTFXRlFnM1dOamsyQ00yTU11TDB0LXVwekRwaWc?oc=5",
+                "published": "Fri, 13 Nov 2026 09:06:20 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pTk9KSENmS3FzdnpHdi12TVEwc1JJZXhpcFlEM2c3OV9xdXdNWktLY2EyOVNMbTFXRlFnM1dOamsyQ00yTU11TDB0LXVwekRwaWc?oc=5\" target=\"_blank\">EVなどのCEV補助金、2027年1月以降も継続へ 補助額は6～8割ほどに抑制 切れ目ない補助で買い控え回避</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日刊自動車新聞</font>",
+                "site_name": "日刊自動車新聞",
+                "primary_category": "Policy",
+                "reason": "補助金制度の継続と縮小は市場動向に直結する重要情報。",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 218917,
+                "title": "CEV補助金が2027年1月から減額。EV最大52万円減・登録時期と申請期限｜自動車交通トピックス - JAF Mate Online",
+                "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95eDVaTEtZUDFPVEx2clpZM0R4VXRyTC1JaWhRLTZZdkdlMm5WaGVtQTlGd253MjZDS05KWmxCb0FOYWlJd0lPcnN5cEt0dm5rckNhVmYyUnBxUjdubEd3OHFvWlF1NXd2UERN?oc=5",
+                "published": "Fri, 13 Nov 2026 00:27:56 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE95eDVaTEtZUDFPVEx2clpZM0R4VXRyTC1JaWhRLTZZdkdlMm5WaGVtQTlGd253MjZDS05KWmxCb0FOYWlJd0lPcnN5cEt0dm5rckNhVmYyUnBxUjdubEd3OHFvWlF1NXd2UERN?oc=5\" target=\"_blank\">CEV補助金が2027年1月から減額。EV最大52万円減・登録時期と申請期限｜自動車交通トピックス</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JAF Mate Online</font>",
+                "site_name": "JAF Mate Online",
+                "primary_category": "Policy",
+                "reason": "補助金減額の詳細情報は市場に即時影響する。",
+                "score": 80,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "2027年1月以降もCEV補助金は継続されるが、補助上限額が最大6割から8割程度まで大幅に縮小される",
+                "現行予算の枯渇と年度末商戦の買い控えを防ぐため、遡及適用措置を講じて制度の連続性を担保する",
+                "補助額は契約日ではなく『新規登録・届出日』で判定されるため、年内納車と年明け納車で実質的な購入コストに数10万円単位の差が生じる"
+            ],
+            "insight": "補助金は市場育成の『着火剤』から『硬着陸（ソフトランディング）期』へ移行した。今回の減額は、EV普及のフェーズが初期需要から自律的拡大へ移る過渡期であることを示唆している。販売現場では、年末の駆け込み登録と年明けのキャンセル・納車遅延を巡る商戦の混乱が必至。メーカーにとっては、補助金依存体質からの脱却と、車両本来の価値による価格競争力が真に問われる試練の2027年となる。"
+        }
+    }
+]

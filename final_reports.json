@@ -1,8 +1,9 @@
 [
     {
-        "topic_name": "EV電池の再利用・資源循環を目的とした協議会設立",
+        "topic_name": "EV電池の再利用・資源循環を目的とした一般社団法人の設立",
         "article_ids": [
             788422,
+            732391,
             29341
         ],
         "articles": [
@@ -13,9 +14,21 @@
                 "published": "Thu, 12 Nov 2026 23:00:00 GMT",
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LNHNrcmpSMWx6cnRGbkpiSWRFSlZZZjlmaWJ4WlpyT0VmSG93MG9Uel9PNC03ZThuYU9HamJtV24tMGNKelFsU2txX1Zja253eHlrNVpaTGxrX2V6Yi1JSjBnODBfZTA?oc=5\" target=\"_blank\">EV電池の海外流出を防げ 再利用・資源循環を目指す法人を設立</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
                 "site_name": "朝日新聞",
-                "primary_category": "Business",
-                "reason": "電池リサイクル・資源循環の業界連携体制構築",
+                "primary_category": "Supply Chain",
+                "reason": "電池の資源循環と海外流出防止は重要なサプライチェーン課題。",
                 "score": 75,
+                "is_highly_important": true
+            },
+            {
+                "id": 732391,
+                "title": "日本総研、EV電池の協議会を一般社団法人に。中古EVの海外流出など課題解決へ体制強化 - Circular Economy Hub",
+                "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCUzBMVTkzbWNEVUVCSTh6a0kydFVXbkdHVl9PRmRfWWRPQ0NqWVJDRHJyQV84SC1rb0lpQ1FvZlIyYVlxU3RnanVyYUMzSXJIWjlFa0ZaSzRyX0diNGdRMElZTFU0RVFOUDg2NmZwVndnd3VLZWNPYg?oc=5",
+                "published": "Fri, 13 Nov 2026 03:00:05 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBCUzBMVTkzbWNEVUVCSTh6a0kydFVXbkdHVl9PRmRfWWRPQ0NqWVJDRHJyQV84SC1rb0lpQ1FvZlIyYVlxU3RnanVyYUMzSXJIWjlFa0ZaSzRyX0diNGdRMElZTFU0RVFOUDg2NmZwVndnd3VLZWNPYg?oc=5\" target=\"_blank\">日本総研、EV電池の協議会を一般社団法人に。中古EVの海外流出など課題解決へ体制強化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Circular Economy Hub</font>",
+                "site_name": "Circular Economy Hub",
+                "primary_category": "Supply Chain",
+                "reason": "電池リサイクル協議会の組織化は産業インフラとして重要。",
+                "score": 70,
                 "is_highly_important": true
             },
             {
@@ -25,8 +38,8 @@
                 "published": "Thu, 12 Nov 2026 20:00:00 GMT",
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE13akl3Y0U5OHBVblk1UTFIMzEyT0tNb1lRODZyR0JLSnV5NkVzTlB4UG5ZTVJyNGQ4YURQYkkwaFZETWIyZ1FsYVB0bmFVWkN6dEdKdlR3aDRaZzRYN0c3bkVtTU9FdUphRFFVRTVnemdLYjBIVExZ?oc=5\" target=\"_blank\">EV電池リサイクルへ協議会 日本総研など、資源流出防ぐ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
                 "site_name": "日本経済新聞",
-                "primary_category": "Business",
-                "reason": "電池リサイクル協議会の設立。サプライチェーンの要",
+                "primary_category": "Supply Chain",
+                "reason": "電池リサイクル協議会発足は業界の資源循環戦略。",
                 "score": 75,
                 "is_highly_important": true
             }
@@ -34,30 +47,30 @@
         "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "中古EVの海外流出によるリチウム・コバルト等の戦略資源流出が深刻化（約83%が国外流出）",
-                "電池の劣化診断技術の確立と国内再循環プラットフォームの構築が急務",
-                "産官学連携による「EV電池スマートユーザー推進協議会」を通じた囲い込み戦略への転換"
+                "中古EVの約8割が海外へ流出し、希少金属資源（レアメタル）が国内から消失する「資源漏洩」が深刻な課題となっている。",
+                "電池の劣化診断技術や規格が未整備で、中古電池の価値算定が困難であることが、国内還流を阻む最大の障壁。",
+                "任意団体を一般社団法人化し、産官学の中立的プラットフォームとして、資源循環の市場構築と制度設計、地域実装を加速させる。"
             ],
-            "insight": "中古EVの流出は単なる商流の問題ではなく、経済安全保障上の「レアメタル採掘地」が日本から消失することを意味します。欧州が電池パスポートで先行する中、日本はリサイクルの川下ではなく、適正な価値評価による国内滞留という川中戦略で地政学リスクを回避する姿勢。単なる環境対策ではなく、国内電池産業のサバイバルをかけた実利的な囲い込みが始まったと言えます。"
+            "insight": "EV電池の「資源流出」は、単なる貿易の問題ではなく、再資源化の評価基盤（診断規格・価格指標）が国内にないことによる市場の機能不全です。今回の法人化は、川上の診断から川下の再利用・リサイクルまでを繋ぐ「規格の標準化」が本質。これを基点としたクレジット化などの政策提言が、日本のバッテリーエコシステム防衛の最後の砦となるでしょう。"
         }
     },
     {
-        "topic_name": "日本国内のCEV補助金減額方針（2027年1月〜）",
+        "topic_name": "2027年1月以降のCEV（クリーンエネルギー自動車）補助金継続と減額",
         "article_ids": [
-            13574,
+            618726,
             218917
         ],
         "articles": [
             {
-                "id": 13574,
-                "title": "EV販売、初の10万台超 メーカー新車次々 車種拡充も課題は「脱・補助金」：ニュース - 中日BIZナビ",
-                "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IYkhjSHRmSkJudDFmSWstWmgxWXVPdGl5dzBNVzFMZFNVZ1ZreEpGVm1QRkRDLUdhaDZxNkFVcDRLZTU1dEJKQ243Q3VJQnRxbjhXZ2tPM18wbjRaSUJv?oc=5",
-                "published": "Wed, 11 Nov 2026 23:11:21 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IYkhjSHRmSkJudDFmSWstWmgxWXVPdGl5dzBNVzFMZFNVZ1ZreEpGVm1QRkRDLUdhaDZxNkFVcDRLZTU1dEJKQ243Q3VJQnRxbjhXZ2tPM18wbjRaSUJv?oc=5\" target=\"_blank\">EV販売、初の10万台超 メーカー新車次々 車種拡充も課題は「脱・補助金」：ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中日BIZナビ</font>",
-                "site_name": "中日BIZナビ",
-                "primary_category": "Market Analysis",
-                "reason": "補助金依存からの脱却という市場の構造的転換の言及",
-                "score": 65,
+                "id": 618726,
+                "title": "EVなどのCEV補助金、2027年1月以降も継続へ 補助額は6～8割ほどに抑制 切れ目ない補助で買い控え回避 - 日刊自動車新聞",
+                "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pTk9KSENmS3FzdnpHdi12TVEwc1JJZXhpcFlEM2c3OV9xdXdNWktLY2EyOVNMbTFXRlFnM1dOamsyQ00yTU11TDB0LXVwekRwaWc?oc=5",
+                "published": "Fri, 13 Nov 2026 09:06:20 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pTk9KSENmS3FzdnpHdi12TVEwc1JJZXhpcFlEM2c3OV9xdXdNWktLY2EyOVNMbTFXRlFnM1dOamsyQ00yTU11TDB0LXVwekRwaWc?oc=5\" target=\"_blank\">EVなどのCEV補助金、2027年1月以降も継続へ 補助額は6～8割ほどに抑制 切れ目ない補助で買い控え回避</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日刊自動車新聞</font>",
+                "site_name": "日刊自動車新聞",
+                "primary_category": "Policy",
+                "reason": "補助金制度の継続と縮小は市場動向に直結する重要情報。",
+                "score": 85,
                 "is_highly_important": true
             },
             {
@@ -68,548 +81,19 @@
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE95eDVaTEtZUDFPVEx2clpZM0R4VXRyTC1JaWhRLTZZdkdlMm5WaGVtQTlGd253MjZDS05KWmxCb0FOYWlJd0lPcnN5cEt0dm5rckNhVmYyUnBxUjdubEd3OHFvWlF1NXd2UERN?oc=5\" target=\"_blank\">CEV補助金が2027年1月から減額。EV最大52万円減・登録時期と申請期限｜自動車交通トピックス</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JAF Mate Online</font>",
                 "site_name": "JAF Mate Online",
                 "primary_category": "Policy",
-                "reason": "国家補助金減額に関する通知。市場への影響は大",
-                "score": 85,
+                "reason": "補助金減額の詳細情報は市場に即時影響する。",
+                "score": 80,
                 "is_highly_important": true
             }
         ],
         "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "2027年1月以降、EV補助金が最大52万円減額されるなど大幅な引き下げが確定",
-                "補助金適用は契約ベースではなく『車両登録日』基準のため、年内登録の駆け込み需要が加速",
-                "現行予算の受付が12月上旬にも終了する見込みで、駆け込み申請による予算枯渇リスクが浮上"
+                "2027年1月以降もCEV補助金は継続されるが、補助上限額が最大6割から8割程度まで大幅に縮小される",
+                "現行予算の枯渇と年度末商戦の買い控えを防ぐため、遡及適用措置を講じて制度の連続性を担保する",
+                "補助額は契約日ではなく『新規登録・届出日』で判定されるため、年内納車と年明け納車で実質的な購入コストに数10万円単位の差が生じる"
             ],
-            "insight": "国内EV販売が10万台を突破した一方、補助金減額という『カンフル剤の希釈』に直面しています。今後はメーカーの『脱・補助金』的な値付けと、実質的な実用価値による選別が本格化します。特に今回の登録日基準の運用は、年度末を見据えた生産調整と販売現場のデリバリー管理能力を試す、業界にとっての試金石となります。"
-        }
-    },
-    {
-        "topic_name": "SUBARUの次世代EV開発とコスト改革",
-        "article_ids": [
-            27536,
-            468921,
-            457394
-        ],
-        "articles": [
-            {
-                "id": 27536,
-                "title": "トヨタと組むスバル、欧州で「エンジン車」全面撤退！ なぜEV一本化に踏み切るのか？ 日産・ホンダも見直した電動化路線、「年35億円」の制裁金リスクに中堅メーカーはどう向き合うのか（Merkmal） - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQakhTaUhjNldWVXh0WkMwOUg0R2F6Q21CTTVxQ2pyR29qU3lQQWhJOVZyd0hmdHVnTnI5RkIzUXNzS2VvcUl0b3R1Q3BPSHFCV1dudXNRRHVuU2FLUEVaM0w0c25JQTQzd1pvcUNCUVZ5dkY2Q0VMUHA1SnZwbWxNYm5CaDlfXzUz?oc=5",
-                "published": "Wed, 11 Nov 2026 21:21:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQakhTaUhjNldWVXh0WkMwOUg0R2F6Q21CTTVxQ2pyR29qU3lQQWhJOVZyd0hmdHVnTnI5RkIzUXNzS2VvcUl0b3R1Q3BPSHFCV1dudXNRRHVuU2FLUEVaM0w0c25JQTQzd1pvcUNCUVZ5dkY2Q0VMUHA1SnZwbWxNYm5CaDlfXzUz?oc=5\" target=\"_blank\">トヨタと組むスバル、欧州で「エンジン車」全面撤退！ なぜEV一本化に踏み切るのか？ 日産・ホンダも見直した電動化路線、「年35億円」の制裁金リスクに中堅メーカーはどう向き合うのか（Merkmal）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-                "site_name": "Yahoo!ニュース",
-                "primary_category": "Strategy",
-                "reason": "自動車メーカーの電動化戦略転換のリスク分析",
-                "score": 80,
-                "is_highly_important": true
-            },
-            {
-                "id": 468921,
-                "title": "米関税負担打ち返したSUBARU、EV混流生産と2000億円コスト改革で挑む逆風：製造マネジメントニュース（1/3 ページ） - MONOist",
-                "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrRnd2eVN4YjVBT1hxWC03bDNJeXdiX2FQckxvcW5wVXpSV2N6UXBaUzlDV29iSmR3Qk9mcXgxbHUxdU1hdmQzemNVWW5MeDJjbkZoMG52UGhpS0RCekttNVlrdmo5Y01NSHRuOWlSOA?oc=5",
-                "published": "Wed, 11 Nov 2026 21:45:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBrRnd2eVN4YjVBT1hxWC03bDNJeXdiX2FQckxvcW5wVXpSV2N6UXBaUzlDV29iSmR3Qk9mcXgxbHUxdU1hdmQzemNVWW5MeDJjbkZoMG52UGhpS0RCekttNVlrdmo5Y01NSHRuOWlSOA?oc=5\" target=\"_blank\">米関税負担打ち返したSUBARU、EV混流生産と2000億円コスト改革で挑む逆風：製造マネジメントニュース（1/3 ページ）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MONOist</font>",
-                "site_name": "MONOist",
-                "primary_category": "Strategy",
-                "reason": "コスト改革と生産戦略、関税への対応策",
-                "score": 80,
-                "is_highly_important": true
-            },
-            {
-                "id": 457394,
-                "title": "スバル､次世代EV｢電池守る｣設計 衝突時にモーター回転 - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCRGItVC11MVdWdVdHNy1VT01PT2tjUXRMQmx3VnFEcUctT1EyYm55TUJmYUJ5LXh2ZWlYZVV6VnRMVDczYXFUdWQ3eC1ucllxeEk2V21ad3AwZVRzbmJESEhQS0lhMWdHeHpuM1VVSnN0TWpnUExaNXg3U1hzdVU?oc=5",
-                "published": "Wed, 11 Nov 2026 20:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBCRGItVC11MVdWdVdHNy1VT01PT2tjUXRMQmx3VnFEcUctT1EyYm55TUJmYUJ5LXh2ZWlYZVV6VnRMVDczYXFUdWQ3eC1ucllxeEk2V21ad3AwZVRzbmJESEhQS0lhMWdHeHpuM1VVSnN0TWpnUExaNXg3U1hzdVU?oc=5\" target=\"_blank\">スバル､次世代EV｢電池守る｣設計 衝突時にモーター回転</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-                "site_name": "日本経済新聞",
-                "primary_category": "Technology",
-                "reason": "EV専用設計における安全性の確保という重要課題",
-                "score": 65,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "地域最適化戦略への転換：欧州でのEV専売化と主力市場（北米・日本）でのHV収益確保という、収益性を最優先した市場別ポートフォリオの再構築。",
-                "技術の独自性と安全性への回帰：次世代EVで導入予定の「衝撃逃がし」衝突安全技術やeアクスルの設計など、スバル固有の「走り」と「安全」をEVでも体現する開発体制。",
-                "製造・コスト構造の抜本的改革：混流生産体制の確立と2000億円規模のコスト改革を断行し、為替や外部環境の変化に左右されない強靭な収益基盤の構築。"
-            ],
-            "insight": "スバルは「全方位」という幻想を捨て、販売規模の小さい欧州では撤退戦術を含めた徹底的な効率化を図る一方、主力北米ではHVで稼ぎ、次世代EVで「スバルらしさ」を再定義する戦略をとった。特筆すべきは、単なる電動化の追随ではなく、衝突時に駆動ユニットを回転させ電池を守る構造など、ボクサーエンジンで培ったパッケージング技術をEVに応用し、ブランドの根幹を守り抜く姿勢にある。"
-        }
-    },
-    {
-        "topic_name": "三菱ふそう「eキャンター」のリコール",
-        "article_ids": [
-            691573
-        ],
-        "articles": [
-            {
-                "id": 691573,
-                "title": "三菱ふそうトラック・バス／小型EVトラック「eキャンター」3115台をリコール - トラックニュース",
-                "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51alphVmhoUjZsZkFpSW8yakZHTUJWem5iQXg4cGpVeWJveGRIRzYxa0NsaTduQUE5T0VrOWloSjhBY3pnd29FV3VsQWR6QVUzTXoyeQ?oc=5",
-                "published": "Thu, 12 Nov 2026 06:38:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE51alphVmhoUjZsZkFpSW8yakZHTUJWem5iQXg4cGpVeWJveGRIRzYxa0NsaTduQUE5T0VrOWloSjhBY3pnd29FV3VsQWR6QVUzTXoyeQ?oc=5\" target=\"_blank\">三菱ふそうトラック・バス／小型EVトラック「eキャンター」3115台をリコール</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">トラックニュース</font>",
-                "site_name": "トラックニュース",
-                "primary_category": "Quality/Safety",
-                "reason": "EVトラックのリコール発生、品質管理上の重要事象",
-                "score": 70,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "対象は2023年3月から2025年12月製造の「eキャンター」3115台。",
-                "不具合内容は電動式駐車ブレーキ（EPB）のECUソフトの不備。",
-                "始動時のウォーニングランプ点灯不良という保安基準への適合不全。"
-            ],
-            "insight": "EV化の加速で車両制御がハードからソフトウェア定義へと移行する中、本件は制御ソフトの「品質バリデーション」という課題を浮き彫りにした。重要保安部品である駐車ブレーキの制御は、法規対応の要。商用車として高い稼働率が求められる中、OTA（無線アップデート）による修正体制の構築が、今後の競合優位性を左右する鍵となる。"
-        }
-    },
-    {
-        "topic_name": "ホンダの中国EV戦略と販売不振",
-        "article_ids": [
-            532024
-        ],
-        "articles": [
-            {
-                "id": 532024,
-                "title": "ホンダEV撤回の代償 中国販売6割減、揺らぐケイレツ - 日経ビジネス電子版",
-                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92WVdlbzRERFBnM05mVnJJWGltM1pNVlhTTTJsdExLN2ZHNlMwT013aGpLc1c5dlVHWDZGQUZTTFdCancxVUV0VFRCSnljQTlRLWZOWHEzOE9zMV9SNm51V3lKYktDSWs?oc=5",
-                "published": "Thu, 12 Nov 2026 08:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92WVdlbzRERFBnM05mVnJJWGltM1pNVlhTTTJsdExLN2ZHNlMwT013aGpLc1c5dlVHWDZGQUZTTFdCancxVUV0VFRCSnljQTlRLWZOWHEzOE9zMV9SNm51V3lKYktDSWs?oc=5\" target=\"_blank\">ホンダEV撤回の代償 中国販売6割減、揺らぐケイレツ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経ビジネス電子版</font>",
-                "site_name": "日経ビジネス電子版",
-                "primary_category": "Strategy",
-                "reason": "ホンダの中国事業撤退に伴うサプライチェーンへの影響分析",
-                "score": 90,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "EV戦略の急転換による巨額損失とブランド毀損",
-                "中国市場における販売の壊滅的減少と生産縮小の深刻化",
-                "系列サプライヤーの脱依存加速による伝統的企業構造の解体"
-            ],
-            "insight": "ホンダの迷走は、単なる電動化の読み違いではない。強みであった「エンジンへの固執」という硬直的な意思決定が、ソフトウェアで進化する中国EV市場のスピードに全く対応できなかった「組織の構造的敗北」である。全方位投資が不可能な今、系列の解体とセットでの提携再編は必然であり、ブランド再定義を欠いたままのHV回帰は、過去の遺産を食いつぶす延命策に終わるリスクが高い。"
-        }
-    },
-    {
-        "topic_name": "EVバス事業におけるイクヨのスポンサー選定",
-        "article_ids": [
-            568614
-        ],
-        "articles": [
-            {
-                "id": 568614,
-                "title": "イクヨ、EVモーターズ・ジャパンの再建スポンサーに名乗り EVバス事業を取得 製品保証も承継 - 日刊自動車新聞",
-                "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IdkUtODNzRFlRX1VjTVZYZGVEdzRhSm9lUFBnb0w2d1oybE14Y0FFc1pFQnFzUkEtT2o4Y0lOV09QSVFZQ1JBU2VUcm9MSkxfbHc?oc=5",
-                "published": "Thu, 12 Nov 2026 08:58:23 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IdkUtODNzRFlRX1VjTVZYZGVEdzRhSm9lUFBnb0w2d1oybE14Y0FFc1pFQnFzUkEtT2o4Y0lOV09QSVFZQ1JBU2VUcm9MSkxfbHc?oc=5\" target=\"_blank\">イクヨ、EVモーターズ・ジャパンの再建スポンサーに名乗り EVバス事業を取得 製品保証も承継</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日刊自動車新聞</font>",
-                "site_name": "日刊自動車新聞",
-                "primary_category": "Mergers & Acquisitions",
-                "reason": "国内EVバス事業の再編と製品保証の承継に関する重要ニュース",
-                "score": 75,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "イクヨによるEVモーターズ・ジャパン（EVMJ）のバス事業譲受決定と再生スポンサー就任",
-                "負債を切り離した事業譲渡により、技術資産と製品保証の承継を優先",
-                "品質管理プロセスとガバナンスの刷新による「製造業としての再生」を明言"
-            ],
-            "insight": "EVMJの凋落は、新興EVメーカーの「輸入・販売先行」モデルが、日本の公共交通が求める信頼性と品質基準に適合できなかった帰結です。イクヨの狙いは資産取得による将来技術（自動運転・エネマネ）の囲い込みですが、真の難所は、かつてのずさんなガバナンスで失墜した市場の「信用回復」という泥臭い再建工程にあります。"
-        }
-    },
-    {
-        "topic_name": "タイのEVシフトと中国連携",
-        "article_ids": [
-            735987,
-            227785
-        ],
-        "articles": [
-            {
-                "id": 735987,
-                "title": "タイと中国、自動車産業協力で覚書 EV・スマートカー分野で連携強化 - newsclip.be",
-                "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jWUdpNXFqUEhhTG10dDlBdWFVQmJEcXlhVXpOd2U5OFNCVEFoakg3a1hGWXpPeDlZMUhHYV9Dd0xEeGVUR2xiUUdGeGVxalYxWVd1RWpxZy1sWUls?oc=5",
-                "published": "Thu, 12 Nov 2026 10:02:58 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jWUdpNXFqUEhhTG10dDlBdWFVQmJEcXlhVXpOd2U5OFNCVEFoakg3a1hGWXpPeDlZMUhHYV9Dd0xEeGVUR2xiUUdGeGVxalYxWVd1RWpxZy1sWUls?oc=5\" target=\"_blank\">タイと中国、自動車産業協力で覚書 EV・スマートカー分野で連携強化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newsclip.be</font>",
-                "site_name": "newsclip.be",
-                "primary_category": "Policy",
-                "reason": "国際的な自動車産業連携、タイ・中国のサプライチェーン動向",
-                "score": 80,
-                "is_highly_important": true
-            },
-            {
-                "id": 227785,
-                "title": "「日本の自動車メーカーとは大違い」…中国EVにシフトしたタイの地元企業から悲鳴 (クーリエ・ジャポン) - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQnktOEwtOGRJRTNybm5Ya2wwM1UtUDAxakdmaXM4SHVqcEJKNFAtRmdTeUFCT2ZJbjcwcEVQSlVoNWlPRDItenRsazlQWjRYWEF1RC0tVFk0Z3hlQ3lUVWxCdzVfR3I3QUpqbXFzUkdEQUtZQkd1MXVkZ2JVbjF1MlBGZEJEOWNSai1TQlpB?oc=5",
-                "published": "Thu, 12 Nov 2026 03:40:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOQnktOEwtOGRJRTNybm5Ya2wwM1UtUDAxakdmaXM4SHVqcEJKNFAtRmdTeUFCT2ZJbjcwcEVQSlVoNWlPRDItenRsazlQWjRYWEF1RC0tVFk0Z3hlQ3lUVWxCdzVfR3I3QUpqbXFzUkdEQUtZQkd1MXVkZ2JVbjF1MlBGZEJEOWNSai1TQlpB?oc=5\" target=\"_blank\">「日本の自動車メーカーとは大違い」…中国EVにシフトしたタイの地元企業から悲鳴 (クーリエ・ジャポン)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-                "site_name": "Yahoo!ニュース",
-                "primary_category": "Strategy",
-                "reason": "ASEAN市場における中国EVの浸透と地元企業への影響",
-                "score": 75,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "タイと中国がEV・スマートカー分野で政府間MOUを締結し、サプライチェーンの囲い込みを加速",
-                "「規格・試験の相互承認」による中国EVの現地生産・市場浸透のハードル撤廃",
-                "安価な中国製EVの急伸により、既存の日系サプライチェーンや現地部品メーカーが深刻な競争圧力に直面"
-            ],
-            "insight": "タイの自動車産業は、長年培った日系主導の水平分業から、中国主導の垂直統合型サプライチェーンへ急速に構造転換しています。今回のMOUは単なる協力合意ではなく、中国EVの規格を事実上の地域標準化させる布石です。日系メーカーは「擦り合わせ技術」の優位性が通用しない価格競争に飲み込まれており、既存の現地部品供給網の崩壊は時間の問題と言えるでしょう。"
-        }
-    },
-    {
-        "topic_name": "中国EV市場と製造業の展望（2027年）",
-        "article_ids": [
-            310741,
-            505905
-        ],
-        "articles": [
-            {
-                "id": 310741,
-                "title": "記者が読む製造業2027年 中国EV攻勢とAI特需拡大、製造業の勝者は誰か - 日経ビジネス電子版",
-                "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RNDIyYUdxV0Z1Q2lVZjVFSWhWZWxiMmlKZjlBeENlTFlzWFFaZ09pamJuNmlFLTlKOGdycGM1VWJtZ09DRm8zSFNBVjVHY3FTV3dLTFFlU1pxWG9EUXM2MmlR?oc=5",
-                "published": "Thu, 12 Nov 2026 15:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RNDIyYUdxV0Z1Q2lVZjVFSWhWZWxiMmlKZjlBeENlTFlzWFFaZ09pamJuNmlFLTlKOGdycGM1VWJtZ09DRm8zSFNBVjVHY3FTV3dLTFFlU1pxWG9EUXM2MmlR?oc=5\" target=\"_blank\">記者が読む製造業2027年 中国EV攻勢とAI特需拡大、製造業の勝者は誰か</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経ビジネス電子版</font>",
-                "site_name": "日経ビジネス電子版",
-                "primary_category": "Strategy",
-                "reason": "中国のEV攻勢が製造業全体に与える構造変化の予測",
-                "score": 85,
-                "is_highly_important": true
-            },
-            {
-                "id": 505905,
-                "title": "小さな商社YKTの決算が教えてくれた「中国EV設備投資の再点火」。電子部品実装機の本命FUJI（6134）は次の主役になれるのか｜日本個別株デューデリジェンスセンター - note",
-                "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EcGlDVHItblotRC1OUFIxN2ZTWjZiX1haMm5GeFNEcXNOM29KTkFaY0JPeFA3cnFWeWtjdXUxejJuelJ2eW9jRlY3WHI5dXl0c0NRbDgzUmlFZkE?oc=5",
-                "published": "Thu, 12 Nov 2026 19:31:34 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EcGlDVHItblotRC1OUFIxN2ZTWjZiX1haMm5GeFNEcXNOM29KTkFaY0JPeFA3cnFWeWtjdXUxejJuelJ2eW9jRlY3WHI5dXl0c0NRbDgzUmlFZkE?oc=5\" target=\"_blank\">小さな商社YKTの決算が教えてくれた「中国EV設備投資の再点火」。電子部品実装機の本命FUJI（6134）は次の主役になれるのか｜日本個別株デューデリジェンスセンター</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">note</font>",
-                "site_name": "note",
-                "primary_category": "Business",
-                "reason": "投資家の視点による設備投資トレンドの分析",
-                "score": 65,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "中国EV市場の設備投資が再加速し、実装機などの関連産業で具体的な受注増として現れている",
-                "AIサーバー需要による高収益期と、中国EV・家電向けのボリューム需要という二段構えの成長期待",
-                "2027年に向け、従来の成功モデルがAI普及やサプライチェーン再構築で通用しなくなる転換点にある"
-            ],
-            "insight": "製造業は「AIサーバー特需」という一時的なボーナスから、中国EVという「コモディティ化しつつも不可避な大市場」へいかに軸足を移せるかが勝敗を分ける。実装機メーカーFUJIの株価低迷は、市場がAI後の成長持続性に懐疑的であることを示唆する。これからは、中国の価格競争の中で『止まらないラインを作る力』というエンジニアリング価値をいかに利益率として換金できるかが、勝者への唯一の道だ。"
-        }
-    },
-    {
-        "topic_name": "次世代電池の実用化が困難な理由",
-        "article_ids": [
-            211325
-        ],
-        "articles": [
-            {
-                "id": 211325,
-                "title": "全固体電池のEVは１台１億円？　ナトリウム、カリウム、硫黄……多岐に渡って研究される次世代バッテリーの実用化は「当分先」な理由 - WEB CARTOP",
-                "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90dGpicFZDcVZxRUxfUFNLaUdwdHY2Mm05elJzdWtjOHNxM2hkX2M5NjZDVjY2OHB2S3k2bFJneDdkMUJpdzRia3JrX3FFRlBvZTF30gFYQVVfeXFMT1FIZU1PSFJlZm1IQWxJZ3dhVDdXX0FVdnNOTW0tNHd6cXdZY3l2OWVVNTl3ckVmb1FPejhnMmgyWmZlNEhCeVljRUM5U0pvTk5IcFppdDJVYg?oc=5",
-                "published": "Thu, 12 Nov 2026 02:40:39 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE90dGpicFZDcVZxRUxfUFNLaUdwdHY2Mm05elJzdWtjOHNxM2hkX2M5NjZDVjY2OHB2S3k2bFJneDdkMUJpdzRia3JrX3FFRlBvZTF30gFYQVVfeXFMT1FIZU1PSFJlZm1IQWxJZ3dhVDdXX0FVdnNOTW0tNHd6cXdZY3l2OWVVNTl3ckVmb1FPejhnMmgyWmZlNEhCeVljRUM5U0pvTk5IcFppdDJVYg?oc=5\" target=\"_blank\">全固体電池のEVは１台１億円？　ナトリウム、カリウム、硫黄……多岐に渡って研究される次世代バッテリーの実用化は「当分先」な理由</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEB CARTOP</font>",
-                "site_name": "WEB CARTOP",
-                "primary_category": "Technology",
-                "reason": "次世代電池の技術的課題と実用化の現実的考察",
-                "score": 65,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "次世代電池は性能向上だけでなく、極めて高い製造コストが普及の最大の障壁となっている",
-                "全固体電池は材料選定が未確定であり、商用量産体制の構築には至っていない",
-                "代替電池（ナトリウムイオン等）も安全性や資源性に利点はあるが、エネルギー密度と生産プロセスの難易度が課題"
-            ],
-            "insight": "市場が期待する次世代電池の「ゲームチェンジャー」像と、現実の「製造工学的な苦闘」との乖離が顕著です。特に材料の最適化と製造コストは、実験室レベルからギガファクトリーへの移行過程で指数関数的な課題となる。現在は既存リチウムイオン電池の低コスト化と最適化が現実解であり、次世代型は限定的なプレミアムセグメントでの先行投入に留まると予測すべきでしょう。"
-        }
-    },
-    {
-        "topic_name": "世界・欧州のEV販売台数急増",
-        "article_ids": [
-            730566,
-            424588
-        ],
-        "articles": [
-            {
-                "id": 730566,
-                "title": "世界ＥＶ販売、10月は前年比8％増でプラス反転 欧州で拡大続く (ロイター) - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYXROVjhWbzVFM1QxcGVEMElWMDZjV085UVJ0TGtac0d3c1c5R2pUNEZqQzZiZ1BKQWxkYWJQNVM5UjY3V2R5MXE2LUY1WjAxbjNPaWRlR1JrYUxFNWlRVjJaRVI5N2liN2RaUGI1VGJmSnA5UmlOMm9Rck1ZR1M2YWRJcWFHMy0zZmpEM1pn?oc=5",
-                "published": "Thu, 12 Nov 2026 02:49:32 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPYXROVjhWbzVFM1QxcGVEMElWMDZjV085UVJ0TGtac0d3c1c5R2pUNEZqQzZiZ1BKQWxkYWJQNVM5UjY3V2R5MXE2LUY1WjAxbjNPaWRlR1JrYUxFNWlRVjJaRVI5N2liN2RaUGI1VGJmSnA5UmlOMm9Rck1ZR1M2YWRJcWFHMy0zZmpEM1pn?oc=5\" target=\"_blank\">世界ＥＶ販売、10月は前年比8％増でプラス反転 欧州で拡大続く (ロイター)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-                "site_name": "Yahoo!ニュース",
-                "primary_category": "Market Analysis",
-                "reason": "欧州の販売統計データ。市場回復の兆しとして重要",
-                "score": 75,
-                "is_highly_important": true
-            },
-            {
-                "id": 424588,
-                "title": "欧州EVシェアが30％超え、ガソリン価格急騰で 26年9月新車販売 - 日経クロステック",
-                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ScUFxZVItemdDb3BkVHdXSngtZlhKWC1qRGFZQWdya0g2SmdYcVZ6Z2lkWm8zTGY0UkFYU0EzNEpnMl8tWEY3aTJsamNvb1YxV2c3TE04SkZEekdmSmJuOE9RQnVVSEpqVERrdA?oc=5",
-                "published": "Wed, 11 Nov 2026 20:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9ScUFxZVItemdDb3BkVHdXSngtZlhKWC1qRGFZQWdya0g2SmdYcVZ6Z2lkWm8zTGY0UkFYU0EzNEpnMl8tWEY3aTJsamNvb1YxV2c3TE04SkZEekdmSmJuOE9RQnVVSEpqVERrdA?oc=5\" target=\"_blank\">欧州EVシェアが30％超え、ガソリン価格急騰で 26年9月新車販売</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経クロステック</font>",
-                "site_name": "日経クロステック",
-                "primary_category": "Market Analysis",
-                "reason": "欧州の販売シェア変動。ガソリン価格との相関",
-                "score": 75,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "欧州市場におけるEV販売シェアが30%の大台を突破し、明確な構造転換点に到達した。",
-                "エネルギー価格の高騰が消費者の心理的トリガーとなり、ガソリン車離れと電動化シフトを加速させている。",
-                "欧州市場での中国メーカーのシェアが15.7%に上昇し、既存の欧州勢にとって無視できない脅威へと成長している。"
-            ],
-            "insight": "ガソリン価格高騰を背景とした欧州のEVシェア30%超えは、補助金頼みの需要喚起から、市場原理による本格普及フェーズへの移行を意味する。特に中国勢のシェア拡大は、価格競争力だけでなく技術的な成熟度も伴っており、欧州メーカーにとって、電動化のスピードと同時に供給網の現地化による関税回避が今後の生存を分かつ鍵となる。"
-        }
-    },
-    {
-        "topic_name": "レゾナックの黒鉛電極およびEV電池負極材事業からの撤退",
-        "article_ids": [
-            441893
-        ],
-        "articles": [
-            {
-                "id": 441893,
-                "title": "レゾナック、黒鉛電極事業の売却発表 EV電池向けの負極材からも撤退 - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tMDFER1BqSk5WYUxfNG96QUlvQ2F3SEpHcm1tQXpLdDZJdTBlNTJ5ZWJMa2E4RXhFVXpKdVhkNEtoeS1GNUhoVUxyUmtONTZWTUFtdC1UVm1RdlFFWG9MeFNzbENNc090MWJ6Ng?oc=5",
-                "published": "Thu, 12 Nov 2026 04:42:22 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1tMDFER1BqSk5WYUxfNG96QUlvQ2F3SEpHcm1tQXpLdDZJdTBlNTJ5ZWJMa2E4RXhFVXpKdVhkNEtoeS1GNUhoVUxyUmtONTZWTUFtdC1UVm1RdlFFWG9MeFNzbENNc090MWJ6Ng?oc=5\" target=\"_blank\">レゾナック、黒鉛電極事業の売却発表 EV電池向けの負極材からも撤退</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-                "site_name": "日本経済新聞",
-                "primary_category": "Strategy",
-                "reason": "大手素材メーカーのEV関連事業撤退。サプライチェーンの転換",
-                "score": 85,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "レゾナックが黒鉛電極事業を売却し、EV電池向け負極材からも撤退する構造改革を断行",
-                "中国勢の台頭による低採算化と、半導体材料領域への経営資源集中のための戦略的撤退",
-                "譲渡に伴う巨額損失計上は既に市場へ織り込み済みであり、ポートフォリオ転換を加速させるシグナル"
-            ],
-            "insight": "レゾナックの今回の決断は、かつての昭和電工・日立化成の統合を経て「半導体材料メーカー」へと脱皮する意志を明確にしたものです。コモディティ化し中国勢に席巻された素材事業を切り捨て、収益性の高い半導体材料にリソースを集中させる。この経営判断は資本効率を極限まで追求する姿勢を示しており、市場からの評価は構造改革の完了に向けたポジティブな通過点と解釈されます。"
-        }
-    },
-    {
-        "topic_name": "ボルグワーナーの次世代高電圧インバーター採用",
-        "article_ids": [
-            605428
-        ],
-        "articles": [
-            {
-                "id": 605428,
-                "title": "ボルグワーナーの次世代高電圧インバーター、大手自動車メーカーが新開発EVに搭載へ - レスポンス（Response.jp）",
-                "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DSWd0M3M5MzVUZjhDMlAtdWU0RjVrQkpJRzExOFlfRjlMT2tldnZkOVNBNGQ0NXgtVWU1WHpuUTl4d08xQmswb3NvRUxvbl9XMC0wUkhGSnRtR0o2V3lN?oc=5",
-                "published": "Thu, 12 Nov 2026 07:30:03 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DSWd0M3M5MzVUZjhDMlAtdWU0RjVrQkpJRzExOFlfRjlMT2tldnZkOVNBNGQ0NXgtVWU1WHpuUTl4d08xQmswb3NvRUxvbl9XMC0wUkhGSnRtR0o2V3lN?oc=5\" target=\"_blank\">ボルグワーナーの次世代高電圧インバーター、大手自動車メーカーが新開発EVに搭載へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
-                "site_name": "レスポンス（Response.jp）",
-                "primary_category": "Business",
-                "reason": "サプライヤーの主要部品供給契約、サプライチェーンの動向",
-                "score": 65,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "次世代高電圧BEV向けトラクションインバーターの新規受注獲得",
-                "既存サプライヤーとしての信頼を維持し、次世代車両プラットフォームへ参入",
-                "EVのエネルギー効率と性能を左右するパワーエレクトロニクス領域での競争力強化"
-            ],
-            "insight": "シリコンカーバイド（SiC）等の次世代パワー半導体採用が前提となる高電圧化において、ボルグワーナーがTier1としての地位を再確認した事例。単なる部品供給から、モータ・インバータ一体化等のシステム提案力を背景に、OEMのEV開発サイクルにおける「設計変更のハードル」を逆手に取った囲い込み戦略が奏功している。"
-        }
-    },
-    {
-        "topic_name": "中国による水素エネルギー分野への投資",
-        "article_ids": [
-            443237
-        ],
-        "articles": [
-            {
-                "id": 443237,
-                "title": "EVで世界を席巻した中国が次に狙う「水素覇権」、巨額投資で突き進む中国に日本は対抗できるか？(1/6) - JBpress",
-                "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9veXhjazZ1Qm9hQWN1N21Jemw0ZGFqTnJJak81eGJoVk90TkRqQkJJVzdIbUZnbmxMWFVidUY1V202T1pUR1JUWTBPSF94b05hbFNjVExn?oc=5",
-                "published": "Wed, 11 Nov 2026 21:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9veXhjazZ1Qm9hQWN1N21Jemw0ZGFqTnJJak81eGJoVk90TkRqQkJJVzdIbUZnbmxMWFVidUY1V202T1pUR1JUWTBPSF94b05hbFNjVExn?oc=5\" target=\"_blank\">EVで世界を席巻した中国が次に狙う「水素覇権」、巨額投資で突き進む中国に日本は対抗できるか？(1/6)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JBpress</font>",
-                "site_name": "JBpress",
-                "primary_category": "Strategy",
-                "reason": "中国のエネルギー覇権戦略に関する地政学的分析",
-                "score": 85,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "FCEVの普及停滞を受け、日本は広域インフラ整備から物流拠点への集中投資へと戦略を転換",
-                "中国がEVに続く次なる国家戦略として水素分野へ巨額投資を行い、圧倒的なスケールメリットを追求",
-                "エネルギー需給の基盤が未成熟な水素において、コスト低減と実需創出が日本の喫緊の課題"
-            ],
-            "insight": "日本の水素戦略は「点」の技術開発から「線」の物流網形成へ移行したが、中国の国家主導によるパイプライン網構築や規模の経済には圧倒的な差がある。BEVで学んだ通り、技術優位性だけでは市場は勝ち取れない。日本は、自動車単体ではなくエネルギー供給網と車両をセットにした、採算が取れる地域限定の「社会実装モデル」を早期に確立しなければならない。"
-        }
-    },
-    {
-        "topic_name": "中国の新車販売およびEV輸出統計",
-        "article_ids": [
-            207078
-        ],
-        "articles": [
-            {
-                "id": 207078,
-                "title": "10月の中国新車販売､国内27%減 輸出はEV伸び60%増 - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WTG1TU0RGWnZGamkwUmhPOXp5WkFYTWxlN0t0OVJ4N3Q4VlFRUDU2M3Q4VXZpdVZkbmxfSkdac25qcXNSdElBS2taWXhRTVdwNlY0S2NlNUdhLVl5V3hwU21LWGF4b0xLNmhQRVNFTzQ0VjZ0OWM3am1kVDFpRDg?oc=5",
-                "published": "Wed, 11 Nov 2026 20:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5WTG1TU0RGWnZGamkwUmhPOXp5WkFYTWxlN0t0OVJ4N3Q4VlFRUDU2M3Q4VXZpdVZkbmxfSkdac25qcXNSdElBS2taWXhRTVdwNlY0S2NlNUdhLVl5V3hwU21LWGF4b0xLNmhQRVNFTzQ0VjZ0OWM3am1kVDFpRDg?oc=5\" target=\"_blank\">10月の中国新車販売､国内27%減 輸出はEV伸び60%増</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-                "site_name": "日本経済新聞",
-                "primary_category": "Market Analysis",
-                "reason": "中国の国内販売減と輸出増の逆相関分析。重要指標",
-                "score": 80,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "中国国内の新車販売が12カ月連続のマイナス、特にガソリン車は49%減と壊滅的",
-                "内需の冷え込みと並行し、EVを軸とした輸出は60%増と極端な二極化が進行",
-                "中東情勢によるエネルギー価格高騰が、皮肉にも中国国内の電動化移行を加速させる圧力となっている"
-            ],
-            "insight": "中国市場の「内憂外患」が極まっている。国内販売の12カ月連続減は、構造的な消費の底割れを示唆しており、メーカーは生き残りをかけ過剰生産分を海外へ吐き出すしかない。輸出増は成功ではなく、国内市場から放逐された在庫の行き場であり、欧米での関税障壁強化を前に、中国メーカーは深刻な供給過剰と収益性の二重苦に直面する。"
-        }
-    },
-    {
-        "topic_name": "EU・英国間のEV関税延期検討",
-        "article_ids": [
-            841975
-        ],
-        "articles": [
-            {
-                "id": 841975,
-                "title": "EUと英国、EVへの10%関税を1月1日から延期か - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-                "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2TmNtNVA3blJUSlRKQjJGWWJHdU1BOWNRQlQ4UF93X0dGZElNVi1HMEhudm5peUVoQ3I1MHpvUXgtZVMwSjJRaVdfTzhaNkoxZGNlTDNkZUY3Um9kVXN2OV9vUkJweHBZM2c?oc=5",
-                "published": "Thu, 12 Nov 2026 05:25:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB2TmNtNVA3blJUSlRKQjJGWWJHdU1BOWNRQlQ4UF93X0dGZElNVi1HMEhudm5peUVoQ3I1MHpvUXgtZVMwSjJRaVdfTzhaNkoxZGNlTDNkZUY3Um9kVXN2OV9vUkJweHBZM2c?oc=5\" target=\"_blank\">EUと英国、EVへの10%関税を1月1日から延期か</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</font>",
-                "site_name": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-                "primary_category": "Policy",
-                "reason": "関税措置の延期検討。サプライチェーンへの影響は大",
-                "score": 85,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "英EU間の原産地規則厳格化に伴う10%関税適用を回避する動き",
-                "EVサプライチェーンの分断を防ぐための政治的妥協",
-                "欧州自動車メーカーのコスト競争力と域内販売戦略への配慮"
-            ],
-            "insight": "今回の延期は、欧州EV産業の保護という大義名分と、実態としてのサプライチェーン統合の不可逆性を突きつけられた結果だ。完全適用されれば欧州メーカーは中国メーカーにシェアを奪われるリスクがあり、政治的リアリズムが保護主義的なルールを上回った。欧州の産業政策は今、現実解を求める難しい局面にある。"
-        }
-    },
-    {
-        "topic_name": "米国による中国EVの過剰生産調査要請",
-        "article_ids": [
-            400830
-        ],
-        "articles": [
-            {
-                "id": 400830,
-                "title": "中国EVの過剰生産や生産移転に警戒 UAWが米議会の対中調査継続を求める書簡 - NOVAIST",
-                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GcjMydXM2NUJBQmlsRXFCTDFEZHRJYVJVWUdad3QzVXl3NTVTdGFzSnlkUTJaNl9xVlNSX0VWTldjSWpWTlFOWHdiMmRuZjlNR3RBS2xQWHlteS1UcS0wYWdBMzRuUWFoeVZVSg?oc=5",
-                "published": "Thu, 12 Nov 2026 02:28:37 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5GcjMydXM2NUJBQmlsRXFCTDFEZHRJYVJVWUdad3QzVXl3NTVTdGFzSnlkUTJaNl9xVlNSX0VWTldjSWpWTlFOWHdiMmRuZjlNR3RBS2xQWHlteS1UcS0wYWdBMzRuUWFoeVZVSg?oc=5\" target=\"_blank\">中国EVの過剰生産や生産移転に警戒 UAWが米議会の対中調査継続を求める書簡</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NOVAIST</font>",
-                "site_name": "NOVAIST",
-                "primary_category": "Policy",
-                "reason": "米国の対中調査継続、通商問題に関する重要事象",
-                "score": 80,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "UAWが対中強硬姿勢を堅持し、次期議会でも中国特別委員会の存続を強く要請",
-                "EV生産能力の過剰供給に加え、中国資本による生産拠点移転やサプライチェーン支配を警戒",
-                "行政規制から立法措置へシフトし、コネクテッドカー規制を恒久化する法案が進行中"
-            ],
-            "insight": "UAWの動きは単なる労働条件の交渉ではなく、米国の自動車産業主権を巡る防衛戦です。注目すべきはCATL等の事例に見られるような、製造技術の囲い込みを狙った『裏口参入』への警戒レベルが極めて高い点です。今後、中国勢がメキシコ等の周辺国を経由して市場を侵食する『産地偽装』的な戦略に対し、米議会がより広範な追跡調査と法的制裁を強化する潮流は不可避でしょう。"
-        }
-    },
-    {
-        "topic_name": "EU産業政策と日本自動車産業",
-        "article_ids": [
-            692428
-        ],
-        "articles": [
-            {
-                "id": 692428,
-                "title": "EU産業促進法の狙いは日本車排除ではない…日本だけが気付いていない自動車産業の現実（ニューズウィーク日本版） - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuSmdxTTZzSHQ5NkNDRnZQcHhwQU1tU0FrLWFUUWlOdFN3QTk5aXlDWDFYT2YyS0x3VmcwMEllLUFaaWpWZUFtRnJhV216b1lmSnJQOXR1MlZ2VkVZc0YzZHBwMkhUSUw4ZFBGMlF4TXRoUXBwVl9iZjNhWEJVc1k?oc=5",
-                "published": "Thu, 12 Nov 2026 10:10:34 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBuSmdxTTZzSHQ5NkNDRnZQcHhwQU1tU0FrLWFUUWlOdFN3QTk5aXlDWDFYT2YyS0x3VmcwMEllLUFaaWpWZUFtRnJhV216b1lmSnJQOXR1MlZ2VkVZc0YzZHBwMkhUSUw4ZFBGMlF4TXRoUXBwVl9iZjNhWEJVc1k?oc=5\" target=\"_blank\">EU産業促進法の狙いは日本車排除ではない…日本だけが気付いていない自動車産業の現実（ニューズウィーク日本版）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-                "site_name": "Yahoo!ニュース",
-                "primary_category": "Strategy",
-                "reason": "EUの産業政策が日本企業に与える構造的な脅威分析",
-                "score": 85,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "EUの産業促進法は日本車排除が主目的ではなく、中国製EVの圧倒的な価格・性能に対抗し域内雇用を死守するための防衛策である。",
-                "日本メーカーは欧州域内生産を回避してきたが、グローバル経済の変質により『域外輸入品』として優遇措置から排除されるリスクが現実化している。",
-                "日本国内では依然として自由貿易の前提に固執する議論が主流だが、世界は経済安保と自国優先主義に基づくブロック経済化へ急速にシフトしている。"
-            ],
-            "insight": "日本勢の敗因は『HVの優位性』という過去の成功体験への執着と、経済地理学的変化を無視した供給網戦略にある。欧州の真の意図は中国企業の域内囲い込みによる雇用創出であり、対立軸はすでに技術論から『経済圏の防衛』へ移行した。日本メーカーはグローバル分業モデルの幻想を捨て、現地生産の抜本的な再設計を迫られている。"
-        }
-    },
-    {
-        "topic_name": "鴻海（フォックスコン）のEV受託生産モデル拡充",
-        "article_ids": [
-            95104
-        ],
-        "articles": [
-            {
-                "id": 95104,
-                "title": "鴻海｢OEMがやりにくいEV狙う｣ 軽トラなど3モデル追加 - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40RTFWTDhFcnY1S01vbXRqUFFYcUFKUUlkNThnQ2lGal9uZGtZUG12cXo4a3ItcDNpVnBCNDlHTmdhVjFCc3g2cG1XX2ZnQ1ZmRUZtX25Ud2ZOcFc3a09VZ0R1TnBSZkFISUtFeVNGODRMRlN4VnBMZGRLZ3VycjQ?oc=5",
-                "published": "Thu, 12 Nov 2026 20:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE40RTFWTDhFcnY1S01vbXRqUFFYcUFKUUlkNThnQ2lGal9uZGtZUG12cXo4a3ItcDNpVnBCNDlHTmdhVjFCc3g2cG1XX2ZnQ1ZmRUZtX25Ud2ZOcFc3a09VZ0R1TnBSZkFISUtFeVNGODRMRlN4VnBMZGRLZ3VycjQ?oc=5\" target=\"_blank\">鴻海｢OEMがやりにくいEV狙う｣ 軽トラなど3モデル追加</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-                "site_name": "日本経済新聞",
-                "primary_category": "Business",
-                "reason": "EMS最大手のEV戦略転換。サプライチェーンに影響",
-                "score": 70,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "自動車メーカーが利益率や開発リソースの観点で避ける『ニッチ・商用EV』市場に特化",
-                "三菱電機との提携強化により、駆動系の核となるeアクスルの調達力を拡充",
-                "受託製造モデル（CDMS）を12モデルへ拡大し、EVプラットフォームの汎用化を加速"
-            ],
-            "insight": "鴻海の真の狙いは単なる受託製造ではなく『EVモジュール化の標準化』だ。大手が内製に拘泥する間に、コモディティ化した商用・小型領域を技術プラットフォームで塗り潰す戦略は、PCやスマホで培った勝ち筋そのもの。三菱電機との協業は、単なる部品調達を超え、日本メーカーのすり合わせ技術を自社のオープンアーキテクチャに飲み込む布石であり、既存の垂直統合型サプライチェーンを根底から揺るがしている。"
+            "insight": "補助金は市場育成の『着火剤』から『硬着陸（ソフトランディング）期』へ移行した。今回の減額は、EV普及のフェーズが初期需要から自律的拡大へ移る過渡期であることを示唆している。販売現場では、年末の駆け込み登録と年明けのキャンセル・納車遅延を巡る商戦の混乱が必至。メーカーにとっては、補助金依存体質からの脱却と、車両本来の価値による価格競争力が真に問われる試練の2027年となる。"
         }
     }
 ]
