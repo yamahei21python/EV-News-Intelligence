@@ -1,102 +1,141 @@
 [
     {
-        "topic_name": "アジア各国のEV販売比率の推移",
+        "topic_name": "ヤマトモビリティのEV整備支援ツール開発",
         "article_ids": [
-            614772
+            322252,
+            443501
         ],
         "articles": [
             {
-                "id": 614772,
-                "title": "10月アジアEV販売比率、中国が50％超える: ベトナム47％・タイ33％、日本は4.6%（オルタナ） - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCZUVOdlI4STY5WWZDdkN0UDNsdlBhaXdUQS1XRWtlLXEtQ0l3cnhYZGN5TmVWdnZZS3Ayazl4OGt3bEROUmhxQWZqS3hpX3U3M1lRdVp3TkZ3TFQwYldxOE84RXNUWTFfUHRWcWJOMnhyTURacEwzYmZrUllBcVE?oc=5",
-                "published": "Sat, 14 Nov 2026 10:53:37 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBCZUVOdlI4STY5WWZDdkN0UDNsdlBhaXdUQS1XRWtlLXEtQ0l3cnhYZGN5TmVWdnZZS3Ayazl4OGt3bEROUmhxQWZqS3hpX3U3M1lRdVp3TkZ3TFQwYldxOE84RXNUWTFfUHRWcWJOMnhyTURacEwzYmZrUllBcVE?oc=5\" target=\"_blank\">10月アジアEV販売比率、中国が50％超える: ベトナム47％・タイ33％、日本は4.6%（オルタナ）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-                "site_name": "Yahoo!ニュース",
-                "primary_category": "Market Data",
-                "reason": "アジア各国のEV普及率推移を俯瞰した重要なデータ。",
-                "score": 85,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": false,
-        "analysis": {
-            "summary_points": [
-                "中国のEV販売比率が50％の大台を突破し、ベトナムも47％と世界屈指の普及率を記録",
-                "タイやインドネシアでEV販売がハイブリッド車（HV）を上回る逆転現象が定着",
-                "日本はEV比率が4.6％と過去最高を更新するも、主要7カ国中では依然として最低水準"
-            ],
-            "insight": "アジア市場におけるEVシフトはもはや『選択肢』ではなく、中国系メーカー主導による『市場構造の強制変革』です。特にタイやインドネシアで日系勢の聖域であったHVが駆逐されつつある現状は、現地適合スピードと低価格戦略で劣る日系メーカーにとって深刻な警鐘。ガラパゴス化した国内市場の延長で世界と戦うには、もはや限界を迎えています。"
-        }
-    },
-    {
-        "topic_name": "EUのEV優遇策による日本車への影響",
-        "article_ids": [
-            578999,
-            490510
-        ],
-        "articles": [
-            {
-                "id": 578999,
-                "title": "ＥＵのＥＶ優遇策、狙いは中国勢対抗のはずが日本車に打撃 見直しを阻む意外な「補助金」とは…中国メーカーは現地生産で有利に - 沖縄タイムス社",
-                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQX1N0dHktTG9HUzdwQ3VWNTBRamhlakZWWVZwOXduRkdjMUhUM0s5ZmIwbGRhUjgwUXlaYWhJUnNFTVhMNzZmVTREMFc4WWlVcnNrRnI4dmJQSkNQVHc?oc=5",
-                "published": "Sat, 14 Nov 2026 02:30:01 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQX1N0dHktTG9HUzdwQ3VWNTBRamhlakZWWVZwOXduRkdjMUhUM0s5ZmIwbGRhUjgwUXlaYWhJUnNFTVhMNzZmVTREMFc4WWlVcnNrRnI4dmJQSkNQVHc?oc=5\" target=\"_blank\">ＥＵのＥＶ優遇策、狙いは中国勢対抗のはずが日本車に打撃 見直しを阻む意外な「補助金」とは…中国メーカーは現地生産で有利に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">沖縄タイムス社</font>",
-                "site_name": "沖縄タイムス社",
-                "primary_category": "Policy",
-                "reason": "EUの優遇策と日本車への影響分析。政策と戦略の交差。",
-                "score": 75,
+                "id": 322252,
+                "title": "ヤマトモビリティ、商用EVの整備支援ツール開発 - LOGISTICS TODAY",
+                "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBuQnMxZWtGdlNkZVlQUzdEWlFZakVkV3NFaXk4VDdVVTZVallFUTJ4Y2MxYm5pNkRGU0pwSTQxUmU5SllZT1FVanpR?oc=5",
+                "published": "Mon, 16 Nov 2026 08:23:05 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTFBuQnMxZWtGdlNkZVlQUzdEWlFZakVkV3NFaXk4VDdVVTZVallFUTJ4Y2MxYm5pNkRGU0pwSTQxUmU5SllZT1FVanpR?oc=5\" target=\"_blank\">ヤマトモビリティ、商用EVの整備支援ツール開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LOGISTICS TODAY</font>",
+                "site_name": "LOGISTICS TODAY",
+                "primary_category": "Infrastructure",
+                "reason": "商用EVの普及に不可欠な整備・アフターサービス網の構築。",
+                "score": 70,
                 "is_highly_important": true
             },
             {
-                "id": 490510,
-                "title": "ＥＵのＥＶ優遇策、狙いは中国勢対抗のはずが日本車に打撃 - 下野新聞社",
-                "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XZjY3YkhhNHFfYlRvZHBJZGtkdnhWSU12SVo3UTM2NlJCaXcyZEEtcmhhVWI4b0hwYURFMXo0c2p1ZU5ibUliNzdpUUo1cXFPZVpKSDhzSlRLSUU?oc=5",
-                "published": "Sat, 14 Nov 2026 02:52:11 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XZjY3YkhhNHFfYlRvZHBJZGtkdnhWSU12SVo3UTM2NlJCaXcyZEEtcmhhVWI4b0hwYURFMXo0c2p1ZU5ibUliNzdpUUo1cXFPZVpKSDhzSlRLSUU?oc=5\" target=\"_blank\">ＥＵのＥＶ優遇策、狙いは中国勢対抗のはずが日本車に打撃</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">下野新聞社</font>",
-                "site_name": "下野新聞社",
-                "primary_category": "Policy",
-                "reason": "EUのEV優遇策に関する地政学的影響の指摘。",
-                "score": 70,
-                "is_highly_important": false
+                "id": 443501,
+                "title": "ヤマトモビリティ＆Ｍｆｇ．[7886]：コンバージョンEVの稼働率向上へ 故障診断・整備支援ツール「JEMY EV STUDIO」を独自開発 2026年11月16日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTmpYRnZkTzhQZFFxZUZlOGpTbVBiTUhrclZiMXVNU1lnNnZXOTdnS2pfb0VVS29sTW1oa0RRUTQwaWtWcVg0c2FUSW5VRWJNSmZzd2tQU01RSUZUa1Y3cTMzMTk0WlNzRGkyUjNpVDdmMThrN1hMV21seVJuWnBobnBQM0taTVkyZTdudUtDRG1KeC0yQ29kTDRyVTc1MktURVFzaWduM3pVZ0hybFVfcHNPcGJYaU44OXRCNnhwc1l1VU96S1JFMUVBRW8?oc=5",
+                "published": "Mon, 16 Nov 2026 04:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQTmpYRnZkTzhQZFFxZUZlOGpTbVBiTUhrclZiMXVNU1lnNnZXOTdnS2pfb0VVS29sTW1oa0RRUTQwaWtWcVg0c2FUSW5VRWJNSmZzd2tQU01RSUZUa1Y3cTMzMTk0WlNzRGkyUjNpVDdmMThrN1hMV21seVJuWnBobnBQM0taTVkyZTdudUtDRG1KeC0yQ29kTDRyVTc1MktURVFzaWduM3pVZ0hybFVfcHNPcGJYaU44OXRCNnhwc1l1VU96S1JFMUVBRW8?oc=5\" target=\"_blank\">ヤマトモビリティ＆Ｍｆｇ．[7886]：コンバージョンEVの稼働率向上へ 故障診断・整備支援ツール「JEMY EV STUDIO」を独自開発 2026年11月16日(適時開示) ：日経会社情報DIGITAL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "site_name": "日本経済新聞",
+                "primary_category": "Infrastructure",
+                "reason": "コンバージョンEV向け整備ツールの適時開示。",
+                "score": 75,
+                "is_highly_important": true
             }
         ],
         "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "EUのEV優遇政策が、対中国の防波堤として機能する一方で、域外生産を主軸とする日本メーカーに逆風となっている",
-                "現地生産網を持たない日本勢にとって、価格競争力で現地生産を行う中国メーカーが優位に立つ構造が固定化している",
-                "補助金という枠組みが、純粋な市場競争を歪め、日本車の欧州市場でのシェア拡大を阻む「見えない障壁」と化している"
+                "商用コンバージョンEV特有の診断ニーズを解消する「JEMY EV STUDIO」の内製化",
+                "可視化と解析の効率化によるダウンタイム削減とアフターサービスの品質向上",
+                "LTE通信を活用した遠隔診断・予兆検知によるフィールドメンテナンスの高度化へ"
             ],
-            "insight": "EUの保護主義的なEV政策は、皮肉にも中国の現地生産シフトを加速させ、グローバルサプライチェーンの分断を招いています。現地に強固な供給網を持たない日本勢にとって、補助金という名の「門前払い」を受けているに等しい状況であり、単なるEV化の遅れという議論を超え、経済安全保障とセットの生産戦略再構築が急務です。"
+            "insight": "商用EVの普及において、最大のボトルネックは『整備のブラックボックス化』です。ヤマトモビリティは、あえて自社製ツールを開発することで、車両データの一元管理と解析ノウハウを蓄積し、コンバージョンEVの最大の懸念点である稼働率を担保する戦略です。将来的には遠隔診断による事前準備体制の確立が、物流現場のダウンタイム最小化と、アフターサービスの収益化の鍵を握るでしょう。"
         }
     },
     {
-        "topic_name": "テスラ24年7-9月期決算",
+        "topic_name": "EV補助金の終了・減額懸念",
         "article_ids": [
-            332470
+            536531,
+            21438,
+            572593
         ],
         "articles": [
             {
-                "id": 332470,
-                "title": "米テスラ７～９月期、５６％減益 ＡＩ投資重荷、ＥＶ販売は堅調 - 山陽新聞",
-                "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1odlRFQzlFdkVvU2Rld0VES2w1TU1rYWJkYkVObzFTNnZHanQ2dVFVM2xWT0d5V0RhaW1Da1FrYzdYYXh2bHQ4QldPLVNvZG5paU5LbnFRZi0tYTh2RDVpSWpyOA?oc=5",
-                "published": "Sat, 14 Nov 2026 03:13:21 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1odlRFQzlFdkVvU2Rld0VES2w1TU1rYWJkYkVObzFTNnZHanQ2dVFVM2xWT0d5V0RhaW1Da1FrYzdYYXh2bHQ4QldPLVNvZG5paU5LbnFRZi0tYTh2RDVpSWpyOA?oc=5\" target=\"_blank\">米テスラ７～９月期、５６％減益 ＡＩ投資重荷、ＥＶ販売は堅調</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
-                "site_name": "山陽新聞",
-                "primary_category": "Market Data",
-                "reason": "大手テスラの業績動向。市場の先行指標として重要。",
+                "id": 536531,
+                "title": "EV補助金130万円が消える!? 早ければ12月上旬に終了!! 新年度の補助金はどうなる？ (ベストカーWeb) - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYUtxRHIzQzUxcFB0TDRHTmdVNDdwdVJNTHo3SDhrRlFHV3kxMzNYVDdtUHBkTU5NYmc1QkUtcXhyMGNDVGxDZjNFVjRfaDFCMHM5dWpWWktNMFV3emo1X2xJbnR5YlFpQ3NMQUlsMTdrOWpxbVhKNGVKTkpRZzhmUUpNVUpnSm4xbmo4UW5R?oc=5",
+                "published": "Mon, 16 Nov 2026 05:43:43 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQYUtxRHIzQzUxcFB0TDRHTmdVNDdwdVJNTHo3SDhrRlFHV3kxMzNYVDdtUHBkTU5NYmc1QkUtcXhyMGNDVGxDZjNFVjRfaDFCMHM5dWpWWktNMFV3emo1X2xJbnR5YlFpQ3NMQUlsMTdrOWpxbVhKNGVKTkpRZzhmUUpNVUpnSm4xbmo4UW5R?oc=5\" target=\"_blank\">EV補助金130万円が消える!? 早ければ12月上旬に終了!! 新年度の補助金はどうなる？ (ベストカーWeb)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Policy",
+                "reason": "補助金制度の変更に関する重要な市場不確実性。",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 572593,
+                "title": "CEV補助金、年内で終了？それとも減額？ EVを取り巻く現状とは - ｄメニューニュース",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUZVlOaFQxZEtjbkhhSE9qcC1zQ2FsRzZWdVpWSlhhdjNackdBbEttN01oVi11SHd3ODAtVGs3UVZuUUVlRFZsN1dVemxpc2FsWGpDUFRGWkMySU96dFRncFdzZ3FTbkxLeXdnWERocGVEWWx20gF6QVVfeXFMTnZycUdIN3k0ckIwbi1oTFlDNGJQdGhaUkk4eVBLZE1WS0p5dm9icUpGRWNDNUI0cHR2Qml6c3N5a0hvLUlxOW1PREk2Sko2NHlCbDk0cHZ2OXJHaHk3RVRtbXowU0VDNEQ4VDZYdzZTWkJGbjdQc3BJQ1E?oc=5",
+                "published": "Mon, 16 Nov 2026 08:17:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBUZVlOaFQxZEtjbkhhSE9qcC1zQ2FsRzZWdVpWSlhhdjNackdBbEttN01oVi11SHd3ODAtVGs3UVZuUUVlRFZsN1dVemxpc2FsWGpDUFRGWkMySU96dFRncFdzZ3FTbkxLeXdnWERocGVEWWx20gF6QVVfeXFMTnZycUdIN3k0ckIwbi1oTFlDNGJQdGhaUkk4eVBLZE1WS0p5dm9icUpGRWNDNUI0cHR2Qml6c3N5a0hvLUlxOW1PREk2Sko2NHlCbDk0cHZ2OXJHaHk3RVRtbXowU0VDNEQ4VDZYdzZTWkJGbjdQc3BJQ1E?oc=5\" target=\"_blank\">CEV補助金、年内で終了？それとも減額？ EVを取り巻く現状とは</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
+                "site_name": "ｄメニューニュース",
+                "primary_category": "Policy",
+                "reason": "補助金打ち切りの懸念（再報）。",
                 "score": 70,
                 "is_highly_important": false
+            },
+            {
+                "id": 21438,
+                "title": "「EV」補助金終了へ秒読み…経産省が月内にも、懸念される反動減 - ニュースイッチ by 日刊工業新聞社",
+                "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1vME45NUpSQ0QzSVRFZ3c2YlhpRFBKSUNlQ1FBZkczS29wZ045VTBFZ0paZWxvMksxTHcyQXJ5ZEFPdw?oc=5",
+                "published": "Mon, 16 Nov 2026 21:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE1vME45NUpSQ0QzSVRFZ3c2YlhpRFBKSUNlQ1FBZkczS29wZ045VTBFZ0paZWxvMksxTHcyQXJ5ZEFPdw?oc=5\" target=\"_blank\">「EV」補助金終了へ秒読み…経産省が月内にも、懸念される反動減</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ニュースイッチ by 日刊工業新聞社</font>",
+                "site_name": "ニュースイッチ by 日刊工業新聞社",
+                "primary_category": "Policy",
+                "reason": "補助金終了の動向。",
+                "score": 75,
+                "is_highly_important": true
             }
         ],
-        "is_grouped": false,
+        "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "営業利益が56%の大幅減益となり、AIおよび人型ロボットへの先行投資が財務を圧迫した",
-                "EV販売台数は前年同期比2%減と微減にとどまり、市場の懸念に反して底堅い需要を維持した",
-                "業績は市場予想を上回り、AI企業への転換に向けた戦略的投資の正当性を株主に示唆した"
+                "EV補助金の早期枯渇と減額により、新車販売の駆け込み需要が加速し、年内にも制度の急変が迫っている。",
+                "2027年1月以降の制度変更では補助額が現行の6〜8割へ大幅圧縮され、EV購入のインセンティブが構造的に低下する。",
+                "新車EVの価格上昇・補助縮小を背景に、中古EV市場への需要流出と相場の上昇圧力が懸念される。"
             ],
-            "insight": "テスラはもはや単なるEVメーカーではなく、ハードウェアを基盤とした『AIインフラ企業』へと変貌を遂げている。56%の減益は、将来の利益率向上のための不可避なコストと市場は解釈しており、販売台数の堅調さは同社の収益構造が『製造業』から『AI/ソフトウェアサービス業』へとシフトする過渡期にあることを証明している。"
+            "insight": "EV補助金は、普及期における「カンフル剤」から、予算の硬直化による「供給制約」へと役割を変えました。補助金頼みの販売モデルは、供給側（メーカー・ディーラー）の価格決定権を歪めるだけでなく、中古市場の適正価格を毀損させています。今後は、補助金なき条件下での「実質的トータルコスト（TCO）」で勝負できる製品力が、EV普及の真の分岐点となります。"
+        }
+    },
+    {
+        "topic_name": "欧州のEV保護政策による日本車排除の懸念",
+        "article_ids": [
+            950898,
+            657972
+        ],
+        "articles": [
+            {
+                "id": 950898,
+                "title": "〈社説〉欧州のEV政策 日本車排除されぬよう - 東京新聞",
+                "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VTGVrRjgzMV9MUjY2YzYzMDMtY25lZTNRdVBVMnJEcl9lclNIZU4yUnAxb0F0di0zZ1FWMy1PRVlLbXJNZzE0bnladEZSVi15YlNV?oc=5",
+                "published": "Sun, 15 Nov 2026 22:29:06 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VTGVrRjgzMV9MUjY2YzYzMDMtY25lZTNRdVBVMnJEcl9lclNIZU4yUnAxb0F0di0zZ1FWMy1PRVlLbXJNZzE0bnladEZSVi15YlNV?oc=5\" target=\"_blank\">〈社説〉欧州のEV政策 日本車排除されぬよう</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東京新聞</font>",
+                "site_name": "東京新聞",
+                "primary_category": "Policy",
+                "reason": "欧州EV政策による日本車への影響を問う社説。",
+                "score": 75,
+                "is_highly_important": true
+            },
+            {
+                "id": 657972,
+                "title": "ＥＶ優遇、ＥＵで協議へ 日本懸念受けドイツ首相 - 山陽新聞",
+                "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fMmlsM28zay1LQU1neTVOcWhON3hfWHl2TEhaZVdZLUlNeTRQeHN0MmlOQm1UcFFVLVZUUmJBMno4YWlvOFdsLThfNmFkQ1plWENUUnZSX1I?oc=5",
+                "published": "Sun, 15 Nov 2026 22:59:21 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fMmlsM28zay1LQU1neTVOcWhON3hfWHl2TEhaZVdZLUlNeTRQeHN0MmlOQm1UcFFVLVZUUmJBMno4YWlvOFdsLThfNmFkQ1plWENUUnZSX1I?oc=5\" target=\"_blank\">ＥＶ優遇、ＥＵで協議へ 日本懸念受けドイツ首相</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
+                "site_name": "山陽新聞",
+                "primary_category": "Policy",
+                "reason": "欧州規制と日系企業の外交・政策課題。",
+                "score": 80,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "EUが検討する『産業加速法』によるEV優遇策は、域外生産車を事実上排除する強力なブロック経済化の動きである",
+                "背後には急増する中国製EVへの警戒感があり、巻き添えを食う日本企業は現地生産比率の再構築を迫られている",
+                "日本政府・産業界による外交的要請は続いているが、保護主義の潮流を覆すには抜本的なサプライチェーンの現地化が不可欠である"
+            ],
+            "insight": "これは単なる環境政策の皮を被った『通商戦』です。欧州は、中国の安価なEV攻勢を遮断するための防御壁として『欧州製』という基準を盾にしました。日系メーカーがこれまで築いてきた『輸出ベースのグローバル供給網』は今、この地政学的リスクにより瓦解の危機にあります。もはや外交交渉の範疇を超え、欧州域内での部品調達率75%という極めて高いハードルをいかに『現地投資』でクリアするか、経営判断のスピードが勝敗を分けるでしょう。"
         }
     }
 ]
