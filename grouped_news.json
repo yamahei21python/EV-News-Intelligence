@@ -1,0 +1,117 @@
+[
+    {
+        "topic_name": "経済産業省によるEV補助金の受け付け終了",
+        "article_ids": [
+            733509,
+            92680,
+            402526
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "ホンダの次世代ハイブリッドシステム搭載車展開",
+        "article_ids": [
+            621966,
+            262844
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "EVバス事業の事業譲渡（イクヨによるEVモーターズ・ジャパンの再建スポンサー選定）",
+        "article_ids": [
+            568614
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "三菱自動車など5社の充電サービス「プラグ＆チャージ」共同実証",
+        "article_ids": [
+            826237
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "米国におけるハイブリッド車シフトの加速",
+        "article_ids": [
+            305063
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "韓国政府によるEV税額控除の実施",
+        "article_ids": [
+            978914
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "EV電池スマートユーザー推進協議会の設立",
+        "article_ids": [
+            848771
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "中国自動車産業の世界展開と国内市場の動向",
+        "article_ids": [
+            688815
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "日本自動車工業会による部品共通化の表明",
+        "article_ids": [
+            49916
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "EV向け優遇措置の改定検討",
+        "article_ids": [
+            781380
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "EV用ロータシャフト市場の予測",
+        "article_ids": [
+            574369
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "自動車税制とEV新税導入に関する報道",
+        "article_ids": [
+            743665
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "中国・ASEAN間でのEV協力拡大",
+        "article_ids": [
+            387274
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "JISによる使用済みEVリチウムイオン電池の評価基準制定",
+        "article_ids": [
+            977908
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "英EUによるEV供給網強化の議論",
+        "article_ids": [
+            282592
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "欧州の2035年自動車規制緩和要求とトヨタの戦略",
+        "article_ids": [
+            108823
+        ],
+        "is_grouped": false
+    }
+]
