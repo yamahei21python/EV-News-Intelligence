@@ -1,0 +1,77 @@
+[
+    {
+        "topic_name": "日本におけるEV補助金予算枯渇による受付終了",
+        "article_ids": [
+            352558,
+            854314,
+            432286
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "韓国市場における中国製電気自動車のシェア拡大と貿易赤字",
+        "article_ids": [
+            274640,
+            316539,
+            365298,
+            398134
+        ],
+        "is_grouped": true
+    },
+    {
+        "topic_name": "中国車39カ国での販売拡大とEV攻勢",
+        "article_ids": [
+            357131
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "Terra Chargeによる住宅向けEV充電器設置",
+        "article_ids": [
+            566949
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "DHLによる中国製EV大型トラックの採用",
+        "article_ids": [
+            363147
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "タイ政府によるEV物品税引き上げ",
+        "article_ids": [
+            857837
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "三菱 ミニキャブ EV プラグ＆チャージ実証実験",
+        "article_ids": [
+            793845
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "中国政府による自動車買い換え消費振興策",
+        "article_ids": [
+            248537
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "EV充電規格の乱立と今後の展望",
+        "article_ids": [
+            810888
+        ],
+        "is_grouped": false
+    },
+    {
+        "topic_name": "EV向け輸出実績を加味した優遇措置改定検討",
+        "article_ids": [
+            781380
+        ],
+        "is_grouped": false
+    }
+]
