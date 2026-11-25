@@ -1,157 +1,74 @@
 [
     {
-        "topic_name": "EV補助金予算枯渇と今後の制度検討",
+        "topic_name": "EUのEV優遇策における日本製除外問題",
         "article_ids": [
-            138483,
-            317496
+            638846,
+            19717,
+            765998,
+            378099,
+            8890,
+            539080,
+            859435,
+            272499
         ],
         "articles": [
             {
-                "id": 138483,
-                "title": "「EV補助金」予算が“枯渇” 今年度の申請受付が終了 経産省発表 来年度の補助は「検討中」 中国「BYD」が軽EVを日本市場に初投入 本格的にシェア拡大狙う（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BS0g0bjlRVEp2a1NERlkxdGczelJKLUFkSzk3LVgwWGNheGVsaS05SmQ2dnVtOWoteUwwaXF2U2hjSmoxaTVTc1JqSmZyTHpzUzZqdmxmYTZqYXJYYmxCekE2cjdTVFNOTFQ1eVVPZElHcWlmZnBsQlhsNlVlNDg?oc=5",
-                "published": "Mon, 23 Nov 2026 08:13:06 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9BS0g0bjlRVEp2a1NERlkxdGczelJKLUFkSzk3LVgwWGNheGVsaS05SmQ2dnVtOWoteUwwaXF2U2hjSmoxaTVTc1JqSmZyTHpzUzZqdmxmYTZqYXJYYmxCekE2cjdTVFNOTFQ1eVVPZElHcWlmZnBsQlhsNlVlNDg?oc=5\" target=\"_blank\">「EV補助金」予算が“枯渇” 今年度の申請受付が終了 経産省発表 来年度の補助は「検討中」 中国「BYD」が軽EVを日本市場に初投入 本格的にシェア拡大狙う（TBS NEWS DIG Powered by JNN）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "id": 638846,
+                "title": "EUのEV優遇 修正案でも日本除外 - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5NXzJJRVc2S2tyaGhjM2drVU9YZ0swczJJWHhjSG1WYWYySXJSQXYyUm5MdDg0N3RmQWg5a1BzcUFZSlI5eF9EZ1ZSbnRTMjB6?oc=5",
+                "published": "Tue, 24 Nov 2026 12:39:02 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5NXzJJRVc2S2tyaGhjM2drVU9YZ0swczJJWHhjSG1WYWYySXJSQXYyUm5MdDg0N3RmQWg5a1BzcUFZSlI5eF9EZ1ZSbnRTMjB6?oc=5\" target=\"_blank\">EUのEV優遇 修正案でも日本除外</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
                 "site_name": "Yahoo!ニュース",
-                "primary_category": "政策",
-                "reason": "補助金終了とBYDの軽EV参入は国内市場の重要ニュース。",
+                "primary_category": "Policy",
+                "reason": "EUのEV優遇策における日本車除外は、通商上の戦略的課題。",
+                "score": 90,
+                "is_highly_important": true
+            },
+            {
+                "id": 19717,
+                "title": "EUのEV優遇、修正案でも日本製を除外 26年末に向け官民で見直し要求 - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42MGhoUGZuZDBSc1dzWWZPSDFyS19rdUVUWXZoVXJFT1V2WkVWaENFcmVXeDdZd3VFdGJYSXZ2VmpYOXA5TG9oZUR1b3lFTzR2X0ZxOXFRUEd4VnEzZGdLOVdyMk9oVFhwX3h1OA?oc=5",
+                "published": "Mon, 23 Nov 2026 22:47:22 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE42MGhoUGZuZDBSc1dzWWZPSDFyS19rdUVUWXZoVXJFT1V2WkVWaENFcmVXeDdZd3VFdGJYSXZ2VmpYOXA5TG9oZUR1b3lFTzR2X0ZxOXFRUEd4VnEzZGdLOVdyMk9oVFhwX3h1OA?oc=5\" target=\"_blank\">EUのEV優遇、修正案でも日本製を除外 26年末に向け官民で見直し要求</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "site_name": "日本経済新聞",
+                "primary_category": "Policy",
+                "reason": "EUの優遇策除外に対する官民の対応は重要トピック。",
+                "score": 88,
+                "is_highly_important": true
+            },
+            {
+                "id": 765998,
+                "title": "【速報】欧州製EV優遇策案、日本製除外を維持 - 47NEWS",
+                "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE45MEQwZ3RSZUt0Yk5zdk5XS1JGQ1hjT2poQ2RDaXprcmRuVnlpTnk0SWtndHpUWDB1VHY2TjlVXzZDZXBrSldDS0VvRQ?oc=5",
+                "published": "Tue, 24 Nov 2026 11:01:18 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE45MEQwZ3RSZUt0Yk5zdk5XS1JGQ1hjT2poQ2RDaXprcmRuVnlpTnk0SWtndHpUWDB1VHY2TjlVXzZDZXBrSldDS0VvRQ?oc=5\" target=\"_blank\">【速報】欧州製EV優遇策案、日本製除外を維持</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">47NEWS</font>",
+                "site_name": "47NEWS",
+                "primary_category": "Policy",
+                "reason": "EUの優遇策除外の継続は貿易障壁として重要性が高い。",
                 "score": 85,
                 "is_highly_important": true
             },
             {
-                "id": 317496,
-                "title": "【日本】経産省、EV補助金「CEV」を予算満了で終了。国内で需要急増。来年制度に焦点 | Sustainable Japan | 世界のサステナビリティ・ESG投資・SDGs - Sustainable Japan",
-                "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TVlFpT3VaOE9aUVdPXy1waWNBWFIxVmd3UDlId0pUZUEwaFRpNGlkUk1Ydm8xdi1vV0JFNGhXTjF6ZjAzbkhDM05aWk5iZkRuVXBHTXUySXpMeUpOczhBcWt4TdIBaEFVX3lxTE4wa3BmcE9wWk5WVmo5S241enZzemVITjZQeElTUU5vZjh2bFRlRk9DSEgxWHdQVVRNWnRXd0VTYXBzWXZYekxpS3FyazhuRmFZRG11Mnh0MWxNUzRzRDJ6S0pqbk1jS09m?oc=5",
-                "published": "Mon, 23 Nov 2026 22:49:23 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TVlFpT3VaOE9aUVdPXy1waWNBWFIxVmd3UDlId0pUZUEwaFRpNGlkUk1Ydm8xdi1vV0JFNGhXTjF6ZjAzbkhDM05aWk5iZkRuVXBHTXUySXpMeUpOczhBcWt4TdIBaEFVX3lxTE4wa3BmcE9wWk5WVmo5S241enZzemVITjZQeElTUU5vZjh2bFRlRk9DSEgxWHdQVVRNWnRXd0VTYXBzWXZYekxpS3FyazhuRmFZRG11Mnh0MWxNUzRzRDJ6S0pqbk1jS09m?oc=5\" target=\"_blank\">【日本】経産省、EV補助金「CEV」を予算満了で終了。国内で需要急増。来年制度に焦点 | Sustainable Japan | 世界のサステナビリティ・ESG投資・SDGs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sustainable Japan</font>",
-                "site_name": "Sustainable Japan",
-                "primary_category": "政策",
-                "reason": "補助金制度の総括と今後への関心。",
-                "score": 75,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "EV購入補助金（CEV）が予算枯渇により年度途中で受付終了、政府の需要予測と市場実態に乖離が発生",
-                "補助金依存度の高い市場構造において、2027年からの補助額縮小方針と相まって国内EV普及戦略が転換期に",
-                "BYDなど中国勢が日本市場（特に軽EV）へ本格参入し、既存メーカーとの競争激化が鮮明化"
-            ],
-            "insight": "今回の補助金枯渇は、EV市場が「普及期」へ移行する過渡期特有の痛みを露呈しました。日本勢が守勢に回る中、補助金という官製需要が途切れたことで、今後は「補助金なしでも選ばれる製品力」と「中国勢の価格・供給競争力」との直接対決が始まります。次年度の制度設計においては、単なる台数補助から、充電インフラの拡充や走行環境整備といった『車両の利便性向上』へ資源をシフトさせるべき時です。市場は既に『補助金前提の購入』から『実用的な移動手段としての選択』へ移り変わっています。"
-        }
-    },
-    {
-        "topic_name": "中国製EVの韓国市場シェア拡大と貿易赤字",
-        "article_ids": [
-            365298,
-            713259,
-            426784,
-            398134,
-            922606,
-            310536
-        ],
-        "articles": [
-            {
-                "id": 426784,
-                "title": "現代自が高級車で初のHV、北米に2車種 EV戦略を修正 - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tQ2V3Y21EWFlQSkxRcVQ4YzlRUXpNal9QVnRFeGtoWmRIT1ZUVnE3ZG5wenhSc0lqMDUxMU5mRWd2UGtNd0poV1VOWGJEU1prSEdPT0RkYV95X0VaSWs1eXZPUGxUZTlmbnNKLUc0ZHZLdE1OVm9UOHFiRlkxSVU?oc=5",
-                "published": "Mon, 23 Nov 2026 20:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE0tQ2V3Y21EWFlQSkxRcVQ4YzlRUXpNal9QVnRFeGtoWmRIT1ZUVnE3ZG5wenhSc0lqMDUxMU5mRWd2UGtNd0poV1VOWGJEU1prSEdPT0RkYV95X0VaSWs1eXZPUGxUZTlmbnNKLUc0ZHZLdE1OVm9UOHFiRlkxSVU?oc=5\" target=\"_blank\">現代自が高級車で初のHV、北米に2車種 EV戦略を修正</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-                "site_name": "日本経済新聞",
-                "primary_category": "戦略的提携",
-                "reason": "現代自のEV戦略修正とハイブリッド車導入は業界の潮流。",
+                "id": 378099,
+                "title": "EUのEV優遇策、日本車なお除外 議長国修正案は部品に配慮 - BigGo ファイナンス",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mM2M2VWo1bmJHY3RPVE5Ua0VRT2VYNGpFcU9QQ242bjZnNGlvNGJZWlBjeTk5SXAwdkxJaTgzODUzbll2Y1ByU0hsMENNVGU1NlVVc0l3eW9DM3dPWk1TMzRmOUtuVTJkRWtRVUdlUHJnbGJy?oc=5",
+                "published": "Tue, 24 Nov 2026 11:55:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9mM2M2VWo1bmJHY3RPVE5Ua0VRT2VYNGpFcU9QQ242bjZnNGlvNGJZWlBjeTk5SXAwdkxJaTgzODUzbll2Y1ByU0hsMENNVGU1NlVVc0l3eW9DM3dPWk1TMzRmOUtuVTJkRWtRVUdlUHJnbGJy?oc=5\" target=\"_blank\">EUのEV優遇策、日本車なお除外 議長国修正案は部品に配慮</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+                "site_name": "BigGo ファイナンス",
+                "primary_category": "Policy",
+                "reason": "EU議長国の部品考慮案は、サプライチェーン交渉の重要局面。",
                 "score": 80,
                 "is_highly_important": true
             },
             {
-                "id": 365298,
-                "title": "中国製ＥＶが韓国市場で急伸、手をこまねけば国内市場を奪われる - 동아일보",
-                "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kaFB4eVBvMkM4VDBlaW5sNnVDU3V6MVBTZUdzZklCaGZOUVZjbS1TMVdZLWU0QlQ4VTFEZWtSSGVlWGVNRDZJb3Y2M0p3VVBUbnNtVlBsU2pjdzVhSGsyLTBiYlBFQQ?oc=5",
-                "published": "Sun, 22 Nov 2026 23:34:10 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kaFB4eVBvMkM4VDBlaW5sNnVDU3V6MVBTZUdzZklCaGZOUVZjbS1TMVdZLWU0QlQ4VTFEZWtSSGVlWGVNRDZJb3Y2M0p3VVBUbnNtVlBsU2pjdzVhSGsyLTBiYlBFQQ?oc=5\" target=\"_blank\">中国製ＥＶが韓国市場で急伸、手をこまねけば国内市場を奪われる</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">동아일보</font>",
-                "site_name": "동아일보",
-                "primary_category": "戦略的提携",
-                "reason": "中国製EVのシェア拡大は地政学的な重要市場トレンド。",
-                "score": 75,
-                "is_highly_important": true
-            },
-            {
-                "id": 713259,
-                "title": "韓国で中国製テスラ車が人気、中国との自動車貿易の赤字が過去最高に―海外メディア - Infoseek",
-                "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nT1NvZ19QeEU3VWFlaV9EUkh3OXdlMGxjSGdvcWhMWlpWYVlHakJ4THZaSUtjLU1GUC1PdllrOF80SXNSZ3dLSURkQ3pkMzhBcjlkaHV5eVFDWmlBZThNN1BBOWEwejV6bmc?oc=5",
-                "published": "Mon, 23 Nov 2026 03:00:01 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9nT1NvZ19QeEU3VWFlaV9EUkh3OXdlMGxjSGdvcWhMWlpWYVlHakJ4THZaSUtjLU1GUC1PdllrOF80SXNSZ3dLSURkQ3pkMzhBcjlkaHV5eVFDWmlBZThNN1BBOWEwejV6bmc?oc=5\" target=\"_blank\">韓国で中国製テスラ車が人気、中国との自動車貿易の赤字が過去最高に―海外メディア</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
-                "site_name": "Infoseek",
-                "primary_category": "戦略的提携",
-                "reason": "中国製EVの輸入拡大と国際収支への影響。",
-                "score": 75,
-                "is_highly_important": true
-            },
-            {
-                "id": 398134,
-                "title": "韓国は関税が低い…シェア拡大する「中国製格安電気自動車」 - Infoseek",
-                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TSnBaSHFqWERqUjRqRDhtbFlpTXpyblo4Q0s1TmhWd05sbWVFbXJ3MW83enAtUkYtdlY0OXByeWtCazE5VFllN2pud0JKbkJWWG9NbGdTOWFXX21vQVZkNjFtcWxnZVHSAWxBVV95cUxNUmV3MTNzYW1ZYmpTVGRTR3pGZTlzQ0F4RWJoQWtwMUVUYndqZmxPOVVhT3FfUzNKN2ZzaExmTk1razdhWThEemFkeW5FR296YjJHZmFRZVF0U1hZUEpQWFZoazBqOTNleXM2NmY?oc=5",
-                "published": "Sun, 22 Nov 2026 23:05:06 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TSnBaSHFqWERqUjRqRDhtbFlpTXpyblo4Q0s1TmhWd05sbWVFbXJ3MW83enAtUkYtdlY0OXByeWtCazE5VFllN2pud0JKbkJWWG9NbGdTOWFXX21vQVZkNjFtcWxnZVHSAWxBVV95cUxNUmV3MTNzYW1ZYmpTVGRTR3pGZTlzQ0F4RWJoQWtwMUVUYndqZmxPOVVhT3FfUzNKN2ZzaExmTk1razdhWThEemFkeW5FR296YjJHZmFRZVF0U1hZUEpQWFZoazBqOTNleXM2NmY?oc=5\" target=\"_blank\">韓国は関税が低い…シェア拡大する「中国製格安電気自動車」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
-                "site_name": "Infoseek",
-                "primary_category": "戦略的提携",
-                "reason": "関税環境下での市場奪還競争。",
-                "score": 70,
-                "is_highly_important": true
-            },
-            {
-                "id": 310536,
-                "title": "韓国、中国製テスラとＢＹＤ輸入増、輸出は「急減」…大衆車は赤字４２億ドル : 経済 - ハンギョレ新聞",
-                "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MMmFpUnRETmZReEQ2WXR2UTZyUEtsWTgzOWtiUE9JclpDM0pMb3R4OUZOZ0VLWEtzTXROMV9CY2NaTThGR2MzMS0yMzBQVlUzRXNKVTdtX0VoUmc0?oc=5",
-                "published": "Mon, 23 Nov 2026 22:50:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MMmFpUnRETmZReEQ2WXR2UTZyUEtsWTgzOWtiUE9JclpDM0pMb3R4OUZOZ0VLWEtzTXROMV9CY2NaTThGR2MzMS0yMzBQVlUzRXNKVTdtX0VoUmc0?oc=5\" target=\"_blank\">韓国、中国製テスラとＢＹＤ輸入増、輸出は「急減」…大衆車は赤字４２億ドル : 経済</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ハンギョレ新聞</font>",
-                "site_name": "ハンギョレ新聞",
-                "primary_category": "戦略的提携",
-                "reason": "輸入車販売の市場動向。国際貿易の対比。",
-                "score": 75,
-                "is_highly_important": true
-            },
-            {
-                "id": 922606,
-                "title": "テスラが韓国の輸入車販売で9カ月連続トップ、大多数が上海工場製―中国メディア - Excite エキサイト",
-                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iOWo1QTQxMzkycmJfTGphZTBZTkhqVmo4YlJDZ251dWJ4Tnpyb0daT0hJQ1cySnRoVVBlRlJNQk5Hd0pGZG84Qkc4bEM3Yy1acThSaWhzZE9XRzdrY1RhNm5DYy1tRFU?oc=5",
-                "published": "Mon, 23 Nov 2026 21:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iOWo1QTQxMzkycmJfTGphZTBZTkhqVmo4YlJDZ251dWJ4Tnpyb0daT0hJQ1cySnRoVVBlRlJNQk5Hd0pGZG84Qkc4bEM3Yy1acThSaWhzZE9XRzdrY1RhNm5DYy1tRFU?oc=5\" target=\"_blank\">テスラが韓国の輸入車販売で9カ月連続トップ、大多数が上海工場製―中国メディア</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Excite エキサイト</font>",
-                "site_name": "Excite エキサイト",
-                "primary_category": "戦略的提携",
-                "reason": "中国製EVのシェアに関する市場レポート。",
-                "score": 75,
-                "is_highly_important": true
-            }
-        ],
-        "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "韓国EV市場における中国製車両のシェアが4年で1.1%から33.9%へ急拡大し、自国生産基盤を持つ国の中で最も深刻な浸食が進んでいる。",
-                "対中自動車貿易赤字が過去最大の42億ドルを突破。テスラの上海工場製車両の流入がこの赤字拡大を主導する構造となっている。",
-                "他国のような強力な関税障壁や保護策を持たない韓国は、価格競争力に勝る中国勢に対しなす術がなく、EVシフト戦略の根本的な修正を迫られている。"
-            ],
-            "insight": "韓国の現状は、単なる「安価な中国EVの流入」ではなく、テスラのグローバルSCM（上海拠点）を中国製と看做すか否かで揺れる、経済安全保障の急所を突かれた形だ。現代自がハイブリッド車（HV）への回帰を急ぐ動きは、EV一本足打法の限界と中国への防衛力を失った韓国市場の厳しい現実を物語っている。"
-        }
-    },
-    {
-        "topic_name": "EUのEV優遇策からの日本製除外問題",
-        "article_ids": [
-            614730,
-            539080,
-            19717
-        ],
-        "articles": [
-            {
-                "id": 614730,
-                "title": "官房長官「不利益生じる可能性」 日本製EVの優遇除外に懸念（毎日新聞） - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OdW1lWlBqVE5NSjBtOWh4MWFWMXIwYkNLVTQ5bXNzaFhNS1FGTXBJR1NRaWpwLS1hMC1rWi1RYVlmUnIySWloSjlMMkJHaG1oR20zUW8ybUF5dUFSd2xQYURDQk1DRE1Wd0RpSjFEZHVvcEZWVlNsUTdWbzA3dzA?oc=5",
-                "published": "Tue, 24 Nov 2026 02:49:53 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9OdW1lWlBqVE5NSjBtOWh4MWFWMXIwYkNLVTQ5bXNzaFhNS1FGTXBJR1NRaWpwLS1hMC1rWi1RYVlmUnIySWloSjlMMkJHaG1oR20zUW8ybUF5dUFSd2xQYURDQk1DRE1Wd0RpSjFEZHVvcEZWVlNsUTdWbzA3dzA?oc=5\" target=\"_blank\">官房長官「不利益生じる可能性」 日本製EVの優遇除外に懸念（毎日新聞）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "id": 8890,
+                "title": "欧州EV優遇策、日本除外 EU議長国修正案も維持（共同通信） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVVTk0MDVMTFY5bnFzOVNsV0xhQ05JaXFNSldRbnRRZFFsTFpRVTF1UEwtT1VieVJ4aWZOWHhsb3MyUXpvU040VU5mTkdtOXZ5UU9GRi1wSHpmaTVXcllpX2NnQ2ZUeEpzeW5WenhDSkl4Q3d5cWZHVnJtNXdpRm8?oc=5",
+                "published": "Tue, 24 Nov 2026 11:40:16 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBVVTk0MDVMTFY5bnFzOVNsV0xhQ05JaXFNSldRbnRRZFFsTFpRVTF1UEwtT1VieVJ4aWZOWHhsb3MyUXpvU040VU5mTkdtOXZ5UU9GRi1wSHpmaTVXcllpX2NnQ2ZUeEpzeW5WenhDSkl4Q3d5cWZHVnJtNXdpRm8?oc=5\" target=\"_blank\">欧州EV優遇策、日本除外 EU議長国修正案も維持（共同通信）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
                 "site_name": "Yahoo!ニュース",
-                "primary_category": "政策",
-                "reason": "政府による貿易不利益への懸念。外交的・経済的。",
+                "primary_category": "Policy",
+                "reason": "EUの優遇策除外の維持は重要貿易ニュース。",
                 "score": 85,
                 "is_highly_important": true
             },
@@ -162,74 +79,624 @@
                 "published": "Tue, 24 Nov 2026 02:48:18 GMT",
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5nMWk3T1Fhb2VXNGlOZ2F6YnVKVi1pNE0tU0ZOTVc2WEpSenlVejM3aGNtZFdhb1NCS1Z5WTJDMzdJNlYyeC1XRGhOZUQwR2tOVHMxd3J0b01lTmZpWnB2cU5vV0hOejg0UlhLcw?oc=5\" target=\"_blank\">日本製EV「EU製と同等扱いを」 経産相、優遇策の除外案受け</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
                 "site_name": "日本経済新聞",
-                "primary_category": "政策",
-                "reason": "貿易摩擦の回避要請。公的動向。",
+                "primary_category": "Policy",
+                "reason": "経産省によるEUへの公式な見直し要求は戦略的重要性が高い。",
                 "score": 85,
                 "is_highly_important": true
             },
             {
-                "id": 19717,
-                "title": "EUのEV優遇、修正案でも日本製を除外 26年末に向け官民で見直し要求 - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42MGhoUGZuZDBSc1dzWWZPSDFyS19rdUVUWXZoVXJFT1V2WkVWaENFcmVXeDdZd3VFdGJYSXZ2VmpYOXA5TG9oZUR1b3lFTzR2X0ZxOXFRUEd4VnEzZGdLOVdyMk9oVFhwX3h1OA?oc=5",
-                "published": "Mon, 23 Nov 2026 22:47:22 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE42MGhoUGZuZDBSc1dzWWZPSDFyS19rdUVUWXZoVXJFT1V2WkVWaENFcmVXeDdZd3VFdGJYSXZ2VmpYOXA5TG9oZUR1b3lFTzR2X0ZxOXFRUEd4VnEzZGdLOVdyMk9oVFhwX3h1OA?oc=5\" target=\"_blank\">EUのEV優遇、修正案でも日本製を除外 26年末に向け官民で見直し要求</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-                "site_name": "日本経済新聞",
-                "primary_category": "政策",
-                "reason": "貿易政策と官民連携の対応。戦略的重要性高。",
+                "id": 859435,
+                "title": "EUの「メイド・イン・ヨーロッパ」推進合意に日本の自動車業界も衝撃 - クーリエ・ジャポン",
+                "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5dkN4dk9Db1E2YWNEV1JRWS14bjBqajBGQXFFQ054OTZRbHZEbkVjTUlzWWtjaTIyTi1wcmdRZkhFa3JyMWRwRHZ6d01PdTBaSTBv?oc=5",
+                "published": "Tue, 24 Nov 2026 12:53:14 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5dkN4dk9Db1E2YWNEV1JRWS14bjBqajBGQXFFQ054OTZRbHZEbkVjTUlzWWtjaTIyTi1wcmdRZkhFa3JyMWRwRHZ6d01PdTBaSTBv?oc=5\" target=\"_blank\">EUの「メイド・イン・ヨーロッパ」推進合意に日本の自動車業界も衝撃</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">クーリエ・ジャポン</font>",
+                "site_name": "クーリエ・ジャポン",
+                "primary_category": "Policy",
+                "reason": "EU推進合意に対する自動車業界の衝撃は戦略的な対外関係を表す。",
+                "score": 80,
+                "is_highly_important": true
+            },
+            {
+                "id": 272499,
+                "title": "官房長官「不利益生じる可能性」　日本製EVの優遇除外に懸念 - ｄメニューニュース",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLUNmMWhNRFZwN3V4QVJxU3owVUhPdnYtRzBkLW5mdTNNZ1BOa1NDa3NibFg0Z2V3YzB4aGdQOThEWTY4MDhTUlhSTVZXaXFxcHlpQXRqMGczS295QWI0VXNIdU5hZnVNblBoeDVVcHA5R1FqYXlMbmkycmFFcVBZZDdrWG1yMEtBT3JoNjFheWlJWmN2QkHSAZsBQVVfeXFMTUl0VGZMUDFFS25GTHVVVGloTU5OazhnbmdlLS01YUFoM3Ffb1RSd0F1RnFCbVNRTzNlN1hPM3hUWHZGSVlTVlNVbXlNNUJESGVMSllmbmZ3RWVjeU1kZktILW9sZHYxSGFRZ1hWaGxaN2U3UFBXZHBVbFQwUmM3RFlteF9lWWJuaWhJeEctcm1QNURZd0ZzZXd5NEE?oc=5",
+                "published": "Tue, 24 Nov 2026 02:49:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOLUNmMWhNRFZwN3V4QVJxU3owVUhPdnYtRzBkLW5mdTNNZ1BOa1NDa3NibFg0Z2V3YzB4aGdQOThEWTY4MDhTUlhSTVZXaXFxcHlpQXRqMGczS295QWI0VXNIdU5hZnVNblBoeDVVcHA5R1FqYXlMbmkycmFFcVBZZDdrWG1yMEtBT3JoNjFheWlJWmN2QkHSAZsBQVVfeXFMTUl0VGZMUDFFS25GTHVVVGloTU5OazhnbmdlLS01YUFoM3Ffb1RSd0F1RnFCbVNRTzNlN1hPM3hUWHZGSVlTVlNVbXlNNUJESGVMSllmbmZ3RWVjeU1kZktILW9sZHYxSGFRZ1hWaGxaN2U3UFBXZHBVbFQwUmM3RFlteF9lWWJuaWhJeEctcm1QNURZd0ZzZXd5NEE?oc=5\" target=\"_blank\">官房長官「不利益生じる可能性」　日本製EVの優遇除外に懸念</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>",
+                "site_name": "ｄメニューニュース",
+                "primary_category": "Policy",
+                "reason": "政府側の懸念表明であり、対EU交渉の重要性が高まる。",
                 "score": 85,
                 "is_highly_important": true
             }
         ],
         "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "EUの産業促進法案（IAA）における日本製EVの優遇措置除外が、修正案でも維持され深刻化。",
-                "EU域内での生産・組み立てを補助金の必須条件とする保護主義的な囲い込みが鮮明に。",
-                "日本政府は交渉による打開を試みるが、独仏を中心とした地産地消戦略の壁は極めて高い。"
-            ],
-            "insight": "これは単なる通商摩擦ではなく、欧州の脱炭素シフトを盾にした『産業基盤の強制移転』です。欧州版軽EV規格『M1E』への対応を急ぐべきであり、既存のグローバル供給網の維持に固執するフェーズは終わりました。日産やスズキのように、現地生産拠点への投資で『Made in EU』のカードを確保しなければ、欧州市場での競争力は致命的に喪失します。"
-        }
+        "analysis": [
+            {
+                "summary_points": [
+                    "EUの産業促進法（IAA）におけるEV優遇措置から、日本を含む域外生産車が継続して除外される方針が確定",
+                    "「域内組み立て」を原則としつつ、域外調達部品の利用には条件付きで欧州製と同等の扱いを認める妥協案を提示",
+                    "日本メーカーは欧州内での現地生産強化や、軽EVカテゴリーへのシフトによるルールメイキングへの関与が急務"
+                ],
+                "insight": "今回の除外は単なる保護主義ではなく、EUによる「サプライチェーンの域内囲い込み」の帰結です。日本製EVが排除される一方、現地組立の条件緩和で部品供給網を維持しようとするEUのしたたかさが見えます。日本メーカーは完成車輸出モデルを捨て、欧州版軽規格『M1E』を軸とした現地生産への転換を加速させなければ、欧州市場での価格競争力喪失は避けられません。"
+            }
+        ]
     },
     {
-        "topic_name": "BYDの軽EV日本市場投入",
+        "topic_name": "欧州の10月新車販売におけるEV伸長と中国メーカーの躍進",
         "article_ids": [
-            138483,
-            668015
+            507410,
+            558660,
+            911044,
+            162372,
+            920781,
+            314552,
+            334127
         ],
         "articles": [
             {
-                "id": 138483,
-                "title": "「EV補助金」予算が“枯渇” 今年度の申請受付が終了 経産省発表 来年度の補助は「検討中」 中国「BYD」が軽EVを日本市場に初投入 本格的にシェア拡大狙う（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BS0g0bjlRVEp2a1NERlkxdGczelJKLUFkSzk3LVgwWGNheGVsaS05SmQ2dnVtOWoteUwwaXF2U2hjSmoxaTVTc1JqSmZyTHpzUzZqdmxmYTZqYXJYYmxCekE2cjdTVFNOTFQ1eVVPZElHcWlmZnBsQlhsNlVlNDg?oc=5",
-                "published": "Mon, 23 Nov 2026 08:13:06 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9BS0g0bjlRVEp2a1NERlkxdGczelJKLUFkSzk3LVgwWGNheGVsaS05SmQ2dnVtOWoteUwwaXF2U2hjSmoxaTVTc1JqSmZyTHpzUzZqdmxmYTZqYXJYYmxCekE2cjdTVFNOTFQ1eVVPZElHcWlmZnBsQlhsNlVlNDg?oc=5\" target=\"_blank\">「EV補助金」予算が“枯渇” 今年度の申請受付が終了 経産省発表 来年度の補助は「検討中」 中国「BYD」が軽EVを日本市場に初投入 本格的にシェア拡大狙う（TBS NEWS DIG Powered by JNN）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "id": 507410,
+                "title": "欧州10月EV販売、英仏独でHV上回る: 3カ国同時は初めて - オルタナ",
+                "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1EazBiODEtQW91dkM3WUloZG1ZU2tpLTVvQW1RcU02UE9DSXBSZFU1U2h4XzhjdzJ2UXJFWFlWTFE4d2NuRWotVg?oc=5",
+                "published": "Tue, 24 Nov 2026 12:36:17 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1EazBiODEtQW91dkM3WUloZG1ZU2tpLTVvQW1RcU02UE9DSXBSZFU1U2h4XzhjdzJ2UXJFWFlWTFE4d2NuRWotVg?oc=5\" target=\"_blank\">欧州10月EV販売、英仏独でHV上回る: 3カ国同時は初めて</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">オルタナ</font>",
+                "site_name": "オルタナ",
+                "primary_category": "Market",
+                "reason": "主要欧州市場でEVがHVを上回ったデータは市場転換点を示す。",
+                "score": 75,
+                "is_highly_important": true
+            },
+            {
+                "id": 558660,
+                "title": "欧州10月のEV販売は1.5倍 BYDが2.2倍と中国車伸長、VWは8%減 - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xWFIxVjVLMWNKZlVLNDAxVzl2Sm80UFVUMHpYQ0wxUzRhbEU3U1kwMTdGTkI3QlZXS1dGLTVGT1N0VGlhLVpYeDB3UHItM2xEMlB6SUdpWUNlTnJPTjlzNDNxYmkxOG1lMi1VRw?oc=5",
+                "published": "Tue, 24 Nov 2026 07:53:07 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5xWFIxVjVLMWNKZlVLNDAxVzl2Sm80UFVUMHpYQ0wxUzRhbEU3U1kwMTdGTkI3QlZXS1dGLTVGT1N0VGlhLVpYeDB3UHItM2xEMlB6SUdpWUNlTnJPTjlzNDNxYmkxOG1lMi1VRw?oc=5\" target=\"_blank\">欧州10月のEV販売は1.5倍 BYDが2.2倍と中国車伸長、VWは8%減</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "site_name": "日本経済新聞",
+                "primary_category": "Market",
+                "reason": "BYDの伸長とVWの苦戦は欧州市場の競争環境の変化を象徴。",
+                "score": 70,
+                "is_highly_important": false
+            },
+            {
+                "id": 911044,
+                "title": "［集計速報］欧州の10月EV販売、英仏独でハイブリッド車上回る: 3カ国そろい踏みは初めて（オルタナ） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0bkF6ZjhkcWJpalZQTk5tSnIzbHRiQy1iYWNpRUlZTEk5eVFsS3lOb1B2TTIyTE1va2hITElUU0xzVHp2bFJHbjJFdUNWbERCSjVBRVVIYy01UUJvdHRpN21JU2JILWw2TkVldmNzY3JIRkJZaUZPSDhaTTZtaVk?oc=5",
+                "published": "Tue, 24 Nov 2026 12:45:41 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFA0bkF6ZjhkcWJpalZQTk5tSnIzbHRiQy1iYWNpRUlZTEk5eVFsS3lOb1B2TTIyTE1va2hITElUU0xzVHp2bFJHbjJFdUNWbERCSjVBRVVIYy01UUJvdHRpN21JU2JILWw2TkVldmNzY3JIRkJZaUZPSDhaTTZtaVk?oc=5\" target=\"_blank\">［集計速報］欧州の10月EV販売、英仏独でハイブリッド車上回る: 3カ国そろい踏みは初めて（オルタナ）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
                 "site_name": "Yahoo!ニュース",
-                "primary_category": "政策",
-                "reason": "補助金終了とBYDの軽EV参入は国内市場の重要ニュース。",
+                "primary_category": "Market",
+                "reason": "欧州販売データとして信頼性が高く市場トレンドを正確に反映。",
+                "score": 75,
+                "is_highly_important": false
+            },
+            {
+                "id": 162372,
+                "title": "欧州新車登録台数、10月に3.4%増―EVとハイブリッドが市場をリード - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+                "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBabW1Nck9LdFJNY3QwckpJSzltbWkzOEs5dW40ZFQxN2Zsb290M282bEdPOEpHb3NRTzFPVlQtdEQzazFTVDlSMUJsM2RRWEZ5RzVwM25pMlF4ZDhLR0Z6Z2d3aWFNUnBaY29xQkZ1YXM?oc=5",
+                "published": "Tue, 24 Nov 2026 05:23:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBabW1Nck9LdFJNY3QwckpJSzltbWkzOEs5dW40ZFQxN2Zsb290M282bEdPOEpHb3NRTzFPVlQtdEQzazFTVDlSMUJsM2RRWEZ5RzVwM25pMlF4ZDhLR0Z6Z2d3aWFNUnBaY29xQkZ1YXM?oc=5\" target=\"_blank\">欧州新車登録台数、10月に3.4%増―EVとハイブリッドが市場をリード</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</font>",
+                "site_name": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+                "primary_category": "Market",
+                "reason": "欧州市場の販売推移データ。重要指標である。",
+                "score": 70,
+                "is_highly_important": false
+            },
+            {
+                "id": 920781,
+                "title": "10月の欧州新車販売、EV6割増 中国勢が急伸、欧州大手は苦戦（時事通信） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2VzAxXzZBd2hycllZVkItWWM3elRQQ19MNmtDU0xBZlZTaUJJZHFIVDc4elkxLUpKWVhCT1o3akxrejVJVWZQVE1fcGQ3YWpwbC1ZNjBtY3BBZ0pDVll5SUdzTDhHQUw3OVA1OFBrdGlWMVZybXlKNlpnZm9aU0E?oc=5",
+                "published": "Tue, 24 Nov 2026 05:28:41 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFA2VzAxXzZBd2hycllZVkItWWM3elRQQ19MNmtDU0xBZlZTaUJJZHFIVDc4elkxLUpKWVhCT1o3akxrejVJVWZQVE1fcGQ3YWpwbC1ZNjBtY3BBZ0pDVll5SUdzTDhHQUw3OVA1OFBrdGlWMVZybXlKNlpnZm9aU0E?oc=5\" target=\"_blank\">10月の欧州新車販売、EV6割増 中国勢が急伸、欧州大手は苦戦（時事通信）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Market",
+                "reason": "欧州市場でのEV急増と欧州メーカー苦戦の構造変化を解説。",
+                "score": 70,
+                "is_highly_important": false
+            },
+            {
+                "id": 314552,
+                "title": "欧州10月新車登録3.4%増、中国車メーカー市占率14.8%に急上昇 フォルクスワーゲン・ルノー・Stellantisはそろって後退 - BigGo ファイナンス",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yZEFTR2t3eGYxZmtfSkNGcUVLOFBVcWhXYjZvOVNDR2ZORlpXcFRuWDVrb1V4NC13bGhuTGpHamV2ZlBiQTByTENlaXVPQnF2QVF0NmV4WXZGbU9IRFdrRDM5S0RCTDJDWGY4T3FFX2pfX1hU?oc=5",
+                "published": "Tue, 24 Nov 2026 06:26:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE0yZEFTR2t3eGYxZmtfSkNGcUVLOFBVcWhXYjZvOVNDR2ZORlpXcFRuWDVrb1V4NC13bGhuTGpHamV2ZlBiQTByTENlaXVPQnF2QVF0NmV4WXZGbU9IRFdrRDM5S0RCTDJDWGY4T3FFX2pfX1hU?oc=5\" target=\"_blank\">欧州10月新車登録3.4%増、中国車メーカー市占率14.8%に急上昇 フォルクスワーゲン・ルノー・Stellantisはそろって後退</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+                "site_name": "BigGo ファイナンス",
+                "primary_category": "Market",
+                "reason": "中国メーカーのシェア急伸を分析した重要データ。",
+                "score": 70,
+                "is_highly_important": false
+            },
+            {
+                "id": 334127,
+                "title": "2026年10月の欧州新車販売、9カ月連続プラス HV伸び悩みも中国勢躍進でEV1.5倍 欧州自動車工業会 (日刊自動車新聞) - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV1JJY3I2U0hoZldJRF9uUjFWRlpxZjlyald4eV9IeW5Pc0N5NmpTUjFNeHp3Z3ZiNWlwLTViMzl6TkV1b1ppSS1QRzB0dkh5TTJwcXk1eEUwTG5VdWtVTThLUUdDZjhPMlpudm5vdjcyNlIyaTAtQ0ZWZnd6cGFEQzA3VUFselJnUDNVOUlB?oc=5",
+                "published": "Tue, 24 Nov 2026 23:05:34 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNV1JJY3I2U0hoZldJRF9uUjFWRlpxZjlyald4eV9IeW5Pc0N5NmpTUjFNeHp3Z3ZiNWlwLTViMzl6TkV1b1ppSS1QRzB0dkh5TTJwcXk1eEUwTG5VdWtVTThLUUdDZjhPMlpudm5vdjcyNlIyaTAtQ0ZWZnd6cGFEQzA3VUFselJnUDNVOUlB?oc=5\" target=\"_blank\">2026年10月の欧州新車販売、9カ月連続プラス HV伸び悩みも中国勢躍進でEV1.5倍 欧州自動車工業会 (日刊自動車新聞)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Market",
+                "reason": "欧州の販売統計とメーカー別動向に関する詳細レポート。",
+                "score": 75,
+                "is_highly_important": false
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "欧州主要3カ国（英仏独）で初のBEV販売がHVを上回り、市場の主導権が完全に電動車へシフトした",
+                "欧州伝統メーカー（VW、ルノー、Stellantis）が軒並み販売減とシェア低下に陥り、収益性の低いBEVへの転換で苦境が深化している",
+                "中国勢（BYD、奇瑞など）の欧州シェアが14.8%まで急拡大し、価格競争力を武器に伝統メーカーのエントリーモデル市場を浸食している"
+            ],
+            "insight": "欧州市場は「電動化」という不可逆な潮流の中で、収益性の低いBEV転換に喘ぐ伝統メーカーと、低価格EVでシェアを奪う中国勢の逆転劇が加速している。販売台数は伸びるが利益は削られるという『電動化のジレンマ』を欧州メーカーが抱える中、中国車メーカーは単なる代替品ではなく、実需を飲み込む『価格支配の脅威』へと変貌を遂げた。"
+        }
+    },
+    {
+        "topic_name": "日本国内のEV補助金（CEV）予算満了と制度見直し",
+        "article_ids": [
+            855931,
+            676321,
+            317496,
+            922947,
+            201732,
+            366349
+        ],
+        "articles": [
+            {
+                "id": 855931,
+                "title": "「令和7年度補正CEV補助金」11月20日到着分で申請受付終了 - Car Watch",
+                "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DdnVZcjNhRFZ1R28yWkRtSWItaGhnRkJPNVQ1Zk1rd2xhdUZKWUtaRUIyYmtnbHRXQlZRbFZaOXB0WEdlOW02Wm9QRXBvc25LMDQ1aWtKYU4tdDVsSlgzVHNBT0M?oc=5",
+                "published": "Tue, 24 Nov 2026 03:22:01 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DdnVZcjNhRFZ1R28yWkRtSWItaGhnRkJPNVQ1Zk1rd2xhdUZKWUtaRUIyYmtnbHRXQlZRbFZaOXB0WEdlOW02Wm9QRXBvc25LMDQ1aWtKYU4tdDVsSlgzVHNBT0M?oc=5\" target=\"_blank\">「令和7年度補正CEV補助金」11月20日到着分で申請受付終了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Car Watch</font>",
+                "site_name": "Car Watch",
+                "primary_category": "Policy",
+                "reason": "補助金受付終了は国内の需要予測に直結する重要な一次情報。",
                 "score": 85,
                 "is_highly_important": true
             },
             {
-                "id": 668015,
-                "title": "BYDラッコはすでに世界進出。日本の「お家芸」軽自動車で世界を獲りにきた中国勢の恐るべき戦略 - WEB CARTOP",
-                "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLOTZUaDRLZVZxWGgyV0JWMEc5RTlCMWhpVS1pWkZsdTJMSGZUUVhyZFJCOFNmYzVEV2pFTUgxNjhiTlQ2eFhaMmhWbFVlRE1hMjVj0gFYQVVfeXFMTmFWMUR2R0I1UFdQY0dCQWo4RDBmMVlta3drc3lSak13bVpHZG5uRVc4bXlfTmxyXzlGQVAtSXJoQlVEa1FNMXMzTWwzNHRUTGJ0SlA3cVhFQg?oc=5",
-                "published": "Mon, 23 Nov 2026 21:20:05 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLOTZUaDRLZVZxWGgyV0JWMEc5RTlCMWhpVS1pWkZsdTJMSGZUUVhyZFJCOFNmYzVEV2pFTUgxNjhiTlQ2eFhaMmhWbFVlRE1hMjVj0gFYQVVfeXFMTmFWMUR2R0I1UFdQY0dCQWo4RDBmMVlta3drc3lSak13bVpHZG5uRVc4bXlfTmxyXzlGQVAtSXJoQlVEa1FNMXMzTWwzNHRUTGJ0SlA3cVhFQg?oc=5\" target=\"_blank\">BYDラッコはすでに世界進出。日本の「お家芸」軽自動車で世界を獲りにきた中国勢の恐るべき戦略</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEB CARTOP</font>",
-                "site_name": "WEB CARTOP",
-                "primary_category": "戦略的提携",
-                "reason": "軽自動車市場におけるグローバル競争分析。",
-                "score": 70,
+                "id": 676321,
+                "title": "ＥＶ補助金、「空白を短縮」＝申請受け付けを終了―赤沢経産相 - 時事通信ニュース",
+                "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GT2cteWxRaDNrU0Q2RTZhMFdqNDRfWk9feFFtV0wwUUN5bVNaVVRSWjBsMHdlUHFIZUwwLXdfa0htUzNqc3hrdXB5Qnoxa2gySmlncw?oc=5",
+                "published": "Tue, 24 Nov 2026 02:57:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GT2cteWxRaDNrU0Q2RTZhMFdqNDRfWk9feFFtV0wwUUN5bVNaVVRSWjBsMHdlUHFIZUwwLXdfa0htUzNqc3hrdXB5Qnoxa2gySmlncw?oc=5\" target=\"_blank\">ＥＶ補助金、「空白を短縮」＝申請受け付けを終了―赤沢経産相</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事通信ニュース</font>",
+                "site_name": "時事通信ニュース",
+                "primary_category": "Policy",
+                "reason": "経産大臣の発言は国内政策の方向性を示唆する。",
+                "score": 80,
+                "is_highly_important": true
+            },
+            {
+                "id": 317496,
+                "title": "【日本】経産省、EV補助金「CEV」を予算満了で終了。国内で需要急増。来年制度に焦点 | Sustainable Japan | 世界のサステナビリティ・ESG投資・SDGs - Sustainable Japan",
+                "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TVlFpT3VaOE9aUVdPXy1waWNBWFIxVmd3UDlId0pUZUEwaFRpNGlkUk1Ydm8xdi1vV0JFNGhXTjF6ZjAzbkhDM05aWk5iZkRuVXBHTXUySXpMeUpOczhBcWt4TdIBaEFVX3lxTE4wa3BmcE9wWk5WVmo5S241enZzemVITjZQeElTUU5vZjh2bFRlRk9DSEgxWHdQVVRNWnRXd0VTYXBzWXZYekxpS3FyazhuRmFZRG11Mnh0MWxNUzRzRDJ6S0pqbk1jS09m?oc=5",
+                "published": "Mon, 23 Nov 2026 22:49:23 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TVlFpT3VaOE9aUVdPXy1waWNBWFIxVmd3UDlId0pUZUEwaFRpNGlkUk1Ydm8xdi1vV0JFNGhXTjF6ZjAzbkhDM05aWk5iZkRuVXBHTXUySXpMeUpOczhBcWt4TdIBaEFVX3lxTE4wa3BmcE9wWk5WVmo5S241enZzemVITjZQeElTUU5vZjh2bFRlRk9DSEgxWHdQVVRNWnRXd0VTYXBzWXZYekxpS3FyazhuRmFZRG11Mnh0MWxNUzRzRDJ6S0pqbk1jS09m?oc=5\" target=\"_blank\">【日本】経産省、EV補助金「CEV」を予算満了で終了。国内で需要急増。来年制度に焦点 | Sustainable Japan | 世界のサステナビリティ・ESG投資・SDGs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sustainable Japan</font>",
+                "site_name": "Sustainable Japan",
+                "primary_category": "Policy",
+                "reason": "補助金終了に関する国内動向のサステナビリティ視点でのまとめ。",
+                "score": 75,
+                "is_highly_important": false
+            },
+            {
+                "id": 922947,
+                "title": "EV補助金予算切れで年内ゼロ 再開見通せず、日産系は納車延期 - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XYkZac253MlIzNFNSTkVZS2hhaHJycW9XU0R1UnFVSGI3U2RucUY4NF9IbVc5dmdOSFlpTWVaQVlwdVhhWUVhX2tLOVlYQ1RDTE9FYlZYTENhUnlMY2J4M3RITzVaOHJtWENVQg?oc=5",
+                "published": "Tue, 24 Nov 2026 20:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5XYkZac253MlIzNFNSTkVZS2hhaHJycW9XU0R1UnFVSGI3U2RucUY4NF9IbVc5dmdOSFlpTWVaQVlwdVhhWUVhX2tLOVlYQ1RDTE9FYlZYTENhUnlMY2J4M3RITzVaOHJtWENVQg?oc=5\" target=\"_blank\">EV補助金予算切れで年内ゼロ 再開見通せず、日産系は納車延期</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "site_name": "日本経済新聞",
+                "primary_category": "Policy",
+                "reason": "補助金予算枯渇による納車への直接的な実害報道。",
+                "score": 80,
+                "is_highly_important": true
+            },
+            {
+                "id": 201732,
+                "title": "経済産業省／赤澤大臣「EV補助金終了、空白期間短縮検討」2027年度予算1100億円要求 - トラックニュース",
+                "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rUUV6V2F6OHo0alFmcEJEdmZPRTcwdWNVQUxSNElhYW5RTFFpM2pFaUJJX2dKVzViT1kxSENyajdlN3Y0VmpIZnRnTjlPUnVCbVIzVQ?oc=5",
+                "published": "Wed, 25 Nov 2026 01:21:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rUUV6V2F6OHo0alFmcEJEdmZPRTcwdWNVQUxSNElhYW5RTFFpM2pFaUJJX2dKVzViT1kxSENyajdlN3Y0VmpIZnRnTjlPUnVCbVIzVQ?oc=5\" target=\"_blank\">経済産業省／赤澤大臣「EV補助金終了、空白期間短縮検討」2027年度予算1100億円要求</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">トラックニュース</font>",
+                "site_name": "トラックニュース",
+                "primary_category": "Policy",
+                "reason": "予算要求と空白期間短縮の検討は重要政策トピック。",
+                "score": 85,
+                "is_highly_important": true
+            },
+            {
+                "id": 366349,
+                "title": "EV補助金終了を受け新たな制度を検討 赤沢経産大臣「空白期間を短く」 - テレ東BIZ",
+                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxOWJiZHJmemJsaUlDMXNDcGdMVGhOSDJhOFYtQkx6Wk0zeWpKWEcyeGcwSEkzcXM3RXVQbF9TMnctQzVHWVNWOG5LVHZNVmU3T3FxeFNVTVd4Q0Jxb0E?oc=5",
+                "published": "Tue, 24 Nov 2026 07:54:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxOWJiZHJmemJsaUlDMXNDcGdMVGhOSDJhOFYtQkx6Wk0zeWpKWEcyeGcwSEkzcXM3RXVQbF9TMnctQzVHWVNWOG5LVHZNVmU3T3FxeFNVTVd4Q0Jxb0E?oc=5\" target=\"_blank\">EV補助金終了を受け新たな制度を検討 赤沢経産大臣「空白期間を短く」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">テレ東BIZ</font>",
+                "site_name": "テレ東BIZ",
+                "primary_category": "Policy",
+                "reason": "補助金空白期間短縮への大臣発言。",
+                "score": 80,
                 "is_highly_important": true
             }
         ],
         "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "日本国内のEV購入補助金予算が枯渇し、申請受付が終了。EV普及の勢いが鈍化する懸念がある。",
-                "BYDが軽自動車規格のEV「ラッコ」を投入し、日本市場の聖域である軽セグメントに本格参入した。",
-                "軽自動車規格のBEV需要は新興国でも高く、BYDは日本市場を起点にグローバル戦略を展開している。"
+                "EV需要の想定以上の伸びにより、2025年度補正予算分のCEV補助金が11月20日到着分で枯渇・終了した。",
+                "経産省は来年度予算編成過程で再開までの空白期間短縮を検討する方針だが、決定時期は不透明。",
+                "今後の制度運用について、単価引き下げ（現行の6〜8割）を含む抜本的な見直しが議論の焦点となっている。"
             ],
-            "insight": "補助金終了は日本のEV普及にとって逆風ですが、皮肉にも『軽EV』というガラパゴス規格が、中国勢のグローバル戦略のテストベッドとして再評価される事態を招きました。BYDは日本メーカーが守勢に回る隙を突く形で、価格競争力と製品の熟成度を武器に牙城を崩そうとしており、日本の軽市場は単なる国内需要から、世界的なBEV開発競争の最前線へと変貌しています。"
+            "insight": "EV補助金はこれまで「電動化の呼び水」として機能してきたが、予算上限での突然の打ち切りは、駆け込み需要を誘発する一方、販売現場に納車延期といった混乱を招いている。今後は「販売促進」のフェーズから、市場の自律的拡大を見据えた「補助単価の適正化」へと舵を切る必要があり、単なる予算積み増しではなく、持続可能性と市場浸透のバランスを両立させる緻密な制度設計が求められる。"
+        }
+    },
+    {
+        "topic_name": "BYDの欧州生産拠点取得交渉",
+        "article_ids": [
+            824033
+        ],
+        "articles": [
+            {
+                "id": 824033,
+                "title": "ＢＹＤ、仏のイネオス工場取得へ独占交渉 欧州の現地調達規則に備え（ロイター） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zbURGZU51dVpzRHFZcXhfM1FjSUdXS0dLUVQ2WWFKTWFidm5Tb05TVmZxZEZ5QmxBaTBCd1Q4RTk5Nnc1RHVtSVg0RVRpaXpuVUYtQ1pWMTNtMURLdUdPenJscDBtZXNVLV8zZWdhclI5a2FuVmlad0JzZVhBdlk?oc=5",
+                "published": "Wed, 25 Nov 2026 02:09:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5zbURGZU51dVpzRHFZcXhfM1FjSUdXS0dLUVQ2WWFKTWFidm5Tb05TVmZxZEZ5QmxBaTBCd1Q4RTk5Nnc1RHVtSVg0RVRpaXpuVUYtQ1pWMTNtMURLdUdPenJscDBtZXNVLV8zZWdhclI5a2FuVmlad0JzZVhBdlk?oc=5\" target=\"_blank\">ＢＹＤ、仏のイネオス工場取得へ独占交渉 欧州の現地調達規則に備え（ロイター）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Strategy",
+                "reason": "BYDの欧州現地調達に向けた動きは重要。",
+                "score": 80,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "BYDが仏イネオス（旧スマート）工場取得に向け独占交渉、欧州内での現地生産を本格化",
+                "EUの「メード・イン・ヨーロッパ」規制や補助金要件、対中輸入制限を見据えた防衛策",
+                "ステランティス提携型など他社とは異なり、既存工場買収による自社コントロールを優先する戦略"
+            ],
+            "insight": "BYDの狙いは、単なる生産拠点確保ではなく、EUの「域外追い出し」規制に対する生存戦略の遂行です。中国勢がOEM受託などで「間借り」をする中、BYDが自社工場保有にこだわるのは、垂直統合による強固なコスト競争力を欧州域内でも維持し、将来的なブランド価値と物流網の支配権を確保するためです。これは欧州メーカーにとって、自国の雇用を守るという名分を盾に、結果として「中国EVのトロイの木馬」を完全に内部化させる苦渋の決断といえます。"
+        }
+    },
+    {
+        "topic_name": "韓国市場における中国製EVの増加",
+        "article_ids": [
+            303675
+        ],
+        "articles": [
+            {
+                "id": 303675,
+                "title": "韓国市場で中国製EVが急増、今年1〜10月で12万5,000台…9年累計記録を年内に突破へ - BigGo ファイナンス",
+                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mNmUzMXV6R0ViV0dKRktGRzA4Y1BPeGQyMlhSVHVUSzVQdURmWktMNkE2M2FpSVZ6X3lBcThsMUdrSG5GZWFManRnNUdFRmV6cmZLOVZDTTZySWMzRi1TclNnRVFCTi1zQlNycVBWU202WldV?oc=5",
+                "published": "Tue, 24 Nov 2026 18:15:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5mNmUzMXV6R0ViV0dKRktGRzA4Y1BPeGQyMlhSVHVUSzVQdURmWktMNkE2M2FpSVZ6X3lBcThsMUdrSG5GZWFManRnNUdFRmV6cmZLOVZDTTZySWMzRi1TclNnRVFCTi1zQlNycVBWU202WldV?oc=5\" target=\"_blank\">韓国市場で中国製EVが急増、今年1〜10月で12万5,000台…9年累計記録を年内に突破へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
+                "site_name": "BigGo ファイナンス",
+                "primary_category": "Market",
+                "reason": "韓国市場における中国製EVのシェア拡大はサプライチェーン上の注視対象。",
+                "score": 70,
+                "is_highly_important": false
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "中国製EVの韓国市場シェアが10カ月で43.2%に急拡大し、過去9年間の累計販売数を単年で上回る異常事態",
+                "関税8%のみという低い参入障壁と、韓国国内生産に対する税額控除の不在が中国メーカーの追い風となっている",
+                "自動車産業が韓国製造業出荷額の約14%を占める中、価格競争による国内メーカーの投資萎縮と雇用への悪影響が懸念されている"
+            ],
+            "insight": "韓国市場における中国EVの躍進は、単なる需要の拡大ではなく、グローバルなブロック経済化の隙を突いた戦略的浸透です。米欧が関税障壁で中国勢を締め出す中、韓国は「貿易の抜け道」となっており、価格競争力で圧倒する中国車に国内基幹産業が飲み込まれるリスクが顕在化しています。補助金や税制優遇がなければ、現代自動車グループといえどもこの『価格の暴力』に抗うのは困難であり、まさに国家の産業政策が存亡を左右する局面です。"
+        }
+    },
+    {
+        "topic_name": "現代自動車の北米向けHV投入戦略",
+        "article_ids": [
+            426784
+        ],
+        "articles": [
+            {
+                "id": 426784,
+                "title": "現代自が高級車で初のHV、北米に2車種 EV戦略を修正 - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tQ2V3Y21EWFlQSkxRcVQ4YzlRUXpNal9QVnRFeGtoWmRIT1ZUVnE3ZG5wenhSc0lqMDUxMU5mRWd2UGtNd0poV1VOWGJEU1prSEdPT0RkYV95X0VaSWs1eXZPUGxUZTlmbnNKLUc0ZHZLdE1OVm9UOHFiRlkxSVU?oc=5",
+                "published": "Mon, 23 Nov 2026 20:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE0tQ2V3Y21EWFlQSkxRcVQ4YzlRUXpNal9QVnRFeGtoWmRIT1ZUVnE3ZG5wenhSc0lqMDUxMU5mRWd2UGtNd0poV1VOWGJEU1prSEdPT0RkYV95X0VaSWs1eXZPUGxUZTlmbnNKLUc0ZHZLdE1OVm9UOHFiRlkxSVU?oc=5\" target=\"_blank\">現代自が高級車で初のHV、北米に2車種 EV戦略を修正</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "site_name": "日本経済新聞",
+                "primary_category": "Strategy",
+                "reason": "現代自動車のEV戦略修正（HV投入）は、世界的なトレンド修正を象徴。",
+                "score": 80,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "高級ブランド「ジェネシス」へ初のHV投入による北米電動化戦略の柔軟化",
+                "EV一本足打法からの脱却と、現実的な需要を取り込む「HVシフト」の加速",
+                "G80・GV80という主力モデルへのHV搭載による収益性確保と競合優位性の追求"
+            ],
+            "insight": "現代自動車の戦略転換は、EV市場の成長鈍化に対する合理的な防衛策です。特に高級セグメントでのHV投入は、環境意識と実用性を両立させたい北米層を確実に取り込む狙いがあります。トヨタ等の先行者利益を脅かす存在となるか、この『現実路線』への舵切りは、高コスト体質のEV投資を中長期で支えるための不可欠な収益安定化戦術と読み解けます。"
+        }
+    },
+    {
+        "topic_name": "中国の電動トラック販売増とリチウム需給",
+        "article_ids": [
+            141479
+        ],
+        "articles": [
+            {
+                "id": 141479,
+                "title": "中国電動トラック販売急増がリチウム需要後押し、供給過剰懸念なお | ロイター - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTGwzRS0yUHlKNHBlZzk5WmhKQ0NKRGk1VGVFWlhKOGdfSDdSck9RdDROODdLZVYtLXozUmE3T0ZYaGMtYTBUVi1VUjd4NlZ5RGxVdDRoVXQyclhTYVN4VFlPeWF2ZDlxa09vNUxUUEgzdVBVVEkzLXA1UGVtRlB0NjZsblVERnVKYUQ4cUx3?oc=5",
+                "published": "Tue, 24 Nov 2026 02:05:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQTGwzRS0yUHlKNHBlZzk5WmhKQ0NKRGk1VGVFWlhKOGdfSDdSck9RdDROODdLZVYtLXozUmE3T0ZYaGMtYTBUVi1VUjd4NlZ5RGxVdDRoVXQyclhTYVN4VFlPeWF2ZDlxa09vNUxUUEgzdVBVVEkzLXA1UGVtRlB0NjZsblVERnVKYUQ4cUx3?oc=5\" target=\"_blank\">中国電動トラック販売急増がリチウム需要後押し、供給過剰懸念なお | ロイター</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+                "site_name": "Reuters",
+                "primary_category": "Market",
+                "reason": "Reutersの経済分析であり信頼度と影響力が高い。",
+                "score": 75,
+                "is_highly_important": false
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "中国における電動トラック販売の急拡大がリチウム需要の新たな下支え要因に",
+                "EV商用車の普及は乗用車とは異なるインフラや経済合理性に依存",
+                "需要増の一方で、上流開発による供給過剰の構造的懸念は依然として残存"
+            ],
+            "insight": "中国商用車の電化は、補助金依存からTCO削減の合理性フェーズへ移行した点に本質がある。物流の短距離・定型ルートにおけるEV優位性は極めて高く、リチウム需要の『底』を支える強力な牽引役となるだろう。ただし、過剰な採掘設備投資が価格を押し下げ、市場は当面、需要の伸びと供給過多の綱引きによるボラティリティに翻弄される公算が大きい。"
+        }
+    },
+    {
+        "topic_name": "EUの英国製EV優遇検討",
+        "article_ids": [
+            430425
+        ],
+        "articles": [
+            {
+                "id": 430425,
+                "title": "ＥＵ、英国製ＥＶもメード・イン・ヨーロッパの対象に検討 - Reuters",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMlBZNjhRcEota180THVwMnc1WjRIX2p4WmZMS2FZQkJqQUhORmQyc2g2THIwS0l0NFhhYWpveUUzTU1OSGM5NmozaFJJRUdMMjdTLWQ5NjFoeFd4aHAtRGpKaEJkdWRLRHZENk5kVVpNYmxaajRCdUw1MmlzVzBwanZtZ0tTUHc?oc=5",
+                "published": "Wed, 25 Nov 2026 00:36:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOMlBZNjhRcEota180THVwMnc1WjRIX2p4WmZMS2FZQkJqQUhORmQyc2g2THIwS0l0NFhhYWpveUUzTU1OSGM5NmozaFJJRUdMMjdTLWQ5NjFoeFd4aHAtRGpKaEJkdWRLRHZENk5kVVpNYmxaajRCdUw1MmlzVzBwanZtZ0tTUHc?oc=5\" target=\"_blank\">ＥＵ、英国製ＥＶもメード・イン・ヨーロッパの対象に検討</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+                "site_name": "Reuters",
+                "primary_category": "Policy",
+                "reason": "EUの英国製EV優遇検討は貿易ルール変更の兆し。",
+                "score": 70,
+                "is_highly_important": false
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "EUが英国製EVの原産地規則適用を猶予する方向へ転換",
+                "サプライチェーン混乱を回避し域内EV競争力を維持する狙い",
+                "Brexit後の貿易協定における現実的な妥協策への移行"
+            ],
+            "insight": "本件は単なる譲歩ではなく、バッテリー調達の物理的限界に対するEUの苦肉の策です。域内生産の理想を掲げるほどに、現実は中国サプライチェーンへの依存と英国との密な補完関係なしにEV普及が停滞するジレンマに直面しています。自動車メーカーにとっては、複雑な物流再編の回避と、関税リスク低減による価格競争力確保に向けた大きな転換点となります。"
+        }
+    },
+    {
+        "topic_name": "インドにおけるEV市場競争",
+        "article_ids": [
+            505659
+        ],
+        "articles": [
+            {
+                "id": 505659,
+                "title": "「インドEV戦争」が激化、日系連合の総力戦か！ タタ・マヒンドラ6割超の牙城に挑むスズキ・トヨタ「現地生産・輸出網」の勝算とは - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04QUNFVEVaZlpiS0hxOFRQRlBEZXFPVG5WX2NoOWcxR0VzM3VBal9kWEVrVy1uRTRyakR1ek5XbVNTZ1JwTXQxNHJWbnNNOHJ0aUJabFlCRDB4RVNPdmozQjFpc3ZQdnNjTUhQZE92Tl9ucHd5WlJ4VWJIT0Jwclk?oc=5",
+                "published": "Tue, 24 Nov 2026 21:21:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE04QUNFVEVaZlpiS0hxOFRQRlBEZXFPVG5WX2NoOWcxR0VzM3VBal9kWEVrVy1uRTRyakR1ek5XbVNTZ1JwTXQxNHJWbnNNOHJ0aUJabFlCRDB4RVNPdmozQjFpc3ZQdnNjTUhQZE92Tl9ucHd5WlJ4VWJIT0Jwclk?oc=5\" target=\"_blank\">「インドEV戦争」が激化、日系連合の総力戦か！ タタ・マヒンドラ6割超の牙城に挑むスズキ・トヨタ「現地生産・輸出網」の勝算とは</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Strategy",
+                "reason": "インドEV市場における日系と現地勢の激突分析は戦略的に重要。",
+                "score": 75,
+                "is_highly_important": false
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "インド市場におけるSUV需要の急拡大と、電動車への強いシフト意欲との乖離を指摘。",
+                "タタ・マヒンドラが占めるシェアに対し、スズキ・トヨタ連合が現地生産・協業で逆転を狙う戦略的構造。",
+                "BEVの競争優位性を左右するバッテリー調達において、中国勢依存という構造的な脆弱性が潜在的な懸念。"
+            ],
+            "insight": "インドEV市場は単なるモデル投入競争ではなく、供給網の囲い込み戦です。日系連合の強みは「インドの過酷な環境」を熟知した実用UVの提供にありますが、肝心のバッテリーセルをBYD等の中国勢に依存している点は「稼ぐほどにライバルを利する」ジレンマを生んでいます。現地でのセル内製化や次世代電池の早期実装こそが、今後のシェア争いの勝敗を分ける唯一の解となるでしょう。"
+        }
+    },
+    {
+        "topic_name": "中国EVが世界市場を席巻する理由",
+        "article_ids": [
+            801125
+        ],
+        "articles": [
+            {
+                "id": 801125,
+                "title": "中国だけが「勝ち続ける」理由 EVで世界一、玩具でも7割…新興国の成長を阻む巨大な壁（AERA DIGITAL） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ec1RVNUs4cTFaUVgteDd2MVl6SWFhaXJQeGpFaFNQZ0ZKdzh5dDRCa215VVBNU3NpUE95VWx0a2xJRGYyNlp6RFNtekFodDIxOGx5SHNqVzFVYTdHLWlTdjBrc0lkV1htMVBIM09JSEVKUGtkdE9wZ1NZUjNCUUk?oc=5",
+                "published": "Tue, 24 Nov 2026 22:00:36 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ec1RVNUs4cTFaUVgteDd2MVl6SWFhaXJQeGpFaFNQZ0ZKdzh5dDRCa215VVBNU3NpUE95VWx0a2xJRGYyNlp6RFNtekFodDIxOGx5SHNqVzFVYTdHLWlTdjBrc0lkV1htMVBIM09JSEVKUGtkdE9wZ1NZUjNCUUk?oc=5\" target=\"_blank\">中国だけが「勝ち続ける」理由 EVで世界一、玩具でも7割…新興国の成長を阻む巨大な壁（AERA DIGITAL）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Market",
+                "reason": "中国EVの強さの背景を分析する重要な論考。",
+                "score": 70,
+                "is_highly_important": false
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "中国製造業は、高付加価値のEV産業と、労働集約型の軽工業を同時に支配する『階層なき全方位支配』を実現している。",
+                "ASEAN諸国において、中国製品が圧倒的な価格競争力で市場を占有し、地場産業の育成を阻害する構造的障壁となっている。",
+                "対米輸出減をグローバルサウスへの輸出拡大で補う中国の戦略は、既存の自由貿易体制を逆手に取り、新興国の工業化の芽を摘んでいる。"
+            ],
+            "insight": "中国の真の脅威はEV等の技術力だけでなく、サプライチェーンの川下から川上までを自国で完結させる『経済的包囲網』にある。新興国が辿るべき伝統的工業化のロードマップを中国が先行して埋め尽くすことで、途上国の経済的自立を困難にしている。これは単なる競争ではなく、グローバルサプライチェーンの『独占的再編』が進行している証左である。"
+        }
+    },
+    {
+        "topic_name": "日産と英ウェイブのロボタクシー事業連携",
+        "article_ids": [
+            961203
+        ],
+        "articles": [
+            {
+                "id": 961203,
+                "title": "｢ロボタクシー､日産EVと世界の都市へ｣ 英ウェイブ幹部 - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NYmFiSFRpNlduZVlydGpUSHBnY0llU3RjMmxzQmc3QVFZMGpJenRhcTA0dkthaVFXU1RERjhUbVoydEd1YW5oVlpXc3FYVDQzU2o5RkdOV2lGckNjTlphR2V4LXl1YlRZUHBMV3lidDNPRVVTci1HOWlYTVpBTVE?oc=5",
+                "published": "Tue, 24 Nov 2026 20:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9NYmFiSFRpNlduZVlydGpUSHBnY0llU3RjMmxzQmc3QVFZMGpJenRhcTA0dkthaVFXU1RERjhUbVoydEd1YW5oVlpXc3FYVDQzU2o5RkdOV2lGckNjTlphR2V4LXl1YlRZUHBMV3lidDNPRVVTci1HOWlYTVpBTVE?oc=5\" target=\"_blank\">｢ロボタクシー､日産EVと世界の都市へ｣ 英ウェイブ幹部</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "site_name": "日本経済新聞",
+                "primary_category": "Strategy",
+                "reason": "ロボタクシーと日産の連携は事業提携として重要。",
+                "score": 70,
+                "is_highly_important": false
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "日産と英ウェイブが2026年内にロボタクシーの試験運行を開始",
+                "27年度には日産の市販車へウェイブの自動運転技術を搭載する計画",
+                "生成AI技術を活用する「AV2.0」への転換が日本市場で加速"
+            ],
+            "insight": "日産にとってウェイブとの協業は、開発コストを抑えつつソフトウエア定義車両（SDV）としての競争力を補完する極めて現実的な選択だ。ウェイモ対トヨタ陣営という構図に対し、AI駆動の「AV2.0」で先行する欧州スタートアップを巻き込むことで、日産は国内での自動運転商用化における遅れを猛追する戦略である。"
+        }
+    },
+    {
+        "topic_name": "ホンダHV新戦略とアヴァンシア",
+        "article_ids": [
+            513170
+        ],
+        "articles": [
+            {
+                "id": 513170,
+                "title": "自動車業界 ニュースの見方 第71回 EV全振りから現実路線へ、ホンダはHV「アヴァンシア」で再起を図る - Infoseek",
+                "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LOFlBS0xJWTk2Z2hhMmNNWUJIRnJKaFhqU1NNdWlHT25FbnhFNXFwcXVmZjZYeExvdk5CNllINm8xNXB4aDVGeDQ5VExNSkJIeFdPVUFkeEJGN2kxUHhObA?oc=5",
+                "published": "Tue, 24 Nov 2026 23:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LOFlBS0xJWTk2Z2hhMmNNWUJIRnJKaFhqU1NNdWlHT25FbnhFNXFwcXVmZjZYeExvdk5CNllINm8xNXB4aDVGeDQ5VExNSkJIeFdPVUFkeEJGN2kxUHhObA?oc=5\" target=\"_blank\">自動車業界 ニュースの見方 第71回 EV全振りから現実路線へ、ホンダはHV「アヴァンシア」で再起を図る</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infoseek</font>",
+                "site_name": "Infoseek",
+                "primary_category": "Strategy",
+                "reason": "ホンダのHV再起路線は日本のEV戦略の現実味を象徴する解説。",
+                "score": 70,
+                "is_highly_important": false
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "EV至上主義からの脱却と、現実的な収益源であるHEVへの経営資源再集中",
+                "大型モデルへのHEVシフトと北米生産体制強化による米市場の需要変化への適応",
+                "新プラットフォームによる部品共用化(7割)と次世代HEVのコスト競争力強化"
+            ],
+            "insight": "「2040年脱エンジン」の看板を掲げたホンダが、EV競争の激化と市場冷え込みにより方針転換を余儀なくされた。この「現実路線」への舵取りは単なる撤退ではなく、HEVの収益性を高め、次世代モビリティへの移行期間を稼ぐための生存戦略。コスト3割削減を前提としたプラットフォーム戦略が、トヨタ一強のHEV市場でどれだけ独自の存在感を示せるかが、今後の生存分岐点となる。"
+        }
+    },
+    {
+        "topic_name": "EUによる域外HVへの輸入制限",
+        "article_ids": [
+            96871
+        ],
+        "articles": [
+            {
+                "id": 96871,
+                "title": "EU、域外のハイブリッド車に緊急輸入制限、トヨタなど日本製も対象に［新聞ウォッチ］ - CAR CARE PLUS",
+                "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fSUZZOTd6TXpmbnE1b0ZxNGgtRnNvaE85SnlJeThCa0lRbENpLWgxOFNyQmpoa0ZUWFpuVzNTQ3VhOHhMVjZqNlRXQ2FpWHJ0dzlQZHdKSzc4enBzRW9VbGhB?oc=5",
+                "published": "Tue, 24 Nov 2026 23:39:32 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fSUZZOTd6TXpmbnE1b0ZxNGgtRnNvaE85SnlJeThCa0lRbENpLWgxOFNyQmpoa0ZUWFpuVzNTQ3VhOHhMVjZqNlRXQ2FpWHJ0dzlQZHdKSzc4enBzRW9VbGhB?oc=5\" target=\"_blank\">EU、域外のハイブリッド車に緊急輸入制限、トヨタなど日本製も対象に［新聞ウォッチ］</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CAR CARE PLUS</font>",
+                "site_name": "CAR CARE PLUS",
+                "primary_category": "Policy",
+                "reason": "トヨタを含む日本製HVへの緊急輸入制限検討は、通商政策上の重要事案。",
+                "score": 85,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "EUが中国に加え、日本製のHV・PHEVにも暫定的な緊急輸入制限（セーフガード）を発動",
+                "2025年比で輸入枠を厳格化し、日本車には約17万台の上限を設定、最長200日間の監視下に置く",
+                "欧州製EV優遇策は維持しつつ、域内現地調達を促す「部品採用」には柔軟な姿勢を見せる二面性"
+            ],
+            "insight": "EUによる今回の措置は、単なる貿易防衛を超えた『域内産業の延命工作』です。BEVシフトが停滞する欧州勢にとって、競争力の高い日本勢のHVは脅威以外の何物でもありません。日本車を枠内に封じ込め、強制的に現地調達や現地生産へ誘導する高度なブロック経済戦略であり、メーカーは従来の輸出モデルの抜本的な修正を迫られています。"
+        }
+    },
+    {
+        "topic_name": "タイ次世代車ハブ化で日中と合意",
+        "article_ids": [
+            847882
+        ],
+        "articles": [
+            {
+                "id": 847882,
+                "title": "タイ政府、次世代自動車ハブ化へ日中メーカーと協議 バイオ燃料普及で合意 - newsclip.be",
+                "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wZ3hLZWJERlJWcnpRcm5TZzFpeWl3Q0dmQ25FUzNfVEVPZUZsWlYzemc1OGlUS1FoUTlOVkpHTHlXVml1dE1nY2tzUlZnMWp2V3VMeHN3UnJycU5G?oc=5",
+                "published": "Tue, 24 Nov 2026 17:12:05 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wZ3hLZWJERlJWcnpRcm5TZzFpeWl3Q0dmQ25FUzNfVEVPZUZsWlYzemc1OGlUS1FoUTlOVkpHTHlXVml1dE1nY2tzUlZnMWp2V3VMeHN3UnJycU5G?oc=5\" target=\"_blank\">タイ政府、次世代自動車ハブ化へ日中メーカーと協議 バイオ燃料普及で合意</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newsclip.be</font>",
+                "site_name": "newsclip.be",
+                "primary_category": "Policy",
+                "reason": "タイの自動車ハブ化に向けた日中メーカーとの協議は重要。",
+                "score": 70,
+                "is_highly_important": false
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "タイ政府が日本・中国メーカーとバイオ燃料（E20/B20）の普及およびEVとの共存戦略で合意",
+                "日系自動車メーカー6社が2026-2030年に6200億円規模の投資計画を提示",
+                "国内生産を持たない完成車輸入モデルへの物品税引き上げ（35%）でローカル調達を強化"
+            ],
+            "insight": "タイはBEV一辺倒のリスクを回避し、既存のICEサプライチェーンを活かした「マルチパスウェイ」戦略への転換を鮮明にしました。特にブラジル等で実績のある高濃度バイオ燃料を軸に、既存資産の寿命を延ばしつつ電動化を進める姿勢は、ASEANの地産地消モデルとして極めて合理的かつ現実的な産業防衛策と言えます。"
+        }
+    },
+    {
+        "topic_name": "2028年EV増税案と市場への影響",
+        "article_ids": [
+            337641
+        ],
+        "articles": [
+            {
+                "id": 337641,
+                "title": "「EVが道路を壊す」は本当？ だったら大型SUVはどうなる？ 28年“EV狙い撃ち増税”に潜む矛盾！ 中国車“39か国で日本車超え”の現実から考える（Merkmal） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS2w0RzlQekhHZjJJdmRuLThoQlplRU1qRmxNMElWenV4MTRfMTNOVE5MckM3QXRJV0lhSzNvQURyS2M1NXdza1hMbEVtOVhDSTY3TFh4dEtEN0FyUWdhWHJCaDFrTEZoZl9RNEY1S3lYay15Qmg1NG15OWFkTExVN1FSYmszM19w?oc=5",
+                "published": "Mon, 23 Nov 2026 21:21:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS2w0RzlQekhHZjJJdmRuLThoQlplRU1qRmxNMElWenV4MTRfMTNOVE5MckM3QXRJV0lhSzNvQURyS2M1NXdza1hMbEVtOVhDSTY3TFh4dEtEN0FyUWdhWHJCaDFrTEZoZl9RNEY1S3lYay15Qmg1NG15OWFkTExVN1FSYmszM19w?oc=5\" target=\"_blank\">「EVが道路を壊す」は本当？ だったら大型SUVはどうなる？ 28年“EV狙い撃ち増税”に潜む矛盾！ 中国車“39か国で日本車超え”の現実から考える（Merkmal）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Policy",
+                "reason": "EV増税の矛盾と中国車躍進の対比分析は鋭い視点。",
+                "score": 70,
+                "is_highly_important": false
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "道路損傷の主因は大型貨物車であり、乗用車レベルの重量差による影響は極めて軽微である。",
+                "EV固有の「重量による道路破壊」論には科学的根拠が乏しく、車両重量以外の要因（車軸荷重、路面環境、通行頻度）が支配的である。",
+                "EVへの特定の増税は、インフラ維持という名目を借りた電動化普及の足かせや、国際競争力を失うリスクを孕む矛盾した政策である。"
+            ],
+            "insight": "EV増税論の背景には、ガソリン税の代替財源確保という焦りと、技術的論理を飛び越えた政治的なバイアスが存在する。インフラ負荷の議論は「車軸荷重」という物理の本質を無視し、特定の車種をスケープゴートにしているに過ぎない。自動車市場のルールを環境適応から課税対象へ歪めることは、日本のガラパゴス化を加速させる愚策である。"
+        }
+    },
+    {
+        "topic_name": "赤沢経産相のノエトラ支援方針",
+        "article_ids": [
+            550531
+        ],
+        "articles": [
+            {
+                "id": 550531,
+                "title": "赤沢経産相、ノエトラ支援の5年総額は「未定」－EV補助単価見直しも - Bloomberg.com",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeXQ4SFhtRWdjS21WSkRDRzdzcXd3eWt4V25SeUlHLXZCdDlLZWxIVXdSOHMtYnBDeTZxQWs2TUZrQTVFSDNSek5nUW9FUDRIS0xHcVlJcWpGMjRDdUxZRzRlcGRiOGxSWlFfSE9leEUtblRnS3hlUVVVMUVobjJPa1NRVGZwWVFMS3NVU1lR?oc=5",
+                "published": "Tue, 24 Nov 2026 02:42:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQeXQ4SFhtRWdjS21WSkRDRzdzcXd3eWt4V25SeUlHLXZCdDlLZWxIVXdSOHMtYnBDeTZxQWs2TUZrQTVFSDNSek5nUW9FUDRIS0xHcVlJcWpGMjRDdUxZRzRlcGRiOGxSWlFfSE9leEUtblRnS3hlUVVVMUVobjJPa1NRVGZwWVFMS3NVU1lR?oc=5\" target=\"_blank\">赤沢経産相、ノエトラ支援の5年総額は「未定」－EV補助単価見直しも</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+                "site_name": "Bloomberg.com",
+                "primary_category": "Policy",
+                "reason": "予算見通しに対する閣僚発言は、今後の補助政策の先行きを示す。",
+                "score": 75,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "ノエトラに対する政府支援の総額を現時点で「未定」とし、財政規律を重視する姿勢を示唆",
+                "EV補助金の単価見直しを表明し、市場浸透度に応じた支援策の最適化を模索",
+                "特定のスタートアップ支援と脱炭素戦略の両立という難しい舵取りを迫られている"
+            ],
+            "insight": "今回の発言は、次世代産業育成という旗印の下、無制限の資金投下は行わないという経産省の冷徹なリスク管理の表れだ。EV補助金の見直しは、単なるバラマキから、技術的優位性や市場競争力に基づく『選別的産業政策』への転換を意味する。ノエトラには、資金依存からの脱却と、量産規模の経済性を証明する極めて高いハードルが課されたと言える。"
         }
     }
 ]
