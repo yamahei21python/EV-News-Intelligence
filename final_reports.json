@@ -1,64 +1,62 @@
 [
     {
-        "topic_name": "トヨタ福岡EV電池工場建設計画の再々延期",
+        "topic_name": "トヨタ福岡・苅田のEV電池工場建設計画の3度目の延期",
         "article_ids": [
-            896092,
-            185838,
-            37577,
-            834698,
+            568191,
+            684595,
+            994287,
             885104,
+            308933,
+            506023,
             752860,
+            502677,
             774781,
-            684595
+            612042,
+            717114,
+            357404,
+            71869,
+            352026,
+            577392,
+            873617,
+            402763,
+            423444
         ],
         "articles": [
             {
-                "id": 896092,
-                "title": "トヨタ、福岡のEV電池工場計画を再々延期 電動車の世界需要見極め - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xc1JPNW5ydlJFMEJIa3g5ZXNpMjAtOFA0Y2ZIUjlVbVZhd0pLVkg5N3NJWVROTlZnZ2lvdzVqWU5heFB4Y1lXYjc1dUwxaE9HNGI3UU1ETmd6c0lTMzQydUxrMkFRR2hOV0dDVg?oc=5",
-                "published": "Thu, 26 Nov 2026 12:00:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1xc1JPNW5ydlJFMEJIa3g5ZXNpMjAtOFA0Y2ZIUjlVbVZhd0pLVkg5N3NJWVROTlZnZ2lvdzVqWU5heFB4Y1lXYjc1dUwxaE9HNGI3UU1ETmd6c0lTMzQydUxrMkFRR2hOV0dDVg?oc=5\" target=\"_blank\">トヨタ、福岡のEV電池工場計画を再々延期 電動車の世界需要見極め</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-                "site_name": "日本経済新聞",
-                "primary_category": "Strategy",
-                "reason": "トヨタの電池工場延期はEV戦略見直しの重要指標。",
+                "id": 568191,
+                "title": "トヨタ電池工場の建設、再々延期 福岡・苅田 ＥＶ需要・経済情勢不透明：ニュース - 中日BIZナビ",
+                "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JZ2taVXlGYkZvUXY4RWRSM2dDaUl2d3YxV0tYODk3MWNZWExqdHZlUDFRZkRubXB0RUdNejVxM0FDdkhFQ1VhNVBnbktESnBtTWRGUE54N1NyX1lmcUhz?oc=5",
+                "published": "Fri, 27 Nov 2026 13:04:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JZ2taVXlGYkZvUXY4RWRSM2dDaUl2d3YxV0tYODk3MWNZWExqdHZlUDFRZkRubXB0RUdNejVxM0FDdkhFQ1VhNVBnbktESnBtTWRGUE54N1NyX1lmcUhz?oc=5\" target=\"_blank\">トヨタ電池工場の建設、再々延期 福岡・苅田 ＥＶ需要・経済情勢不透明：ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中日BIZナビ</font>",
+                "site_name": "中日BIZナビ",
+                "primary_category": "Supply Chain",
+                "reason": "トヨタの電池戦略変更はサプライチェーンに大きな影響を与える。",
                 "score": 85,
                 "is_highly_important": true
             },
             {
-                "id": 185838,
-                "title": "トヨタが福岡・苅田町の新電池工場建設計画を再延期 EV需要見極め - 西日本新聞me",
-                "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwRU5YUDJIc29IaU1mcjdadlBpc3NSbmhBblZBa0NyOGc5cGwyRE1DeEQ0QTVWT3REMDZqRjBrNng5N0k2UDZGV2p2aFdMeTgwS01JR0l3?oc=5",
-                "published": "Thu, 26 Nov 2026 13:38:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwRU5YUDJIc29IaU1mcjdadlBpc3NSbmhBblZBa0NyOGc5cGwyRE1DeEQ0QTVWT3REMDZqRjBrNng5N0k2UDZGV2p2aFdMeTgwS01JR0l3?oc=5\" target=\"_blank\">トヨタが福岡・苅田町の新電池工場建設計画を再延期 EV需要見極め</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">西日本新聞me</font>",
-                "site_name": "西日本新聞me",
-                "primary_category": "Strategy",
-                "reason": "トヨタの工場延期に関する地域視点の報道。",
-                "score": 75,
+                "id": 684595,
+                "title": "福岡県、我慢のトヨタEV電池工場 自動車・半導体誘致で難局続く - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCTmhKUl9vRVZCODc4bHJSaTQ3UlJscUQ1T0xWYjJpU2FiY1NSU25KSnZYMC1sdHR1Yk5VX1FvTXdzUEkwUEo5OVFZWG4wQWQ1WjlSekxldHJzNFF5elZLUDF4cnlFMW43R0I2NQ?oc=5",
+                "published": "Fri, 27 Nov 2026 03:17:10 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBCTmhKUl9vRVZCODc4bHJSaTQ3UlJscUQ1T0xWYjJpU2FiY1NSU25KSnZYMC1sdHR1Yk5VX1FvTXdzUEkwUEo5OVFZWG4wQWQ1WjlSekxldHJzNFF5elZLUDF4cnlFMW43R0I2NQ?oc=5\" target=\"_blank\">福岡県、我慢のトヨタEV電池工場 自動車・半導体誘致で難局続く</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "site_name": "日本経済新聞",
+                "primary_category": "Supply Chain",
+                "reason": "トヨタ電池工場延期の背景にある構造的課題を的確に指摘。",
+                "score": 85,
                 "is_highly_important": true
             },
             {
-                "id": 37577,
-                "title": "トヨタ電池工場、3度目建設延期 福岡、EV需要見極め（共同通信） - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85eWx5VnVFYTQ2ZWltV0k5V0NFYUF4ZGZWdll4Z2tCZ2dmRE51S2RSX21uYy1uSS1OYUZwTnpVZG9qMUlzbHctN0tMaUI3ZExfNnNwZjI1OVNjVzktZGhUekFUTnlpQWo4MmJ1UVNYb0JvdjhWWC1ueVpzTjZPSmM?oc=5",
-                "published": "Fri, 27 Nov 2026 02:24:55 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE85eWx5VnVFYTQ2ZWltV0k5V0NFYUF4ZGZWdll4Z2tCZ2dmRE51S2RSX21uYy1uSS1OYUZwTnpVZG9qMUlzbHctN0tMaUI3ZExfNnNwZjI1OVNjVzktZGhUekFUTnlpQWo4MmJ1UVNYb0JvdjhWWC1ueVpzTjZPSmM?oc=5\" target=\"_blank\">トヨタ電池工場、3度目建設延期 福岡、EV需要見極め（共同通信）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "id": 994287,
+                "title": "福岡・苅田町に建設予定のEV向け電池工場 トヨタ自動車が建設計画の再延期を服部知事に報告（テレQ（TVQ九州放送）） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TRmoxNFphclI1akpUVm1VckptTFMzX1lyNTE0R0RrWkhvdW93R0NaX1lGN21KMzJLYkdieTREU25Cb2xBMzEwdHc3Tk90Mm1OSWt5YXVwdEc5alZ6ZUF1Q29nMURmaGNYYlg3cktpY29GdVNGSzFDMVlhaWltd0U?oc=5",
+                "published": "Fri, 27 Nov 2026 10:15:01 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5TRmoxNFphclI1akpUVm1VckptTFMzX1lyNTE0R0RrWkhvdW93R0NaX1lGN21KMzJLYkdieTREU25Cb2xBMzEwdHc3Tk90Mm1OSWt5YXVwdEc5alZ6ZUF1Q29nMURmaGNYYlg3cktpY29GdVNGSzFDMVlhaWltd0U?oc=5\" target=\"_blank\">福岡・苅田町に建設予定のEV向け電池工場 トヨタ自動車が建設計画の再延期を服部知事に報告（テレQ（TVQ九州放送））</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
                 "site_name": "Yahoo!ニュース",
-                "primary_category": "Strategy",
-                "reason": "工場の3度目の延期は戦略上の重要事項。",
-                "score": 80,
-                "is_highly_important": true
-            },
-            {
-                "id": 834698,
-                "title": "トヨタ、福岡EV電池工場の建設を3度目の延期 EV需要鈍化で [福岡県] - 朝日新聞",
-                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SM2ZlXy04Y3RSWGE4anl4dWdsRVVCaUNpcU0tamI5Z25HbTNWMHJCdkgzRzhSajRpR1R3OS1HRlMzMm5kczBRMFZVWDlUeXNNdmtyem44MnFCZV9iRUlPVzJjOGhkQlE?oc=5",
-                "published": "Fri, 27 Nov 2026 02:50:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SM2ZlXy04Y3RSWGE4anl4dWdsRVVCaUNpcU0tamI5Z25HbTNWMHJCdkgzRzhSajRpR1R3OS1HRlMzMm5kczBRMFZVWDlUeXNNdmtyem44MnFCZV9iRUlPVzJjOGhkQlE?oc=5\" target=\"_blank\">トヨタ、福岡EV電池工場の建設を3度目の延期 EV需要鈍化で [福岡県]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
-                "site_name": "朝日新聞",
-                "primary_category": "Strategy",
-                "reason": "工場の3度目の延期。",
-                "score": 80,
-                "is_highly_important": true
+                "primary_category": "Supply Chain",
+                "reason": "地元メディアの重要報道。建設計画の再延期が確定。",
+                "score": 75,
+                "is_highly_important": false
             },
             {
                 "id": 885104,
@@ -67,9 +65,33 @@
                 "published": "Fri, 27 Nov 2026 01:53:46 GMT",
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBBd2NWaFd5UVpmZXRnQnhIZ3JVMUpmQnFLLS01QlZHWlBtR3FyYWpLM01HaTFhd1ZoRG5VNjFuT0dTMkZzTTFJLV8tWkZYZ3ljYno4WGt5SGR1a2E0NE1famQ1OS1hZmtNNFhUTw?oc=5\" target=\"_blank\">トヨタ、福岡のEV電池工場延期を県に報告 知事「やむを得ない」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
                 "site_name": "日本経済新聞",
-                "primary_category": "Strategy",
-                "reason": "経営判断の地域への影響。",
-                "score": 75,
+                "primary_category": "Supply Chain",
+                "reason": "経済メディアによる行政調整の進捗報告。",
+                "score": 80,
+                "is_highly_important": true
+            },
+            {
+                "id": 308933,
+                "title": "トヨタが3度目の延期申し入れ 苅田町のEV向け電池工場の建設計画「需要が見通せない」と説明 県は協議続ける考え 福岡 - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YemE0WDk2YTY5bHZUYmQwTkJNa1JzYW01YlpfbWJfcEQ1M3JPTHJiNUpqS3JCQ2NrVGgyQVIxYVlvdGNyQ3E2cmVvbk9BWmNPa0VIV2NGR05fOFVwOVl4bkl5SENvdHpPN3JQLUFHM0d2a3JoQkZEd0Q4bDN6OGs?oc=5",
+                "published": "Fri, 27 Nov 2026 06:05:02 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1YemE0WDk2YTY5bHZUYmQwTkJNa1JzYW01YlpfbWJfcEQ1M3JPTHJiNUpqS3JCQ2NrVGgyQVIxYVlvdGNyQ3E2cmVvbk9BWmNPa0VIV2NGR05fOFVwOVl4bkl5SENvdHpPN3JQLUFHM0d2a3JoQkZEd0Q4bDN6OGs?oc=5\" target=\"_blank\">トヨタが3度目の延期申し入れ 苅田町のEV向け電池工場の建設計画「需要が見通せない」と説明 県は協議続ける考え 福岡</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Supply Chain",
+                "reason": "3度目の延期という事実は需要見通しの深刻な変化を示唆。",
+                "score": 80,
+                "is_highly_important": true
+            },
+            {
+                "id": 506023,
+                "title": "トヨタ、福岡のEV向け電池工場建設をまた延期 これで3度目 - 毎日新聞",
+                "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ndy1vQzdfQ0ZFNG1OUi1IUnpMUUQwd0dSeWlXWVRmQVpkMjJhbmFCWkczZ1NYS2xDY3ZRZ09pR200Uldwek0wb0hkdFltS2RPTVBDeHdtNFUzanVqTUpwbWdYd0l1T0do?oc=5",
+                "published": "Fri, 27 Nov 2026 11:06:04 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ndy1vQzdfQ0ZFNG1OUi1IUnpMUUQwd0dSeWlXWVRmQVpkMjJhbmFCWkczZ1NYS2xDY3ZRZ09pR200Uldwek0wb0hkdFltS2RPTVBDeHdtNFUzanVqTUpwbWdYd0l1T0do?oc=5\" target=\"_blank\">トヨタ、福岡のEV向け電池工場建設をまた延期 これで3度目</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">毎日新聞</font>",
+                "site_name": "毎日新聞",
+                "primary_category": "Supply Chain",
+                "reason": "大手紙によるトヨタ工場延期の報道。",
+                "score": 80,
                 "is_highly_important": true
             },
             {
@@ -79,8 +101,20 @@
                 "published": "Fri, 27 Nov 2026 02:35:00 GMT",
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBjUWUzWlFUZlZZWWdvdWQyU1g3RVlBX2dtb0M4SWprUFdiTFBDd3FBOUJWOXZzcy0xc1BLc3lrQmhWY1FlWkdybW10NUVfbThRaVJOSmR4NjRBQ2FfM1c5U3Z3OWR6Y1RhaktkU1RoRlJXMG5J?oc=5\" target=\"_blank\">トヨタ、福岡EV電池工場を3度目延期 「継続保有」を県に要請</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
                 "site_name": "BigGo ファイナンス",
-                "primary_category": "Strategy",
-                "reason": "経営判断の速報。",
+                "primary_category": "Supply Chain",
+                "reason": "トヨタの電池戦略延期の再確認。",
+                "score": 70,
+                "is_highly_important": false
+            },
+            {
+                "id": 502677,
+                "title": "トヨタ電池工場、3度目建設延期 福岡、EV需要見極め（共同通信） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbmtjeFhZdlBIa2xNNHNaZmJlRXlEdzJTbzQ0Rk1ZMURsVWQ5SGJhMGJ1TFZhYmZXNXk1SU9IbGIzdDVZMzctNXItZm1OQUg2TjZ5QTlVaFhvZmV2WkNwZm9qRU1tcXdoZlNnT3JVTllJMHlKZlp2dkpJZUppVVZBLU82U0YyazBnN3JjTUJR?oc=5",
+                "published": "Fri, 27 Nov 2026 02:24:55 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPbmtjeFhZdlBIa2xNNHNaZmJlRXlEdzJTbzQ0Rk1ZMURsVWQ5SGJhMGJ1TFZhYmZXNXk1SU9IbGIzdDVZMzctNXItZm1OQUg2TjZ5QTlVaFhvZmV2WkNwZm9qRU1tcXdoZlNnT3JVTllJMHlKZlp2dkpJZUppVVZBLU82U0YyazBnN3JjTUJR?oc=5\" target=\"_blank\">トヨタ電池工場、3度目建設延期 福岡、EV需要見極め（共同通信）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Supply Chain",
+                "reason": "共同通信配信。客観的事実の報道。",
                 "score": 75,
                 "is_highly_important": true
             },
@@ -91,114 +125,200 @@
                 "published": "Fri, 27 Nov 2026 01:46:05 GMT",
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9IcGZTd1VweHVZUEhBejdnZjk0UDd0M191UVlqZ01selIybVp6WnoxLVVtdnVQY2REUElBUmIzeWdwLWdVYkNVVHhzNmJzZS1KM1Z2NVRqbFE5Y1JnNXdENVVPNjlLRXozZXBQWTZfMlZ6RUhvS3lod0NIWkkwa3c?oc=5\" target=\"_blank\">福岡のトヨタEV電池工場計画、3度目延期（共同通信）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
                 "site_name": "Yahoo!ニュース",
-                "primary_category": "Strategy",
-                "reason": "経営判断の速報。",
-                "score": 75,
-                "is_highly_important": true
-            },
-            {
-                "id": 684595,
-                "title": "福岡県、我慢のトヨタEV電池工場 自動車・半導体誘致で難局続く - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCTmhKUl9vRVZCODc4bHJSaTQ3UlJscUQ1T0xWYjJpU2FiY1NSU25KSnZYMC1sdHR1Yk5VX1FvTXdzUEkwUEo5OVFZWG4wQWQ1WjlSekxldHJzNFF5elZLUDF4cnlFMW43R0I2NQ?oc=5",
-                "published": "Fri, 27 Nov 2026 03:17:10 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBCTmhKUl9vRVZCODc4bHJSaTQ3UlJscUQ1T0xWYjJpU2FiY1NSU25KSnZYMC1sdHR1Yk5VX1FvTXdzUEkwUEo5OVFZWG4wQWQ1WjlSekxldHJzNFF5elZLUDF4cnlFMW43R0I2NQ?oc=5\" target=\"_blank\">福岡県、我慢のトヨタEV電池工場 自動車・半導体誘致で難局続く</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-                "site_name": "日本経済新聞",
-                "primary_category": "Strategy",
-                "reason": "地域経済に与える影響の深い考察。",
+                "primary_category": "Supply Chain",
+                "reason": "トヨタ工場計画延期の短報。",
                 "score": 70,
                 "is_highly_important": false
-            }
-        ],
-        "is_grouped": true,
-        "analysis": {
-            "summary_points": [
-                "EV需要の不透明感と市場環境の変化による、電池工場建設計画の再々延期（実質的な凍結リスクの増大）",
-                "中国製電池の低価格化による競争激化が、投資回収の採算見通しを悪化させている構造的な課題",
-                "「全固体電池」の量産化時期とコスト競争力に対する不確実性が、既存型EV電池工場への投資判断を鈍らせている"
-            ],
-            "insight": "EV普及の「踊り場」というより、電池価格のデフレ環境下におけるトヨタの「撤退を含む戦略的再考」と見るべきだ。中国勢の圧倒的なコスト競争力の前に、国内での自社生産は経済合理性が崩壊しつつある。全固体電池を待つ時間軸と、現状のEV市場のシビアな要求水準との乖離が大きく、単なる時期のズレではなく、サプライチェーン戦略の根本的な見直しを迫られている。"
-        }
-    },
-    {
-        "topic_name": "スズキによるレアメタル不使用EV電池の国内生産決定",
-        "article_ids": [
-            61014,
-            629330,
-            884214,
-            224344,
-            248894,
-            197422
-        ],
-        "articles": [
+            },
             {
-                "id": 61014,
-                "title": "スズキがレアメタル使わないＥＶ電池生産へ、中国依存せず輸出規制リスク低減…低価格で住宅・産業用など幅広く - 読売新聞",
-                "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xTXZRZWhWSHEwcFM4alR6alJKb3U2WThlT1BWLTdSdFBHSTJZVDFVdlhTYnRMYk9HdE9XWU1RemREQTNSSGlZeEhkcjJ5VXRPeHRqbndXQlJkbWZxU3RmRV9QeGQ?oc=5",
-                "published": "Thu, 26 Nov 2026 04:30:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xTXZRZWhWSHEwcFM4alR6alJKb3U2WThlT1BWLTdSdFBHSTJZVDFVdlhTYnRMYk9HdE9XWU1RemREQTNSSGlZeEhkcjJ5VXRPeHRqbndXQlJkbWZxU3RmRV9QeGQ?oc=5\" target=\"_blank\">スズキがレアメタル使わないＥＶ電池生産へ、中国依存せず輸出規制リスク低減…低価格で住宅・産業用など幅広く</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">読売新聞</font>",
-                "site_name": "読売新聞",
-                "primary_category": "SupplyChain",
-                "reason": "レアメタルレス電池の国産化は戦略的サプライチェーン強化案件。",
+                "id": 612042,
+                "title": "「EV需要見極めのため…」トヨタ 苅田町の電池工場3度目の延期 （KBC九州朝日放送） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JOXcwZDFLeUtDWDRmUkpvbUhJUFRJRDRwSml2a1FfLU90QWtxUjJvbExBR2JINW93VTEzMThhTnNXbl9OdGNFcWZYNlVUV0d6cHpPREY1Rnl3WUhjR25lR0puTHBrajlwRjBYZkQwRUxJMHB5Q1R4WDFUYkt1Qzg?oc=5",
+                "published": "Fri, 27 Nov 2026 03:30:03 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1JOXcwZDFLeUtDWDRmUkpvbUhJUFRJRDRwSml2a1FfLU90QWtxUjJvbExBR2JINW93VTEzMThhTnNXbl9OdGNFcWZYNlVUV0d6cHpPREY1Rnl3WUhjR25lR0puTHBrajlwRjBYZkQwRUxJMHB5Q1R4WDFUYkt1Qzg?oc=5\" target=\"_blank\">「EV需要見極めのため…」トヨタ 苅田町の電池工場3度目の延期 （KBC九州朝日放送）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Supply Chain",
+                "reason": "地元放送局による詳細報道。",
+                "score": 70,
+                "is_highly_important": false
+            },
+            {
+                "id": 717114,
+                "title": "トヨタ、電池工場計画を再検討（時事通信） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oc3dxOFdsejV6cktDdFFJRWQwQzBiZms0WUFRZEItcTNNNFg2UHRaVmpSMjRVanNXVEg0N24xRjdKUWlhdkVXLXBZX3dTNkx2eGtfY0hPYkhySVZGbHVLZHIxTjZrSjh6T3FPZnRIZGE4M1NWb2JSRncyb2NPUjA?oc=5",
+                "published": "Fri, 27 Nov 2026 11:00:35 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1oc3dxOFdsejV6cktDdFFJRWQwQzBiZms0WUFRZEItcTNNNFg2UHRaVmpSMjRVanNXVEg0N24xRjdKUWlhdkVXLXBZX3dTNkx2eGtfY0hPYkhySVZGbHVLZHIxTjZrSjh6T3FPZnRIZGE4M1NWb2JSRncyb2NPUjA?oc=5\" target=\"_blank\">トヨタ、電池工場計画を再検討（時事通信）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Supply Chain",
+                "reason": "トヨタの工場計画に関する再検討。",
+                "score": 70,
+                "is_highly_important": false
+            },
+            {
+                "id": 357404,
+                "title": "トヨタ、福岡EV電池工場の建設を3度目の延期 EV需要鈍化で (朝日新聞) - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSG4tdUx5TU12Nm52anVGS2VuUjJwUEZkdFhzd0MzQXB5MXhGMzhhSHRKM2tzeHdQUm8yaDdtMm9iRElkNlRsamYzNDI2Wlg0TG1McWx5THlKTWhfcDRLQUNiMV9lQ215a1NEUXZWcWxYWGxuNTJmUUo0dWtVelpTdmJ1eng3dm9nZHd5bHRB?oc=5",
+                "published": "Fri, 27 Nov 2026 02:50:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNSG4tdUx5TU12Nm52anVGS2VuUjJwUEZkdFhzd0MzQXB5MXhGMzhhSHRKM2tzeHdQUm8yaDdtMm9iRElkNlRsamYzNDI2Wlg0TG1McWx5THlKTWhfcDRLQUNiMV9lQ215a1NEUXZWcWxYWGxuNTJmUUo0dWtVelpTdmJ1eng3dm9nZHd5bHRB?oc=5\" target=\"_blank\">トヨタ、福岡EV電池工場の建設を3度目の延期 EV需要鈍化で (朝日新聞)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Supply Chain",
+                "reason": "大手紙によるトヨタの需要見通しに関する分析。",
                 "score": 80,
                 "is_highly_important": true
             },
             {
-                "id": 629330,
-                "title": "スズキ、EV電池国産化へ 中国依存リスクを軽減（共同通信） - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mN1NhMy1jMTN5dVVydS1zV1laZi1OZHBrMFhzbXZreWdkLUFEcVFSU2htdlJJZHlzQ2t2dEQ3Slp6T2hXZl9KNFI1QlhaOVpRRkdsWE9ES3pOdno2Q3k5UjExZzZyX1h5R29ZVFYwczcxMTgzb0Z0TklBN3ZTdDg?oc=5",
-                "published": "Thu, 26 Nov 2026 10:16:19 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1mN1NhMy1jMTN5dVVydS1zV1laZi1OZHBrMFhzbXZreWdkLUFEcVFSU2htdlJJZHlzQ2t2dEQ3Slp6T2hXZl9KNFI1QlhaOVpRRkdsWE9ES3pOdno2Q3k5UjExZzZyX1h5R29ZVFYwczcxMTgzb0Z0TklBN3ZTdDg?oc=5\" target=\"_blank\">スズキ、EV電池国産化へ 中国依存リスクを軽減（共同通信）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-                "site_name": "Yahoo!ニュース",
-                "primary_category": "SupplyChain",
-                "reason": "サプライチェーンの中国依存脱却。",
+                "id": 71869,
+                "title": "トヨタ、福岡県での「ＥＶ向け電池工場」計画を３度目延期…ＥＶ需要の不透明さ理由に - 読売新聞",
+                "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42dUZxQjVlWXFKd0VoSkhyVDdnNjVwVFVDRk01cFFLU3dCV2YwRXFlcUp2UXFYOGZBUTkwWFIxLUtWelVrajZhRlJ1ZkR5UTRxNGVDbEVOY01ma0NIQkpoNE5vdHQ?oc=5",
+                "published": "Fri, 27 Nov 2026 04:30:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE42dUZxQjVlWXFKd0VoSkhyVDdnNjVwVFVDRk01cFFLU3dCV2YwRXFlcUp2UXFYOGZBUTkwWFIxLUtWelVrajZhRlJ1ZkR5UTRxNGVDbEVOY01ma0NIQkpoNE5vdHQ?oc=5\" target=\"_blank\">トヨタ、福岡県での「ＥＶ向け電池工場」計画を３度目延期…ＥＶ需要の不透明さ理由に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">読売新聞</font>",
+                "site_name": "読売新聞",
+                "primary_category": "Supply Chain",
+                "reason": "読売新聞によるトヨタの計画修正の報道。",
                 "score": 75,
                 "is_highly_important": true
             },
             {
-                "id": 884214,
-                "title": "スズキ、EV電池静岡で生産へ（共同通信） - Yahoo!ニュース",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11MHhzb2x3YThfeTNtYU1Ld0V2LUFFSDVoWmYtRDF0UHctZ0ZLMFc2OFhfUFNlQUpybUxZcnc3OGJrcmUxakdNSU9QUTdLcEpqMUVGcFBPZVRQTF9qdDBWczVEaGVqZkFqSV9TSS1CSDJGMUdzc2dzZ01yTy1oTTA?oc=5",
-                "published": "Thu, 26 Nov 2026 09:37:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE11MHhzb2x3YThfeTNtYU1Ld0V2LUFFSDVoWmYtRDF0UHctZ0ZLMFc2OFhfUFNlQUpybUxZcnc3OGJrcmUxakdNSU9QUTdLcEpqMUVGcFBPZVRQTF9qdDBWczVEaGVqZkFqSV9TSS1CSDJGMUdzc2dzZ01yTy1oTTA?oc=5\" target=\"_blank\">スズキ、EV電池静岡で生産へ（共同通信）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "id": 352026,
+                "title": "「EVバッテリー需要見通せず」トヨタが工場建設を再延期 知事「完全撤退ないとの認識」 福岡 (FBS福岡放送) - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbm04WGFYOUFYakR1cVI4enF5aTVKX1ZHeU84a0I1alBmamFNQUtSSU4wRmNKbWQzaktlVWpHLUNRN3FWalZkSHIwQVFKa3hzRWctd3B3ZFd0YjRhZnd3NnBiR2dxcDBxYnFkVUMtaWlCaDNzLVpDOU5qcVdnaml1N1NBNV9uUDhKbC1RS1ZB?oc=5",
+                "published": "Fri, 27 Nov 2026 03:06:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQbm04WGFYOUFYakR1cVI4enF5aTVKX1ZHeU84a0I1alBmamFNQUtSSU4wRmNKbWQzaktlVWpHLUNRN3FWalZkSHIwQVFKa3hzRWctd3B3ZFd0YjRhZnd3NnBiR2dxcDBxYnFkVUMtaWlCaDNzLVpDOU5qcVdnaml1N1NBNV9uUDhKbC1RS1ZB?oc=5\" target=\"_blank\">「EVバッテリー需要見通せず」トヨタが工場建設を再延期 知事「完全撤退ないとの認識」 福岡 (FBS福岡放送)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
                 "site_name": "Yahoo!ニュース",
-                "primary_category": "SupplyChain",
-                "reason": "電池国産化の立地に関する速報。",
+                "primary_category": "Supply Chain",
+                "reason": "自治体首長への公式報告の内容。",
+                "score": 75,
+                "is_highly_important": true
+            },
+            {
+                "id": 577392,
+                "title": "スズキ、低価格のLFP電池を国内量産へ、トヨタは福岡のEV電池工場建設計画を再々延期［新聞ウォッチ］ - レスポンス（Response.jp）",
+                "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VTW8yTlJEUEUxREhyLUJ4Uk9RVURlV3dtQUNjZGNCREFoOWE3X3dDNnVSWW9Yd2M0T1lvLV81b3FnUHhHaERLVDJ6Y1p6X1VpWTdHWUNmSF84OVNNNUtR?oc=5",
+                "published": "Thu, 26 Nov 2026 23:28:36 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VTW8yTlJEUEUxREhyLUJ4Uk9RVURlV3dtQUNjZGNCREFoOWE3X3dDNnVSWW9Yd2M0T1lvLV81b3FnUHhHaERLVDJ6Y1p6X1VpWTdHWUNmSF84OVNNNUtR?oc=5\" target=\"_blank\">スズキ、低価格のLFP電池を国内量産へ、トヨタは福岡のEV電池工場建設計画を再々延期［新聞ウォッチ］</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">レスポンス（Response.jp）</font>",
+                "site_name": "レスポンス（Response.jp）",
+                "primary_category": "Supply Chain",
+                "reason": "電池の国産化とトヨタ計画延期の対比分析。",
+                "score": 80,
+                "is_highly_important": true
+            },
+            {
+                "id": 873617,
+                "title": "トヨタがＥＶ向け電池工場建設を３度目の延期、ＥＶ需要の先行き見通せず…福岡県苅田町に計画：地域ニュース - 読売新聞",
+                "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE96VjV2UTRZSFJCa3NFb0Zkb3hvSm9yNnJPNVdHaVhNQmJldWdaRExXdXlfRnZ5bVNieFAxUm9TODVDUmVRUlV3SVlnR1Z5d1pHUzFiMG5wUTJDNTRFd3RHbUprWHNmMWpMeUkwOXprR2hTZw?oc=5",
+                "published": "Sat, 28 Nov 2026 02:31:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE96VjV2UTRZSFJCa3NFb0Zkb3hvSm9yNnJPNVdHaVhNQmJldWdaRExXdXlfRnZ5bVNieFAxUm9TODVDUmVRUlV3SVlnR1Z5d1pHUzFiMG5wUTJDNTRFd3RHbUprWHNmMWpMeUkwOXprR2hTZw?oc=5\" target=\"_blank\">トヨタがＥＶ向け電池工場建設を３度目の延期、ＥＶ需要の先行き見通せず…福岡県苅田町に計画：地域ニュース</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">読売新聞</font>",
+                "site_name": "読売新聞",
+                "primary_category": "Supply Chain",
+                "reason": "読売新聞によるトヨタの電池計画延期のまとめ。",
+                "score": 75,
+                "is_highly_important": true
+            },
+            {
+                "id": 402763,
+                "title": "トヨタがＥＶ電池工場を３度目延期、大きな計画見直しの可能性…ＨＶ向け電池や車両製造も含めて検討と説明 - 読売新聞",
+                "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE54WVB1SkJRYzVLY3ItUmFtdFAtblBVenBTT1NfdGhBZFF4ZjZtTkhTcVAyVk1TMGdlSjhTRE14YVV1Q01TSUp2RDBhRUZDNzgtVmxmeVNTa2U5ZTk1VVNfazlaWGx3SWVGU0hlYkVhMklsUQ?oc=5",
+                "published": "Sat, 28 Nov 2026 02:31:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE54WVB1SkJRYzVLY3ItUmFtdFAtblBVenBTT1NfdGhBZFF4ZjZtTkhTcVAyVk1TMGdlSjhTRE14YVV1Q01TSUp2RDBhRUZDNzgtVmxmeVNTa2U5ZTk1VVNfazlaWGx3SWVGU0hlYkVhMklsUQ?oc=5\" target=\"_blank\">トヨタがＥＶ電池工場を３度目延期、大きな計画見直しの可能性…ＨＶ向け電池や車両製造も含めて検討と説明</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">読売新聞</font>",
+                "site_name": "読売新聞",
+                "primary_category": "Supply Chain",
+                "reason": "トヨタの工場計画修正の多面的な分析。",
+                "score": 80,
+                "is_highly_important": true
+            },
+            {
+                "id": 423444,
+                "title": "EV逆風「需要見通せず」 トヨタ福岡・苅田の電池工場3度目延期公表 HVは好調、計画練り直し - 西日本新聞me",
+                "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QdFhFZFJvcGtGZnF6RWNERnpSWi0weE1oZXFQdmdLNkJZVnJvQ0cyOHlDSGNqYW9IRmxSRzdQaTN5dHktQnNieFZGdVdNRTRua05XcTh3?oc=5",
+                "published": "Fri, 27 Nov 2026 21:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QdFhFZFJvcGtGZnF6RWNERnpSWi0weE1oZXFQdmdLNkJZVnJvQ0cyOHlDSGNqYW9IRmxSRzdQaTN5dHktQnNieFZGdVdNRTRua05XcTh3?oc=5\" target=\"_blank\">EV逆風「需要見通せず」 トヨタ福岡・苅田の電池工場3度目延期公表 HVは好調、計画練り直し</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">西日本新聞me</font>",
+                "site_name": "西日本新聞me",
+                "primary_category": "Supply Chain",
+                "reason": "トヨタ電池工場延期の地域経済への影響。",
                 "score": 70,
                 "is_highly_important": false
+            }
+        ],
+        "is_grouped": true,
+        "analysis": {
+            "summary_points": [
+                "トヨタによる福岡・苅田でのEV電池工場建設計画が、EV需要の不透明さを理由に3度目の延期へ",
+                "単なる着工時期の先送りではなく、生産品目や土地活用そのものが再検討の対象となっている",
+                "2028年の着工期限を控える中、EV市場の環境変化により国内生産拠点の配置戦略が根本的な見直しを迫られている"
+            ],
+            "insight": "トヨタの決断は、EV市場を巡る世界的な期待値と、現実の需要乖離を象徴する。中国等の低コストなEV・電池供給網に対し、日本国内での電池生産はコスト競争力に欠ける懸念が強い。トヨタは中国現地生産へ軸足を移しつつあり、九州という国内拠点の価値を「EV専用」に固定するのはリスクが高い。冷静な経営判断だが、地元の期待とは温度差がある。"
+        }
+    },
+    {
+        "topic_name": "石垣市の超小型EV「C+pod」公用車実証実験",
+        "article_ids": [
+            312998
+        ],
+        "articles": [
+            {
+                "id": 312998,
+                "title": "超小型EV「C+pod」の公用車カーシェアリングの実証実験について - 石垣市",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPendCV3djNkhJZ2ZVUWM1aXAyWHFBaXU4RGkwZUVPaGFDaTJZTkZoZUZ0VVhuS3FXcTNENWZYZDJlTHJRRmRSbDNtUl9uTnJjSmQ2dHY0SXo2dTNEcE40RV9TWmJXRWtkbzlvTl80RjBPRjVfMTN0cURkb093dXBWS1B2aVhJZw?oc=5",
+                "published": "Fri, 27 Nov 2026 02:16:09 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPendCV3djNkhJZ2ZVUWM1aXAyWHFBaXU4RGkwZUVPaGFDaTJZTkZoZUZ0VVhuS3FXcTNENWZYZDJlTHJRRmRSbDNtUl9uTnJjSmQ2dHY0SXo2dTNEcE40RV9TWmJXRWtkbzlvTl80RjBPRjVfMTN0cURkb093dXBWS1B2aVhJZw?oc=5\" target=\"_blank\">超小型EV「C+pod」の公用車カーシェアリングの実証実験について</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">石垣市</font>",
+                "site_name": "石垣市",
+                "primary_category": "Regional Info",
+                "reason": "石垣市の公用車実証実験。地域固有の取り組みとして一定の価値がある。",
+                "score": 70,
+                "is_highly_important": false
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "公用車と一般カーシェアの併用による車両稼働率の最大化",
+                "超小型EVを活用した地域密着型の脱炭素モデルの実証",
+                "行政資産の有効活用を通じたレジリエンス向上とセクターカップリング"
+            ],
+            "insight": "本件の本質は単なる環境対策ではなく、離島特有の移動課題と公用車の低稼働問題を『セクターカップリング』で解消する点にある。平日の行政利用と週末の観光・市民利用を組み合わせることで、車両コストを最適化しつつ、地域内でのEV普及と脱炭素の経済性を同時に成立させる。この稼働率向上モデルは、全国の自治体が抱える公用車管理の構造的な非効率を打破する、極めて現実的かつ高い汎用性を秘めた先行ケースである。"
+        }
+    },
+    {
+        "topic_name": "EUのEV優遇策における日本製自動車の除外懸念",
+        "article_ids": [
+            433873,
+            438653,
+            607806
+        ],
+        "articles": [
+            {
+                "id": 433873,
+                "title": "EU、HV輸入制限で「日本車ピンチ」の誤解 EV優遇では中国の巻き添え - 日経ビジネス電子版",
+                "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ONGFRaUNIbkxjalg0WXZiYUJVWVBoa1l2QlNCcXRZWDZTQ3FRV1RrMTByTnZCZUFXR0ZGTk9PS2JfdkhHd1ZhLTNBTFQ3ZWJneTBXTjNOZGJqNGxDU2dzWFdHTElCWUU?oc=5",
+                "published": "Thu, 26 Nov 2026 20:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ONGFRaUNIbkxjalg0WXZiYUJVWVBoa1l2QlNCcXRZWDZTQ3FRV1RrMTByTnZCZUFXR0ZGTk9PS2JfdkhHd1ZhLTNBTFQ3ZWJneTBXTjNOZGJqNGxDU2dzWFdHTElCWUU?oc=5\" target=\"_blank\">EU、HV輸入制限で「日本車ピンチ」の誤解 EV優遇では中国の巻き添え</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経ビジネス電子版</font>",
+                "site_name": "日経ビジネス電子版",
+                "primary_category": "Policy/Trade",
+                "reason": "EUの対日自動車貿易に関する深い分析。",
+                "score": 80,
+                "is_highly_important": true
             },
             {
-                "id": 224344,
-                "title": "スズキ、レアメタル使わないEV電池を国内生産 中国規制リスク低減 - 日本経済新聞",
-                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtZmI0emc4a1d6SmpzSlpXOU9rcWhoZUtDdEZGNGtqQl9ISk4tVjBmSkJ2bDlHZmUzaHlkT3hLZmEwZEFGa1BkWHRNN3NoajVVa2NpcDVSRmEzRnpSbVQycVpCdFJEcG1JR0t3bA?oc=5",
-                "published": "Thu, 26 Nov 2026 05:35:27 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBtZmI0emc4a1d6SmpzSlpXOU9rcWhoZUtDdEZGNGtqQl9ISk4tVjBmSkJ2bDlHZmUzaHlkT3hLZmEwZEFGa1BkWHRNN3NoajVVa2NpcDVSRmEzRnpSbVQycVpCdFJEcG1JR0t3bA?oc=5\" target=\"_blank\">スズキ、レアメタル使わないEV電池を国内生産 中国規制リスク低減</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-                "site_name": "日本経済新聞",
-                "primary_category": "SupplyChain",
-                "reason": "技術的優位性を伴う戦略的投資。",
+                "id": 438653,
+                "title": "「日本車を排除するのか」「自国を守るのは当然だ」EUのEV優遇策で日本車除外が維持！ ネットで賛否両論、日本の自動車産業は現地生産へ舵を切るべきか？ - Merkmal",
+                "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5kMk1ERU9pdDEzVnBvQU9aR2hZWC13T1c5NEtEdFZBcUNKd01xNXI4d1cxckZhcl9ZX3h3dzZPWlp4ZWZlNG8zZEJR?oc=5",
+                "published": "Fri, 27 Nov 2026 05:03:40 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE5kMk1ERU9pdDEzVnBvQU9aR2hZWC13T1c5NEtEdFZBcUNKd01xNXI4d1cxckZhcl9ZX3h3dzZPWlp4ZWZlNG8zZEJR?oc=5\" target=\"_blank\">「日本車を排除するのか」「自国を守るのは当然だ」EUのEV優遇策で日本車除外が維持！ ネットで賛否両論、日本の自動車産業は現地生産へ舵を切るべきか？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Merkmal</font>",
+                "site_name": "Merkmal",
+                "primary_category": "Policy/Trade",
+                "reason": "EUの通商政策と日本の産業への影響。",
                 "score": 75,
                 "is_highly_important": true
             },
             {
-                "id": 248894,
-                "title": "スズキ、レアメタルへの依存を抑える電池を国内生産へ EVにも活用、447億円規模 - マイナビニュース",
-                "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4ZzBPTFRHUGJ3OTFKS3pSYVdzS3U1dFFCWVExV3ZhcERBdm96aEVncjJKVk9FZWZLeHJMQnktUFRZLUhHU1BwblJjeWVfaE83TTNoYUcxX2ZjdTcyY3k1TkRaME5WMkVR?oc=5",
-                "published": "Thu, 26 Nov 2026 22:28:36 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4ZzBPTFRHUGJ3OTFKS3pSYVdzS3U1dFFCWVExV3ZhcERBdm96aEVncjJKVk9FZWZLeHJMQnktUFRZLUhHU1BwblJjeWVfaE83TTNoYUcxX2ZjdTcyY3k1TkRaME5WMkVR?oc=5\" target=\"_blank\">スズキ、レアメタルへの依存を抑える電池を国内生産へ EVにも活用、447億円規模</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">マイナビニュース</font>",
-                "site_name": "マイナビニュース",
-                "primary_category": "SupplyChain",
-                "reason": "電池のサプライチェーン投資。",
-                "score": 75,
-                "is_highly_important": true
-            },
-            {
-                "id": 197422,
-                "title": "スズキ、ＥＶ向け電池を国内生産へ レアメタル不使用、調達リスク抑制 - 時事ドットコム",
-                "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xN0U2UHNQOS1nemVpSkc2T1pKRy1YaElULTY3eG1nb25fdmdnSnVvclBGc3NxMk9YMHF1RkN4ckpmdlNXemFIUFQ3b1VIUk1ScTlMUU1aOU5lanM5RW1NU1c1VQ?oc=5",
-                "published": "Thu, 26 Nov 2026 10:59:00 GMT",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xN0U2UHNQOS1nemVpSkc2T1pKRy1YaElULTY3eG1nb25fdmdnSnVvclBGc3NxMk9YMHF1RkN4ckpmdlNXemFIUFQ3b1VIUk1ScTlMUU1aOU5lanM5RW1NU1c1VQ?oc=5\" target=\"_blank\">スズキ、ＥＶ向け電池を国内生産へ レアメタル不使用、調達リスク抑制</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事ドットコム</font>",
-                "site_name": "時事ドットコム",
-                "primary_category": "SupplyChain",
-                "reason": "電池国産化のニュース。",
+                "id": 607806,
+                "title": "EU、欧州製EV優遇策で日本製を除外へ 議長国の修正案でも方針維持 - 東京報道新聞",
+                "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41VDZnNy1sblVWSWZhaGdoa2k0T0oxTUVDQ3VhQkltcHNkanZkZlYzRmdJMmlzYzBNeXpmZlhrUVRWNU85Tkl4UjZhM0FFUUZBY1Vr?oc=5",
+                "published": "Fri, 27 Nov 2026 22:01:30 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE41VDZnNy1sblVWSWZhaGdoa2k0T0oxTUVDQ3VhQkltcHNkanZkZlYzRmdJMmlzYzBNeXpmZlhrUVRWNU85Tkl4UjZhM0FFUUZBY1Vr?oc=5\" target=\"_blank\">EU、欧州製EV優遇策で日本製を除外へ 議長国の修正案でも方針維持</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東京報道新聞</font>",
+                "site_name": "東京報道新聞",
+                "primary_category": "Policy/Trade",
+                "reason": "EUの日本製EV除外方針の修正に関する政治的進捗。",
                 "score": 75,
                 "is_highly_important": true
             }
@@ -206,11 +326,127 @@
         "is_grouped": true,
         "analysis": {
             "summary_points": [
-                "レアメタル（ニッケル・コバルト）不使用のLFP電池の国内生産を2029年開始",
-                "蓄電池メーカー「エリーパワー」との共同開発および国内生産拠点構築",
-                "経済安全保障推進法を活用し、投資額の約4割（200億円弱）の補助金を獲得"
+                "EUのEV優遇策およびHV輸入制限は、本質的に中国製車両の流入を阻止するための経済安保戦略である。",
+                "日本車はターゲットではないが、地理的・制度的な枠組みの狭さから巻き添えを食う格好となっている。",
+                "今後は「欧州製部品の調達比率」が鍵となり、輸出モデルから域内生産・現地調達体制への抜本的な再編が不可欠。"
             ],
-            "insight": "スズキの戦略は、安価なLFP電池を中国調達から自社（国内）生産へ切り替える「供給網の聖域化」です。全固体電池の実用化が遠い中、地政学的リスクを排除しつつ、安価なEVラインナップを維持する現実解です。経産省の補助金を梃子に、車載のみならず産業用蓄電池へも横展開し、EV以外の収益源を確保する多角的な生存戦略として極めて合理的です。"
+            "insight": "これは単なる貿易障壁ではなく、グローバルサプライチェーンの「欧州化」を強要する産業政策です。特に主要部材の域内調達比率を厳格化する動きは、日本の高い擦り合わせ技術の輸出を無効化する意図が見えます。今後、日本メーカーは欧州域内での垂直統合を急ぐか、それともコスト増を甘受してでも現地エコシステムに深く食い込むかの非情な決断を迫られるでしょう。"
+        }
+    },
+    {
+        "topic_name": "シャオミ、スマホ・EV減で減益",
+        "article_ids": [
+            39883
+        ],
+        "articles": [
+            {
+                "id": 39883,
+                "title": "中国シャオミ、スマホ出荷3割減・EV納車7％減 7〜9月期は大幅減益（36Kr Japan） - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfV1ROdXFxVkFJdFU1dkdjbk9XQXh6T3AwVktObXZDNDJYWkhtN3B0YlV6OGR0aEtVQnFJTHlFMzk0c2pSRTBhS2J5WWRfamNQaTF1MjdvOEQ2SWlyZ3dpZTk3djREX2p4RmNVeFd5ellKZHNoeHM0MjFONU1CUWc?oc=5",
+                "published": "Sat, 28 Nov 2026 01:30:09 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBfV1ROdXFxVkFJdFU1dkdjbk9XQXh6T3AwVktObXZDNDJYWkhtN3B0YlV6OGR0aEtVQnFJTHlFMzk0c2pSRTBhS2J5WWRfamNQaTF1MjdvOEQ2SWlyZ3dpZTk3djREX2p4RmNVeFd5ellKZHNoeHM0MjFONU1CUWc?oc=5\" target=\"_blank\">中国シャオミ、スマホ出荷3割減・EV納車7％減 7〜9月期は大幅減益（36Kr Japan）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Market Data",
+                "reason": "大手EV参入企業の収益悪化報告。市場減速の兆候。",
+                "score": 70,
+                "is_highly_important": false
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "スマホ事業における出荷減をASP（平均販売価格）の上昇でカバーする戦略に限界が見え始めている",
+                "EV事業は成長の踊り場に直面しており、初期の黒字化から一転して収益性が悪化",
+                "中国国内の過当競争を背景に、ドイツ等への欧州展開を活路とした海外進出を本格化"
+            ],
+            "insight": "シャオミの課題は、テック企業特有の『販売台数至上主義』と自動車産業の『規模の経済』との摩擦だ。スマホでの成功体験に基づいた高単価戦略は、消費者の買い控えを招きやすい。特にEVで利益率が悪化した点は深刻で、単なるハードウェア製造業への転落を避けるには、ソフトウェアの収益モデルをいかに早期に確立できるかが勝負を分けるだろう。"
+        }
+    },
+    {
+        "topic_name": "アウディの中国EV工場稼働率の低下",
+        "article_ids": [
+            2536
+        ],
+        "articles": [
+            {
+                "id": 2536,
+                "title": "工場が動くのは月3日だけ？！アウディ中国EV工場の悲惨 日本勢との違いとは #エキスパートトピ（高口康太） - エキスパート - Yahoo!ニュース",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYVBhNFR2SVRaYVhuRnFaTXBxWlNYRW55Znh6NmxYdWhLZjRlb21WNU1nRHp3MlRCMDUyTHp2Wk5XYkZxMmNfX1BmRm9Ncjdxd05FTDB0ZE9zMVQwREFZQ3pNU3pWZkR1U3hlZ2phQTlBa3JnQjVUTllGcW1FNGtVQXdkUTNDSzdx?oc=5",
+                "published": "Sat, 28 Nov 2026 00:35:16 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYVBhNFR2SVRaYVhuRnFaTXBxWlNYRW55Znh6NmxYdWhLZjRlb21WNU1nRHp3MlRCMDUyTHp2Wk5XYkZxMmNfX1BmRm9Ncjdxd05FTDB0ZE9zMVQwREFZQ3pNU3pWZkR1U3hlZ2phQTlBa3JnQjVUTllGcW1FNGtVQXdkUTNDSzdx?oc=5\" target=\"_blank\">工場が動くのは月3日だけ？！アウディ中国EV工場の悲惨 日本勢との違いとは #エキスパートトピ（高口康太） - エキスパート</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+                "site_name": "Yahoo!ニュース",
+                "primary_category": "Market Trends",
+                "reason": "中国でのEV生産稼働率に関する鋭い分析。",
+                "score": 75,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "アウディ長春EV工場の稼働率は10%未満まで低下し、深刻な過剰生産に陥っている",
+                "中国市場における高級車需要のEVシフト対応で、アウディの自前技術モデルが惨敗",
+                "日本勢は中国企業の技術活用と価格競争力で活路を見出す一方、独高級車勢は価格構造上その選択が困難"
+            ],
+            "insight": "中国市場における外資の苦境は「ブランド信仰の崩壊」と「技術・価格の現地化の失敗」に集約される。アウディが直面する稼働率の低迷は、高級車ブランドのプライドを捨ててまで中国製技術と低価格路線に振り切るか否かという、出口のないジレンマを突きつけている。現地勢の圧倒的なコスパに対し、欧州プレミアム車が抱える既存の高コスト構造は、もはや中国市場における最大の足枷となってしまった。"
+        }
+    },
+    {
+        "topic_name": "CEV補助金申請の早期終了見通し",
+        "article_ids": [
+            318453
+        ],
+        "articles": [
+            {
+                "id": 318453,
+                "title": "CEV補助金の申請受け付け、早ければ12月上旬にも終了 販売好調なEVは反動減に警戒 - 日刊自動車新聞",
+                "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OLVlrTjdzZGVaOUVuU3RNd3RaMHI1VmZ0eHNmWWpiYW9oNm9DbGNCTlJKVjB4UEdMN3JiZWg3QThKa0laU1R1NFJLQkpoUGJwZHc?oc=5",
+                "published": "Fri, 27 Nov 2026 09:11:16 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OLVlrTjdzZGVaOUVuU3RNd3RaMHI1VmZ0eHNmWWpiYW9oNm9DbGNCTlJKVjB4UEdMN3JiZWg3QThKa0laU1R1NFJLQkpoUGJwZHc?oc=5\" target=\"_blank\">CEV補助金の申請受け付け、早ければ12月上旬にも終了 販売好調なEVは反動減に警戒</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日刊自動車新聞</font>",
+                "site_name": "日刊自動車新聞",
+                "primary_category": "Policy",
+                "reason": "国の補助金予算終了の予測。",
+                "score": 70,
+                "is_highly_important": false
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "CEV補助金の早期消化による12月上旬終了の見通し",
+                "補助金の上乗せや評価制度の変更がEV需要を強力に喚起",
+                "販売現場における補助金切れ後の反動減と受注顧客対応への懸念"
+            ],
+            "insight": "今回の早期終了は「EV販売の定着」ではなく「補助金依存の過熱」を露呈しました。特に評価基準の厳格化が逆に国内メーカーの適応と受注を加速させた皮肉な結果です。今後は補助金というカンフル剤が切れた際に、実力ベースでどれだけの手数料（値引きや価値訴求）を確保できるか、ディーラー網の自律的な収益改善能力が真に試されるフェーズに入ります。"
+        }
+    },
+    {
+        "topic_name": "トヨタの中国市場向け新型EREV投入計画",
+        "article_ids": [
+            859531
+        ],
+        "articles": [
+            {
+                "id": 859531,
+                "title": "トヨタ、中国で新たな電動車「EREV」を投入へ 挽回狙う日本車 - 日本経済新聞",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Ba3hQYTZGYl9uSEUtRUU4N3pRc3k2amxRZ2o2OWFNYVViUG9VdXdLQ3pJaVdRQU5IMU0yTGM4MlNRU2JLQjZZTm0wSWVPNmdFZWNUdHFtUG9ob2VELWZYX2hjRnNjRVR0VzVBaA?oc=5",
+                "published": "Fri, 27 Nov 2026 06:00:00 GMT",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1Ba3hQYTZGYl9uSEUtRUU4N3pRc3k2amxRZ2o2OWFNYVViUG9VdXdLQ3pJaVdRQU5IMU0yTGM4MlNRU2JLQjZZTm0wSWVPNmdFZWNUdHFtUG9ob2VELWZYX2hjRnNjRVR0VzVBaA?oc=5\" target=\"_blank\">トヨタ、中国で新たな電動車「EREV」を投入へ 挽回狙う日本車</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+                "site_name": "日本経済新聞",
+                "primary_category": "Strategy",
+                "reason": "トヨタの中国における電動化戦略の転換。重要。",
+                "score": 85,
+                "is_highly_important": true
+            }
+        ],
+        "is_grouped": false,
+        "analysis": {
+            "summary_points": [
+                "中国市場特有のトレンドであるEREV（増速器付きEV）を投入し、新エネ車シフトの遅れを挽回",
+                "中国ローカルサプライヤーとの協業を深め、開発速度とコスト競争力を抜本的に改善",
+                "HVでの残存者利益を収益源としつつ、動力源を多様化して全方位でシェア防衛を図る"
+            ],
+            "insight": "トヨタのEREV投入は単なる車種追加ではなく、中国独自の需要に応じた「現地完結型」開発モデルへの転換を意味する。HVで築いた収益基盤と、中国サプライチェーンの融合は、外資が市場から淘汰される中、知能化競争で生存権を確保するための現実的な防衛策であり、トヨタの中国戦略における『最後の切り札』といえる。"
         }
     }
 ]
